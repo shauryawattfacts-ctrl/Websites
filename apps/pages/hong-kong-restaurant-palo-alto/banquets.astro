@@ -1,0 +1,12 @@
+---
+/**
+ * hong-kong-restaurant-palo-alto / banquets — generated from data/businesses/hong-kong-restaurant-palo-alto.json
+ * Do not edit by hand: change the research record, then run `npm run gen`.
+ * Each site owns its own page list, nav, section roster and copy, all of which
+ * come from research; the shared layout supplies the rendering.
+ */
+import Site from '../../../layouts/site.astro';
+import spec from '../../../data/businesses/hong-kong-restaurant-palo-alto.json';
+const page = spec.pages.find((p) => p.slug === 'banquets');
+---
+<Site biz={spec} page={page} />

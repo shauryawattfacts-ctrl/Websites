@@ -1,0 +1,317 @@
+{
+  "id": "sv033",
+  "slug": "granada-inn-santa-clara",
+  "name": "Granada Inn",
+  "short": "Granada Inn",
+  "cat": "Independent hotel",
+  "sub": "Boutique motor inn, family owned",
+  "city": "Santa Clara",
+  "zip": "95051",
+  "addr": "2515 El Camino Real, Santa Clara, CA 95051",
+  "phone": null,
+  "email": null,
+  "contactNote": null,
+  "founded": "long-standing independent motor inn (exact year to confirm)",
+  "hours": "24-hour front desk (confirm)",
+  "audience": "Event travellers, visiting families, contractors and week-long stays",
+  "scale": {
+    "emp": "small front-desk and housekeeping team",
+    "loc": 1
+  },
+  "description": "Family-owned El Camino Real inn positioned for stadium and arena events, extended stays and travellers who want a price without an algorithm.",
+  "services": [
+    "Nightly rooms",
+    "Extended and weekly stays",
+    "Event-week availability",
+    "Free parking",
+    "Front-desk local knowledge",
+    "Group blocks for teams and families"
+  ],
+  "serviceCopy": [
+    "Rooms for one night or one month.",
+    "Event-week availability, posted early.",
+    "Parking included, always.",
+    "Front desk that knows the roads."
+  ],
+  "insight": "A 2.0 rating across 55 reviews is the honest starting point: the site must not over-promise, and should carry what changed (renovations, housekeeping standards) once the owner confirms it.",
+  "usps": [
+    "Family-owned, not a franchise or an operator",
+    "Walkable to events with parking that is not a fee line",
+    "Weekly rates for people the apps over-price"
+  ],
+  "differentiators": [
+    "Owns its availability and prices directly, with honest room photography"
+  ],
+  "voice": "Plain, hospitable, no adjectives",
+  "persona": "The honest inn on El Camino Real",
+  "reputation": {
+    "rating": 2,
+    "reviews": 55,
+    "src": "Yelp",
+    "note": "Reputation-rescue case: publish policy, photos of actual rooms and a direct-booking incentive; never fabricate a score."
+  },
+  "budget": {
+    "afford": [
+      "Room revenue plus weekly stays: real cash flow and OTA commissions bleeding it",
+      "Independent ownership means decisions happen in one conversation",
+      "Direct-booking site pays back on commission alone"
+    ],
+    "risk": [
+      "Reputation debt: a launch must be paired with review-response workflow",
+      "Property condition unknown: photography budget is mandatory, not optional"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Sun-faded coral",
+      "stucco",
+      "dusk blue"
+    ],
+    "logo": "Reinterpret the mid-century inn sign as a retro wordmark",
+    "photoNote": "Room interiors as they are, night exterior with the sign lit"
+  },
+  "copy": {
+    "eyebrow": "Santa Clara · El Camino Real",
+    "h1": "For the concert, the interview, the long week.",
+    "sub": "A family-run inn near the stadium and the arena, with real room photos, weekly rates and no commission markup.",
+    "cta1": "Check availability",
+    "cta2": "Weekly stays",
+    "lede": "Booking this inn currently means paying a platform to tell you the wrong thing about it. Here is the truth, in the owner's words.",
+    "svcCopy": [
+      "Rooms for one night or one month.",
+      "Event-week availability, posted early.",
+      "Parking included, always.",
+      "Front desk that knows the roads."
+    ]
+  },
+  "concept": {
+    "dir": "Honest motor-booking site: retro inn signage typography, day/night hero pair, room cards with real photography, a direct-booking value bar and an events calendar. Zero false luxury claims.",
+    "palette": {
+      "ink": "#f2ece3",
+      "paper": "#212a33",
+      "accent": "#d9704a",
+      "accent2": "#5b8f9c"
+    },
+    "heroType": "fullbleed",
+    "motion": "wipe-reveal",
+    "interactive": [
+      "Availability request flow with date and purpose",
+      "Room cards with condition notes, not stock",
+      "Nearby events calendar for stadium days",
+      "Direct-booking price-compare honesty block"
+    ],
+    "pages": [
+      "index",
+      "rooms",
+      "rates",
+      "events",
+      "contact"
+    ],
+    "nav": [
+      "Rooms",
+      "Rates",
+      "Events",
+      "Contact"
+    ],
+    "tone": "Unvarnished welcome",
+    "refs": "A well-run independent inn that has nothing to hide.",
+    "signature": "ledger",
+    "hero": "fullbleed"
+  },
+  "web": {
+    "s": "directory",
+    "url": null,
+    "lvl": "B",
+    "note": "Classified as third-party-directory-instead-of-a-website: claimed listing with 41 photos and no website field captured, with reservations handled through OTA listings only. Any direct web presence needs confirmation at outreach.",
+    "src": [
+      "https://www.yelp.com/biz/granada-inn-santa-clara-2"
+    ],
+    "status": "Third-party directory page instead of a website",
+    "confidence": "verified across two or more directories"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/granada-inn-santa-clara-2"
+  },
+  "photo": true,
+  "photoFormats": [
+    "avif",
+    "webp",
+    "jpg"
+  ],
+  "photoAlt": "Concept artwork for Granada Inn — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "hospitality-stay",
+    "label": "Boutique Stay",
+    "summary": "Full-bleed property imagery, room cards with rate rows, local-guide module, direct-booking incentive strip to pull guests off OTAs.",
+    "fonts": {
+      "display": "\"Marcellus\"",
+      "body": "\"Mulish\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Marcellus&family=Mulish:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400",
+    "nav": "overlay",
+    "motion": "wipe-reveal",
+    "tokens": {
+      "ink": "#f2ece3",
+      "paper": "#212a33",
+      "accent": "#d9704a",
+      "accent2": "#5b8f9c",
+      "inkName": "Sun-faded coral",
+      "radius": "6px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--paper) 26%, transparent)",
+      "shadow": "0 24px 60px -40px rgb(0 0 0 / .7)",
+      "pad": "clamp(4.4rem,9.5vw,8rem)",
+      "scale": "1.26",
+      "headingCase": "none",
+      "track": ".01em",
+      "texture": "grain",
+      "invert": true
+    },
+    "roster": [
+      "hero",
+      "rooms",
+      "perk-strip",
+      "neighbourhood",
+      "gallery",
+      "offers",
+      "reviews",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/granada-inn-santa-clara",
+      "title": "Granada Inn — Independent hotel in Santa Clara",
+      "description": "A family-run inn near the stadium and the arena, with real room photos, weekly rates and no commission markup.",
+      "h1": "For the concert, the interview, the long week.",
+      "kicker": "Santa Clara · El Camino Real",
+      "sections": [
+        "hero",
+        "rooms",
+        "perk-strip",
+        "neighbourhood",
+        "gallery",
+        "offers",
+        "reviews",
+        "contact"
+      ]
+    },
+    {
+      "slug": "rooms",
+      "file": "rooms.astro",
+      "path": "/granada-inn-santa-clara/rooms",
+      "title": "Rooms & rates — Granada Inn",
+      "description": "Room types, rates and booking information.",
+      "h1": "Rooms and rates",
+      "kicker": "Stay",
+      "sections": [
+        "hero",
+        "rooms",
+        "contact"
+      ]
+    },
+    {
+      "slug": "rates",
+      "file": "rates.astro",
+      "path": "/granada-inn-santa-clara/rates",
+      "title": "Rates — Granada Inn",
+      "description": "Rates at Granada Inn in Santa Clara: Nightly rooms, Extended and weekly stays, Event-week availability. A family-run inn near the stadium and the arena, with real room photos, weekly rates and no commission markup.",
+      "h1": "Rates",
+      "kicker": "Independent hotel",
+      "sections": [
+        "hero",
+        "rooms",
+        "contact"
+      ]
+    },
+    {
+      "slug": "events",
+      "file": "events.astro",
+      "path": "/granada-inn-santa-clara/events",
+      "title": "Events — Granada Inn",
+      "description": "Events at Granada Inn in Santa Clara: Nightly rooms, Extended and weekly stays, Event-week availability. A family-run inn near the stadium and the arena, with real room photos, weekly rates and no commission markup.",
+      "h1": "Events",
+      "kicker": "Independent hotel",
+      "sections": [
+        "hero",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/granada-inn-santa-clara/contact",
+      "title": "Contact — Granada Inn",
+      "description": "Call or write to Granada Inn in Santa Clara. Contact details verified against public listings.",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "offers",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 10,
+    "vis": 6,
+    "vol": 7,
+    "brand": 6,
+    "comp": 8,
+    "val": 10,
+    "assets": 5,
+    "roi": 9
+  },
+  "seo": {
+    "title": "Granada Inn — Independent hotel in Santa Clara",
+    "description": "A family-run inn near the stadium and the arena, with real room photos, weekly rates and no commission markup.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LodgingBusiness",
+    "name": "Granada Inn",
+    "description": "A family-run inn near the stadium and the arena, with real room photos, weekly rates and no commission markup.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Santa Clara",
+      "addressRegion": "CA",
+      "postalCode": "95051",
+      "streetAddress": "2515 El Camino Real"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/granada-inn-santa-clara-2"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 2,
+      "reviewCount": 55,
+      "bestRating": 5
+    },
+    "slogan": "For the concert, the interview, the long week.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/granada-inn-santa-clara-2"
+  ],
+  "sourceNotes": []
+}

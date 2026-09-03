@@ -1,0 +1,12 @@
+---
+/**
+ * elegant-jewelers-san-jose / bench — generated from data/businesses/elegant-jewelers-san-jose.json
+ * Do not edit by hand: change the research record, then run `npm run gen`.
+ * Each site owns its own page list, nav, section roster and copy, all of which
+ * come from research; the shared layout supplies the rendering.
+ */
+import Site from '../../../layouts/site.astro';
+import spec from '../../../data/businesses/elegant-jewelers-san-jose.json';
+const page = spec.pages.find((p) => p.slug === 'bench');
+---
+<Site biz={spec} page={page} />

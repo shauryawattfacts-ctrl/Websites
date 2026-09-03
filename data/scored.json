@@ -1,0 +1,3371 @@
+{
+  "generated": "2026-09-03",
+  "weights": {
+    "aff": {
+      "label": "Affordability",
+      "w": 0.18,
+      "why": "Ticket size, recurring revenue and demonstrated marketing spend"
+    },
+    "gap": {
+      "label": "Website gap",
+      "w": 0.2,
+      "why": "How absent, broken or borrowed their current web presence is"
+    },
+    "val": {
+      "label": "Value of a better site",
+      "w": 0.14,
+      "why": "Direct line from a good site to bookings, quotes and trust"
+    },
+    "brand": {
+      "label": "Brand potential",
+      "w": 0.12,
+      "why": "Story, craft and distinctiveness a designer can build on"
+    },
+    "roi": {
+      "label": "ROI clarity",
+      "w": 0.12,
+      "why": "How quickly the investment can be attributed and repaid"
+    },
+    "vis": {
+      "label": "Current visibility",
+      "w": 0.08,
+      "why": "Organic reach and directory presence worth protecting"
+    },
+    "vol": {
+      "label": "Review volume",
+      "w": 0.06,
+      "why": "Proof base available to migrate onto owned pages"
+    },
+    "assets": {
+      "label": "Asset availability",
+      "w": 0.05,
+      "why": "Photos, copy and credentials that already exist"
+    },
+    "comp": {
+      "label": "Competitive pressure",
+      "w": 0.05,
+      "why": "How strong neighbouring websites are in the category"
+    }
+  },
+  "stats": {
+    "researched": 50,
+    "qualified": 50,
+    "byStatus": {
+      "Only social-media presence": 1,
+      "Broken / inactive website": 3,
+      "Extremely outdated or basic website": 15,
+      "Third-party directory page instead of a website": 3,
+      "No website": 28
+    },
+    "byConfidence": {
+      "verified across two or more directories": 16,
+      "verified against a live source": 16,
+      "single source — audit pending": 18
+    },
+    "byCity": {
+      "San Jose": 13,
+      "Mountain View": 1,
+      "Menlo Park": 1,
+      "Santa Clara": 10,
+      "Sunnyvale": 5,
+      "Redwood City": 2,
+      "Los Altos": 3,
+      "Palo Alto": 3,
+      "Milpitas": 5,
+      "Belmont": 1,
+      "Los Gatos": 2,
+      "Cupertino": 1,
+      "Fremont": 2,
+      "Saratoga": 1
+    },
+    "bySystem": {
+      "automotive-garage": 3,
+      "civic-heritage": 2,
+      "b2b-spec": 4,
+      "luxe-dark": 5,
+      "home-services": 11,
+      "industrial-brutalist": 10,
+      "education-enroll": 2,
+      "retail-showroom": 3,
+      "studio-portfolio": 2,
+      "appetite-food": 1,
+      "hospitality-stay": 1,
+      "editorial-legal": 4,
+      "athletic-kinetic": 1,
+      "clinical-calm": 1
+    },
+    "average": 76.5,
+    "tiers": {
+      "S — immediate outreach": 8,
+      "A — strong fit": 30,
+      "B — qualified": 12
+    }
+  },
+  "prospects": [
+    {
+      "id": "sv017",
+      "slug": "g-and-c-auto-body-san-jose",
+      "name": "G&C Auto Body",
+      "cat": "Auto body & collision",
+      "city": "San Jose",
+      "arch": "automotive-garage",
+      "status": "Only social-media presence",
+      "confidence": "verified across two or more directories",
+      "url": null,
+      "total": 95.7,
+      "parts": {
+        "aff": {
+          "raw": 10,
+          "pts": 18
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 10,
+          "pts": 14
+        },
+        "brand": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "roi": {
+          "raw": 10,
+          "pts": 12
+        },
+        "vis": {
+          "raw": 8,
+          "pts": 6.4
+        },
+        "vol": {
+          "raw": 10,
+          "pts": 6
+        },
+        "assets": {
+          "raw": 9,
+          "pts": 4.5
+        },
+        "comp": {
+          "raw": 8,
+          "pts": 4
+        }
+      },
+      "tier": "S — immediate outreach",
+      "rating": 4.8,
+      "reviews": 1922,
+      "affordability": [
+        "Collision and refinish work runs $1.5K-$12K per vehicle with insurance payers",
+        "Real booth and facility capital plus multi-platform marketing already in place",
+        "Already maintains Instagram and YouTube channels: demonstrated marketing willingness and budget"
+      ],
+      "risks": [
+        "Insurance referral flows dilute direct brand demand",
+        "Historic negatives must be framed honestly, never buried"
+      ],
+      "notes": [
+        "Instagram, LinkedIn and YouTube channels referenced on the Birdeye profile - URLs unverified"
+      ],
+      "concept": "Premium refinish-shop brand: dark steel, candy-apple accent, wet-paint gradient reveals, an owned review archive with schema, and an insurance-ready photo intake.",
+      "rank": 1
+    },
+    {
+      "id": "sv024",
+      "slug": "chapel-of-flowers-funeral-home-san-jose",
+      "name": "Chapel of Flowers Funeral Home",
+      "cat": "Funeral home",
+      "city": "San Jose",
+      "arch": "civic-heritage",
+      "status": "Broken / inactive website",
+      "confidence": "verified against a live source",
+      "url": "http://chapelofflowersfuneral.com",
+      "total": 85.7,
+      "parts": {
+        "aff": {
+          "raw": 9,
+          "pts": 16.2
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 7,
+          "pts": 5.6
+        },
+        "vol": {
+          "raw": 7,
+          "pts": 4.2
+        },
+        "assets": {
+          "raw": 6,
+          "pts": 3
+        },
+        "comp": {
+          "raw": 5,
+          "pts": 2.5
+        }
+      },
+      "tier": "S — immediate outreach",
+      "rating": 3.9,
+      "reviews": 62,
+      "affordability": [
+        "Local funeral arrangements commonly run $7K-$15K; pre-planning is a lifetime-value product",
+        "A century of operation and a chapel building",
+        "Obituary traffic is a durable, high-volume search channel they currently capture nowhere"
+      ],
+      "risks": [
+        "Sensitive category: no growth-hacking tone, no aggressive prompts",
+        "Legacy domain and registrations must be renewed and transferred carefully"
+      ],
+      "notes": [],
+      "concept": "Heritage civic obituary archive. Restraint-first: a serif nameplate, a searchable tribute index, and a two-step arrangement path (call, then details). Slow fades only - nothing that performs grief.",
+      "rank": 2
+    },
+    {
+      "id": "sv034",
+      "slug": "bt-properties-mountain-view",
+      "name": "BT Properties",
+      "cat": "Property management",
+      "city": "Mountain View",
+      "arch": "b2b-spec",
+      "status": "Extremely outdated or basic website",
+      "confidence": "verified against a live source",
+      "url": "http://btproperties.com",
+      "total": 85.2,
+      "parts": {
+        "aff": {
+          "raw": 10,
+          "pts": 18
+        },
+        "gap": {
+          "raw": 8,
+          "pts": 16
+        },
+        "val": {
+          "raw": 10,
+          "pts": 14
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 7,
+          "pts": 5.6
+        },
+        "vol": {
+          "raw": 9,
+          "pts": 5.4
+        },
+        "assets": {
+          "raw": 6,
+          "pts": 3
+        },
+        "comp": {
+          "raw": 8,
+          "pts": 4
+        }
+      },
+      "tier": "S — immediate outreach",
+      "rating": 3,
+      "reviews": 181,
+      "affordability": [
+        "Management companies bill a percentage of rent across thousands of units",
+        "Real compliance and licensing records to publish",
+        "Reputation repair at this scale is a funded, recurring engagement"
+      ],
+      "risks": [
+        "181 public reviews at 3.0 means copy must be operational, never aspirational",
+        "Owner approval chains slow launches: ship in phases"
+      ],
+      "notes": [
+        "https://www.bbb.org (A-rated)"
+      ],
+      "concept": "Corporate-but-crafted: a dual-door site for owners and residents, ledger tables, SLA transparency, a portfolio map, and a documentation library. Institutional typography, restrained motion.",
+      "rank": 3
+    },
+    {
+      "id": "sv037",
+      "slug": "elegant-jewelers-san-jose",
+      "name": "Elegant Jewelers",
+      "cat": "Jewelry",
+      "city": "San Jose",
+      "arch": "luxe-dark",
+      "status": "Third-party directory page instead of a website",
+      "confidence": "verified against a live source",
+      "url": "http://elegantjewelersca.jewelershowcase.com",
+      "total": 85.2,
+      "parts": {
+        "aff": {
+          "raw": 8,
+          "pts": 14.4
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 6,
+          "pts": 4.8
+        },
+        "vol": {
+          "raw": 8,
+          "pts": 4.8
+        },
+        "assets": {
+          "raw": 7,
+          "pts": 3.5
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "S — immediate outreach",
+      "rating": 4.8,
+      "reviews": 189,
+      "affordability": [
+        "Restoration and custom projects run $1K-$25K with high-margin inventory",
+        "Twenty-eight years in a owned or long-leased Willow Glen location",
+        "Already paying a vendor for a template page: a rebuild is a substitution, not a new cost"
+      ],
+      "risks": [
+        "Jewelry search is dominated by national retail: content depth is essential",
+        "Security and privacy: never publish home-delivery or vault detail"
+      ],
+      "notes": [],
+      "concept": "Luxe-dark bench editorial: near-black ground, macro photography, an engraved serif display face, and a repair-process chapter structure. Motion is light and slow; no sparkle gimmicks.",
+      "rank": 4
+    },
+    {
+      "id": "sv005",
+      "slug": "ej-painting-menlo-park",
+      "name": "EJ Painting Inc.",
+      "cat": "Painting & finishing",
+      "city": "Menlo Park",
+      "arch": "home-services",
+      "status": "No website",
+      "confidence": "verified across two or more directories",
+      "url": null,
+      "total": 84.7,
+      "parts": {
+        "aff": {
+          "raw": 8,
+          "pts": 14.4
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 7,
+          "pts": 5.6
+        },
+        "vol": {
+          "raw": 7,
+          "pts": 4.2
+        },
+        "assets": {
+          "raw": 9,
+          "pts": 4.5
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "S — immediate outreach",
+      "rating": 5,
+      "reviews": 37,
+      "affordability": [
+        "Hillsborough/Woodside exterior repaints are $25K–$90K contracts",
+        "Two crews implied by 24-hour availability language and photo volume",
+        "135 + 29 photos of real Peninsula houses = free content library",
+        "100% response rate: high close-rate business that needs a top-of-funnel"
+      ],
+      "risks": [
+        "Owner-led, so content must be self-serve simple",
+        "Business name collides with many \"EJ Painting\" results — SEO naming help needed"
+      ],
+      "notes": [],
+      "concept": "Architectural monograph feel: generous white, big photo plates with caption notes about substrate and prep.",
+      "rank": 5
+    },
+    {
+      "id": "sv007",
+      "slug": "steel-werx-santa-clara",
+      "name": "Steel Werx",
+      "cat": "Metal fabrication",
+      "city": "Santa Clara",
+      "arch": "industrial-brutalist",
+      "status": "Extremely outdated or basic website",
+      "confidence": "verified against a live source",
+      "url": "http://www.steelwerx.com/",
+      "total": 84.1,
+      "parts": {
+        "aff": {
+          "raw": 8,
+          "pts": 14.4
+        },
+        "gap": {
+          "raw": 9,
+          "pts": 18
+        },
+        "val": {
+          "raw": 10,
+          "pts": 14
+        },
+        "brand": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 7,
+          "pts": 5.6
+        },
+        "vol": {
+          "raw": 7,
+          "pts": 4.2
+        },
+        "assets": {
+          "raw": 8,
+          "pts": 4
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "S — immediate outreach",
+      "rating": 4.7,
+      "reviews": 86,
+      "affordability": [
+        "Commercial signage and railing contracts are $5K–$150K",
+        "B2B + B2C mix needs two funnels — a site, not a page",
+        "62–63 photos and 86 reviews already exist as content",
+        "Instagram + Tumblr history shows willingness to market"
+      ],
+      "risks": [
+        "Owner (Pawl W.) is the brand — needs a person-led structure",
+        "Yahoo email signals informality to architects"
+      ],
+      "notes": [],
+      "concept": "Fabrication-floor brutalism: 12-column blueprint grid, process ledger, capability matrix with tolerances, \"send a STEP/PDF\" intake.",
+      "rank": 6
+    },
+    {
+      "id": "sv022",
+      "slug": "trio-school-sunnyvale",
+      "name": "Trio School of Music, Dance & Languages",
+      "cat": "Private school",
+      "city": "Sunnyvale",
+      "arch": "education-enroll",
+      "status": "No website",
+      "confidence": "verified across two or more directories",
+      "url": null,
+      "total": 83.8,
+      "parts": {
+        "aff": {
+          "raw": 8,
+          "pts": 14.4
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 10,
+          "pts": 14
+        },
+        "brand": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 6,
+          "pts": 4.8
+        },
+        "vol": {
+          "raw": 7,
+          "pts": 4.2
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "S — immediate outreach",
+      "rating": null,
+      "reviews": 47,
+      "affordability": [
+        "Multi-instructor private school with real payroll and a six-day schedule",
+        "Tuition for music and language instruction is durable household spend",
+        "Two decades of operating history"
+      ],
+      "risks": [
+        "Owner or volunteer admin: content must be trivially maintainable",
+        "Department breadth means information architecture work, not just design"
+      ],
+      "notes": [],
+      "concept": "Conservatory information architecture: program finder by discipline and age, faculty pages, term calendar, recital gallery, enrolment funnel. Serif warmth with modern structure.",
+      "rank": 7
+    },
+    {
+      "id": "sv035",
+      "slug": "dg-floor-coverings-redwood-city",
+      "name": "DG Floor Coverings Inc.",
+      "cat": "Flooring",
+      "city": "Redwood City",
+      "arch": "retail-showroom",
+      "status": "Broken / inactive website",
+      "confidence": "verified against a live source",
+      "url": "http://dgfloorcoverings.com",
+      "total": 82.3,
+      "parts": {
+        "aff": {
+          "raw": 8,
+          "pts": 14.4
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 6,
+          "pts": 4.8
+        },
+        "vol": {
+          "raw": 6,
+          "pts": 3.6
+        },
+        "assets": {
+          "raw": 7,
+          "pts": 3.5
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "S — immediate outreach",
+      "rating": null,
+      "reviews": 29,
+      "affordability": [
+        "Whole-house flooring projects run $15K-$80K with showroom-driven upsell",
+        "A leased Redwood City showroom with three generations of inventory",
+        "Editorial features elsewhere prove the product story sells"
+      ],
+      "risks": [
+        "Domain and hosting hygiene is urgent (temp-domain serving, typos)",
+        "Owner-run: the design must survive no maintenance for a year"
+      ],
+      "notes": [],
+      "concept": "Showroom-as-library: material cards with grain photography, a species and finish comparison tool, sample-request flow, and a project index. Warm paper, wood-texture rules, honest error-free chrome.",
+      "rank": 8
+    },
+    {
+      "id": "sv006",
+      "slug": "american-heritage-construction-redwood-city",
+      "name": "American Heritage Construction",
+      "cat": "General contractor",
+      "city": "Redwood City",
+      "arch": "industrial-brutalist",
+      "status": "Third-party directory page instead of a website",
+      "confidence": "verified against a live source",
+      "url": "http://american-heritage-construction.business.site",
+      "total": 81.8,
+      "parts": {
+        "aff": {
+          "raw": 9,
+          "pts": 16.2
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 10,
+          "pts": 14
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 4,
+          "pts": 2.4
+        },
+        "assets": {
+          "raw": 4,
+          "pts": 2
+        },
+        "comp": {
+          "raw": 8,
+          "pts": 4
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 5,
+      "reviews": 2,
+      "affordability": [
+        "Wine cellar and theater builds are six-figure scopes",
+        "Atherton/Portola Valley referral work requires credibility assets",
+        "D&B profile confirms a real, registered corporation with a named principal (Jack A Lewis)",
+        "Already accepted for Yelp Guaranteed/Birdeye tooling — spends on visibility"
+      ],
+      "risks": [
+        "Only 2 public reviews — needs a review-generation programme alongside the site",
+        "Gmail contact will hurt conversion; needs a domain mailbox (site project can bundle this)"
+      ],
+      "notes": [],
+      "concept": "Concrete-and-oak presentation: heavy numerals, plan-line rules, a real project index with scope, duration and build year.",
+      "rank": 9
+    },
+    {
+      "id": "sv013",
+      "slug": "potts-landscape-los-altos",
+      "name": "Robert M. Potts Landscape Design & Construction",
+      "cat": "Landscape design-build",
+      "city": "Los Altos",
+      "arch": "studio-portfolio",
+      "status": "Broken / inactive website",
+      "confidence": "verified against a live source",
+      "url": "http://www.pottslandscape.com/",
+      "total": 81.8,
+      "parts": {
+        "aff": {
+          "raw": 9,
+          "pts": 16.2
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 10,
+          "pts": 14
+        },
+        "brand": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 4,
+          "pts": 3.2
+        },
+        "vol": {
+          "raw": 3,
+          "pts": 1.8
+        },
+        "assets": {
+          "raw": 3,
+          "pts": 1.5
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 5,
+      "reviews": 3,
+      "affordability": [
+        "Los Altos design-build projects run $80K–$400K",
+        "A firm claiming a 1945 lineage has a broken URL as its only web presence",
+        "Houzz profile with one project entry: nothing working for them",
+        "Old-money referral clientele needs a polished front door to justify premium fees"
+      ],
+      "risks": [
+        "Aged principal — must be a \"we update it for you\" engagement",
+        "Low digital literacy: keep scope tight and self-updating minimal"
+      ],
+      "notes": [],
+      "concept": "Botanical drawing-plate system: plan-line illustrations, archival \"since 1945\" ribbon, project plates with elevation details, slow parallax.",
+      "rank": 10
+    },
+    {
+      "id": "sv032",
+      "slug": "hong-kong-restaurant-palo-alto",
+      "name": "Hong Kong Restaurant",
+      "cat": "Chinese restaurant",
+      "city": "Palo Alto",
+      "arch": "appetite-food",
+      "status": "Extremely outdated or basic website",
+      "confidence": "verified against a live source",
+      "url": "http://hongkongrestauranpl.com",
+      "total": 80.9,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 9,
+          "pts": 18
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 7,
+          "pts": 5.6
+        },
+        "vol": {
+          "raw": 9,
+          "pts": 5.4
+        },
+        "assets": {
+          "raw": 9,
+          "pts": 4.5
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": null,
+      "reviews": 455,
+      "affordability": [
+        "A full-service restaurant with banquet capability and a leased Palo Alto building",
+        "Established 2000 with substantial daily covers",
+        "Already listed on ordering platforms: they pay for distribution"
+      ],
+      "risks": [
+        "Restaurant margins cap the budget; scope must be a booking and menu engine, not a brand film",
+        "Kitchen-led updates: the menu page must be editable in minutes"
+      ],
+      "notes": [],
+      "concept": "Menu-forward restaurant site: a proper bilingual-feeling type hierarchy, dish index with real photography, banquet package table, and reservation routing. Warm paper tones, vermilion accents, no app-store chrome.",
+      "rank": 11
+    },
+    {
+      "id": "sv038",
+      "slug": "navarros-jewelry-san-jose",
+      "name": "Navarro's Jewelry",
+      "cat": "Jewelry",
+      "city": "San Jose",
+      "arch": "luxe-dark",
+      "status": "No website",
+      "confidence": "verified across two or more directories",
+      "url": null,
+      "total": 80.6,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 6,
+          "pts": 4.8
+        },
+        "vol": {
+          "raw": 7,
+          "pts": 4.2
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 5,
+      "reviews": 32,
+      "affordability": [
+        "Custom design tickets $2K-$30K; decades of accumulated inventory relationships",
+        "Long-established downtown retail tenancy",
+        "Same-day service implies bench capacity that a booking flow would multiply"
+      ],
+      "risks": [
+        "Owner-operated: content and photo capture need a service, not advice",
+        "Two jewelry shops in this database must not look alike: differentiate hard"
+      ],
+      "notes": [],
+      "concept": "Downtown warm-luxe: brass on deep blue, big photography, a service-window module built around same-day promise, and a design enquiry that feels like walking in.",
+      "rank": 12
+    },
+    {
+      "id": "sv033",
+      "slug": "granada-inn-santa-clara",
+      "name": "Granada Inn",
+      "cat": "Independent hotel",
+      "city": "Santa Clara",
+      "arch": "hospitality-stay",
+      "status": "Third-party directory page instead of a website",
+      "confidence": "verified across two or more directories",
+      "url": null,
+      "total": 80.1,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 10,
+          "pts": 14
+        },
+        "brand": {
+          "raw": 6,
+          "pts": 7.2
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 6,
+          "pts": 4.8
+        },
+        "vol": {
+          "raw": 7,
+          "pts": 4.2
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 8,
+          "pts": 4
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 2,
+      "reviews": 55,
+      "affordability": [
+        "Room revenue plus weekly stays: real cash flow and OTA commissions bleeding it",
+        "Independent ownership means decisions happen in one conversation",
+        "Direct-booking site pays back on commission alone"
+      ],
+      "risks": [
+        "Reputation debt: a launch must be paired with review-response workflow",
+        "Property condition unknown: photography budget is mandatory, not optional"
+      ],
+      "notes": [],
+      "concept": "Honest motor-booking site: retro inn signage typography, day/night hero pair, room cards with real photography, a direct-booking value bar and an events calendar. Zero false luxury claims.",
+      "rank": 13
+    },
+    {
+      "id": "sv021",
+      "slug": "km2a-martial-arts-after-school-sunnyvale",
+      "name": "KM2A Martial Arts & After School",
+      "cat": "Youth education",
+      "city": "Sunnyvale",
+      "arch": "education-enroll",
+      "status": "Extremely outdated or basic website",
+      "confidence": "single source — audit pending",
+      "url": "http://km2a.net",
+      "total": 80,
+      "parts": {
+        "aff": {
+          "raw": 8,
+          "pts": 14.4
+        },
+        "gap": {
+          "raw": 9,
+          "pts": 18
+        },
+        "val": {
+          "raw": 10,
+          "pts": 14
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 6,
+          "pts": 4.8
+        },
+        "vol": {
+          "raw": 6,
+          "pts": 3.6
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": null,
+      "reviews": 36,
+      "affordability": [
+        "Recurring after-school tuition: hundreds of dollars per child per month",
+        "Three decades operating with a facility lease and real payroll",
+        "Seasonal enrolment peaks make a funnel the highest-leverage investment"
+      ],
+      "risks": [
+        "Owner-run school: content must be maintainable by a non-technical administrator",
+        "Contact data thin in captured listings - verify before pitching"
+      ],
+      "notes": [],
+      "concept": "Parent-first enrolment site: a visual daily timeline, licensing and safety transparency, program cards by grade band, and a real enrolment form. Warm, structured, never cartoonish.",
+      "rank": 14
+    },
+    {
+      "id": "sv028",
+      "slug": "kim-lew-immigration-law-santa-clara",
+      "name": "Jocelyne J Kim Lew, A Professional Corp",
+      "cat": "Immigration law",
+      "city": "Santa Clara",
+      "arch": "editorial-legal",
+      "status": "No website",
+      "confidence": "verified across two or more directories",
+      "url": null,
+      "total": 79.8,
+      "parts": {
+        "aff": {
+          "raw": 9,
+          "pts": 16.2
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 3,
+          "pts": 1.8
+        },
+        "assets": {
+          "raw": 4,
+          "pts": 2
+        },
+        "comp": {
+          "raw": 8,
+          "pts": 4
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": null,
+      "reviews": null,
+      "affordability": [
+        "Corporate immigration matters run $5K-$50K; the spend ceiling is not the question",
+        "Four decades of high-tech clientele and a Santa Clara office",
+        "Employer clients decide by website credibility and written expertise"
+      ],
+      "risks": [
+        "No public proof base on own domain: reviews must be gathered",
+        "Legal content needs compliance review before publication"
+      ],
+      "notes": [],
+      "concept": "Professional-services long-read site: a strategy library, timeline visuals (priority dates as an axis), and a case-review intake that segments employer vs individual.",
+      "rank": 15
+    },
+    {
+      "id": "sv036",
+      "slug": "san-jose-signs",
+      "name": "San Jose Signs",
+      "cat": "Signage & wraps",
+      "city": "San Jose",
+      "arch": "industrial-brutalist",
+      "status": "No website",
+      "confidence": "verified across two or more directories",
+      "url": null,
+      "total": 79.7,
+      "parts": {
+        "aff": {
+          "raw": 8,
+          "pts": 14.4
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 5,
+          "pts": 3
+        },
+        "assets": {
+          "raw": 8,
+          "pts": 4
+        },
+        "comp": {
+          "raw": 5,
+          "pts": 2.5
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": null,
+      "reviews": 22,
+      "affordability": [
+        "Storefront sign packages run $5K-$60K, wraps $3K-$25K",
+        "Own fabrication equipment and a shop lease",
+        "Permit and city-approval expertise is a differentiator nobody publishes"
+      ],
+      "risks": [
+        "Trade customers often buy by phone: keep the funnel short",
+        "Photos are customer-owned on a platform: licensing must be cleared"
+      ],
+      "notes": [],
+      "concept": "Shop-floor brutalist: big industrial type, an installed-work mosaic lit by a night toggle, permit and material spec tables, and a measurement upload flow. Motion: hard-cut reveals, no shimmer.",
+      "rank": 16
+    },
+    {
+      "id": "sv008",
+      "slug": "amcal-roofing-sunnyvale",
+      "name": "Amcal Roofing Inc.",
+      "cat": "Roofing",
+      "city": "Sunnyvale",
+      "arch": "home-services",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 79.3,
+      "parts": {
+        "aff": {
+          "raw": 8,
+          "pts": 14.4
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 10,
+          "pts": 14
+        },
+        "brand": {
+          "raw": 6,
+          "pts": 7.2
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 4,
+          "pts": 2.4
+        },
+        "assets": {
+          "raw": 6,
+          "pts": 3
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": null,
+      "reviews": 11,
+      "affordability": [
+        "Roof replacements in Santa Clara County: $12K–$40K per house",
+        "26+ years in business with a photo archive",
+        "Commercial flat-roof work adds contract size"
+      ],
+      "risks": [
+        "11 public reviews needs a review engine, not just a site",
+        "Phone is a San Francisco area code for a Sunnyvale firm — needs consistency work"
+      ],
+      "notes": [],
+      "concept": "Weathered-material system: layered roof-section diagrams, a \"what your roof is telling you\" diagnostic module, before/after plate grid.",
+      "rank": 17
+    },
+    {
+      "id": "sv009",
+      "slug": "danny-fencing-san-jose",
+      "name": "Danny Fencing",
+      "cat": "Fencing & gates",
+      "city": "San Jose",
+      "arch": "home-services",
+      "status": "No website",
+      "confidence": "verified across two or more directories",
+      "url": null,
+      "total": 79.3,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 6,
+          "pts": 4.8
+        },
+        "vol": {
+          "raw": 6,
+          "pts": 3.6
+        },
+        "assets": {
+          "raw": 7,
+          "pts": 3.5
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 5,
+      "reviews": 33,
+      "affordability": [
+        "Full redwood fence lines locally run $8K–$35K",
+        "10-year workmanship warranty: rare, and monetisable",
+        "59 photos of finished work, unpublished professionally"
+      ],
+      "risks": [
+        "Single-owner brand — needs succession of content to a manager",
+        "Two listings with conflicting addresses"
+      ],
+      "notes": [],
+      "concept": "Build-detail site: exploded post/drawing SVG diagrams, material spec table, \"how we differ\" comparison, per-linear-foot estimator.",
+      "rank": 18
+    },
+    {
+      "id": "sv020",
+      "slug": "the-contenders-gym-santa-clara",
+      "name": "The Contenders Gym",
+      "cat": "Boxing gym",
+      "city": "Santa Clara",
+      "arch": "athletic-kinetic",
+      "status": "No website",
+      "confidence": "verified across two or more directories",
+      "url": null,
+      "total": 78.5,
+      "parts": {
+        "aff": {
+          "raw": 6,
+          "pts": 10.8
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 5,
+          "pts": 3
+        },
+        "assets": {
+          "raw": 6,
+          "pts": 3
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": null,
+      "reviews": 23,
+      "affordability": [
+        "Membership revenue recurs: a real roster at $120-$200 per month",
+        "Twenty years of operation and a fight team",
+        "A program, not a drop-in: a site with plans and a first-week offer sells itself"
+      ],
+      "risks": [
+        "Gym budgets are thinner than contractor budgets - pitch it as a membership-acquisition engine",
+        "Coach-run: content updates only happen if maintenance is effortless"
+      ],
+      "notes": [],
+      "concept": "Fight-poster typography: condensed caps, canvas texture, a round-by-round scroll structure, membership table, first-week CTA.",
+      "rank": 19
+    },
+    {
+      "id": "sv001",
+      "slug": "bay-rooter-plumbing-milpitas",
+      "name": "Bay Rooter & Plumbing",
+      "cat": "Plumbing",
+      "city": "Milpitas",
+      "arch": "home-services",
+      "status": "No website",
+      "confidence": "verified against a live source",
+      "url": null,
+      "total": 78.2,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 6,
+          "pts": 4.8
+        },
+        "vol": {
+          "raw": 7,
+          "pts": 4.2
+        },
+        "assets": {
+          "raw": 6,
+          "pts": 3
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 4.8,
+      "reviews": 82,
+      "affordability": [
+        "Open 13 hours daily, 7 days a week — dispatch operation, not a one-truck shop",
+        "Water heater and repipe tickets run $1,800–$12,000 in the Bay Area",
+        "Recurring home-warranty vendor work implies steady volume",
+        "82 Yelp reviews at 4.8 is a top-quartile local reputation"
+      ],
+      "risks": [
+        "No brand assets found (logo, photos) — build from scratch",
+        "Yelp is their only owned surface; platform risk if reviews dip"
+      ],
+      "notes": [],
+      "concept": "Dispatch-console utility design: a live \"on call\" status bar, service-area chips, and price-range honesty. Type-forward, no stock-photo plumbing.",
+      "rank": 20
+    },
+    {
+      "id": "sv043",
+      "slug": "christina-pahl-interiors-palo-alto",
+      "name": "Christina Pahl Interiors",
+      "cat": "Interior design",
+      "city": "Palo Alto",
+      "arch": "studio-portfolio",
+      "status": "Extremely outdated or basic website",
+      "confidence": "verified against a live source",
+      "url": "http://christinapahlinteriors.com",
+      "total": 78.2,
+      "parts": {
+        "aff": {
+          "raw": 9,
+          "pts": 16.2
+        },
+        "gap": {
+          "raw": 9,
+          "pts": 18
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 2,
+          "pts": 1.2
+        },
+        "assets": {
+          "raw": 6,
+          "pts": 3
+        },
+        "comp": {
+          "raw": 8,
+          "pts": 4
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": null,
+      "reviews": null,
+      "affordability": [
+        "Design fees on residential projects locally run 10-20 percent of furnishing spend",
+        "Office of nine areas served implies sustained project flow",
+        "A design firm understands the value of a good website: easier sale, higher standard"
+      ],
+      "risks": [
+        "Extremely high design bar: a mediocre site is worse than the template they have",
+        "Portfolio usage rights for photographed projects must be cleared"
+      ],
+      "notes": [],
+      "concept": "Gallery-quiet portfolio site: large image fields with thin captions, a services-and-fee structure page, a project index by type, and an enquiry form that asks about scope and timeline. Very little motion; excellent typography.",
+      "rank": 21
+    },
+    {
+      "id": "sv030",
+      "slug": "altos-building-maintenance-santa-clara",
+      "name": "Altos Building Maintenance",
+      "cat": "Facilities services",
+      "city": "Santa Clara",
+      "arch": "b2b-spec",
+      "status": "Extremely outdated or basic website",
+      "confidence": "verified against a live source",
+      "url": "http://altosmaint.com",
+      "total": 77.8,
+      "parts": {
+        "aff": {
+          "raw": 9,
+          "pts": 16.2
+        },
+        "gap": {
+          "raw": 9,
+          "pts": 18
+        },
+        "val": {
+          "raw": 10,
+          "pts": 14
+        },
+        "brand": {
+          "raw": 6,
+          "pts": 7.2
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 1,
+          "pts": 0.6
+        },
+        "assets": {
+          "raw": 6,
+          "pts": 3
+        },
+        "comp": {
+          "raw": 8,
+          "pts": 4
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 3,
+      "reviews": 2,
+      "affordability": [
+        "Recurring commercial contracts: multi-year, five-figure annual values",
+        "Facility ownership since 1989 plus a specialised service stack",
+        "Already produces award collateral - proof they invest in marketing"
+      ],
+      "risks": [
+        "B2B buyers need compliance language: content must be accurate and verifiable",
+        "Two reviews: do not build a review-led design"
+      ],
+      "notes": [],
+      "concept": "Facilities-ops documentation aesthetic: dark navy and teal, tabulated scope sheets, an SLA matrix, and a site-walk request flow that behaves like an RFP response.",
+      "rank": 22
+    },
+    {
+      "id": "sv046",
+      "slug": "hm-fence-decks-los-altos",
+      "name": "HM Fence",
+      "cat": "Fencing & decks",
+      "city": "Los Altos",
+      "arch": "home-services",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 77.5,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 6,
+          "pts": 7.2
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 8,
+          "pts": 4.8
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 5,
+      "reviews": 61,
+      "affordability": [
+        "Fence and deck projects $6K-$60K with repeatable scope",
+        "Verified licence badge already earned",
+        "Ten-plus years of reviews at 5.0 is a licence to print a proper site"
+      ],
+      "risks": [
+        "Small crew: capacity, not demand, is the constraint - qualify leads in the form",
+        "Address not published in captured listings - confirm before outreach"
+      ],
+      "notes": [],
+      "concept": "Review-forward service site: the 61-quote archive as the primary visual, a fence-type configurator (style, grade, height, gates) that outputs an estimate band, and a material guide. Warm, honest, no gloss.",
+      "rank": 23
+    },
+    {
+      "id": "sv015",
+      "slug": "total-landscape-santa-clara",
+      "name": "Total Landscape",
+      "cat": "Landscaping",
+      "city": "Santa Clara",
+      "arch": "home-services",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 77.5,
+      "parts": {
+        "aff": {
+          "raw": 8,
+          "pts": 14.4
+        },
+        "gap": {
+          "raw": 9,
+          "pts": 18
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 6,
+          "pts": 4.8
+        },
+        "vol": {
+          "raw": 7,
+          "pts": 4.2
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 4.7,
+      "reviews": 79,
+      "affordability": [
+        "Full yard rebuilds locally run $40K-$180K",
+        "79 reviews at 4.7 is a strong proof base to license onto a site",
+        "Winning nine-bid contests means they close on substance, which a site amplifies"
+      ],
+      "risks": [
+        "Phone number not published in the listings captured — confirm before outreach and before any tel: link ships.",
+        "No phone published in the captured listings: intake must be form-led",
+        "A generic name needs deep content to rank at all"
+      ],
+      "notes": [],
+      "concept": "Field-notes layout: numbered diagnostic cards, section drawings, and a credibility module listing what the firm advised against.",
+      "rank": 24
+    },
+    {
+      "id": "sv041",
+      "slug": "tick-tock-shop-santa-clara",
+      "name": "Tick Tock Shop",
+      "cat": "Watch & clock restoration",
+      "city": "Santa Clara",
+      "arch": "luxe-dark",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 77.1,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 3,
+          "pts": 1.8
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 4,
+          "pts": 2
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": null,
+      "reviews": null,
+      "affordability": [
+        "Restoration and servicing for collector pieces runs high-margin; mantel clock work reaches four figures",
+        "Five decades of continuity, real tooling and brand authorisations",
+        "Collectors search by expertise keywords, which a content site can own"
+      ],
+      "risks": [
+        "Aged owner-operator: hand-holding required on content and photography",
+        "No published reviews: proof must come from credentials, not stars"
+      ],
+      "notes": [],
+      "concept": "Horological luxe-dark: an escapement-inspired hairline motif, seconds-ring progress indicators instead of scroll bars, macro movement photography, and a service-tier table. Motion: single sweeping seconds hand, reduced-motion aware.",
+      "rank": 25
+    },
+    {
+      "id": "sv039",
+      "slug": "custom-framing-sports-memorabilia-san-jose",
+      "name": "Custom Framing & World of Sports Memorabilia",
+      "cat": "Custom framing & collectibles",
+      "city": "San Jose",
+      "arch": "retail-showroom",
+      "status": "Extremely outdated or basic website",
+      "confidence": "single source — audit pending",
+      "url": "http://worldofsportsmemorabilia.com",
+      "total": 76.6,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 9,
+          "pts": 18
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 7,
+          "pts": 4.2
+        },
+        "assets": {
+          "raw": 7,
+          "pts": 3.5
+        },
+        "comp": {
+          "raw": 5,
+          "pts": 2.5
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 4.4,
+      "reviews": 53,
+      "affordability": [
+        "Museum framing projects $200-$3,000; collector cases reach five figures",
+        "Inventory-backed retail plus service business: two revenue engines",
+        "Thirty-six years downtown with a known name in collector circles"
+      ],
+      "risks": [
+        "Collectibles carry authentication liability: publish their process, not guarantees",
+        "Dual brand needs IA decisions before pixels"
+      ],
+      "notes": [],
+      "concept": "Archive and vitrine layout: dark museum walls, object-in-case photography, a mounting-method selector by object type, and a materials spec table. Restrained motion, precise captions.",
+      "rank": 26
+    },
+    {
+      "id": "sv040",
+      "slug": "wood-and-windows-sunnyvale",
+      "name": "Wood & Windows",
+      "cat": "Cabinetry & millwork",
+      "city": "Sunnyvale",
+      "arch": "b2b-spec",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 75.3,
+      "parts": {
+        "aff": {
+          "raw": 8,
+          "pts": 14.4
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 10,
+          "pts": 14
+        },
+        "brand": {
+          "raw": 6,
+          "pts": 7.2
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 4,
+          "pts": 3.2
+        },
+        "vol": {
+          "raw": 2,
+          "pts": 1.2
+        },
+        "assets": {
+          "raw": 4,
+          "pts": 2
+        },
+        "comp": {
+          "raw": 5,
+          "pts": 2.5
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": null,
+      "reviews": null,
+      "affordability": [
+        "Refacing and custom casework run $8K-$45K per project",
+        "Half a century in a shop building on a Tasman Drive industrial block",
+        "Commercial casework means drawing-based clients who expect spec sheets"
+      ],
+      "risks": [
+        "Fifty-year owner-operator: minimal appetite for content, design must be self-maintaining",
+        "No digital proof base: photography must be commissioned"
+      ],
+      "notes": [],
+      "concept": "Fabrication spec-site: shop-drawing motifs, a refacing-versus-remodel comparison with cost and timeline bands, process photos of spray finishing, and an estimate request that asks for cabinet dimensions.",
+      "rank": 27
+    },
+    {
+      "id": "sv047",
+      "slug": "techwood-decks-belmont",
+      "name": "Techwood Decks",
+      "cat": "Decks & outdoor structures",
+      "city": "Belmont",
+      "arch": "home-services",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 75.1,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 6,
+          "pts": 7.2
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 6,
+          "pts": 3.6
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 4.9,
+      "reviews": 31,
+      "affordability": [
+        "Deck builds locally run $20K-$90K; replacements include structural scope",
+        "Own shop on Old County Road implies tooling and inventory",
+        "Permit-ready drawings are a premium differentiator they do not explain anywhere"
+      ],
+      "risks": [
+        "Contact details thin in the captured listing - confirm before outreach",
+        "Material supply volatility affects any pricing content"
+      ],
+      "notes": [],
+      "concept": "Plan-view identity: site-plan line drawings that morph into photographs on scroll, structural callouts, material life-cycle table, and a project-start form that asks for existing-deck photos.",
+      "rank": 28
+    },
+    {
+      "id": "sv004",
+      "slug": "rmb-plumbing-services-san-jose",
+      "name": "RMB Plumbing Services",
+      "cat": "Plumbing",
+      "city": "San Jose",
+      "arch": "home-services",
+      "status": "No website",
+      "confidence": "verified across two or more directories",
+      "url": null,
+      "total": 75,
+      "parts": {
+        "aff": {
+          "raw": 6,
+          "pts": 10.8
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 6,
+          "pts": 7.2
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 6,
+          "pts": 3.6
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 4.9,
+      "reviews": 33,
+      "affordability": [
+        "Round-the-clock crews imply overhead and dispatch depth",
+        "4.9 average across all reviews",
+        "Higher ticket than average because after-hours calls command premium rates"
+      ],
+      "risks": [
+        "Residential repair mix can skew small-ticket",
+        "No brand assets online beyond 42 photos"
+      ],
+      "notes": [],
+      "concept": "Dark-mode emergency site optimised for 2am thumb use: huge call target, one-line scope, no carousels.",
+      "rank": 29
+    },
+    {
+      "id": "sv045",
+      "slug": "cb-concrete-construction-los-gatos",
+      "name": "CB Concrete Construction",
+      "cat": "Concrete & hardscape",
+      "city": "Los Gatos",
+      "arch": "industrial-brutalist",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 74.9,
+      "parts": {
+        "aff": {
+          "raw": 8,
+          "pts": 14.4
+        },
+        "gap": {
+          "raw": 9,
+          "pts": 18
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 5,
+          "pts": 6
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 8,
+          "pts": 4.8
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 4.1,
+      "reviews": 119,
+      "affordability": [
+        "Structural concrete and wall projects run $15K-$150K on these lots",
+        "119 reviews at 4.1 is a proof base most competitors cannot match",
+        "Specifying work from architects and GCs rewards technical content"
+      ],
+      "risks": [
+        "No phone or address published in the listings captured — confirm both before outreach or schema markup.",
+        "Ratings vary: do not build the site around review display alone",
+        "Permit-heavy work means claims must be careful and current"
+      ],
+      "notes": [],
+      "concept": "Formwork geometry: board-formed textures, control-joint rules as dividers, pour-sequence photography with numbered captions, and a heavy display grotesque. Motion: horizontal board-mask reveals.",
+      "rank": 30
+    },
+    {
+      "id": "sv025",
+      "slug": "cross-estate-planning-law-cupertino",
+      "name": "Cross Estate Planning Law",
+      "cat": "Estate planning law",
+      "city": "Cupertino",
+      "arch": "editorial-legal",
+      "status": "Extremely outdated or basic website",
+      "confidence": "verified against a live source",
+      "url": "http://crossestateplanning.com",
+      "total": 74.6,
+      "parts": {
+        "aff": {
+          "raw": 8,
+          "pts": 14.4
+        },
+        "gap": {
+          "raw": 8,
+          "pts": 16
+        },
+        "val": {
+          "raw": 8,
+          "pts": 11.2
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 6,
+          "pts": 4.8
+        },
+        "vol": {
+          "raw": 7,
+          "pts": 4.2
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 4.8,
+      "reviews": 46,
+      "affordability": [
+        "Estate plans locally bill $3K-$8K with recurring admin fees",
+        "Forty-six reviews at 4.8 with zero content marketing",
+        "Attorney-led practices routinely fund $10K-$25K web rebuilds"
+      ],
+      "risks": [
+        "Solo practitioner: time, not money, is the constraint",
+        "Legal copy must be reviewed for state-bar advertising rules"
+      ],
+      "notes": [],
+      "concept": "Legal editorial: serif measure, long-form explainer column, a process rail that tracks drafting to funding, and a plan-review intake. Replaces brochure with reasoning.",
+      "rank": 31
+    },
+    {
+      "id": "sv010",
+      "slug": "rf-construction-san-jose",
+      "name": "R F Construction",
+      "cat": "General contractor",
+      "city": "San Jose",
+      "arch": "industrial-brutalist",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 74.5,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 6,
+          "pts": 7.2
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 4,
+          "pts": 3.2
+        },
+        "vol": {
+          "raw": 3,
+          "pts": 1.8
+        },
+        "assets": {
+          "raw": 8,
+          "pts": 4
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": null,
+      "reviews": null,
+      "affordability": [
+        "Whole-house remodel scopes locally start around $120K",
+        "Multiple trades under one roof = high ticket and high margin",
+        "131 photos available to licence immediately"
+      ],
+      "risks": [
+        "Thin public reviews: needs a testimonial/permission programme",
+        "Business name (\"R F Construction\") is hard to rank — recommend brand-name page structure"
+      ],
+      "notes": [],
+      "concept": "Jobsite documentation system: sequence timeline, permit-step tracker mock, photo index by phase.",
+      "rank": 32
+    },
+    {
+      "id": "sv026",
+      "slug": "law-offices-of-david-s-park-santa-clara",
+      "name": "Law Offices of David S. Park",
+      "cat": "Estate planning law",
+      "city": "Santa Clara",
+      "arch": "editorial-legal",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 74.4,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 6,
+          "pts": 7.2
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 4,
+          "pts": 3.2
+        },
+        "vol": {
+          "raw": 7,
+          "pts": 4.2
+        },
+        "assets": {
+          "raw": 3,
+          "pts": 1.5
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 5,
+      "reviews": 37,
+      "affordability": [
+        "Trust packages locally run $3K-$9K plus administration",
+        "37 reviews at 5.0 is a rare, licensable proof asset",
+        "Office tenancy on Hamilton Ave implies established practice"
+      ],
+      "risks": [
+        "Phone number not published in the listings captured — confirm before outreach and before any tel: link ships.",
+        "Zero web footprint means no brand assets to reuse",
+        "Bilingual positioning needs native review before launch"
+      ],
+      "notes": [],
+      "concept": "Quiet print-led legal identity: hairline rules, numbered practice notes, and a two-column plain-language guide with a print stylesheet. Motion limited to line masks.",
+      "rank": 33
+    },
+    {
+      "id": "sv042",
+      "slug": "anthony-julies-upholstery-los-altos",
+      "name": "Anthony & Julie's Quality Upholstery & Fabrics",
+      "cat": "Upholstery",
+      "city": "Los Altos",
+      "arch": "luxe-dark",
+      "status": "No website",
+      "confidence": "verified across two or more directories",
+      "url": null,
+      "total": 73.9,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 4,
+          "pts": 3.2
+        },
+        "vol": {
+          "raw": 3,
+          "pts": 1.8
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 4,
+          "pts": 2
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": null,
+      "reviews": null,
+      "affordability": [
+        "Fine reupholstery runs $1.5K-$12K per piece with whole-room projects",
+        "A owned or long-held Los Altos workroom building since 1988",
+        "Designers specify shops with a lookable website: this excludes them today"
+      ],
+      "risks": [
+        "Owner-operated: photography must be done for them, not by them",
+        "Craft claims need their approval before publication"
+      ],
+      "notes": [],
+      "concept": "Workroom luxe: deep neutrals, macro craft photography, a fabric-and-trim library, and a pickup-scheduling form that asks for piece type and dimensions. Slow, tactile motion only.",
+      "rank": 34
+    },
+    {
+      "id": "sv050",
+      "slug": "the-goldsmith-palo-alto",
+      "name": "The Goldsmith",
+      "cat": "Jewelry repair & engraving",
+      "city": "Palo Alto",
+      "arch": "luxe-dark",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 73.2,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 8,
+          "pts": 11.2
+        },
+        "brand": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 2,
+          "pts": 1.2
+        },
+        "assets": {
+          "raw": 4,
+          "pts": 2
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": null,
+      "reviews": null,
+      "affordability": [
+        "Emerson Street retail rents imply serious revenue",
+        "Repair and restoration tickets $150-$2,500 with high-margin estate work",
+        "Designers and estate attorneys refer bench shops that present professionally"
+      ],
+      "risks": [
+        "A walk-in business may undervalue online reach: sell on referrals and design credibility",
+        "Do not invent history or credentials for the shop"
+      ],
+      "notes": [],
+      "concept": "Hallmark identity: engraved didone display type, hairline borders, a hallmark-strip motif, and honest service-and-turnaround tables. No gradients, no sparkles; macro photography only.",
+      "rank": 35
+    },
+    {
+      "id": "sv002",
+      "slug": "abe-plumbing-sewer-drain-milpitas",
+      "name": "A.B.E. Plumbing Sewer & Drain",
+      "cat": "Plumbing",
+      "city": "Milpitas",
+      "arch": "home-services",
+      "status": "No website",
+      "confidence": "verified across two or more directories",
+      "url": null,
+      "total": 72.8,
+      "parts": {
+        "aff": {
+          "raw": 6,
+          "pts": 10.8
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 6,
+          "pts": 7.2
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 6,
+          "pts": 3.6
+        },
+        "assets": {
+          "raw": 4,
+          "pts": 2
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 4.2,
+      "reviews": 43,
+      "affordability": [
+        "Sewer/repipe jobs are $2,500–$15,000 in Santa Clara County",
+        "43 reviews over a decade of listings implies sustained flow",
+        "Zero web presence means 100% of the funnel is currently unowned"
+      ],
+      "risks": [
+        "Unclaimed listing — must reach the owner offline",
+        "Lower rating (4.2) means review strategy matters as much as design"
+      ],
+      "notes": [],
+      "concept": "Diagnostic-screen aesthetic: an inspection-report motif, monospaced findings, before/after camera stills.",
+      "rank": 36
+    },
+    {
+      "id": "sv029",
+      "slug": "milpitas-electric-milpitas",
+      "name": "Milpitas Electric",
+      "cat": "Electrical contractor",
+      "city": "Milpitas",
+      "arch": "b2b-spec",
+      "status": "Extremely outdated or basic website",
+      "confidence": "verified against a live source",
+      "url": "http://milpitaselectricinc.com",
+      "total": 72.8,
+      "parts": {
+        "aff": {
+          "raw": 9,
+          "pts": 16.2
+        },
+        "gap": {
+          "raw": 8,
+          "pts": 16
+        },
+        "val": {
+          "raw": 10,
+          "pts": 14
+        },
+        "brand": {
+          "raw": 5,
+          "pts": 6
+        },
+        "roi": {
+          "raw": 9,
+          "pts": 10.8
+        },
+        "vis": {
+          "raw": 4,
+          "pts": 3.2
+        },
+        "vol": {
+          "raw": 1,
+          "pts": 0.6
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": null,
+      "reviews": 0,
+      "affordability": [
+        "Commercial TI contracts are six to seven figures",
+        "Bid and award happen on websites and reference lists",
+        "CSLB licence #520067 and a 2007 founding give real credentials to publish"
+      ],
+      "risks": [
+        "Zero public review volume: build the case from projects instead",
+        "Owner-run estimating: content workflow must be near-zero effort"
+      ],
+      "notes": [
+        "https://www.cslb.ca.gov (C-10 licence #520067)"
+      ],
+      "concept": "B2B spec-sheet system: numbered capability blocks, project cards with scope and duration, submittal-style data sheets, and a bid-request form that asks for drawings. Grid discipline over flash.",
+      "rank": 37
+    },
+    {
+      "id": "sv018",
+      "slug": "tls-automotive-electrical-fremont",
+      "name": "TLS Automotive Electrical",
+      "cat": "Auto repair",
+      "city": "Fremont",
+      "arch": "automotive-garage",
+      "status": "No website",
+      "confidence": "verified against a live source",
+      "url": null,
+      "total": 72.1,
+      "parts": {
+        "aff": {
+          "raw": 6,
+          "pts": 10.8
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 4,
+          "pts": 3.2
+        },
+        "vol": {
+          "raw": 5,
+          "pts": 3
+        },
+        "assets": {
+          "raw": 4,
+          "pts": 2
+        },
+        "comp": {
+          "raw": 5,
+          "pts": 2.5
+        }
+      },
+      "tier": "A — strong fit",
+      "rating": 5,
+      "reviews": 34,
+      "affordability": [
+        "Diagnostic labour bills at premium rates with little parts dependency",
+        "Contracted interlock installs add recurring commercial volume",
+        "5.0 across 34 Google reviews"
+      ],
+      "risks": [
+        "Small shop: keep scope to five pages and one funnel",
+        "Directory data only - name, address and phone build-out is part of the project"
+      ],
+      "notes": [],
+      "concept": "Oscilloscope visual language: dark garage UI, animated signal-trace lines, symptom-first intake, transparent diagnostic fee.",
+      "rank": 38
+    },
+    {
+      "id": "sv016",
+      "slug": "ramos-landscaping-sunnyvale",
+      "name": "Ramos Landscaping",
+      "cat": "Landscaping",
+      "city": "Sunnyvale",
+      "arch": "home-services",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 71.8,
+      "parts": {
+        "aff": {
+          "raw": 6,
+          "pts": 10.8
+        },
+        "gap": {
+          "raw": 9,
+          "pts": 18
+        },
+        "val": {
+          "raw": 8,
+          "pts": 11.2
+        },
+        "brand": {
+          "raw": 6,
+          "pts": 7.2
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 6,
+          "pts": 4.8
+        },
+        "vol": {
+          "raw": 7,
+          "pts": 4.2
+        },
+        "assets": {
+          "raw": 6,
+          "pts": 3
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "B — qualified",
+      "rating": 4.5,
+      "reviews": 87,
+      "affordability": [
+        "Conversion projects typically $15K-$60K plus rebate navigation",
+        "87 reviews is a durable social-proof asset",
+        "Photo volume in listings shows steady crew activity"
+      ],
+      "risks": [
+        "No phone published in captured sources - confirm before outreach",
+        "Portfolio taste varies; curation needed for a premium read"
+      ],
+      "notes": [],
+      "concept": "Water-budget visualisation: plant-palette library, savings figures, before/after wipes, rebate explainer.",
+      "rank": 39
+    },
+    {
+      "id": "sv048",
+      "slug": "rodino-piano-tuning-sales-rentals-santa-clara",
+      "name": "Rodino Piano Tuning, Sales & Rentals",
+      "cat": "Piano service & retail",
+      "city": "Santa Clara",
+      "arch": "civic-heritage",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 71.1,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 4,
+          "pts": 3.2
+        },
+        "vol": {
+          "raw": 2,
+          "pts": 1.2
+        },
+        "assets": {
+          "raw": 4,
+          "pts": 2
+        },
+        "comp": {
+          "raw": 3,
+          "pts": 1.5
+        }
+      },
+      "tier": "B — qualified",
+      "rating": null,
+      "reviews": null,
+      "affordability": [
+        "Rebuilds run $5K-$30K and inventory units $3K-$40K",
+        "Rentals create recurring revenue that a site can automate",
+        "Fifty years of operation with a physical showroom"
+      ],
+      "risks": [
+        "Owner may see phone business as sufficient; ROI framing must lead",
+        "Trade photos of instruments and showroom needed before design"
+      ],
+      "notes": [],
+      "concept": "Concert-programme typography: a serif masthead, an inventory index with condition notes, a service-and-price table for tuning intervals, and a rental enquiry flow. Motion: curtain-reveal on section entry only.",
+      "rank": 40
+    },
+    {
+      "id": "sv027",
+      "slug": "law-offices-of-richard-j-hess-saratoga",
+      "name": "The Law Offices of Richard J Hess",
+      "cat": "Estate planning law",
+      "city": "Saratoga",
+      "arch": "editorial-legal",
+      "status": "Extremely outdated or basic website",
+      "confidence": "verified against a live source",
+      "url": "http://californiatrusts.com",
+      "total": 70.9,
+      "parts": {
+        "aff": {
+          "raw": 8,
+          "pts": 14.4
+        },
+        "gap": {
+          "raw": 8,
+          "pts": 16
+        },
+        "val": {
+          "raw": 8,
+          "pts": 11.2
+        },
+        "brand": {
+          "raw": 6,
+          "pts": 7.2
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 5,
+          "pts": 3
+        },
+        "assets": {
+          "raw": 4,
+          "pts": 2
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "B — qualified",
+      "rating": 4.3,
+      "reviews": 29,
+      "affordability": [
+        "Hillside estates in Saratoga mean real assets to protect and fees to match",
+        "Twenty-plus years in practice with an established referral base",
+        "Already pays for a domain it does not use properly"
+      ],
+      "risks": [
+        "Estate plans for high-value property require careful, compliant copy",
+        "Old domain likely holds authority: 301 strategy matters"
+      ],
+      "notes": [],
+      "concept": "Letterpress-on-screen identity: a small masthead, a long process page, and real document design (numbered clauses, marginal notes). Very restrained motion.",
+      "rank": 41
+    },
+    {
+      "id": "sv049",
+      "slug": "a-2-z-granite-fabrication-san-jose",
+      "name": "A-2-Z Granite Fabrication",
+      "cat": "Stone fabrication",
+      "city": "San Jose",
+      "arch": "industrial-brutalist",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 70.7,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 5,
+          "pts": 6
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 4,
+          "pts": 3.2
+        },
+        "vol": {
+          "raw": 2,
+          "pts": 1.2
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "B — qualified",
+      "rating": null,
+      "reviews": null,
+      "affordability": [
+        "Kitchen stone packages run $4K-$20K with whole-home multipliers",
+        "A fabrication shop with polishing and CNC capability is real capital",
+        "Install-led businesses close on turnaround, which a site can promise and measure"
+      ],
+      "risks": [
+        "Stone sourcing claims must be verifiable",
+        "Review base must be built; expect a slow start on reputation"
+      ],
+      "notes": [],
+      "concept": "Slab-rack layout: dark ground with photographic swatch fields, an edge-profile selector, a lead-time panel, and a templating request form. Motion: polished-stone shine sweep, reduced-motion aware.",
+      "rank": 42
+    },
+    {
+      "id": "sv003",
+      "slug": "aqua-fresh-plumbing-milpitas",
+      "name": "Aqua Fresh Plumbing",
+      "cat": "Plumbing",
+      "city": "Milpitas",
+      "arch": "home-services",
+      "status": "Extremely outdated or basic website",
+      "confidence": "verified across two or more directories",
+      "url": "http://aquafreshplumbing.com",
+      "total": 70.3,
+      "parts": {
+        "aff": {
+          "raw": 6,
+          "pts": 10.8
+        },
+        "gap": {
+          "raw": 8,
+          "pts": 16
+        },
+        "val": {
+          "raw": 8,
+          "pts": 11.2
+        },
+        "brand": {
+          "raw": 6,
+          "pts": 7.2
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 6,
+          "pts": 4.8
+        },
+        "vol": {
+          "raw": 7,
+          "pts": 4.2
+        },
+        "assets": {
+          "raw": 7,
+          "pts": 3.5
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "B — qualified",
+      "rating": 4.3,
+      "reviews": 78,
+      "affordability": [
+        "Seven-day operation with remodel rough-in work",
+        "78 Yelp reviews and 19 photos are real content assets",
+        "BuildZoom top-15% score is a credibility asset nobody is using",
+        "Licensed C-36 plumbing contractor with 20 years of permits on file"
+      ],
+      "risks": [
+        "Manta models revenue near $438K — a $10K site must be framed as a remodel-pipeline investment",
+        "Existing domain may still rank; needs 301 strategy"
+      ],
+      "notes": [],
+      "concept": "Clean trades-brochure replacement with a remodel-partner section aimed at GCs, plus a visible \"we work Sundays\" bar.",
+      "rank": 43
+    },
+    {
+      "id": "sv023",
+      "slug": "dentistry-for-children-and-adults-too-milpitas",
+      "name": "Dentistry for Children & Adults Too",
+      "cat": "Dental",
+      "city": "Milpitas",
+      "arch": "clinical-calm",
+      "status": "Extremely outdated or basic website",
+      "confidence": "single source — audit pending",
+      "url": "http://dentistryforchildrenmilpitas.com",
+      "total": 70,
+      "parts": {
+        "aff": {
+          "raw": 8,
+          "pts": 14.4
+        },
+        "gap": {
+          "raw": 7,
+          "pts": 14
+        },
+        "val": {
+          "raw": 8,
+          "pts": 11.2
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 4,
+          "pts": 2.4
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 7,
+          "pts": 3.5
+        }
+      },
+      "tier": "B — qualified",
+      "rating": null,
+      "reviews": null,
+      "affordability": [
+        "Four decades of practice ownership: equipment capital and a referral base",
+        "Family dentistry lifetime value spans siblings and grandchildren",
+        "A thirty-character legacy domain tells you the marketing was never owned"
+      ],
+      "risks": [
+        "Medical claims need review before publishing; no testimonials without consent",
+        "Practice may run an incumbent patient-management portal that must be integrated, not replaced"
+      ],
+      "notes": [],
+      "concept": "Clinical-calm editorial: a long-form first-visit explainer as the hero, generous whitespace, no stock dentistry, and an appointment flow that asks about anxiety and sensory needs.",
+      "rank": 44
+    },
+    {
+      "id": "sv044",
+      "slug": "macias-stoneworks-san-jose",
+      "name": "Macias Stoneworks",
+      "cat": "Masonry",
+      "city": "San Jose",
+      "arch": "industrial-brutalist",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 69.7,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 5,
+          "pts": 6
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 4,
+          "pts": 3.2
+        },
+        "vol": {
+          "raw": 2,
+          "pts": 1.2
+        },
+        "assets": {
+          "raw": 4,
+          "pts": 2
+        },
+        "comp": {
+          "raw": 5,
+          "pts": 2.5
+        }
+      },
+      "tier": "B — qualified",
+      "rating": null,
+      "reviews": null,
+      "affordability": [
+        "Veneer and wall projects run $8K-$80K in this market",
+        "Crew and equipment operation since roughly 2000",
+        "Masonry buyers decide on photographs, which they have not published anywhere"
+      ],
+      "risks": [
+        "Trade owners rarely write: content must be captured on site",
+        "Licence and insurance details not captured - verify before publishing"
+      ],
+      "notes": [],
+      "concept": "Masonry-as-architecture: coursing-grid layout, section-drawing illustrations of wall build-ups, a materials index (ledge, stacked, thin veneer), and a project gallery with job notes. Motion: block-by-block reveal, reduced-motion aware.",
+      "rank": 45
+    },
+    {
+      "id": "sv011",
+      "slug": "joes-concrete-san-jose",
+      "name": "Joe's Concrete",
+      "cat": "Concrete",
+      "city": "San Jose",
+      "arch": "industrial-brutalist",
+      "status": "Extremely outdated or basic website",
+      "confidence": "verified across two or more directories",
+      "url": "https://joesconcrete.com",
+      "total": 68.8,
+      "parts": {
+        "aff": {
+          "raw": 7,
+          "pts": 12.6
+        },
+        "gap": {
+          "raw": 7,
+          "pts": 14
+        },
+        "val": {
+          "raw": 8,
+          "pts": 11.2
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 8,
+          "pts": 9.6
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 5,
+          "pts": 3
+        },
+        "assets": {
+          "raw": 6,
+          "pts": 3
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "B — qualified",
+      "rating": null,
+      "reviews": 22,
+      "affordability": [
+        "Stamped driveways $8K–$25K; structural/commercial pads scale fast",
+        "45 years of operation with 90 photos",
+        "Yelp Guaranteed eligibility indicates account spend"
+      ],
+      "risks": [
+        "Needs an SEO-consistent NAP record first",
+        "Owner-operated: keep CMS extremely simple"
+      ],
+      "notes": [],
+      "concept": "Formwork-inspired layout: hard rectangles, stencil numerals, spec blocks (psi, thickness, rebar, finish) and a pour-season note.",
+      "rank": 46
+    },
+    {
+      "id": "sv019",
+      "slug": "fremont-auto-repair-fremont",
+      "name": "Fremont Auto Repair",
+      "cat": "Auto repair",
+      "city": "Fremont",
+      "arch": "automotive-garage",
+      "status": "No website",
+      "confidence": "single source — audit pending",
+      "url": null,
+      "total": 67.3,
+      "parts": {
+        "aff": {
+          "raw": 6,
+          "pts": 10.8
+        },
+        "gap": {
+          "raw": 9,
+          "pts": 18
+        },
+        "val": {
+          "raw": 9,
+          "pts": 12.6
+        },
+        "brand": {
+          "raw": 4,
+          "pts": 4.8
+        },
+        "roi": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 7,
+          "pts": 4.2
+        },
+        "assets": {
+          "raw": 4,
+          "pts": 2
+        },
+        "comp": {
+          "raw": 5,
+          "pts": 2.5
+        }
+      },
+      "tier": "B — qualified",
+      "rating": 2.8,
+      "reviews": 86,
+      "affordability": [
+        "Regulatory inspection work has steady, non-discretionary local demand",
+        "Operating since 1995 with shop equipment and state approvals",
+        "Owner already replies publicly to enquiries, showing willingness to manage reputation"
+      ],
+      "risks": [
+        "Public rating risk: the engagement must include a review workflow, not only a site",
+        "Address and phone not published in the captured listing - data hygiene first"
+      ],
+      "notes": [],
+      "concept": "Accountability-first shop site: policy cards, a shop-status panel, appointment request flow, and a review-recovery module.",
+      "rank": 47
+    },
+    {
+      "id": "sv014",
+      "slug": "new-life-tree-service-santa-clara",
+      "name": "New Life Tree Service",
+      "cat": "Tree care",
+      "city": "Santa Clara",
+      "arch": "industrial-brutalist",
+      "status": "No website",
+      "confidence": "verified across two or more directories",
+      "url": null,
+      "total": 67,
+      "parts": {
+        "aff": {
+          "raw": 6,
+          "pts": 10.8
+        },
+        "gap": {
+          "raw": 10,
+          "pts": 20
+        },
+        "val": {
+          "raw": 8,
+          "pts": 11.2
+        },
+        "brand": {
+          "raw": 5,
+          "pts": 6
+        },
+        "roi": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "vis": {
+          "raw": 4,
+          "pts": 3.2
+        },
+        "vol": {
+          "raw": 4,
+          "pts": 2.4
+        },
+        "assets": {
+          "raw": 4,
+          "pts": 2
+        },
+        "comp": {
+          "raw": 6,
+          "pts": 3
+        }
+      },
+      "tier": "B — qualified",
+      "rating": 4.1,
+      "reviews": 15,
+      "affordability": [
+        "Large redwood and oak removals run $3K-$15K each",
+        "Repeat decade-long customers indicate stable, referral-driven demand",
+        "Service-verification work already done on the profile"
+      ],
+      "risks": [
+        "Unclaimed listing: reaching the owner is the first hurdle",
+        "15 reviews is too small for a proof-led design; lead with method instead"
+      ],
+      "notes": [],
+      "concept": "Vertical canopy layout: oversized numerals, a rigging-diagram hero, and a scheduling-first funnel that repairs their single weak spot.",
+      "rank": 48
+    },
+    {
+      "id": "sv012",
+      "slug": "lipscomb-concrete-san-jose",
+      "name": "Lipscomb Concrete",
+      "cat": "Concrete",
+      "city": "San Jose",
+      "arch": "industrial-brutalist",
+      "status": "Extremely outdated or basic website",
+      "confidence": "verified across two or more directories",
+      "url": "http://lipscombconcrete.net",
+      "total": 64.8,
+      "parts": {
+        "aff": {
+          "raw": 6,
+          "pts": 10.8
+        },
+        "gap": {
+          "raw": 8,
+          "pts": 16
+        },
+        "val": {
+          "raw": 8,
+          "pts": 11.2
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "vis": {
+          "raw": 4,
+          "pts": 3.2
+        },
+        "vol": {
+          "raw": 3,
+          "pts": 1.8
+        },
+        "assets": {
+          "raw": 5,
+          "pts": 2.5
+        },
+        "comp": {
+          "raw": 5,
+          "pts": 2.5
+        }
+      },
+      "tier": "B — qualified",
+      "rating": null,
+      "reviews": null,
+      "affordability": [
+        "Cast countertops $4K–$15K; structural jobs larger",
+        "Nearly four decades operating, .net-era web presence",
+        "Owner (Joe L.) does consultations personally — high close potential with good intake"
+      ],
+      "risks": [
+        "Possible one-man operation — verify crew size",
+        "No review engine; site must collect first-party proof"
+      ],
+      "notes": [],
+      "concept": "Cast-concrete material study: soft-edge plates, subtle relief shadows, a specimen library of finishes and mixes.",
+      "rank": 49
+    },
+    {
+      "id": "sv031",
+      "slug": "skyblue-pool-service-los-gatos",
+      "name": "SkyBlue Pool Supply & Service",
+      "cat": "Pool service & retail",
+      "city": "Los Gatos",
+      "arch": "retail-showroom",
+      "status": "Extremely outdated or basic website",
+      "confidence": "verified against a live source",
+      "url": "http://skybluepool.com",
+      "total": 63,
+      "parts": {
+        "aff": {
+          "raw": 6,
+          "pts": 10.8
+        },
+        "gap": {
+          "raw": 6,
+          "pts": 12
+        },
+        "val": {
+          "raw": 7,
+          "pts": 9.8
+        },
+        "brand": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "roi": {
+          "raw": 7,
+          "pts": 8.4
+        },
+        "vis": {
+          "raw": 5,
+          "pts": 4
+        },
+        "vol": {
+          "raw": 6,
+          "pts": 3.6
+        },
+        "assets": {
+          "raw": 7,
+          "pts": 3.5
+        },
+        "comp": {
+          "raw": 5,
+          "pts": 2.5
+        }
+      },
+      "tier": "B — qualified",
+      "rating": 4.6,
+      "reviews": 40,
+      "affordability": [
+        "Sixty-plus years of trading, a lease and a retail operation",
+        "Service-route revenue is recurring and highly defensible",
+        "Existing willingness to pay for web work (2025 rebuild)"
+      ],
+      "risks": [
+        "Budget ceiling: scope a focused commerce or booking add-on, not a full brand programme",
+        "Retail inventory systems may not integrate cleanly"
+      ],
+      "notes": [],
+      "concept": "Retro pool-supply merchandising: 1960s sign lettering, waterline tile grid, a service-plan picker, and a water-test explainer with a simple chemical chart. Commerce-light but product-aware.",
+      "rank": 50
+    }
+  ]
+}

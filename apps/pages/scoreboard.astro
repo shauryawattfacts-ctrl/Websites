@@ -1,0 +1,54 @@
+---
+/** Score model + per-prospect sub-scores. */
+import '../../layouts/portal.css';
+import scored from '../../data/scored.json';
+const W = scored.weights as Record<string, any>;
+const keys = Object.keys(W);
+const p = scored.prospects as any[];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Website Opportunity Score — model and breakdown</title>
+  <meta name="description" content="Weights behind the Website Opportunity Score and the sub-score breakdown for every prospect." />
+  <link rel="canonical" href="/scoreboard" />
+  <meta property="og:image" content="/og/portal.png" />
+  <link rel="icon" href="/favicon/portal.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" />
+  <meta property="og:title" content="Silicon Valley Website Opportunity Studio" />
+  <meta property="og:description" content="Research, scores and generated sites for 50 qualified Bay Area prospects." />
+  <meta name="twitter:card" content="summary_large_image" />
+  <style is:inline>body { background:#101114; color:#ece9e2 }</style>
+</head>
+<body>
+  <a class="p-skip" href="#body">Skip to content</a>
+  <main id="body" class="p-doc">
+    <p class="p-kicker"><a href="/">← Portal</a></p>
+    <h1 class="p-h1">Website Opportunity Score</h1>
+    <p class="p-lede">Total = Σ (sub-score ÷ 10 × weight) × 100. Sub-scores are authored in the research record during verification; weights live in <code>scripts/score.mjs</code> so the model can be argued about in one place.</p>
+    <table class="p-table">
+      <caption>Weights</caption>
+      <thead><tr><th>Factor</th><th>Weight</th><th>What it measures</th></tr></thead>
+      <tbody>{keys.map((k) => <tr><td><strong>{W[k].label}</strong></td><td class="mono">{Math.round(W[k].w * 100)}%</td><td>{W[k].why}</td></tr>)}</tbody>
+    </table>
+    <table class="p-table">
+      <caption>Sub-score breakdown (0–10 each)</caption>
+      <thead><tr><th>#</th><th>Business</th>{keys.map((k) => <th>{W[k].label}</th>)}<th>Total</th><th>Tier</th></tr></thead>
+      <tbody>
+        {p.map((r) => (
+          <tr>
+            <td class="mono">{r.rank}</td>
+            <td><a href={`/${r.slug}`}>{r.name}</a></td>
+            {keys.map((k) => <td class="mono">{r.parts[k].raw}</td>)}
+            <td class="mono p-score">{r.total}</td>
+            <td class="mono">{r.tier.split(' — ')[0]}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+    <p class="p-note">Tier bands: S ≥ 82 (immediate outreach), A ≥ 72 (strong fit), B ≥ 62 (qualified), C below (qualified but lower priority).</p>
+  </main>
+</body>
+</html>

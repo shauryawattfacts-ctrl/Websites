@@ -1,0 +1,332 @@
+{
+  "id": "sv031",
+  "slug": "skyblue-pool-service-los-gatos",
+  "name": "SkyBlue Pool Supply & Service",
+  "short": "SkyBlue Pool Supply",
+  "cat": "Pool service & retail",
+  "sub": "Service routes, chemicals, equipment",
+  "city": "Los Gatos",
+  "zip": "95032",
+  "addr": "805 University Ave Ste B, Los Gatos, CA 95030",
+  "phone": "(408) 359-3671",
+  "email": null,
+  "contactNote": null,
+  "founded": "1965 (sixty-plus years, family-run)",
+  "hours": "Mon-Sat store and service days",
+  "audience": "Los Gatos, Campbell and Saratoga pool owners; contractors and spa trade",
+  "scale": {
+    "emp": "service routes plus retail counter",
+    "loc": 1
+  },
+  "description": "Combined pool service company and retail supply store: weekly maintenance, chemical balancing, equipment repair, and a downtown counter for parts, testing and water analysis.",
+  "services": [
+    "Weekly pool service programs",
+    "Water testing and chemical programs",
+    "Equipment repair and replacement",
+    "Retail chemicals and parts",
+    "Spa service",
+    "Green-to-clean recoveries"
+  ],
+  "serviceCopy": [
+    "Route service with logged readings.",
+    "Water analysis at the counter.",
+    "Equipment repair and replacement parts.",
+    "Recoveries from green to swimable."
+  ],
+  "insight": "ZoomInfo lists revenue under $5M with a WordPress and Google Workspace stack: real, but not big enough for a $25K rebuild without a strong ROI story.",
+  "usps": [
+    "Same family, same block, since 1965",
+    "Real water testing at a counter, not an app",
+    "Service and supply under one roof"
+  ],
+  "differentiators": [
+    "Publishes water-test results and chemical logic, plus booking for route service"
+  ],
+  "voice": "Sun-faded, generous, exact",
+  "persona": "The valley pool counter",
+  "reputation": {
+    "rating": 4.6,
+    "reviews": 40,
+    "src": "Yelp; 4.98 of 9 on Angi",
+    "note": "Sixty years of goodwill with duplicated carousel quotes on their own page."
+  },
+  "budget": {
+    "afford": [
+      "Sixty-plus years of trading, a lease and a retail operation",
+      "Service-route revenue is recurring and highly defensible",
+      "Existing willingness to pay for web work (2025 rebuild)"
+    ],
+    "risk": [
+      "Budget ceiling: scope a focused commerce or booking add-on, not a full brand programme",
+      "Retail inventory systems may not integrate cleanly"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Tile blue",
+      "chlorine lime",
+      "deck concrete"
+    ],
+    "logo": "Existing signage has a retro script - restore as a 1960s wordmark",
+    "photoNote": "Counter, test kit, tiles, afternoon light on water"
+  },
+  "copy": {
+    "eyebrow": "Los Gatos · since 1965",
+    "h1": "Sixty years of reading water on this block.",
+    "sub": "Weekly pool service, water analysis and a real parts counter - all still run by the same family on University Avenue.",
+    "cta1": "Book a service start",
+    "cta2": "Bring in a water sample",
+    "lede": "SkyBlue has been the pool counter downtown since 1965. The new website is friendly but empty: no schedule, no inventory, and the same review twice.",
+    "svcCopy": [
+      "Route service with logged readings.",
+      "Water analysis at the counter.",
+      "Equipment repair and replacement parts.",
+      "Recoveries from green to swimable."
+    ]
+  },
+  "concept": {
+    "dir": "Retro pool-supply merchandising: 1960s sign lettering, waterline tile grid, a service-plan picker, and a water-test explainer with a simple chemical chart. Commerce-light but product-aware.",
+    "palette": {
+      "ink": "#12324a",
+      "paper": "#eef6f8",
+      "accent": "#00a3c4",
+      "accent2": "#f2c14e"
+    },
+    "heroType": "fullbleed",
+    "motion": "line-mask",
+    "interactive": [
+      "Service plan picker with pool size inputs",
+      "Water chemistry explainer chart (interactive slider for pH/chlorine)",
+      "Historic timeline of the shop since 1965",
+      "Store inventory highlights (client-supplied at launch)"
+    ],
+    "pages": [
+      "index",
+      "service",
+      "store",
+      "water-school",
+      "contact"
+    ],
+    "nav": [
+      "Service",
+      "Store",
+      "Water school",
+      "Contact"
+    ],
+    "tone": "Neighbourhood expertise",
+    "refs": "A heritage local shop with a real counter.",
+    "signature": "picker",
+    "hero": "fullbleed"
+  },
+  "web": {
+    "s": "basic",
+    "url": "http://skybluepool.com",
+    "lvl": "A",
+    "note": "Audited live: a modern 2025 WordPress rebuild, but with a duplicated testimonial carousel, no product inventory, no online ordering and no scheduling - a brochure pretending to be a service business that also sells goods in a store.",
+    "src": [
+      "http://skybluepool.com",
+      "https://www.angieslist.com"
+    ],
+    "status": "Extremely outdated or basic website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/skyblue-pool-service-los-gatos",
+    "other": [
+      "https://www.angieslist.com"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for SkyBlue Pool Supply & Service — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "retail-showroom",
+    "label": "Showroom Index",
+    "summary": "Catalogue-thinking: swatch rail, filterable product index, brand marquee, visit-the-showroom CTA, spec rows per material.",
+    "fonts": {
+      "display": "\"Space Grotesk\"",
+      "body": "\"Inter\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400",
+    "nav": "utility",
+    "motion": "line-mask",
+    "tokens": {
+      "ink": "#12324a",
+      "paper": "#eef6f8",
+      "accent": "#00a3c4",
+      "accent2": "#f2c14e",
+      "inkName": "Tile blue",
+      "radius": "8px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 16%, transparent)",
+      "shadow": "0 16px 34px -26px rgb(20 20 30 / .5)",
+      "pad": "clamp(3.6rem,8vw,6.8rem)",
+      "scale": "1.22",
+      "headingCase": "none",
+      "track": "-.018em",
+      "texture": "grid",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "swatches",
+      "collections",
+      "brands",
+      "process",
+      "visit",
+      "reviews",
+      "services"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/skyblue-pool-service-los-gatos",
+      "title": "SkyBlue Pool Supply & Service — Pool service & retail in Los Gatos",
+      "description": "Weekly pool service, water analysis and a real parts counter - all still run by the same family on University Avenue.",
+      "h1": "Sixty years of reading water on this block.",
+      "kicker": "Los Gatos · since 1965",
+      "sections": [
+        "hero",
+        "swatches",
+        "collections",
+        "brands",
+        "process",
+        "visit",
+        "reviews",
+        "services"
+      ]
+    },
+    {
+      "slug": "service",
+      "file": "service.astro",
+      "path": "/skyblue-pool-service-los-gatos/service",
+      "title": "Service — SkyBlue Pool Supply & Service",
+      "description": "Service at SkyBlue Pool Supply in Los Gatos: Weekly pool service programs, Water testing and chemical programs, Equipment repair and replacement. Weekly pool service, water analysis and a real parts counter - all still run by the same family on University Avenue.",
+      "h1": "Service",
+      "kicker": "Pool service & retail",
+      "sections": [
+        "hero",
+        "services",
+        "collections",
+        "swatches",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "store",
+      "file": "store.astro",
+      "path": "/skyblue-pool-service-los-gatos/store",
+      "title": "Store — SkyBlue Pool Supply & Service",
+      "description": "Store at SkyBlue Pool Supply in Los Gatos: Weekly pool service programs, Water testing and chemical programs, Equipment repair and replacement. Weekly pool service, water analysis and a real parts counter - all still run by the same family on University Avenue.",
+      "h1": "Store",
+      "kicker": "Pool service & retail",
+      "sections": [
+        "hero",
+        "services",
+        "collections",
+        "swatches",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "water-school",
+      "file": "water-school.astro",
+      "path": "/skyblue-pool-service-los-gatos/water-school",
+      "title": "Water School — SkyBlue Pool Supply & Service",
+      "description": "Water School at SkyBlue Pool Supply in Los Gatos: Weekly pool service programs, Water testing and chemical programs, Equipment repair and replacement. Weekly pool service, water analysis and a real parts counter - all still run by the same family on University Avenue.",
+      "h1": "Water School",
+      "kicker": "Pool service & retail",
+      "sections": [
+        "hero",
+        "services",
+        "collections",
+        "swatches",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/skyblue-pool-service-los-gatos/contact",
+      "title": "Contact — SkyBlue Pool Supply & Service",
+      "description": "Call or write to SkyBlue Pool Supply & Service in Los Gatos. (408) 359-3671",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "process",
+        "visit",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 6,
+    "gap": 6,
+    "vis": 5,
+    "vol": 6,
+    "brand": 7,
+    "comp": 5,
+    "val": 7,
+    "assets": 7,
+    "roi": 7
+  },
+  "seo": {
+    "title": "SkyBlue Pool Supply & Service — Pool service & retail in Los Gatos",
+    "description": "Weekly pool service, water analysis and a real parts counter - all still run by the same family on University Avenue.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "Store",
+    "name": "SkyBlue Pool Supply & Service",
+    "description": "Weekly pool service, water analysis and a real parts counter - all still run by the same family on University Avenue.",
+    "phone": "(408) 359-3671",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Los Gatos",
+      "addressRegion": "CA",
+      "postalCode": "95032",
+      "streetAddress": "805 University Ave Ste B"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/skyblue-pool-service-los-gatos",
+      "https://www.angieslist.com"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.6,
+      "reviewCount": 40,
+      "bestRating": 5
+    },
+    "slogan": "Sixty years of reading water on this block.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "http://skybluepool.com",
+    "https://www.angieslist.com",
+    "https://www.yelp.com/biz/skyblue-pool-service-los-gatos"
+  ],
+  "sourceNotes": []
+}

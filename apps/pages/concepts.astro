@@ -1,0 +1,118 @@
+---
+/**
+ * concepts.astro — the design-concept register for all 50 sites.
+ *
+ * Every card is rendered with that business's own tokens (palette, radii, type
+ * scale, fonts), so the register doubles as a visual proof that no two sites
+ * share a direction. Data source is identical to the generated sites:
+ * data/businesses/<slug>.json, produced by scripts/build-data.mjs.
+ */
+import '../../layouts/portal.css';
+import scored from '../../data/scored.json';
+import { readdirSync, readFileSync } from 'node:fs';
+import path from 'node:path';
+
+const DIR = path.resolve(process.cwd(), 'data/businesses');
+const bySlug = Object.fromEntries(scored.prospects.map((p: any) => [p.slug, p]));
+const rankOf = (slug: string) => bySlug[slug]?.rank ?? 99;
+const scoreOf = (slug: string) => bySlug[slug]?.total ?? 0;
+const specs = readdirSync(DIR).filter((f: string) => f.endsWith('.json'))
+  .map((f: string) => JSON.parse(readFileSync(path.join(DIR, f), 'utf8')))
+  .sort((a: any, b: any) => rankOf(a.slug) - rankOf(b.slug));
+
+const groups = new Map<string, any[]>();
+for (const s of specs) {
+  const k = s.design.label;
+  if (!groups.has(k)) groups.set(k, []);
+  groups.get(k)!.push(s);
+}
+const vars = (t: any) =>
+  `--ink:${t.ink};--paper:${t.paper};--accent:${t.accent};--accent2:${t.accent2};--radius:${t.radius};--hair:${t.hair};--pad:${t.pad};--track:${t.track};` +
+  `--font-display:${(t.fonts?.display || 'system-ui').replace(/'/g, '')};--font-body:${(t.fonts?.body || 'system-ui').replace(/'/g, '')};`;
+const swatches = (t: any) => [t.paper, t.ink, t.accent, t.accent2];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Design concepts — {specs.length} unique site directions, one per prospect</title>
+  <meta name="description" content="Per-business design direction: visual identity, typography, palette, hero treatment, navigation, interaction, motion strategy and page structure for all 50 generated sites." />
+  <link rel="canonical" href="/concepts" />
+  <meta property="og:title" content="Design concepts — Silicon Valley Website Opportunity Studio" />
+  <meta property="og:description" content={`${specs.length} researched prospects, ${specs.length} distinct design directions, rendered from one dataset.`} />
+  <meta property="og:image" content="/og/portal.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="icon" href="/favicon/portal.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href={`https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap${specs[0]?.design.google ? '&' + specs[0].design.google : ''}`} />
+  <link rel="stylesheet" href="/portal-fonts.css" />
+  <style is:inline>
+    body { background:#101114; color:#ece9e2 }
+    .c-grid { display:grid; gap:clamp(1rem,2vw,1.6rem); grid-template-columns:repeat(auto-fill,minmax(23rem,1fr)); margin-block:2rem }
+    .c-card { border:1px solid var(--p-line); border-radius:14px; overflow:hidden; background:#16181d; display:flex; flex-direction:column }
+    .c-prev { padding:clamp(1rem,3vw,1.5rem); background:var(--paper); color:var(--ink); border-bottom:1px solid var(--p-line) }
+    .c-prev .k { font:500 .62rem/1 var(--font-body,monospace); letter-spacing:var(--track,.1em); text-transform:uppercase; color:var(--accent) }
+    .c-prev h4 { margin:.5rem 0 .35rem; font-family:var(--font-display,serif); font-size:clamp(1.25rem,3.4vw,1.7rem); line-height:1.03; letter-spacing:-.01em }
+    .c-prev p { margin:0; font-family:var(--font-body,sans-serif); font-size:.82rem; line-height:1.5; opacity:.75; max-width:44ch }
+    .c-prev .btn { display:inline-flex; gap:.4rem; align-items:center; margin-top:.85rem; font:600 .74rem/1 var(--font-body,sans-serif); padding:.55rem .8rem; background:var(--accent); color:var(--paper); border-radius:var(--radius,4px) }
+    .c-sw { display:flex; gap:0; height:.5rem }
+    .c-sw i { flex:1 }
+    .c-body { padding:1rem clamp(1rem,3vw,1.25rem) 1.25rem; display:grid; gap:.5rem; font-size:.8rem; color:var(--p-dim) }
+    .c-body dl { display:grid; grid-template-columns:6.5rem 1fr; gap:.3rem .8rem; margin:0 }
+    .c-body dt { font:500 .68rem/1.5 var(--font-mono,monospace); letter-spacing:.08em; text-transform:uppercase; color:#6f6a61 }
+    .c-body dd { margin:0; color:#d7d2c8 }
+    .c-rank { display:flex; justify-content:space-between; align-items:baseline; gap:1rem }
+    .c-rank a { color:#ece9e2; text-decoration:none; font:600 1rem/1.3 "Fraunces",serif }
+    .c-rank a:hover { color:var(--p-acc) }
+    .c-mono { font-family:"JetBrains Mono",monospace; font-size:.7rem; color:#6f6a61 }
+    .c-h { margin:2.6rem 0 1rem; font:600 clamp(1.15rem,2.4vw,1.5rem)/1.2 "Fraunces",serif; display:flex; gap:.8rem; align-items:baseline }
+    .c-h span { font:400 .72rem/1 "JetBrains Mono",monospace; letter-spacing:.1em; text-transform:uppercase; color:#6f6a61 }
+  </style>
+</head>
+<body>
+  <a class="p-skip" href="#body">Skip to content</a>
+  <main id="body" class="p-doc">
+    <p class="p-kicker"><a href="/">← Portal</a> · <a href="/prospects">Ranked database</a> · <a href="/research-index">Method &amp; evidence</a></p>
+    <h1 class="p-h1">Design concepts</h1>
+    <p class="p-lede">{specs.length} prospects, {groups.size} design systems, {specs.length} different directions. Each card is rendered with its own tokens — palette, type, radii, tracking — and every one of them is the same data the production site is built from. Nothing here is a recoloured copy of a template: the section roster, hero treatment, navigation, motion strategy and signature interaction all differ.</p>
+
+    {[...groups].map(([label, list]) => (
+      <section>
+        <h2 class="c-h">{label} <span>{list.length} {list.length === 1 ? 'site' : 'sites'}</span></h2>
+        <p class="c-mono">{list[0].design.summary}</p>
+        <div class="c-grid">
+          {list.map((s: any) => (
+            <article class="c-card">
+              <div class="c-prev" style={vars(s.design.tokens)}>
+                <p class="k">{s.concept.kicker || s.copy.eyebrow}</p>
+                <h4>{s.copy.h1}</h4>
+                <p>{s.copy.sub}</p>
+                <span class="btn">{s.copy.cta1} →</span>
+              </div>
+              <div class="c-sw">{swatches(s.design.tokens).map((c: string) => <i style={`background:${c}`} />)}</div>
+              <div class="c-body">
+                <p class="c-rank"><a href={`/${s.slug}`}>{s.name}</a><span class="c-mono">#{rankOf(s.slug)} · {scoreOf(s.slug)}</span></p>
+                <dl>
+                  <div><dt>Direction</dt><dd>{s.concept.dir}</dd></div>
+                  <div><dt>Type</dt><dd>{s.design.fonts.display} / {s.design.fonts.body}{s.design.fonts.mono ? ` / ${s.design.fonts.mono}` : ''}</dd></div>
+                  <div><dt>Palette</dt><dd class="c-mono">{swatches(s.design.tokens).join(' · ')}</dd></div>
+                  <div><dt>Hero</dt><dd>{s.concept.hero} · {s.design.nav} nav</dd></div>
+                  <div><dt>Motion</dt><dd>{s.design.motion}</dd></div>
+                  <div><dt>Signature</dt><dd>{s.concept.signature}{s.concept.threeD ? ` · WebGL: ${s.concept.threeD}` : ''}</dd></div>
+                  <div><dt>Interactive</dt><dd>{(s.concept.interactive || []).join('; ')}</dd></div>
+                  <div><dt>Pages</dt><dd>{s.pages.map((p: any) => p.slug === 'index' ? 'home' : p.slug).join(' · ')}</dd></div>
+                  <div><dt>Tone</dt><dd>{s.concept.tone}</dd></div>
+                  <div><dt>Refs</dt><dd>{s.concept.refs}</dd></div>
+                </dl>
+                <p class="c-mono">{s.web.status} · confidence {(s.web.confidence || '').split(' ')[0]}</p>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+    ))}
+
+    <p class="p-note">Type loading: all families resolve through one Google Fonts request per site with a system-stack fallback, so a blocked CDN degrades the layout without breaking it.</p>
+  </main>
+</body>
+</html>

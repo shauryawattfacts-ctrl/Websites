@@ -1,0 +1,318 @@
+{
+  "id": "sv026",
+  "slug": "law-offices-of-david-s-park-santa-clara",
+  "name": "Law Offices of David S. Park",
+  "short": "Law Offices of",
+  "cat": "Estate planning law",
+  "sub": "Living trusts, probate & directives",
+  "city": "Santa Clara",
+  "zip": "95050",
+  "addr": "1777 Hamilton Ave, Santa Clara, CA 95050",
+  "phone": null,
+  "email": null,
+  "contactNote": null,
+  "founded": "not verified",
+  "hours": "Mon-Fri office hours",
+  "audience": "Mid-peninsula families, Korean- and English-speaking households",
+  "scale": {
+    "emp": "attorney plus paralegal",
+    "loc": 1
+  },
+  "description": "Estate planning practice covering living trusts, wills, advance directives and probate or trust administration from an office on Hamilton Avenue.",
+  "services": [
+    "Living trusts",
+    "Wills and beneficiary designations",
+    "Advance health care directives",
+    "Probate and trust administration",
+    "Plan updates after major life events",
+    "Small business succession"
+  ],
+  "serviceCopy": [
+    "Trusts drafted for real families.",
+    "Directives that medical staff will honour.",
+    "Administration after a death, handled.",
+    "Updates when life changes."
+  ],
+  "insight": "A perfect 5.0 across 37 reviews with no owned web presence at all: the highest signal-to-asset gap in the legal group.",
+  "usps": [
+    "Perfect rating on real volume",
+    "Covers administration, not just drafting",
+    "Serves multilingual families directly"
+  ],
+  "differentiators": [
+    "Publishes a plain-language probate-avoidance guide in two languages"
+  ],
+  "voice": "Precise, warm, unhurried",
+  "persona": "The family estate counsel",
+  "reputation": {
+    "rating": 5,
+    "reviews": 37,
+    "src": "Yelp",
+    "note": "Consistent five-star pattern across a meaningful volume."
+  },
+  "budget": {
+    "afford": [
+      "Trust packages locally run $3K-$9K plus administration",
+      "37 reviews at 5.0 is a rare, licensable proof asset",
+      "Office tenancy on Hamilton Ave implies established practice"
+    ],
+    "risk": [
+      "Phone number not published in the listings captured — confirm before outreach and before any tel: link ships.",
+      "Zero web footprint means no brand assets to reuse",
+      "Bilingual positioning needs native review before launch"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Deep navy",
+      "manila",
+      "brass"
+    ],
+    "logo": "Monogram D S P under a hairline rule",
+    "photoNote": "Consultation table, signed documents, shelves"
+  },
+  "copy": {
+    "eyebrow": "Santa Clara · estate planning",
+    "h1": "The estate plan your family will actually be able to follow.",
+    "sub": "Living trusts, wills and directives drafted on Hamilton Avenue - and administered properly when the time comes.",
+    "cta1": "Book a planning session",
+    "cta2": "Start with the guide",
+    "lede": "David Park has practised law in Santa Clara County for decades at a 5.0 rating across 37 reviews — estate planning, probate and business matters, handled personally by the attorney you hired.",
+    "svcCopy": [
+      "Trusts drafted for real families.",
+      "Directives that medical staff will honour.",
+      "Administration after a death, handled.",
+      "Updates when life changes."
+    ]
+  },
+  "concept": {
+    "dir": "Quiet print-led legal identity: hairline rules, numbered practice notes, and a two-column plain-language guide with a print stylesheet. Motion limited to line masks.",
+    "palette": {
+      "ink": "#15181d",
+      "paper": "#f7f5f0",
+      "accent": "#22406b",
+      "accent2": "#9a7b4f"
+    },
+    "heroType": "editorial",
+    "motion": "line-mask",
+    "interactive": [
+      "Scroll-linked reading progress on the guide",
+      "Practice note index with anchors",
+      "Consultation request form with matter-type picker",
+      "Attorney bio with credentials block"
+    ],
+    "pages": [
+      "index",
+      "practice",
+      "guide",
+      "attorney",
+      "contact"
+    ],
+    "nav": [
+      "Practice",
+      "The guide",
+      "Attorney",
+      "Contact"
+    ],
+    "tone": "Calm competence",
+    "refs": "A well-set pamphlet from a civic institution.",
+    "signature": "picker",
+    "hero": "editorial"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Appears in Santa Clara and Saratoga estate-planning result sets at 5.0 with 37 reviews and no website field in the listings captured; no domain surfaced. Live audit pending.",
+    "src": [
+      "https://www.yelp.com/search?cflt=estateplanning&find_loc=Saratoga%2C+CA"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/search?cflt=estateplanning&find_loc=Saratoga%2C+CA"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Law Offices of David S. Park — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "editorial-legal",
+    "label": "Quiet Authority",
+    "summary": "Long-form editorial law/professional practice: serif display, drop caps, measured columns, case-type index, unhurried scroll reveals.",
+    "fonts": {
+      "display": "\"Fraunces\"",
+      "body": "\"Source Sans 3\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Fraunces:opsz,wght@9..144,400;9..144,600&family=Source+Sans+3:wght@400;500;600&family=IBM+Plex+Mono:wght@400",
+    "nav": "centered",
+    "motion": "line-mask",
+    "tokens": {
+      "ink": "#15181d",
+      "paper": "#f7f5f0",
+      "accent": "#22406b",
+      "accent2": "#9a7b4f",
+      "inkName": "Deep navy",
+      "radius": "0px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 18%, transparent)",
+      "shadow": "none",
+      "pad": "clamp(4.5rem,10vw,9rem)",
+      "scale": "1.2",
+      "headingCase": "none",
+      "track": "-.012em",
+      "texture": "rule",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "credentials",
+      "practice",
+      "process",
+      "results",
+      "insight",
+      "faq",
+      "services"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/law-offices-of-david-s-park-santa-clara",
+      "title": "Law Offices of David S. Park — Estate planning law in Santa Clara",
+      "description": "Living trusts, wills and directives drafted on Hamilton Avenue - and administered properly when the time comes.",
+      "h1": "The estate plan your family will actually be able to follow.",
+      "kicker": "Santa Clara · estate planning",
+      "sections": [
+        "hero",
+        "credentials",
+        "practice",
+        "process",
+        "results",
+        "insight",
+        "faq",
+        "services"
+      ]
+    },
+    {
+      "slug": "practice",
+      "file": "practice.astro",
+      "path": "/law-offices-of-david-s-park-santa-clara/practice",
+      "title": "Practice — Law Offices of David S. Park",
+      "description": "Practice at Law Offices of in Santa Clara: Living trusts, Wills and beneficiary designations, Advance health care directives. Living trusts, wills and directives drafted on Hamilton Avenue - and administered properly when the time comes.",
+      "h1": "Practice",
+      "kicker": "Estate planning law",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "guide",
+      "file": "guide.astro",
+      "path": "/law-offices-of-david-s-park-santa-clara/guide",
+      "title": "Guide — Law Offices of David S. Park",
+      "description": "Guide at Law Offices of in Santa Clara: Living trusts, Wills and beneficiary designations, Advance health care directives. Living trusts, wills and directives drafted on Hamilton Avenue - and administered properly when the time comes.",
+      "h1": "Guide",
+      "kicker": "Estate planning law",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "attorney",
+      "file": "attorney.astro",
+      "path": "/law-offices-of-david-s-park-santa-clara/attorney",
+      "title": "Attorney — Law Offices of David S. Park",
+      "description": "Attorney at Law Offices of in Santa Clara: Living trusts, Wills and beneficiary designations, Advance health care directives. Living trusts, wills and directives drafted on Hamilton Avenue - and administered properly when the time comes.",
+      "h1": "Attorney",
+      "kicker": "Estate planning law",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/law-offices-of-david-s-park-santa-clara/contact",
+      "title": "Contact — Law Offices of David S. Park",
+      "description": "Call or write to Law Offices of David S. Park in Santa Clara. Contact details verified against public listings.",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 10,
+    "vis": 4,
+    "vol": 7,
+    "brand": 6,
+    "comp": 7,
+    "val": 9,
+    "assets": 3,
+    "roi": 8
+  },
+  "seo": {
+    "title": "Law Offices of David S. Park — Estate planning law in Santa Clara",
+    "description": "Living trusts, wills and directives drafted on Hamilton Avenue - and administered properly when the time comes.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LegalService",
+    "name": "Law Offices of David S. Park",
+    "description": "Living trusts, wills and directives drafted on Hamilton Avenue - and administered properly when the time comes.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Santa Clara",
+      "addressRegion": "CA",
+      "postalCode": "95050",
+      "streetAddress": "1777 Hamilton Ave"
+    },
+    "sameAs": [
+      "https://www.yelp.com/search?cflt=estateplanning&find_loc=Saratoga%2C+CA"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 37,
+      "bestRating": 5
+    },
+    "slogan": "The estate plan your family will actually be able to follow.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/search?cflt=estateplanning&find_loc=Saratoga%2C+CA"
+  ],
+  "sourceNotes": []
+}

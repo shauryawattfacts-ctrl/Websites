@@ -1,0 +1,12 @@
+---
+/**
+ * bt-properties-mountain-view / owners — generated from data/businesses/bt-properties-mountain-view.json
+ * Do not edit by hand: change the research record, then run `npm run gen`.
+ * Each site owns its own page list, nav, section roster and copy, all of which
+ * come from research; the shared layout supplies the rendering.
+ */
+import Site from '../../../layouts/site.astro';
+import spec from '../../../data/businesses/bt-properties-mountain-view.json';
+const page = spec.pages.find((p) => p.slug === 'owners');
+---
+<Site biz={spec} page={page} />

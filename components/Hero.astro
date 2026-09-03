@@ -1,0 +1,94 @@
+---
+/**
+ * Hero.astro — seven distinct hero constructions. The variant is chosen per
+ * business from the research (concept.heroType), never per template.
+ */
+import HeroArt from './HeroArt.astro';
+import Icon from './Icon.astro';
+interface Props { biz: any; page?: any; first?: boolean; three?: boolean }
+const { biz, page, first = true, three = false } = Astro.props;
+const hero = page && !first ? 'editorial' : biz.concept.hero;
+const c = biz.copy;
+const stats = [
+  biz.founded && !/not verified/i.test(biz.founded) ? { k: 'Since', v: String(biz.founded).match(/(19|20)\d{2}/)?.[0] || biz.founded } : null,
+  biz.reputation?.reviews ? { k: 'Public reviews', v: `${biz.reputation.reviews}` } : null,
+  { k: 'Category', v: biz.cat },
+].filter(Boolean) as { k: string; v: string }[];
+const sub = `/img/${biz.slug}/hero.jpg`;
+---
+<section class="hero" data-hero={hero} id="top" aria-labelledby={first ? 'h1' : undefined}>
+  {hero === 'fullbleed' && (
+    <div class="hero-bg" aria-hidden="true">
+      {biz.photo ? <img src={sub} alt="" width="1200" height="900" fetchpriority="high" /> : <HeroArt biz={biz} class="hero-art" />}
+      {three && <span class="three-host" data-three={biz.slug === 'potts-landscape-los-altos' ? 'terrain' : 'gloss'} aria-hidden="true"></span>}
+      <span class="hero-veil"></span>
+    </div>
+  )}
+  <div class={`shell hero-in ${hero === 'split' ? 'split' : ''}`}>
+    <div class="stack" style="--stack:1.05rem" data-hero-body>
+      {!first && <p class="kicker">{page?.kicker || biz.cat}</p>}
+      <h1 id="h1">{first ? c.h1 : page?.h1}</h1>
+      <p class="hero-sub lead">{first ? c.sub : page?.description}</p>
+      <p class="cluster" data-hero-cta>
+        <a class="btn" href={`/${biz.slug}/contact`}>{c.cta1}<Icon name="arrow" size={16} /></a>
+        <a class="btn btn--ghost" href={biz.pages[1] ? biz.pages[1].path : `/${biz.slug}/about`}>{c.cta2}</a>
+      </p>
+      {first && stats.length > 1 && (
+        <ul class="proof" data-hero-stats style="margin-block-start:1.2rem">
+          {stats.map((s) => <li><b>{s.v}</b><span class="num">{s.k}</span></li>)}
+        </ul>
+      )}
+    </div>
+
+    {hero === 'dispatch' && (
+      <div class="hero-status" data-anim="fade">
+        <p class="cluster" style="justify-content:space-between"><span class="num">Current status</span><span class="dot" aria-hidden="true"></span></p>
+        <p style="font-family:var(--font-display);font-size:var(--step-1);line-height:1.25">{biz.hours || `Serving ${biz.city}`}</p>
+        <p class="muted" style="font-size:.9rem">{biz.audience}</p>
+        <hr class="rule" />
+        <ul class="stack" style="--stack:.35rem;list-style:none;padding:0;font-size:.92rem">
+          {biz.services.slice(0, 4).map((s: string) => <li class="textlink-row"><span>{s}</span><Icon name="check" size={15} /></li>)}
+        </ul>
+      </div>
+    )}
+
+    {(hero === 'editorial' || hero === 'split') && (
+      <div class={`hero-media ${hero === 'split' ? '' : 'frame frame--32'}`}>
+        {biz.photo ? <picture>
+          {biz.photoFormats?.includes('avif') && <source type="image/avif" srcset={sub.replace(/\.jpg$/, '.avif')} />}
+          {biz.photoFormats?.includes('webp') && <source type="image/webp" srcset={sub.replace(/\.jpg$/, '.webp')} />}
+          <img src={sub} alt={biz.photoAlt} width="1600" height="1000" loading={first ? 'eager' : 'lazy'} decoding="async" />
+        </picture> : <HeroArt biz={biz} class="hero-art" />}
+        {three && <span class="three-host" data-three={biz.slug === 'potts-landscape-los-altos' ? 'terrain' : 'gloss'} aria-hidden="true"></span>}
+      </div>
+    )}
+
+    {hero === 'index' && (
+      <nav class="hero-entries" aria-label="Jump to section">
+        {biz.design.roster.slice(1).map((s: string, i: number) => (
+          <a href={`#${s}`}><span class="num">{String(i + 1).padStart(2, '0')}</span><span>{s.replace(/-/g, ' ')}</span><Icon name="arrow" size={16} /></a>
+        ))}
+      </nav>
+    )}
+  </div>
+
+  {hero === 'ticker' && (
+    <div class="hero-band">
+      <div class="marquee" aria-hidden="true">
+        <div>
+          {[...biz.services, ...biz.services].map((s: string, i: number) => <span>{i % 3 === 0 ? <em>{s}</em> : s}</span>)}
+        </div>
+      </div>
+    </div>
+  )}
+  {hero === 'manifesto' && <p class="hero-meter" aria-hidden="true"></p>}
+</section>
+<style>
+  .hero { padding-block-end: clamp(2.5rem, 6vw, 5rem); }
+  .hero-art { inline-size: 100%; block-size: 100%; display: block; }
+  [data-hero='fullbleed'] .hero-art { position: absolute; inset: 0; }
+  [data-hero='split'] .split { align-items: stretch; }
+  .hero-media { min-block-size: 22rem; }
+  [data-hero='manifesto'] .hero-meter { margin-block-start: clamp(2rem, 6vw, 4rem); }
+  .hero-status li svg { color: var(--accent); }
+</style>

@@ -1,0 +1,312 @@
+{
+  "id": "sv012",
+  "slug": "lipscomb-concrete-san-jose",
+  "name": "Lipscomb Concrete",
+  "short": "Lipscomb Concrete",
+  "cat": "Concrete",
+  "sub": "Countertops, stamping, foundations",
+  "city": "San Jose",
+  "zip": "95118",
+  "addr": "San Jose, CA 95118",
+  "phone": "(408) 460-3618",
+  "email": null,
+  "contactNote": null,
+  "founded": "1988 (Yelp) · \"over 45 years of trusted experience\" per own copy",
+  "hours": "Mon–Fri 8:00–16:00",
+  "audience": "Almaden/San Jose homeowners; design-build clients wanting cast features",
+  "scale": {
+    "emp": "shop + field crew",
+    "loc": 1
+  },
+  "description": "Residential and commercial concrete: foundations and retaining walls, stamped and textured work, and architectural concrete countertops (BBQ counters, colour/design treatments, refinishing).",
+  "services": [
+    "Foundations & retaining walls",
+    "Concrete countertops",
+    "Stamped & textured slabs",
+    "Refinishing & overlays",
+    "Repair & sealing",
+    "BBQ/outdoor cast builds"
+  ],
+  "serviceCopy": [
+    "Countertops, sinks and BBQ casts.",
+    "Foundations and retaining walls.",
+    "Stamped, textured and coloured flatwork.",
+    "Refinishing and overlays for tired slabs."
+  ],
+  "insight": "Countertops + structural work in one shop is a rare combination worth a dedicated product page.",
+  "usps": [
+    "Architectural cast pieces, not just slabs",
+    "Consultation-first process",
+    "45+ years, one owner name on it"
+  ],
+  "differentiators": [
+    "Sells design intent; competitors sell square footage"
+  ],
+  "voice": "Studio-adjacent tradesman",
+  "persona": "The concrete fabricator",
+  "reputation": {
+    "rating": null,
+    "reviews": null,
+    "src": "Yelp",
+    "note": "Questions unanswered on Yelp — no engagement channel set up."
+  },
+  "budget": {
+    "afford": [
+      "Cast countertops $4K–$15K; structural jobs larger",
+      "Nearly four decades operating, .net-era web presence",
+      "Owner (Joe L.) does consultations personally — high close potential with good intake"
+    ],
+    "risk": [
+      "Possible one-man operation — verify crew size",
+      "No review engine; site must collect first-party proof"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Chalk",
+      "cast-grey",
+      "sage"
+    ],
+    "logo": "Refine existing name into a foundry-style mark",
+    "photoNote": "Countertop macros, edge details, mould setups"
+  },
+  "copy": {
+    "eyebrow": "San Jose · since 1988",
+    "h1": "Cast-in-place, designed for the room you live in.",
+    "sub": "Architectural concrete countertops, outdoor casts, retaining walls and foundations — from a shop that does both the structural and the visible.",
+    "cta1": "Book a consultation",
+    "cta2": "See cast work",
+    "lede": "Most concrete contractors do one of two jobs: structural, or the stuff you touch. Lipscomb does both, which is why designers keep the number.",
+    "svcCopy": [
+      "Countertops, sinks and BBQ casts.",
+      "Foundations and retaining walls.",
+      "Stamped, textured and coloured flatwork.",
+      "Refinishing and overlays for tired slabs."
+    ]
+  },
+  "concept": {
+    "dir": "Cast-concrete material study: soft-edge plates, subtle relief shadows, a specimen library of finishes and mixes.",
+    "palette": {
+      "ink": "#20211c",
+      "paper": "#f1efe9",
+      "accent": "#7b8b6a",
+      "accent2": "#9a8e72"
+    },
+    "heroType": "split",
+    "motion": "slow-parallax",
+    "interactive": [
+      "Finish specimen grid with hover detail",
+      "Consultation scheduler (stub form)",
+      "Project sheet PDFs",
+      "Micro-interaction: pour/cure reveal on scroll"
+    ],
+    "pages": [
+      "index",
+      "countertops",
+      "structural",
+      "studio",
+      "contact"
+    ],
+    "nav": [
+      "Countertops",
+      "Structural",
+      "Studio",
+      "Contact"
+    ],
+    "tone": "Material-led, quiet",
+    "refs": "A materials library, not a contractor page.",
+    "signature": "ledger",
+    "hero": "split"
+  },
+  "web": {
+    "s": "basic",
+    "url": "http://lipscombconcrete.net",
+    "lvl": "B",
+    "note": "Older .net brochure on a non-.com TLD, no project index or quote flow in the directory record; 20 photos sit unused on Yelp. Verify live state before outreach.",
+    "src": [
+      "https://www.yelp.com/biz/lipscomb-concrete-san-jose-3"
+    ],
+    "status": "Extremely outdated or basic website",
+    "confidence": "verified across two or more directories"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/lipscomb-concrete-san-jose-3"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Lipscomb Concrete — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "industrial-brutalist",
+    "label": "Shop Floor Brutalist",
+    "summary": "Heavy concrete/steel aesthetic: oversized numerals, blueprint rules, stamp-like buttons, horizontal material ticker. Built for fabricators and builders.",
+    "fonts": {
+      "display": "\"Archivo\"",
+      "body": "\"Spline Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Archivo:wght@600;700;800;900&family=Spline+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "bar",
+    "motion": "slow-parallax",
+    "tokens": {
+      "ink": "#20211c",
+      "paper": "#f1efe9",
+      "accent": "#7b8b6a",
+      "accent2": "#9a8e72",
+      "inkName": "Chalk",
+      "radius": "2px",
+      "hair": "2px",
+      "border": "2px solid var(--ink)",
+      "shadow": "none",
+      "pad": "clamp(4rem,9vw,8rem)",
+      "scale": "1.32",
+      "headingCase": "uppercase",
+      "track": "-.03em",
+      "texture": "blueprint",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "materials",
+      "services",
+      "capabilities",
+      "specs",
+      "coverage",
+      "proof",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/lipscomb-concrete-san-jose",
+      "title": "Lipscomb Concrete — Concrete in San Jose",
+      "description": "Architectural concrete countertops, outdoor casts, retaining walls and foundations — from a shop that does both the structural and the visible.",
+      "h1": "Cast-in-place, designed for the room you live in.",
+      "kicker": "San Jose · since 1988",
+      "sections": [
+        "hero",
+        "materials",
+        "services",
+        "capabilities",
+        "specs",
+        "coverage",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "countertops",
+      "file": "countertops.astro",
+      "path": "/lipscomb-concrete-san-jose/countertops",
+      "title": "Countertops — Lipscomb Concrete",
+      "description": "Countertops at Lipscomb Concrete in San Jose: Foundations & retaining walls, Concrete countertops, Stamped & textured slabs. Architectural concrete countertops, outdoor casts, retaining walls and foundations — from a shop that does both the structural and the visible.",
+      "h1": "Countertops",
+      "kicker": "Concrete",
+      "sections": [
+        "hero",
+        "services",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "structural",
+      "file": "structural.astro",
+      "path": "/lipscomb-concrete-san-jose/structural",
+      "title": "Structural — Lipscomb Concrete",
+      "description": "Structural at Lipscomb Concrete in San Jose: Foundations & retaining walls, Concrete countertops, Stamped & textured slabs. Architectural concrete countertops, outdoor casts, retaining walls and foundations — from a shop that does both the structural and the visible.",
+      "h1": "Structural",
+      "kicker": "Concrete",
+      "sections": [
+        "hero",
+        "services",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "studio",
+      "file": "studio.astro",
+      "path": "/lipscomb-concrete-san-jose/studio",
+      "title": "Studio — Lipscomb Concrete",
+      "description": "Studio at Lipscomb Concrete in San Jose: Foundations & retaining walls, Concrete countertops, Stamped & textured slabs. Architectural concrete countertops, outdoor casts, retaining walls and foundations — from a shop that does both the structural and the visible.",
+      "h1": "Studio",
+      "kicker": "Concrete",
+      "sections": [
+        "hero",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/lipscomb-concrete-san-jose/contact",
+      "title": "Contact — Lipscomb Concrete",
+      "description": "Call or write to Lipscomb Concrete in San Jose. (408) 460-3618",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "coverage",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 6,
+    "gap": 8,
+    "vis": 4,
+    "vol": 3,
+    "brand": 7,
+    "comp": 5,
+    "val": 8,
+    "assets": 5,
+    "roi": 7
+  },
+  "seo": {
+    "title": "Lipscomb Concrete — Concrete in San Jose",
+    "description": "Architectural concrete countertops, outdoor casts, retaining walls and foundations — from a shop that does both the structural and the visible.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Lipscomb Concrete",
+    "description": "Architectural concrete countertops, outdoor casts, retaining walls and foundations — from a shop that does both the structural and the visible.",
+    "phone": "(408) 460-3618",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95118"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/lipscomb-concrete-san-jose-3"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "Cast-in-place, designed for the room you live in.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/lipscomb-concrete-san-jose-3"
+  ],
+  "sourceNotes": []
+}

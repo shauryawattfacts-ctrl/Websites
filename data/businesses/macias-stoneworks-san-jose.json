@@ -1,0 +1,318 @@
+{
+  "id": "sv044",
+  "slug": "macias-stoneworks-san-jose",
+  "name": "Macias Stoneworks",
+  "short": "Macias Stoneworks",
+  "cat": "Masonry",
+  "sub": "Stone veneer, walls & fireplaces",
+  "city": "San Jose",
+  "zip": "95112",
+  "addr": "488 N 2nd St, San Jose, CA 95112",
+  "phone": "(408) 603-8777",
+  "email": null,
+  "contactNote": null,
+  "founded": "approximately 2000 (15-plus years in the trade stated, 23-26 years in business per directory)",
+  "hours": "Mon-Fri crew hours",
+  "audience": "Homeowners doing exterior makeovers, landscape and hardscape contractors, fireplace restorations",
+  "scale": {
+    "emp": "masonry crews",
+    "loc": 1
+  },
+  "description": "San Jose masonry outfit: stone and brick veneer, retaining and dry-stack walls, patios, walkways, fireplace repair and restoration, with planning and trade experience emphasised in their own directory copy.",
+  "services": [
+    "Stone and brick veneer",
+    "Retaining and dry-stack walls",
+    "Patios, walkways and steps",
+    "Fireplace build and restoration",
+    "Tuckpointing and repair",
+    "Concrete and footing work (confirm)"
+  ],
+  "serviceCopy": [
+    "Stone and brick veneer, tied and flashed.",
+    "Retaining and dry-stack walls engineered to drain.",
+    "Patios, steps and walkways.",
+    "Fireplace rebuilds and tuckpointing."
+  ],
+  "insight": "A downtown San Jose address and a trade pedigree, with the portfolio now on the same page as the phone number.",
+  "usps": [
+    "Planning and experience on complex jobs, stated by them",
+    "Stone veneer and dry-stack work, not just block",
+    "Downtown San Jose shop, valley-wide crews"
+  ],
+  "differentiators": [
+    "Publishes installation detail sections (flashing, weep holes, ties) that prove competence"
+  ],
+  "voice": "Plain, capable",
+  "persona": "The stone people of Second Street",
+  "reputation": {
+    "rating": null,
+    "reviews": null,
+    "src": "not captured",
+    "note": "No review surface captured: proof must be built from photography and reference jobs."
+  },
+  "budget": {
+    "afford": [
+      "Veneer and wall projects run $8K-$80K in this market",
+      "Crew and equipment operation since roughly 2000",
+      "Masonry buyers decide on photographs, which they have not published anywhere"
+    ],
+    "risk": [
+      "Trade owners rarely write: content must be captured on site",
+      "Licence and insurance details not captured - verify before publishing"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Limestone",
+      "mortar grey",
+      "rust"
+    ],
+    "logo": "Set a chiselled wordmark with a coursing-line rule",
+    "photoNote": "Veneer corners, mortar joints, wall footings, job-site honesty"
+  },
+  "copy": {
+    "eyebrow": "San Jose · masonry since about 2000",
+    "h1": "Stone work that is planned before it is laid.",
+    "sub": "Veneer, retaining walls, patios and fireplace restoration for Bay Area homes, from a San Jose masonry crew.",
+    "cta1": "Request a site visit",
+    "cta2": "Detail gallery",
+    "lede": "Most masonry is sold on a handshake and a photo of someone else's wall. Macias has twenty-plus years of their own work, and has never shown it.",
+    "svcCopy": [
+      "Stone and brick veneer, tied and flashed.",
+      "Retaining and dry-stack walls engineered to drain.",
+      "Patios, steps and walkways.",
+      "Fireplace rebuilds and tuckpointing."
+    ]
+  },
+  "concept": {
+    "dir": "Masonry-as-architecture: coursing-grid layout, section-drawing illustrations of wall build-ups, a materials index (ledge, stacked, thin veneer), and a project gallery with job notes. Motion: block-by-block reveal, reduced-motion aware.",
+    "palette": {
+      "ink": "#eceae4",
+      "paper": "#201f1d",
+      "accent": "#a9683a",
+      "accent2": "#5d6b62"
+    },
+    "heroType": "manifesto",
+    "motion": "hard-cut",
+    "interactive": [
+      "Wall detail diagram with hover callouts",
+      "Material index by stone type and finish",
+      "Project gallery with job-size and duration captions",
+      "Site-visit request with photo upload"
+    ],
+    "pages": [
+      "index",
+      "work",
+      "materials",
+      "details",
+      "contact"
+    ],
+    "nav": [
+      "Work",
+      "Materials",
+      "Details",
+      "Contact"
+    ],
+    "tone": "Load-bearing honesty",
+    "refs": "A masonry contractor page in an architect's resource list.",
+    "signature": "ledger",
+    "hero": "manifesto"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Directory record carries a From-Business block, phone, downtown address and 23-26 years in business with no website affordance, while comparable masonry entries in the same listings do show one. Treat as no-website pending live audit.",
+    "src": [
+      "https://www.yellowpages.com/st-victor-san-jose-ca/masonry-contractors",
+      "https://www.yellowpages.com/evergreen-san-jose-ca/masonry-contractors"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "other": [
+      "https://www.yellowpages.com/st-victor-san-jose-ca/masonry-contractors"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Macias Stoneworks — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "industrial-brutalist",
+    "label": "Shop Floor Brutalist",
+    "summary": "Heavy concrete/steel aesthetic: oversized numerals, blueprint rules, stamp-like buttons, horizontal material ticker. Built for fabricators and builders.",
+    "fonts": {
+      "display": "\"Archivo\"",
+      "body": "\"Spline Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Archivo:wght@600;700;800;900&family=Spline+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "bar",
+    "motion": "hard-cut",
+    "tokens": {
+      "ink": "#eceae4",
+      "paper": "#201f1d",
+      "accent": "#a9683a",
+      "accent2": "#5d6b62",
+      "inkName": "Limestone",
+      "radius": "2px",
+      "hair": "2px",
+      "border": "2px solid var(--ink)",
+      "shadow": "none",
+      "pad": "clamp(4rem,9vw,8rem)",
+      "scale": "1.32",
+      "headingCase": "uppercase",
+      "track": "-.03em",
+      "texture": "blueprint",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "materials",
+      "services",
+      "capabilities",
+      "specs",
+      "coverage",
+      "proof",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/macias-stoneworks-san-jose",
+      "title": "Macias Stoneworks — Masonry in San Jose",
+      "description": "Veneer, retaining walls, patios and fireplace restoration for Bay Area homes, from a San Jose masonry crew.",
+      "h1": "Stone work that is planned before it is laid.",
+      "kicker": "San Jose · masonry since about 2000",
+      "sections": [
+        "hero",
+        "materials",
+        "services",
+        "capabilities",
+        "specs",
+        "coverage",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "work",
+      "file": "work.astro",
+      "path": "/macias-stoneworks-san-jose/work",
+      "title": "Selected work — Macias Stoneworks",
+      "description": "Projects and evidence from Macias Stoneworks in San Jose.",
+      "h1": "Selected work",
+      "kicker": "Index",
+      "sections": [
+        "hero",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "materials",
+      "file": "materials.astro",
+      "path": "/macias-stoneworks-san-jose/materials",
+      "title": "Materials — Macias Stoneworks",
+      "description": "Materials at Macias Stoneworks in San Jose: Stone and brick veneer, Retaining and dry-stack walls, Patios, walkways and steps. Veneer, retaining walls, patios and fireplace restoration for Bay Area homes, from a San Jose masonry crew.",
+      "h1": "Materials",
+      "kicker": "Masonry",
+      "sections": [
+        "hero",
+        "services",
+        "capabilities",
+        "materials",
+        "specs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "details",
+      "file": "details.astro",
+      "path": "/macias-stoneworks-san-jose/details",
+      "title": "Details — Macias Stoneworks",
+      "description": "Details at Macias Stoneworks in San Jose: Stone and brick veneer, Retaining and dry-stack walls, Patios, walkways and steps. Veneer, retaining walls, patios and fireplace restoration for Bay Area homes, from a San Jose masonry crew.",
+      "h1": "Details",
+      "kicker": "Masonry",
+      "sections": [
+        "hero",
+        "services",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/macias-stoneworks-san-jose/contact",
+      "title": "Contact — Macias Stoneworks",
+      "description": "Call or write to Macias Stoneworks in San Jose. (408) 603-8777",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "coverage",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 10,
+    "vis": 4,
+    "vol": 2,
+    "brand": 5,
+    "comp": 5,
+    "val": 9,
+    "assets": 4,
+    "roi": 8
+  },
+  "seo": {
+    "title": "Macias Stoneworks — Masonry in San Jose",
+    "description": "Veneer, retaining walls, patios and fireplace restoration for Bay Area homes, from a San Jose masonry crew.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Macias Stoneworks",
+    "description": "Veneer, retaining walls, patios and fireplace restoration for Bay Area homes, from a San Jose masonry crew.",
+    "phone": "(408) 603-8777",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95112",
+      "streetAddress": "488 N 2nd St"
+    },
+    "sameAs": [
+      "https://www.yellowpages.com/st-victor-san-jose-ca/masonry-contractors"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "Stone work that is planned before it is laid.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yellowpages.com/st-victor-san-jose-ca/masonry-contractors",
+    "https://www.yellowpages.com/evergreen-san-jose-ca/masonry-contractors"
+  ],
+  "sourceNotes": []
+}

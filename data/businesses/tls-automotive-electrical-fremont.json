@@ -1,0 +1,325 @@
+{
+  "id": "sv018",
+  "slug": "tls-automotive-electrical-fremont",
+  "name": "TLS Automotive Electrical",
+  "short": "TLS Automotive Electrical",
+  "cat": "Auto repair",
+  "sub": "Automotive electrical & diagnostics",
+  "city": "Fremont",
+  "zip": "94538",
+  "addr": "3824 Union St Unit 1, Fremont, CA 94538",
+  "phone": "(510) 656-7400",
+  "email": null,
+  "contactNote": null,
+  "founded": "not verified",
+  "hours": "Mon-Fri shop hours",
+  "audience": "Owners with no-start and parasitic-drain gremlins; classic and project car people; interlock-compliant drivers",
+  "scale": {
+    "emp": "small specialist shop",
+    "loc": 1
+  },
+  "description": "Automotive electrical and ignition work, listed as an ignition-interlock installation location in the Low Cost Interlock network directory, and wheelchair accessible per directory data.",
+  "services": [
+    "No-start and no-charge diagnosis",
+    "Parasitic battery drain testing",
+    "Wiring repair and re-insulation",
+    "Ignition interlock installation",
+    "Alarms, audio and aftermarket electronics",
+    "Trailer and tow wiring"
+  ],
+  "serviceCopy": [
+    "Charge and starting system testing.",
+    "Parasitic drain isolation.",
+    "Rodent damage and loom repair.",
+    "Aftermarket, trailer and interlock wiring."
+  ],
+  "insight": "Being a named install site for a compliance network implies contracted B2B relationships a website could formalise.",
+  "usps": [
+    "Diagnoses what other shops give up on",
+    "Meter-first method, no parts-catalogue guessing",
+    "Perfect rating with zero marketing effort"
+  ],
+  "differentiators": [
+    "Explains how diagnosis works and what it costs - converts anxiety into bookings"
+  ],
+  "voice": "Forensic, dry, patient",
+  "persona": "The shop other shops send you to",
+  "reputation": {
+    "rating": 5,
+    "reviews": 34,
+    "src": "Google aggregate via directory",
+    "note": "Perfect score on an unclaimed profile: nobody is publishing this expertise anywhere."
+  },
+  "budget": {
+    "afford": [
+      "Diagnostic labour bills at premium rates with little parts dependency",
+      "Contracted interlock installs add recurring commercial volume",
+      "5.0 across 34 Google reviews"
+    ],
+    "risk": [
+      "Small shop: keep scope to five pages and one funnel",
+      "Directory data only - name, address and phone build-out is part of the project"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Copper",
+      "solder flux",
+      "scope green"
+    ],
+    "logo": "Build a circuit-trace monogram",
+    "photoNote": "Meter in hand, wiring looms, scope traces, bay door"
+  },
+  "copy": {
+    "eyebrow": "Fremont · automotive electrical",
+    "h1": "The shop other shops send you to.",
+    "sub": "No-start, no-charge, phantom drains and wiring faults - diagnosed with a meter, not a parts catalogue.",
+    "cta1": "Describe the symptom",
+    "cta2": "How diagnosis works",
+    "lede": "Electrical faults are why cars sit for weeks in other shops. TLS has spent years tracing exactly those faults in a Union Street bay — one diagnostician, one bench, a 5.0 rating from the people who came back.",
+    "svcCopy": [
+      "Charge and starting system testing.",
+      "Parasitic drain isolation.",
+      "Rodent damage and loom repair.",
+      "Aftermarket, trailer and interlock wiring."
+    ]
+  },
+  "concept": {
+    "dir": "Oscilloscope visual language: dark garage UI, animated signal-trace lines, symptom-first intake, transparent diagnostic fee.",
+    "palette": {
+      "ink": "#e9eef2",
+      "paper": "#0e1116",
+      "accent": "#5ad469",
+      "accent2": "#ff8a3d"
+    },
+    "heroType": "manifesto",
+    "motion": "hard-cut",
+    "interactive": [
+      "Symptom picker that pre-fills the intake form",
+      "Animated scope-trace background (SVG, reduced-motion aware)",
+      "Diagnostic fee and credit-toward-repair block",
+      "Mobile-first tap to call"
+    ],
+    "pages": [
+      "index",
+      "symptoms",
+      "services",
+      "shop",
+      "contact"
+    ],
+    "nav": [
+      "Symptoms",
+      "Services",
+      "The shop",
+      "Contact"
+    ],
+    "tone": "Diagnostic calm",
+    "refs": "An instrument manual for cars.",
+    "signature": "picker",
+    "hero": "manifesto"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "A",
+    "note": "Cross-checked: YellowPages shows the Add Website affordance (no site on file), and the nears.me and interlock-network directory records carry contact data only. No owned domain exists for the name plus street.",
+    "src": [
+      "https://www.yellowpages.com/fremont-ca/mip/tls-automotive-electrical-534741313",
+      "https://autorepair-california.nears.me/business/united-states/california/fremont/trusted-tls-automotive-electrical-fremont-ca/"
+    ],
+    "status": "No website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "other": [
+      "https://www.yellowpages.com/fremont-ca/mip/tls-automotive-electrical-534741313"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for TLS Automotive Electrical — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "automotive-garage",
+    "label": "Bay & Diagnostics",
+    "summary": "Workshop UI: dark steel base, hazard-yellow rules, service menu with labour-time rows, vehicle-asset cards, before/after paint comparison, quote-by-photo flow.",
+    "fonts": {
+      "display": "\"Oswald\"",
+      "body": "\"Roboto Condensed\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Oswald:wght@500;600;700&family=Roboto+Condensed:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "bar",
+    "motion": "hard-cut",
+    "tokens": {
+      "ink": "#e9eef2",
+      "paper": "#0e1116",
+      "accent": "#5ad469",
+      "accent2": "#ff8a3d",
+      "inkName": "Copper",
+      "radius": "3px",
+      "hair": "2px",
+      "border": "2px solid color-mix(in srgb, var(--paper) 24%, transparent)",
+      "shadow": "0 20px 44px -34px rgb(0 0 0 / .8)",
+      "pad": "clamp(3.6rem,8vw,6.6rem)",
+      "scale": "1.26",
+      "headingCase": "uppercase",
+      "track": "-.02em",
+      "texture": "hazard",
+      "invert": true
+    },
+    "roster": [
+      "hero",
+      "urgency",
+      "services",
+      "process",
+      "bay-gallery",
+      "proof",
+      "financing",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/tls-automotive-electrical-fremont",
+      "title": "TLS Automotive Electrical — Auto repair in Fremont",
+      "description": "No-start, no-charge, phantom drains and wiring faults - diagnosed with a meter, not a parts catalogue.",
+      "h1": "The shop other shops send you to.",
+      "kicker": "Fremont · automotive electrical",
+      "sections": [
+        "hero",
+        "urgency",
+        "services",
+        "process",
+        "bay-gallery",
+        "proof",
+        "financing",
+        "contact"
+      ]
+    },
+    {
+      "slug": "symptoms",
+      "file": "symptoms.astro",
+      "path": "/tls-automotive-electrical-fremont/symptoms",
+      "title": "Symptoms — TLS Automotive Electrical",
+      "description": "Symptoms at TLS Automotive Electrical in Fremont: No-start and no-charge diagnosis, Parasitic battery drain testing, Wiring repair and re-insulation. No-start, no-charge, phantom drains and wiring faults - diagnosed with a meter, not a parts catalogue.",
+      "h1": "Symptoms",
+      "kicker": "Auto repair",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/tls-automotive-electrical-fremont/services",
+      "title": "Services — TLS Automotive Electrical",
+      "description": "No-start and no-charge diagnosis; Parasitic battery drain testing; Wiring repair and re-insulation; Ignition interlock installation; Alarms, audio and aftermarket electronics; Trailer and tow wiring. Fremont based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "shop",
+      "file": "shop.astro",
+      "path": "/tls-automotive-electrical-fremont/shop",
+      "title": "Shop — TLS Automotive Electrical",
+      "description": "Shop at TLS Automotive Electrical in Fremont: No-start and no-charge diagnosis, Parasitic battery drain testing, Wiring repair and re-insulation. No-start, no-charge, phantom drains and wiring faults - diagnosed with a meter, not a parts catalogue.",
+      "h1": "Shop",
+      "kicker": "Auto repair",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/tls-automotive-electrical-fremont/contact",
+      "title": "Contact — TLS Automotive Electrical",
+      "description": "Call or write to TLS Automotive Electrical in Fremont. (510) 656-7400",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "urgency",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 6,
+    "gap": 10,
+    "vis": 4,
+    "vol": 5,
+    "brand": 7,
+    "comp": 5,
+    "val": 9,
+    "assets": 4,
+    "roi": 8
+  },
+  "seo": {
+    "title": "TLS Automotive Electrical — Auto repair in Fremont",
+    "description": "No-start, no-charge, phantom drains and wiring faults - diagnosed with a meter, not a parts catalogue.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "TLS Automotive Electrical",
+    "description": "No-start, no-charge, phantom drains and wiring faults - diagnosed with a meter, not a parts catalogue.",
+    "phone": "(510) 656-7400",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Fremont",
+      "addressRegion": "CA",
+      "postalCode": "94538",
+      "streetAddress": "3824 Union St Unit 1"
+    },
+    "sameAs": [
+      "https://www.yellowpages.com/fremont-ca/mip/tls-automotive-electrical-534741313"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 34,
+      "bestRating": 5
+    },
+    "slogan": "The shop other shops send you to.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yellowpages.com/fremont-ca/mip/tls-automotive-electrical-534741313",
+    "https://autorepair-california.nears.me/business/united-states/california/fremont/trusted-tls-automotive-electrical-fremont-ca/"
+  ],
+  "sourceNotes": []
+}

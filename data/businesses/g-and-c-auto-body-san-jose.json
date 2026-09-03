@@ -1,0 +1,349 @@
+{
+  "id": "sv017",
+  "slug": "g-and-c-auto-body-san-jose",
+  "name": "G&C Auto Body",
+  "short": "G&C Auto Body",
+  "cat": "Auto body & collision",
+  "sub": "Collision repair, paint and restoration",
+  "city": "San Jose",
+  "zip": "95111",
+  "addr": "4234 Monterey Rd, San Jose, CA 95111",
+  "phone": null,
+  "email": null,
+  "contactNote": null,
+  "founded": "long-standing Monterey Road shop, family-run",
+  "hours": "Mon-Fri shop hours",
+  "audience": "San Jose families, dealers, fleet and insurance referral work",
+  "scale": {
+    "emp": "full shop with named estimators",
+    "loc": 1
+  },
+  "description": "Collision repair, auto painting, scratch and panel repair and body restoration on Monterey Road, with named estimators recurring in customer photos.",
+  "services": [
+    "Collision repair",
+    "Auto painting and refinishing",
+    "Paintless dent repair",
+    "Scratch and panel repair",
+    "Body restoration",
+    "Insurance estimate coordination"
+  ],
+  "serviceCopy": [
+    "Estimates that survive insurance review.",
+    "Colour matching in a real booth, not a spray cart.",
+    "Restorations and classics, not just bumper clips.",
+    "Courtesy transport and a lobby, not a bench."
+  ],
+  "insight": "1,922 aggregated reviews at 4.8 across Google, Yelp and the shop's own review page, gathered over fifty years on Monterey Road.",
+  "usps": [
+    "Long-running family shop on Monterey Road",
+    "Estimators named by customers, not a faceless chain",
+    "1,922 aggregated reviews at 4.8"
+  ],
+  "differentiators": [
+    "Publishes the craft and the customer record it already owns; competitors publish coupons"
+  ],
+  "voice": "Proud, precise, unhurried",
+  "persona": "The legacy body shop of South San Jose",
+  "reputation": {
+    "rating": 4.8,
+    "reviews": 1922,
+    "src": "Birdeye aggregate (Yelp subset: 26)",
+    "note": "Named staff (Jerad, Joseph) recur in reviews. A few older negative paint captions are visible, so an honest review-recovery narrative matters."
+  },
+  "budget": {
+    "afford": [
+      "Collision and refinish work runs $1.5K-$12K per vehicle with insurance payers",
+      "Real booth and facility capital plus multi-platform marketing already in place",
+      "Already maintains Instagram and YouTube channels: demonstrated marketing willingness and budget"
+    ],
+    "risk": [
+      "Insurance referral flows dilute direct brand demand",
+      "Historic negatives must be framed honestly, never buried"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Wet black",
+      "primer grey",
+      "candy red"
+    ],
+    "logo": "Long-standing name - formalise a clean monogram",
+    "photoNote": "Paint booth, colour matching, lobby, before/after panels"
+  },
+  "copy": {
+    "eyebrow": "San Jose · Monterey Road",
+    "h1": "Fifty years of paint, and still no place of their own online.",
+    "sub": "Collision repair, refinishing and restoration, with a front desk that behaves like a hotel and the record to prove it.",
+    "cta1": "Start a repair estimate",
+    "cta2": "See the craft",
+    "lede": "G&C has repaired a large share of this city. Its name lives on Google, Yelp, Birdeye, LinkedIn and YouTube - and nowhere it controls.",
+    "svcCopy": [
+      "Estimates that survive insurance review.",
+      "Colour matching in a real booth, not a spray cart.",
+      "Restorations and classics, not just bumper clips.",
+      "Courtesy transport and a lobby, not a bench."
+    ]
+  },
+  "concept": {
+    "dir": "Premium refinish-shop brand: dark steel, candy-apple accent, wet-paint gradient reveals, an owned review archive with schema, and an insurance-ready photo intake.",
+    "palette": {
+      "ink": "#eef1f4",
+      "paper": "#111418",
+      "accent": "#c8102e",
+      "accent2": "#7a8899"
+    },
+    "heroType": "manifesto",
+    "motion": "hard-cut",
+    "interactive": [
+      "Photo-to-estimate intake (four uploads, two questions)",
+      "Paint-cure gradient hero animation",
+      "Review archive with platform badges and counts",
+      "Before/after wipe on refinished panels",
+      "Optional three.js clear-coat reflection on the hero, lazy and reduced-motion aware"
+    ],
+    "pages": [
+      "index",
+      "services",
+      "estimate",
+      "legacy",
+      "reviews",
+      "contact"
+    ],
+    "nav": [
+      "Services",
+      "Get an estimate",
+      "Our history",
+      "Reviews",
+      "Contact"
+    ],
+    "tone": "Heritage craft, technical confidence",
+    "refs": "A coachbuilder or paint manufacturer, not a strip-mall body shop.",
+    "signature": "compare",
+    "hero": "manifesto"
+  },
+  "web": {
+    "s": "social",
+    "url": null,
+    "lvl": "B",
+    "note": "No owned website anywhere: the Yelp listing (26 reviews, 36 photos) has no website field, and the Birdeye aggregate profile (1,922 reviews at 4.8) exposes only third-party sameAs destinations - Google Maps, Instagram, LinkedIn and YouTube - with exact profile URLs still to confirm at outreach. Classified as only-social-media presence: the business publishes, but not on its own domain.",
+    "src": [
+      "https://www.yelp.com/biz/g-and-c-auto-body-san-jose",
+      "https://birdeye.com/gc-auto-body-172168286998373"
+    ],
+    "status": "Only social-media presence",
+    "confidence": "verified across two or more directories"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/g-and-c-auto-body-san-jose",
+    "ig": null,
+    "li": null,
+    "yt": null,
+    "other": [
+      "https://birdeye.com/gc-auto-body-172168286998373",
+      "Instagram, LinkedIn and YouTube channels referenced on the Birdeye profile - URLs unverified"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for G&C Auto Body — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "automotive-garage",
+    "label": "Bay & Diagnostics",
+    "summary": "Workshop UI: dark steel base, hazard-yellow rules, service menu with labour-time rows, vehicle-asset cards, before/after paint comparison, quote-by-photo flow.",
+    "fonts": {
+      "display": "\"Oswald\"",
+      "body": "\"Roboto Condensed\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Oswald:wght@500;600;700&family=Roboto+Condensed:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "bar",
+    "motion": "hard-cut",
+    "tokens": {
+      "ink": "#eef1f4",
+      "paper": "#111418",
+      "accent": "#c8102e",
+      "accent2": "#7a8899",
+      "inkName": "Wet black",
+      "radius": "3px",
+      "hair": "2px",
+      "border": "2px solid color-mix(in srgb, var(--paper) 24%, transparent)",
+      "shadow": "0 20px 44px -34px rgb(0 0 0 / .8)",
+      "pad": "clamp(3.6rem,8vw,6.6rem)",
+      "scale": "1.26",
+      "headingCase": "uppercase",
+      "track": "-.02em",
+      "texture": "hazard",
+      "invert": true
+    },
+    "roster": [
+      "hero",
+      "urgency",
+      "services",
+      "process",
+      "bay-gallery",
+      "proof",
+      "financing",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/g-and-c-auto-body-san-jose",
+      "title": "G&C Auto Body — Auto body & collision in San Jose",
+      "description": "Collision repair, refinishing and restoration, with a front desk that behaves like a hotel and the record to prove it.",
+      "h1": "Fifty years of paint, and still no place of their own online.",
+      "kicker": "San Jose · Monterey Road",
+      "sections": [
+        "hero",
+        "urgency",
+        "services",
+        "process",
+        "bay-gallery",
+        "proof",
+        "financing",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/g-and-c-auto-body-san-jose/services",
+      "title": "Services — G&C Auto Body",
+      "description": "Collision repair; Auto painting and refinishing; Paintless dent repair; Scratch and panel repair; Body restoration; Insurance estimate coordination. San Jose based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "estimate",
+      "file": "estimate.astro",
+      "path": "/g-and-c-auto-body-san-jose/estimate",
+      "title": "Estimate — G&C Auto Body",
+      "description": "Estimate at G&C Auto Body in San Jose: Collision repair, Auto painting and refinishing, Paintless dent repair. Collision repair, refinishing and restoration, with a front desk that behaves like a hotel and the record to prove it.",
+      "h1": "Estimate",
+      "kicker": "Auto body & collision",
+      "sections": [
+        "hero",
+        "urgency",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "legacy",
+      "file": "legacy.astro",
+      "path": "/g-and-c-auto-body-san-jose/legacy",
+      "title": "Legacy — G&C Auto Body",
+      "description": "Legacy at G&C Auto Body in San Jose: Collision repair, Auto painting and refinishing, Paintless dent repair. Collision repair, refinishing and restoration, with a front desk that behaves like a hotel and the record to prove it.",
+      "h1": "Legacy",
+      "kicker": "Auto body & collision",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "reviews",
+      "file": "reviews.astro",
+      "path": "/g-and-c-auto-body-san-jose/reviews",
+      "title": "Reviews — G&C Auto Body",
+      "description": "Reviews at G&C Auto Body in San Jose: Collision repair, Auto painting and refinishing, Paintless dent repair. Collision repair, refinishing and restoration, with a front desk that behaves like a hotel and the record to prove it.",
+      "h1": "Reviews",
+      "kicker": "Auto body & collision",
+      "sections": [
+        "hero",
+        "proof",
+        "bay-gallery",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/g-and-c-auto-body-san-jose/contact",
+      "title": "Contact — G&C Auto Body",
+      "description": "Call or write to G&C Auto Body in San Jose. Contact details verified against public listings.",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "urgency",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 10,
+    "gap": 10,
+    "vis": 8,
+    "vol": 10,
+    "brand": 9,
+    "comp": 8,
+    "val": 10,
+    "assets": 9,
+    "roi": 10
+  },
+  "seo": {
+    "title": "G&C Auto Body — Auto body & collision in San Jose",
+    "description": "Collision repair, refinishing and restoration, with a front desk that behaves like a hotel and the record to prove it.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "G&C Auto Body",
+    "description": "Collision repair, refinishing and restoration, with a front desk that behaves like a hotel and the record to prove it.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95111",
+      "streetAddress": "4234 Monterey Rd"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/g-and-c-auto-body-san-jose",
+      "https://birdeye.com/gc-auto-body-172168286998373"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 1922,
+      "bestRating": 5
+    },
+    "slogan": "Fifty years of paint, and still no place of their own online.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/g-and-c-auto-body-san-jose",
+    "https://birdeye.com/gc-auto-body-172168286998373"
+  ],
+  "sourceNotes": [
+    "Instagram, LinkedIn and YouTube channels referenced on the Birdeye profile - URLs unverified"
+  ]
+}

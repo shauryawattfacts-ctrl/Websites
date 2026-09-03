@@ -1,0 +1,81 @@
+---
+/**
+ * site.astro — the single shell every generated business site uses.
+ * Owns: tokens, fonts, nav, hero, section stream, signature module, footer,
+ * SEO/schema, analytics hook and motion bootstraps. Distinctness comes from
+ * data (design system, hero variant, roster, palette, copy), not from forks.
+ */
+import '../designs/_base.css';
+import '../designs/system.css';
+import Nav from '../components/Nav.astro';
+import Hero from '../components/Hero.astro';
+import Section from '../components/Section.astro';
+import Signature from '../components/Signature.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import { buildSection } from '../components/section-model.mjs';
+import scored from '../data/scored.json';
+
+interface Props { biz: any; page?: any }
+const { biz, page } = Astro.props;
+const isIndex = !page || page.slug === 'index';
+const sections = (isIndex ? biz.design.roster : page.sections || biz.design.roster)
+  .filter((s: string) => s !== 'hero')
+  .map((s: string) => buildSection(biz, s));
+const t = biz.design.tokens;
+const title = isIndex ? biz.seo.title : page.title;
+const desc = isIndex ? biz.seo.description : page.description;
+/**
+ * Motion tiers. The ten highest-scoring prospects get the ScrollTrigger layer;
+ * the two whose concept genuinely benefits from 3D get a WebGL hero. Everything
+ * else ships CSS-only motion — the point of a shared architecture is that the
+ * heavy libraries stay opt-in per site instead of global.
+ */
+const showSig = isIndex && biz.concept.signature !== 'statement';
+const rank = scored.prospects.find((p: any) => p.slug === biz.slug)?.rank ?? 99;
+const flagship = isIndex && rank <= 10;
+const THREE_ON = ['potts-landscape-los-altos', 'g-and-c-auto-body-san-jose'];
+const useThree = isIndex && THREE_ON.includes(biz.slug);
+---
+<!doctype html>
+<html lang="en" data-arch={biz.design.system} data-hero={biz.concept.hero} data-texture={t.texture} data-motion={biz.design.motion} class="no-js">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=yes" />
+    <link rel="icon" href={`/favicon/${biz.slug}.svg`} type="image/svg+xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href={`https://fonts.googleapis.com/css2?family=${biz.design.google}&display=swap`} />
+    <SEO title={title} description={desc} path={isIndex ? `/${biz.slug}` : page.path} biz={biz} />
+    <style is:inline>
+      :root {
+        --ink: {t.ink}; --paper: {t.paper}; --accent: {t.accent}; --accent2: {t.accent2};
+        --radius: {t.radius}; --hair: {t.hair}; --pad: {t.pad}; --scale: {t.scale};
+        --track: {t.track}; --shadow: {t.shadow};
+        --font-display: {fonts.display}; --font-body: {fonts.body}; --font-mono: {fonts.mono};
+      }
+      body { background: var(--paper); color: var(--ink); }
+      .no-js [data-anim], .no-js [data-stagger] > * { opacity: 1 !important; transform: none !important; clip-path: none !important; }
+      .fx-w { display: inline-block; overflow: hidden; vertical-align: bottom; }
+      .fx-i { display: inline-block; will-change: transform; }
+      .three-host { position: absolute; inset: 0; pointer-events: none; mix-blend-mode: screen; }
+      .three-host canvas { inline-size: 100% !important; block-size: 100% !important; display: block; }
+      [data-fx='flagship'] section { scroll-margin-block-start: 5rem; }
+    </style>
+    <script is:inline>document.documentElement.classList.remove('no-js');</script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <Nav biz={biz} current={isIndex ? 'index' : page.slug} />
+    <main id="main" data-biz={flagship ? biz.slug : null}>
+      <Hero biz={biz} page={page} first={isIndex} three={useThree} />
+      {showSig && <Signature biz={biz} />}
+      {sections.map((sec: any, i: number) => <Section biz={biz} sec={sec} i={i} />)}
+    </main>
+    <Footer biz={biz} />
+    <script>import('../animations/reveal.js');</script>
+    {flagship && <script>import('../animations/flagship.js');</script>}
+    {useThree && <script>import('../animations/three-hero.js');</script>}
+  </body>
+</html>

@@ -1,0 +1,320 @@
+{
+  "id": "sv045",
+  "slug": "cb-concrete-construction-los-gatos",
+  "name": "CB Concrete Construction",
+  "short": "CB Concrete Construction",
+  "cat": "Concrete & hardscape",
+  "sub": "Footings, flatwork, retaining walls",
+  "city": "Los Gatos",
+  "zip": "95030",
+  "addr": "Los Gatos, CA 95030 (service area)",
+  "phone": null,
+  "email": null,
+  "contactNote": null,
+  "founded": "not verified (119 reviews imply long local operation)",
+  "hours": "Mon-Fri crews",
+  "audience": "Los Gatos and Saratoga homeowners, architects and GCs needing structural concrete",
+  "scale": {
+    "emp": "crews and finishing carpenters",
+    "loc": 1
+  },
+  "description": "Concrete and foundation contractor serving Los Gatos: footings, flatwork, retaining walls, demolition and complex formwork, with reviews describing demo and footing work on active residential sites.",
+  "services": [
+    "Footings and foundation work",
+    "Driveways, paths and flatwork",
+    "Retaining walls and drainage",
+    "Formwork for irregular geometry",
+    "Demolition and site prep",
+    "Exterior concrete repairs"
+  ],
+  "serviceCopy": [
+    "Footings and underpinning for slopes.",
+    "Driveways and flatwork that drains.",
+    "Retaining walls with engineered details.",
+    "Demolition and site prep in tight yards."
+  ],
+  "insight": "Structural concrete work is drawn and permitted, so their buyers include architects - a client type that chooses vendors from a website.",
+  "usps": [
+    "Complex demo and footing work, documented in reviews",
+    "Family-owned and locally operating",
+    "Free estimates that actually cover the hard cases"
+  ],
+  "differentiators": [
+    "Publishes pour sequences, forms and reinforcement like a technical journal, not a flyer"
+  ],
+  "voice": "Structural, blunt",
+  "persona": "The concrete crew for difficult sites",
+  "reputation": {
+    "rating": 4.1,
+    "reviews": 119,
+    "src": "Yelp",
+    "note": "Large review volume for a structural trade: strong basis for a capability-led site."
+  },
+  "budget": {
+    "afford": [
+      "Structural concrete and wall projects run $15K-$150K on these lots",
+      "119 reviews at 4.1 is a proof base most competitors cannot match",
+      "Specifying work from architects and GCs rewards technical content"
+    ],
+    "risk": [
+      "No phone or address published in the listings captured — confirm both before outreach or schema markup.",
+      "Ratings vary: do not build the site around review display alone",
+      "Permit-heavy work means claims must be careful and current"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Wet concrete",
+      "formwork pine",
+      "rebar rust"
+    ],
+    "logo": "Set CB in a heavy grotesque with a control-joint motif",
+    "photoNote": "Rebar cages, forms, screed passes, cured surfaces"
+  },
+  "copy": {
+    "eyebrow": "Los Gatos · concrete and foundations",
+    "h1": "Concrete is unforgiving. So we plan it twice.",
+    "sub": "Footings, flatwork, retaining walls and complex formwork for hillside Los Gatos and Saratoga properties.",
+    "cta1": "Request an estimate",
+    "cta2": "How we build it",
+    "lede": "CB Concrete has 119 reviews from homeowners describing difficult demo and footing work, and no site where any of that is written down.",
+    "svcCopy": [
+      "Footings and underpinning for slopes.",
+      "Driveways and flatwork that drains.",
+      "Retaining walls with engineered details.",
+      "Demolition and site prep in tight yards."
+    ]
+  },
+  "concept": {
+    "dir": "Formwork geometry: board-formed textures, control-joint rules as dividers, pour-sequence photography with numbered captions, and a heavy display grotesque. Motion: horizontal board-mask reveals.",
+    "palette": {
+      "ink": "#e8e8e5",
+      "paper": "#181a1b",
+      "accent": "#e08b3c",
+      "accent2": "#8fb0c4"
+    },
+    "heroType": "fullbleed",
+    "motion": "hard-cut",
+    "interactive": [
+      "Pour-sequence scroll (excavate / form / reinforce / pour / finish)",
+      "Capability table by structure type",
+      "Estimate form with site-access and slope questions",
+      "Photo journal by project"
+    ],
+    "pages": [
+      "index",
+      "capabilities",
+      "journal",
+      "safety",
+      "contact"
+    ],
+    "nav": [
+      "Capabilities",
+      "Journal",
+      "Safety",
+      "Contact"
+    ],
+    "tone": "Engineered plainness",
+    "refs": "A specialty subcontractor page that architects bookmark.",
+    "signature": "timeline",
+    "hero": "fullbleed"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Appears in Los Gatos foundation and concrete result sets at 4.1 across 119 reviews with family-owned and free-estimate attributes and no website affordance captured. Live audit pending.",
+    "src": [
+      "https://www.yelp.com/search?find_desc=Home+Foundation+Repair&find_loc=Los+Gatos%2C+CA"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/search?find_desc=Home+Foundation+Repair&find_loc=Los+Gatos%2C+CA"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for CB Concrete Construction — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "industrial-brutalist",
+    "label": "Shop Floor Brutalist",
+    "summary": "Heavy concrete/steel aesthetic: oversized numerals, blueprint rules, stamp-like buttons, horizontal material ticker. Built for fabricators and builders.",
+    "fonts": {
+      "display": "\"Archivo\"",
+      "body": "\"Spline Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Archivo:wght@600;700;800;900&family=Spline+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "bar",
+    "motion": "hard-cut",
+    "tokens": {
+      "ink": "#e8e8e5",
+      "paper": "#181a1b",
+      "accent": "#e08b3c",
+      "accent2": "#8fb0c4",
+      "inkName": "Wet concrete",
+      "radius": "2px",
+      "hair": "2px",
+      "border": "2px solid var(--ink)",
+      "shadow": "none",
+      "pad": "clamp(4rem,9vw,8rem)",
+      "scale": "1.32",
+      "headingCase": "uppercase",
+      "track": "-.03em",
+      "texture": "blueprint",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "materials",
+      "services",
+      "capabilities",
+      "specs",
+      "coverage",
+      "proof",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/cb-concrete-construction-los-gatos",
+      "title": "CB Concrete Construction — Concrete & hardscape in Los Gatos",
+      "description": "Footings, flatwork, retaining walls and complex formwork for hillside Los Gatos and Saratoga properties.",
+      "h1": "Concrete is unforgiving. So we plan it twice.",
+      "kicker": "Los Gatos · concrete and foundations",
+      "sections": [
+        "hero",
+        "materials",
+        "services",
+        "capabilities",
+        "specs",
+        "coverage",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "capabilities",
+      "file": "capabilities.astro",
+      "path": "/cb-concrete-construction-los-gatos/capabilities",
+      "title": "Capabilities — CB Concrete Construction",
+      "description": "Capabilities at CB Concrete Construction in Los Gatos: Footings and foundation work, Driveways, paths and flatwork, Retaining walls and drainage. Footings, flatwork, retaining walls and complex formwork for hillside Los Gatos and Saratoga properties.",
+      "h1": "Capabilities",
+      "kicker": "Concrete & hardscape",
+      "sections": [
+        "hero",
+        "services",
+        "capabilities",
+        "materials",
+        "specs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "journal",
+      "file": "journal.astro",
+      "path": "/cb-concrete-construction-los-gatos/journal",
+      "title": "Journal — CB Concrete Construction",
+      "description": "Journal at CB Concrete Construction in Los Gatos: Footings and foundation work, Driveways, paths and flatwork, Retaining walls and drainage. Footings, flatwork, retaining walls and complex formwork for hillside Los Gatos and Saratoga properties.",
+      "h1": "Journal",
+      "kicker": "Concrete & hardscape",
+      "sections": [
+        "hero",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "safety",
+      "file": "safety.astro",
+      "path": "/cb-concrete-construction-los-gatos/safety",
+      "title": "Safety — CB Concrete Construction",
+      "description": "Safety at CB Concrete Construction in Los Gatos: Footings and foundation work, Driveways, paths and flatwork, Retaining walls and drainage. Footings, flatwork, retaining walls and complex formwork for hillside Los Gatos and Saratoga properties.",
+      "h1": "Safety",
+      "kicker": "Concrete & hardscape",
+      "sections": [
+        "hero",
+        "services",
+        "capabilities",
+        "materials",
+        "specs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/cb-concrete-construction-los-gatos/contact",
+      "title": "Contact — CB Concrete Construction",
+      "description": "Call or write to CB Concrete Construction in Los Gatos. Contact details verified against public listings.",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "coverage",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 8,
+    "gap": 9,
+    "vis": 5,
+    "vol": 8,
+    "brand": 5,
+    "comp": 6,
+    "val": 9,
+    "assets": 5,
+    "roi": 8
+  },
+  "seo": {
+    "title": "CB Concrete Construction — Concrete & hardscape in Los Gatos",
+    "description": "Footings, flatwork, retaining walls and complex formwork for hillside Los Gatos and Saratoga properties.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "CB Concrete Construction",
+    "description": "Footings, flatwork, retaining walls and complex formwork for hillside Los Gatos and Saratoga properties.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Los Gatos",
+      "addressRegion": "CA",
+      "postalCode": "95030"
+    },
+    "sameAs": [
+      "https://www.yelp.com/search?find_desc=Home+Foundation+Repair&find_loc=Los+Gatos%2C+CA"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.1,
+      "reviewCount": 119,
+      "bestRating": 5
+    },
+    "slogan": "Concrete is unforgiving. So we plan it twice.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/search?find_desc=Home+Foundation+Repair&find_loc=Los+Gatos%2C+CA"
+  ],
+  "sourceNotes": []
+}

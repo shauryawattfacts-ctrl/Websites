@@ -1,0 +1,325 @@
+{
+  "id": "sv021",
+  "slug": "km2a-martial-arts-after-school-sunnyvale",
+  "name": "KM2A Martial Arts & After School",
+  "short": "KM2A Martial Arts",
+  "cat": "Youth education",
+  "sub": "After school + martial arts",
+  "city": "Sunnyvale",
+  "zip": "94086",
+  "addr": "104 S Sunnyvale Ave, Sunnyvale, CA 94086",
+  "phone": null,
+  "email": null,
+  "contactNote": null,
+  "founded": "1994",
+  "hours": "After school Mon-Fri plus camps",
+  "audience": "Families in Sunnyvale, Santa Clara, Cupertino and Mountain View school districts",
+  "scale": {
+    "emp": "instructors and after-school staff",
+    "loc": 1
+  },
+  "description": "After-school program combined with martial arts instruction since 1994: homework support, taekwondo and seasonal camps under one roof.",
+  "services": [
+    "After-school homework and supervision",
+    "Taekwondo instruction",
+    "Belt testing and progression",
+    "Summer day camps",
+    "Birthday and group events",
+    "Parent communication"
+  ],
+  "serviceCopy": [
+    "Homework hour with staff.",
+    "Taekwondo progression by belt.",
+    "Structured summer camps.",
+    "Events and birthdays in the same building."
+  ],
+  "insight": "Care and training under one afternoon: families enrol once and stay, which is why the waitlist exists at four o'clock.",
+  "usps": [
+    "Pickup, homework and training in one program",
+    "Since 1994 in the same city",
+    "Belt progression that parents can see"
+  ],
+  "differentiators": [
+    "Publishes the daily run-of-show, which every parent wants before a tour"
+  ],
+  "voice": "Respectful, structured, family-run",
+  "persona": "The second family at school",
+  "reputation": {
+    "rating": null,
+    "reviews": 36,
+    "src": "Yelp",
+    "note": "Aggregate rating not captured in listings reviewed; the volume itself is the asset to rehome."
+  },
+  "budget": {
+    "afford": [
+      "Recurring after-school tuition: hundreds of dollars per child per month",
+      "Three decades operating with a facility lease and real payroll",
+      "Seasonal enrolment peaks make a funnel the highest-leverage investment"
+    ],
+    "risk": [
+      "Owner-run school: content must be maintainable by a non-technical administrator",
+      "Contact data thin in captured listings - verify before pitching"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Tatami tan",
+      "uniform navy",
+      "belt black"
+    ],
+    "logo": "Existing acronym mark - needs vector redraw",
+    "photoNote": "Line-up, homework table, belt ceremony"
+  },
+  "copy": {
+    "eyebrow": "Sunnyvale · since 1994",
+    "h1": "Homework at four, black belt by eighteen.",
+    "sub": "After-school care built around martial arts structure: supervision, tutoring, training and a progression you can watch.",
+    "cta1": "Book a tour",
+    "cta2": "See a weekday",
+    "lede": "KM2A has run the same afternoon playbook for thirty years: kids arrive, homework gets done, mats get worked, parents get an update. It has never been explained online.",
+    "svcCopy": [
+      "Homework hour with staff.",
+      "Taekwondo progression by belt.",
+      "Structured summer camps.",
+      "Events and birthdays in the same building."
+    ]
+  },
+  "concept": {
+    "dir": "Parent-first enrolment site: a visual daily timeline, licensing and safety transparency, program cards by grade band, and a real enrolment form. Warm, structured, never cartoonish.",
+    "palette": {
+      "ink": "#16233c",
+      "paper": "#fbf8f1",
+      "accent": "#c8402f",
+      "accent2": "#2c7a5e"
+    },
+    "heroType": "split",
+    "motion": "pop-in",
+    "interactive": [
+      "Animated after-school timeline",
+      "Enrolment and tour form",
+      "Belt progression visual",
+      "Tuition transparency block (draft, marked for confirmation)"
+    ],
+    "pages": [
+      "index",
+      "programs",
+      "schedule",
+      "enroll",
+      "about",
+      "contact"
+    ],
+    "nav": [
+      "Programs",
+      "A weekday",
+      "Tuition",
+      "Enroll",
+      "Contact"
+    ],
+    "tone": "Trusted, exact, kind",
+    "refs": "A private school admissions page for a neighbourhood program.",
+    "signature": "timeline",
+    "hero": "split"
+  },
+  "web": {
+    "s": "basic",
+    "url": "http://km2a.net",
+    "lvl": "C",
+    "note": "A domain (km2a.net) appears on directory records, but no enrolment flow, structured program pages or mobile hierarchy surfaced in the listings reviewed. Treated as minimal/outdated pending full audit.",
+    "src": [
+      "https://www.yelp.com/biz/km2a-martial-arts-and-after-school-sunnyvale"
+    ],
+    "status": "Extremely outdated or basic website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/km2a-martial-arts-and-after-school-sunnyvale"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for KM2A Martial Arts & After School — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "education-enroll",
+    "label": "Enrolment Funnel",
+    "summary": "Parent-proof structure: program cards by age band, weekly timetable, trial-lesson funnel, staff credentials, term calendar, safety/policies block.",
+    "fonts": {
+      "display": "\"Nunito\"",
+      "body": "\"Noto Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Nunito:wght@600;700;800&family=Noto+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400",
+    "nav": "pill",
+    "motion": "pop-in",
+    "tokens": {
+      "ink": "#16233c",
+      "paper": "#fbf8f1",
+      "accent": "#c8402f",
+      "accent2": "#2c7a5e",
+      "inkName": "Tatami tan",
+      "radius": "18px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 12%, transparent)",
+      "shadow": "0 18px 36px -28px rgb(20 40 90 / .4)",
+      "pad": "clamp(3.4rem,7.5vw,6.4rem)",
+      "scale": "1.22",
+      "headingCase": "none",
+      "track": "-.014em",
+      "texture": "dots",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "programs",
+      "schedule",
+      "why-us",
+      "teachers",
+      "tuition",
+      "faq",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/km2a-martial-arts-after-school-sunnyvale",
+      "title": "KM2A Martial Arts & After School — Youth education in Sunnyvale",
+      "description": "After-school care built around martial arts structure: supervision, tutoring, training and a progression you can watch.",
+      "h1": "Homework at four, black belt by eighteen.",
+      "kicker": "Sunnyvale · since 1994",
+      "sections": [
+        "hero",
+        "programs",
+        "schedule",
+        "why-us",
+        "teachers",
+        "tuition",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "programs",
+      "file": "programs.astro",
+      "path": "/km2a-martial-arts-after-school-sunnyvale/programs",
+      "title": "Programs — KM2A Martial Arts & After School",
+      "description": "Programs, schedules and enrolment information.",
+      "h1": "Programs",
+      "kicker": "Enrolment",
+      "sections": [
+        "hero",
+        "programs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "schedule",
+      "file": "schedule.astro",
+      "path": "/km2a-martial-arts-after-school-sunnyvale/schedule",
+      "title": "Schedule — KM2A Martial Arts & After School",
+      "description": "Schedule at KM2A Martial Arts in Sunnyvale: After-school homework and supervision, Taekwondo instruction, Belt testing and progression. After-school care built around martial arts structure: supervision, tutoring, training and a progression you can watch.",
+      "h1": "Schedule",
+      "kicker": "Youth education",
+      "sections": [
+        "hero",
+        "programs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "enroll",
+      "file": "enroll.astro",
+      "path": "/km2a-martial-arts-after-school-sunnyvale/enroll",
+      "title": "Enroll — KM2A Martial Arts & After School",
+      "description": "Enroll at KM2A Martial Arts in Sunnyvale: After-school homework and supervision, Taekwondo instruction, Belt testing and progression. After-school care built around martial arts structure: supervision, tutoring, training and a progression you can watch.",
+      "h1": "Enroll",
+      "kicker": "Youth education",
+      "sections": [
+        "hero",
+        "tuition",
+        "contact"
+      ]
+    },
+    {
+      "slug": "about",
+      "file": "about.astro",
+      "path": "/km2a-martial-arts-after-school-sunnyvale/about",
+      "title": "About — KM2A Martial Arts & After School",
+      "description": "After-school program combined with martial arts instruction since 1994: homework support, taekwondo and seasonal camps under one roof.",
+      "h1": "About KM2A Martial Arts & After School",
+      "kicker": "The firm",
+      "sections": [
+        "hero",
+        "teachers",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/km2a-martial-arts-after-school-sunnyvale/contact",
+      "title": "Contact — KM2A Martial Arts & After School",
+      "description": "Call or write to KM2A Martial Arts & After School in Sunnyvale. Contact details verified against public listings.",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "tuition",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 8,
+    "gap": 9,
+    "vis": 6,
+    "vol": 6,
+    "brand": 7,
+    "comp": 7,
+    "val": 10,
+    "assets": 5,
+    "roi": 9
+  },
+  "seo": {
+    "title": "KM2A Martial Arts & After School — Youth education in Sunnyvale",
+    "description": "After-school care built around martial arts structure: supervision, tutoring, training and a progression you can watch.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "KM2A Martial Arts & After School",
+    "description": "After-school care built around martial arts structure: supervision, tutoring, training and a progression you can watch.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Sunnyvale",
+      "addressRegion": "CA",
+      "postalCode": "94086",
+      "streetAddress": "104 S Sunnyvale Ave"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/km2a-martial-arts-and-after-school-sunnyvale"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "Homework at four, black belt by eighteen.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/km2a-martial-arts-and-after-school-sunnyvale"
+  ],
+  "sourceNotes": []
+}

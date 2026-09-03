@@ -1,0 +1,319 @@
+{
+  "id": "sv014",
+  "slug": "new-life-tree-service-santa-clara",
+  "name": "New Life Tree Service",
+  "short": "New Life Tree",
+  "cat": "Tree care",
+  "sub": "Removal, pruning, stump grinding",
+  "city": "Santa Clara",
+  "zip": "95051",
+  "addr": "1720 Jones Ave, Santa Clara, CA 95051",
+  "phone": "(408) 748-9051",
+  "email": null,
+  "contactNote": null,
+  "founded": "not verified (reviewers describe 8-10 year client history)",
+  "hours": "Mon-Sat day crews",
+  "audience": "Cupertino, Santa Clara and Willow Glen homes with mature trees",
+  "scale": {
+    "emp": "crew-based operation",
+    "loc": 1
+  },
+  "description": "Tree removal, pruning and trimming for large residential trees. Reviews name the owner (Art Hall) directly and describe repeat multi-year work on the same streets.",
+  "services": [
+    "Removal of large and hazardous trees",
+    "Crown and clearance pruning",
+    "Stump grinding",
+    "Storm damage response",
+    "Lot clearing",
+    "Haul-off and cleanup"
+  ],
+  "serviceCopy": [
+    "Hazard and confined-space removal.",
+    "Structural and clearance pruning.",
+    "Stump grinding below grade.",
+    "Storm response and same-week haul-off."
+  ],
+  "insight": "Verified-by-business service block on Yelp proves licence hygiene that a website would surface properly.",
+  "usps": [
+    "Takes the trees other crews decline",
+    "Same foreman for years on some streets",
+    "Cleanup discipline mentioned unprompted in reviews"
+  ],
+  "differentiators": [
+    "Publishes an actual booking and job-status flow, which no local arborist offers"
+  ],
+  "voice": "Capable and plain",
+  "persona": "Redwood specialists of the South Bay",
+  "reputation": {
+    "rating": 4.1,
+    "reviews": 15,
+    "src": "Yelp",
+    "note": "Complaints cluster on scheduling follow-through rather than the work itself - a systems problem a booking flow can fix."
+  },
+  "budget": {
+    "afford": [
+      "Large redwood and oak removals run $3K-$15K each",
+      "Repeat decade-long customers indicate stable, referral-driven demand",
+      "Service-verification work already done on the profile"
+    ],
+    "risk": [
+      "Unclaimed listing: reaching the owner is the first hurdle",
+      "15 reviews is too small for a proof-led design; lead with method instead"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Bark",
+      "wood chip",
+      "hi-vis orange"
+    ],
+    "logo": "None found - build a tree-ring monogram",
+    "photoNote": "Rigging shots, chipper, before/after canopy"
+  },
+  "copy": {
+    "eyebrow": "Santa Clara · tree removal and care",
+    "h1": "The trees nobody else will rig, on the streets that keep calling back.",
+    "sub": "Removal, heavy pruning and stump work for mature South Bay lots - with scheduling you can actually see.",
+    "cta1": "Book an estimate",
+    "cta2": "What we remove",
+    "lede": "New Life takes the jobs other crews walk away from: tall redwoods over a garage, stumps against a slab, storm limbs with no clearance. Decades of the same customers is the proof.",
+    "svcCopy": [
+      "Hazard and confined-space removal.",
+      "Structural and clearance pruning.",
+      "Stump grinding below grade.",
+      "Storm response and same-week haul-off."
+    ]
+  },
+  "concept": {
+    "dir": "Vertical canopy layout: oversized numerals, a rigging-diagram hero, and a scheduling-first funnel that repairs their single weak spot.",
+    "palette": {
+      "ink": "#14150f",
+      "paper": "#eceadf",
+      "accent": "#b4541f",
+      "accent2": "#41563a"
+    },
+    "heroType": "manifesto",
+    "motion": "hard-cut",
+    "interactive": [
+      "Estimate stepper (tree size / access / target)",
+      "Crew-day status page concept",
+      "Permit and risk explainer",
+      "Photo gallery by job type"
+    ],
+    "pages": [
+      "index",
+      "services",
+      "book",
+      "about",
+      "contact"
+    ],
+    "nav": [
+      "Services",
+      "Book an estimate",
+      "Storm work",
+      "Firm",
+      "Contact"
+    ],
+    "tone": "Calm in a scary trade",
+    "refs": "Safety-manual typography with tree photography.",
+    "signature": "picker",
+    "hero": "manifesto"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "B",
+    "note": "Yelp listing carries no website field and is unclaimed; no domain surfaced in any directory reviewed. Phone and address only.",
+    "src": [
+      "https://www.yelp.com/biz/new-life-tree-service-santa-clara"
+    ],
+    "status": "No website",
+    "confidence": "verified across two or more directories"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/new-life-tree-service-santa-clara"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for New Life Tree Service — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "industrial-brutalist",
+    "label": "Shop Floor Brutalist",
+    "summary": "Heavy concrete/steel aesthetic: oversized numerals, blueprint rules, stamp-like buttons, horizontal material ticker. Built for fabricators and builders.",
+    "fonts": {
+      "display": "\"Archivo\"",
+      "body": "\"Spline Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Archivo:wght@600;700;800;900&family=Spline+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "bar",
+    "motion": "hard-cut",
+    "tokens": {
+      "ink": "#14150f",
+      "paper": "#eceadf",
+      "accent": "#b4541f",
+      "accent2": "#41563a",
+      "inkName": "Bark",
+      "radius": "2px",
+      "hair": "2px",
+      "border": "2px solid var(--ink)",
+      "shadow": "none",
+      "pad": "clamp(4rem,9vw,8rem)",
+      "scale": "1.32",
+      "headingCase": "uppercase",
+      "track": "-.03em",
+      "texture": "blueprint",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "materials",
+      "services",
+      "capabilities",
+      "specs",
+      "coverage",
+      "proof",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/new-life-tree-service-santa-clara",
+      "title": "New Life Tree Service — Tree care in Santa Clara",
+      "description": "Removal, heavy pruning and stump work for mature South Bay lots - with scheduling you can actually see.",
+      "h1": "The trees nobody else will rig, on the streets that keep calling back.",
+      "kicker": "Santa Clara · tree removal and care",
+      "sections": [
+        "hero",
+        "materials",
+        "services",
+        "capabilities",
+        "specs",
+        "coverage",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/new-life-tree-service-santa-clara/services",
+      "title": "Services — New Life Tree Service",
+      "description": "Removal of large and hazardous trees; Crown and clearance pruning; Stump grinding; Storm damage response; Lot clearing; Haul-off and cleanup. Santa Clara based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "capabilities",
+        "materials",
+        "specs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "book",
+      "file": "book.astro",
+      "path": "/new-life-tree-service-santa-clara/book",
+      "title": "Book — New Life Tree Service",
+      "description": "Book at New Life Tree in Santa Clara: Removal of large and hazardous trees, Crown and clearance pruning, Stump grinding. Removal, heavy pruning and stump work for mature South Bay lots - with scheduling you can actually see.",
+      "h1": "Book",
+      "kicker": "Tree care",
+      "sections": [
+        "hero",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "about",
+      "file": "about.astro",
+      "path": "/new-life-tree-service-santa-clara/about",
+      "title": "About — New Life Tree Service",
+      "description": "Tree removal, pruning and trimming for large residential trees. Reviews name the owner (Art Hall) directly and describe repeat multi-year work on the same streets.",
+      "h1": "About New Life Tree Service",
+      "kicker": "The firm",
+      "sections": [
+        "hero",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/new-life-tree-service-santa-clara/contact",
+      "title": "Contact — New Life Tree Service",
+      "description": "Call or write to New Life Tree Service in Santa Clara. (408) 748-9051",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "coverage",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 6,
+    "gap": 10,
+    "vis": 4,
+    "vol": 4,
+    "brand": 5,
+    "comp": 6,
+    "val": 8,
+    "assets": 4,
+    "roi": 7
+  },
+  "seo": {
+    "title": "New Life Tree Service — Tree care in Santa Clara",
+    "description": "Removal, heavy pruning and stump work for mature South Bay lots - with scheduling you can actually see.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "New Life Tree Service",
+    "description": "Removal, heavy pruning and stump work for mature South Bay lots - with scheduling you can actually see.",
+    "phone": "(408) 748-9051",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Santa Clara",
+      "addressRegion": "CA",
+      "postalCode": "95051",
+      "streetAddress": "1720 Jones Ave"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/new-life-tree-service-santa-clara"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.1,
+      "reviewCount": 15,
+      "bestRating": 5
+    },
+    "slogan": "The trees nobody else will rig, on the streets that keep calling back.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/new-life-tree-service-santa-clara"
+  ],
+  "sourceNotes": []
+}

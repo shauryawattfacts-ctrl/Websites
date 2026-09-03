@@ -1,0 +1,329 @@
+{
+  "id": "sv025",
+  "slug": "cross-estate-planning-law-cupertino",
+  "name": "Cross Estate Planning Law",
+  "short": "Cross Estate Planning",
+  "cat": "Estate planning law",
+  "sub": "Trusts, wills & probate",
+  "city": "Cupertino",
+  "zip": "95014",
+  "addr": "10080 N Wolfe Rd Ste SW3-200, Cupertino, CA 95014",
+  "phone": "(650) 503-3078",
+  "email": "dcross@crossestateplanning.com",
+  "contactNote": "Phone shown as (650) 503-3078 on the site and (408) 973-7811 in the tel: link - confirm primary line before building schema.",
+  "founded": "not verified",
+  "hours": "Mon-Fri office hours",
+  "audience": "Cupertino, Saratoga and Sunnyvale families with modest-to-substantial estates",
+  "scale": {
+    "emp": "attorney-led practice",
+    "loc": 1
+  },
+  "description": "Solo estate planning practice led by David Cross: revocable trusts, wills, powers of attorney and probate avoidance, with verified-by-business status on its review profile.",
+  "services": [
+    "Revocable living trusts",
+    "Wills and codicils",
+    "Durable power of attorney and health directives",
+    "Probate and trust administration",
+    "Estate plan reviews and updates",
+    "Decedent estate tax filings"
+  ],
+  "serviceCopy": [
+    "Living trusts, drafted for how families actually behave.",
+    "Powers of attorney and health directives.",
+    "Trust funding and deed work.",
+    "Annual reviews and administration."
+  ],
+  "insight": "A maintained Twitter presence but no content on the site: the writing habit exists, the platform does not.",
+  "usps": [
+    "Four decades of trust practice in one valley city",
+    "Fixed-fee planning rather than hourly anxiety",
+    "Handles the whole life cycle: draft, fund, update, administer"
+  ],
+  "differentiators": [
+    "Publishes the plan-funding checklist that most firms keep behind a consult"
+  ],
+  "voice": "Measured, plain, unhurried",
+  "persona": "The neighbourhood estate lawyer",
+  "reputation": {
+    "rating": 4.8,
+    "reviews": 46,
+    "src": "Yelp",
+    "note": "High rating, low volume, and a phone number that disagrees with itself across properties."
+  },
+  "budget": {
+    "afford": [
+      "Estate plans locally bill $3K-$8K with recurring admin fees",
+      "Forty-six reviews at 4.8 with zero content marketing",
+      "Attorney-led practices routinely fund $10K-$25K web rebuilds"
+    ],
+    "risk": [
+      "Solo practitioner: time, not money, is the constraint",
+      "Legal copy must be reviewed for state-bar advertising rules"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Ink",
+      "#",
+      "faded manila",
+      "oxblood"
+    ],
+    "logo": "Serif wordmark with a rule under the surname",
+    "photoNote": "Desk, documents, shelves of bound codes - no gavel stock"
+  },
+  "copy": {
+    "eyebrow": "Cupertino · estate planning",
+    "h1": "A trust is only worth the parts of it that were actually funded.",
+    "sub": "Revocable trusts, wills and powers of attorney for Cupertino and Saratoga families - fixed fee, and a checklist that keeps the plan alive.",
+    "cta1": "Request a consultation",
+    "cta2": "Plan review",
+    "lede": "Cross Estate Planning has spent years writing plans that families never fund, which is why the firm now does funding differently. None of that is readable on a 2018 site that lists two phone numbers.",
+    "svcCopy": [
+      "Living trusts, drafted for how families actually behave.",
+      "Powers of attorney and health directives.",
+      "Trust funding and deed work.",
+      "Annual reviews and administration."
+    ]
+  },
+  "concept": {
+    "dir": "Legal editorial: serif measure, long-form explainer column, a process rail that tracks drafting to funding, and a plan-review intake. Replaces brochure with reasoning.",
+    "palette": {
+      "ink": "#1a1c1e",
+      "paper": "#f6f3ec",
+      "accent": "#6b2233",
+      "accent2": "#4a5a6b"
+    },
+    "heroType": "editorial",
+    "motion": "line-mask",
+    "interactive": [
+      "Long-form scroll article with pull quotes",
+      "Process rail (draft / fund / update / administer)",
+      "Fixed-fee consultation request form",
+      "FAQ with FAQPage schema"
+    ],
+    "pages": [
+      "index",
+      "services",
+      "process",
+      "faq",
+      "contact"
+    ],
+    "nav": [
+      "Practice",
+      "Process",
+      "FAQ",
+      "Contact"
+    ],
+    "tone": "Measured authority",
+    "refs": "A law-firm long-read, not a template with a scales icon.",
+    "signature": "timeline",
+    "hero": "editorial"
+  },
+  "web": {
+    "s": "basic",
+    "url": "http://crossestateplanning.com",
+    "lvl": "A",
+    "note": "Audited live: the site exists but is effectively frozen (assets dated 2018), carries three thin service pages, displays (650) 503-3078 while the tel: link points to (408) 973-7811, and its Yelp slug is cross-law-sunnyvale. A modern brand with a mismatched, unmaintained web identity.",
+    "src": [
+      "http://crossestateplanning.com",
+      "https://www.yelp.com/biz/cross-estate-planning-law-cupertino"
+    ],
+    "status": "Extremely outdated or basic website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/cross-estate-planning-law-cupertino",
+    "fb": "https://www.facebook.com/crossestateplanning",
+    "other": [
+      "https://twitter.com/Crossestateplan"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Cross Estate Planning Law — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "editorial-legal",
+    "label": "Quiet Authority",
+    "summary": "Long-form editorial law/professional practice: serif display, drop caps, measured columns, case-type index, unhurried scroll reveals.",
+    "fonts": {
+      "display": "\"Fraunces\"",
+      "body": "\"Source Sans 3\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Fraunces:opsz,wght@9..144,400;9..144,600&family=Source+Sans+3:wght@400;500;600&family=IBM+Plex+Mono:wght@400",
+    "nav": "centered",
+    "motion": "line-mask",
+    "tokens": {
+      "ink": "#1a1c1e",
+      "paper": "#f6f3ec",
+      "accent": "#6b2233",
+      "accent2": "#4a5a6b",
+      "inkName": "Ink",
+      "radius": "0px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 18%, transparent)",
+      "shadow": "none",
+      "pad": "clamp(4.5rem,10vw,9rem)",
+      "scale": "1.2",
+      "headingCase": "none",
+      "track": "-.012em",
+      "texture": "rule",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "credentials",
+      "practice",
+      "process",
+      "results",
+      "insight",
+      "faq",
+      "services"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/cross-estate-planning-law-cupertino",
+      "title": "Cross Estate Planning Law — Estate planning law in Cupertino",
+      "description": "Revocable trusts, wills and powers of attorney for Cupertino and Saratoga families - fixed fee, and a checklist that keeps the plan alive.",
+      "h1": "A trust is only worth the parts of it that were actually funded.",
+      "kicker": "Cupertino · estate planning",
+      "sections": [
+        "hero",
+        "credentials",
+        "practice",
+        "process",
+        "results",
+        "insight",
+        "faq",
+        "services"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/cross-estate-planning-law-cupertino/services",
+      "title": "Services — Cross Estate Planning Law",
+      "description": "Revocable living trusts; Wills and codicils; Durable power of attorney and health directives; Probate and trust administration; Estate plan reviews and updates; Decedent estate tax filings. Cupertino based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "process",
+      "file": "process.astro",
+      "path": "/cross-estate-planning-law-cupertino/process",
+      "title": "Process — Cross Estate Planning Law",
+      "description": "Process at Cross Estate Planning in Cupertino: Revocable living trusts, Wills and codicils, Durable power of attorney and health directives. Revocable trusts, wills and powers of attorney for Cupertino and Saratoga families - fixed fee, and a checklist that keeps the plan alive.",
+      "h1": "Process",
+      "kicker": "Estate planning law",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "faq",
+      "file": "faq.astro",
+      "path": "/cross-estate-planning-law-cupertino/faq",
+      "title": "Faq — Cross Estate Planning Law",
+      "description": "Faq at Cross Estate Planning in Cupertino: Revocable living trusts, Wills and codicils, Durable power of attorney and health directives. Revocable trusts, wills and powers of attorney for Cupertino and Saratoga families - fixed fee, and a checklist that keeps the plan alive.",
+      "h1": "Faq",
+      "kicker": "Estate planning law",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/cross-estate-planning-law-cupertino/contact",
+      "title": "Contact — Cross Estate Planning Law",
+      "description": "Call or write to Cross Estate Planning Law in Cupertino. (650) 503-3078",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 8,
+    "gap": 8,
+    "vis": 6,
+    "vol": 7,
+    "brand": 7,
+    "comp": 7,
+    "val": 8,
+    "assets": 5,
+    "roi": 8
+  },
+  "seo": {
+    "title": "Cross Estate Planning Law — Estate planning law in Cupertino",
+    "description": "Revocable trusts, wills and powers of attorney for Cupertino and Saratoga families - fixed fee, and a checklist that keeps the plan alive.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LegalService",
+    "name": "Cross Estate Planning Law",
+    "description": "Revocable trusts, wills and powers of attorney for Cupertino and Saratoga families - fixed fee, and a checklist that keeps the plan alive.",
+    "phone": "(650) 503-3078",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Cupertino",
+      "addressRegion": "CA",
+      "postalCode": "95014",
+      "streetAddress": "10080 N Wolfe Rd Ste SW3-200"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/cross-estate-planning-law-cupertino",
+      "https://www.facebook.com/crossestateplanning",
+      "https://twitter.com/Crossestateplan"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 46,
+      "bestRating": 5
+    },
+    "slogan": "A trust is only worth the parts of it that were actually funded.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "http://crossestateplanning.com",
+    "https://www.yelp.com/biz/cross-estate-planning-law-cupertino",
+    "https://www.facebook.com/crossestateplanning",
+    "https://twitter.com/Crossestateplan"
+  ],
+  "sourceNotes": []
+}

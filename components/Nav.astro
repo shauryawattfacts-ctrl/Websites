@@ -1,0 +1,32 @@
+---
+/**
+ * Nav.astro — six treatments selected by the archetype (utility, bar,
+ * centered, overlay, pill, minimal). Same accessible markup, different CSS.
+ */
+interface Props { biz: any; current: string }
+const { biz, current } = Astro.props;
+const pages = biz.pages as { path: string; slug: string; title: string }[];
+const label = (p: (typeof pages)[number]) => (p.slug === 'index' ? 'Home' : p.slug.replace(/-/g, ' ').replace(/\b\w/g, (m) => m.toUpperCase()));
+---
+<header class="nav" data-nav={biz.design.nav} id="nav">
+  <div class="shell nav-in">
+    <a class="brand" href={pages[0].path} aria-label={`${biz.name} home`}>
+      <span>{biz.name}</span>
+      <small>{biz.city}</small>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="navlinks">
+      <span class="visually-hidden">Menu</span>
+      <svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 7h18M3 12h18M3 17h18" stroke="currentColor" stroke-width="1.6" fill="none"/></svg>
+    </button>
+    <nav id="navlinks" class="nav-links" aria-label="Primary">
+      {pages.filter((p) => p.slug !== 'index').slice(0, 5).map((p) => (
+        <a href={p.path} aria-current={current === p.slug ? 'page' : undefined}>{label(p)}</a>
+      ))}
+      <a class="btn btn--sm nav-cta" href={`/${biz.slug}/contact`}>{biz.copy.cta1}</a>
+    </nav>
+  </div>
+</header>
+<style>
+  .nav-toggle { display: none; margin-inline-start: auto; background: none; border: 0; color: inherit; cursor: pointer; padding: .35rem; }
+  @media (max-width: 52rem) { .nav-toggle { display: block; } .nav-in { position: relative; } }
+</style>

@@ -1,0 +1,309 @@
+{
+  "id": "sv040",
+  "slug": "wood-and-windows-sunnyvale",
+  "name": "Wood & Windows",
+  "short": "Wood & Windows",
+  "cat": "Cabinetry & millwork",
+  "sub": "Refacing, refinishing & custom cabinets",
+  "city": "Sunnyvale",
+  "zip": "94089",
+  "addr": "1145 Tasman Dr, Sunnyvale, CA 94089",
+  "phone": "(408) 734-4443",
+  "email": null,
+  "contactNote": null,
+  "founded": "approximately 1975 (50 years in business per directory)",
+  "hours": "Mon-Fri shop",
+  "audience": "Homeowners refurbing kitchens without demolition; contractors and designers specifying work",
+  "scale": {
+    "emp": "shop and install crews (inferred from scope)",
+    "loc": 1
+  },
+  "description": "A Sunnyvale cabinet shop listed under refinishing, refacing and commercial cabinetmaking: fifty years on Tasman Drive, taking kitchen doors off-site, rebuilding boxes and finishing to match.",
+  "services": [
+    "Cabinet refacing and door replacement",
+    "Spray finishing and colour matching",
+    "Custom cabinet and millwork fabrication",
+    "Commercial casework and built-ins",
+    "Countertop coordination",
+    "Repair of doors, drawers and boxes"
+  ],
+  "serviceCopy": [
+    "Doors off, boxes rebuilt, colour matched.",
+    "Custom casework and built-ins to drawing.",
+    "Commercial millwork and storefront joinery.",
+    "Counters, hardware and install coordination."
+  ],
+  "insight": "Refacing costs about a fifth of a gut remodel, and the kitchen is back in three days instead of three weeks.",
+  "usps": [
+    "Fifty years of the same craft on the same street",
+    "Off-site finishing, not a brush in your kitchen",
+    "Refacing at a fraction of a remodel"
+  ],
+  "differentiators": [
+    "Publishes a remodel-versus-reface comparison with real cost bands and timelines"
+  ],
+  "voice": "Workshop candour",
+  "persona": "The cabinetmakers who keep your boxes",
+  "reputation": {
+    "rating": null,
+    "reviews": null,
+    "src": "not captured",
+    "note": "No public review surface captured: build proof from project photography and reference calls."
+  },
+  "budget": {
+    "afford": [
+      "Refacing and custom casework run $8K-$45K per project",
+      "Half a century in a shop building on a Tasman Drive industrial block",
+      "Commercial casework means drawing-based clients who expect spec sheets"
+    ],
+    "risk": [
+      "Fifty-year owner-operator: minimal appetite for content, design must be self-maintaining",
+      "No digital proof base: photography must be commissioned"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Raw maple",
+      "lacquer cream",
+      "steel blue"
+    ],
+    "logo": "Set a wood-type wordmark with a mitre-corner rule",
+    "photoNote": "Spray booth, door stacks, finished kitchens, jig details"
+  },
+  "copy": {
+    "eyebrow": "Sunnyvale · since roughly 1975",
+    "h1": "A new kitchen without a demolition crew.",
+    "sub": "Cabinet refacing, spray finishing and custom millwork from a fifty-year shop on Tasman Drive.",
+    "cta1": "Get a refacing estimate",
+    "cta2": "Refacing versus remodel",
+    "lede": "Most kitchens in this valley do not need to be destroyed. Wood & Windows has been proving that for fifty years: cabinets refaced and doors refinished off-site, so your kitchen is back in days, not weeks.",
+    "svcCopy": [
+      "Doors off, boxes rebuilt, colour matched.",
+      "Custom casework and built-ins to drawing.",
+      "Commercial millwork and storefront joinery.",
+      "Counters, hardware and install coordination."
+    ]
+  },
+  "concept": {
+    "dir": "Fabrication spec-site: shop-drawing motifs, a refacing-versus-remodel comparison with cost and timeline bands, process photos of spray finishing, and an estimate request that asks for cabinet dimensions.",
+    "palette": {
+      "ink": "#eef0f2",
+      "paper": "#1a1d21",
+      "accent": "#c8873f",
+      "accent2": "#6d8a99"
+    },
+    "heroType": "fullbleed",
+    "motion": "hard-cut",
+    "interactive": [
+      "Comparison table: refacing vs painting vs remodel",
+      "Photo sequence of the finishing process",
+      "Estimate form with linear-foot inputs",
+      "Before/after gallery with hover captions"
+    ],
+    "pages": [
+      "index",
+      "refacing",
+      "custom",
+      "process",
+      "contact"
+    ],
+    "nav": [
+      "Refacing",
+      "Custom millwork",
+      "Process",
+      "Contact"
+    ],
+    "tone": "Shop-floor precision",
+    "refs": "A specialty fabricator page, not a remodel-lead-gen template.",
+    "signature": "compare",
+    "hero": "fullbleed"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Directory record lists 50 years in business with phone, address and a From-Business block but no website affordance, while neighbouring entries in the same result set do show one. Treat as no-website pending live audit.",
+    "src": [
+      "https://www.yellowpages.com/sunnyvale-ca/kitchen-cabinets-refinishing-refacing-resurfacing"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "other": [
+      "https://www.yellowpages.com/sunnyvale-ca/kitchen-cabinets-refinishing-refacing-resurfacing"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Wood & Windows — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "b2b-spec",
+    "label": "Bid & Spec",
+    "summary": "RFP-grade B2B site: sticky section rail, capability statements, compliance/badge matrix, project ledger table, bid-request funnel.",
+    "fonts": {
+      "display": "\"Sora\"",
+      "body": "\"IBM Plex Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Sora:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "utility",
+    "motion": "hard-cut",
+    "tokens": {
+      "ink": "#eef0f2",
+      "paper": "#1a1d21",
+      "accent": "#c8873f",
+      "accent2": "#6d8a99",
+      "inkName": "Raw maple",
+      "radius": "4px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 16%, transparent)",
+      "shadow": "0 12px 30px -24px rgb(10 20 40 / .5)",
+      "pad": "clamp(3.4rem,7vw,6rem)",
+      "scale": "1.18",
+      "headingCase": "none",
+      "track": "-.01em",
+      "texture": "blueprint",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "credibility",
+      "capabilities",
+      "sectors",
+      "ledger",
+      "safety",
+      "case-studies",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/wood-and-windows-sunnyvale",
+      "title": "Wood & Windows — Cabinetry & millwork in Sunnyvale",
+      "description": "Cabinet refacing, spray finishing and custom millwork from a fifty-year shop on Tasman Drive.",
+      "h1": "A new kitchen without a demolition crew.",
+      "kicker": "Sunnyvale · since roughly 1975",
+      "sections": [
+        "hero",
+        "credibility",
+        "capabilities",
+        "sectors",
+        "ledger",
+        "safety",
+        "case-studies",
+        "contact"
+      ]
+    },
+    {
+      "slug": "refacing",
+      "file": "refacing.astro",
+      "path": "/wood-and-windows-sunnyvale/refacing",
+      "title": "Refacing — Wood & Windows",
+      "description": "Refacing at Wood & Windows in Sunnyvale: Cabinet refacing and door replacement, Spray finishing and colour matching, Custom cabinet and millwork fabrication. Cabinet refacing, spray finishing and custom millwork from a fifty-year shop on Tasman Drive.",
+      "h1": "Refacing",
+      "kicker": "Cabinetry & millwork",
+      "sections": [
+        "hero",
+        "capabilities",
+        "safety",
+        "contact"
+      ]
+    },
+    {
+      "slug": "custom",
+      "file": "custom.astro",
+      "path": "/wood-and-windows-sunnyvale/custom",
+      "title": "Custom — Wood & Windows",
+      "description": "Custom at Wood & Windows in Sunnyvale: Cabinet refacing and door replacement, Spray finishing and colour matching, Custom cabinet and millwork fabrication. Cabinet refacing, spray finishing and custom millwork from a fifty-year shop on Tasman Drive.",
+      "h1": "Custom",
+      "kicker": "Cabinetry & millwork",
+      "sections": [
+        "hero",
+        "contact"
+      ]
+    },
+    {
+      "slug": "process",
+      "file": "process.astro",
+      "path": "/wood-and-windows-sunnyvale/process",
+      "title": "Process — Wood & Windows",
+      "description": "Process at Wood & Windows in Sunnyvale: Cabinet refacing and door replacement, Spray finishing and colour matching, Custom cabinet and millwork fabrication. Cabinet refacing, spray finishing and custom millwork from a fifty-year shop on Tasman Drive.",
+      "h1": "Process",
+      "kicker": "Cabinetry & millwork",
+      "sections": [
+        "hero",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/wood-and-windows-sunnyvale/contact",
+      "title": "Contact — Wood & Windows",
+      "description": "Call or write to Wood & Windows in Sunnyvale. (408) 734-4443",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 8,
+    "gap": 10,
+    "vis": 4,
+    "vol": 2,
+    "brand": 6,
+    "comp": 5,
+    "val": 10,
+    "assets": 4,
+    "roi": 9
+  },
+  "seo": {
+    "title": "Wood & Windows — Cabinetry & millwork in Sunnyvale",
+    "description": "Cabinet refacing, spray finishing and custom millwork from a fifty-year shop on Tasman Drive.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "Store",
+    "name": "Wood & Windows",
+    "description": "Cabinet refacing, spray finishing and custom millwork from a fifty-year shop on Tasman Drive.",
+    "phone": "(408) 734-4443",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Sunnyvale",
+      "addressRegion": "CA",
+      "postalCode": "94089",
+      "streetAddress": "1145 Tasman Dr"
+    },
+    "sameAs": [
+      "https://www.yellowpages.com/sunnyvale-ca/kitchen-cabinets-refinishing-refacing-resurfacing"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "A new kitchen without a demolition crew.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yellowpages.com/sunnyvale-ca/kitchen-cabinets-refinishing-refacing-resurfacing"
+  ],
+  "sourceNotes": []
+}

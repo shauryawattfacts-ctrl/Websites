@@ -1,0 +1,333 @@
+{
+  "id": "sv013",
+  "slug": "potts-landscape-los-altos",
+  "name": "Robert M. Potts Landscape Design & Construction",
+  "short": "Robert M. Potts",
+  "cat": "Landscape design-build",
+  "sub": "Boutique design + construction",
+  "city": "Los Altos",
+  "zip": "94024",
+  "addr": "906 Echo Dr, Los Altos, CA 94024",
+  "phone": "(650) 948-2090",
+  "email": null,
+  "contactNote": null,
+  "founded": "Houzz bio: serving Los Altos since 1945 · Yelp: \"Established\" client relationships of 17+ years",
+  "hours": "Mon–Sat 8:00–18:00",
+  "audience": "Los Altos, Los Altos Hills, Atherton properties",
+  "scale": {
+    "emp": "small studio + crew",
+    "loc": 1
+  },
+  "description": "Design-build landscape practice: flagstone patios, interlocking pavers, brick and cement walkways, garden lighting, decks, arbors, irrigation, lawns, and waterfalls/rock work. 80-year lineage per Houzz profile.",
+  "services": [
+    "Full design & build",
+    "Flagstone & paver hardscape",
+    "Water features & rock work",
+    "Irrigation & lighting",
+    "Decks, arbors, pergolas",
+    "Mature planting plans"
+  ],
+  "serviceCopy": [
+    "Drawn and built by one practice.",
+    "Hardscape detailed to drain properly, first time.",
+    "Water features and rock work set by eye.",
+    "Planting that reads well in year ten."
+  ],
+  "insight": "Reviews describe pool-side waterfalls, driveway rebuilds and 17-year client relationships — the kind of proof a $10K site monetises.",
+  "usps": [
+    "Eight-decade practice name in Los Altos",
+    "Designer and builder in one head (no hand-off losses)",
+    "Long-tenure clients (17-year relationships)"
+  ],
+  "differentiators": [
+    "The only boutique with a lineage story and a garden of real work; zero published evidence"
+  ],
+  "voice": "Measured, botanical, unhurried",
+  "persona": "The last old-school design-build firm on the Avenue",
+  "reputation": {
+    "rating": 5,
+    "reviews": 3,
+    "src": "Yelp",
+    "note": "Tiny review count, extraordinary depth of client relationships — reputation is entirely referral-based."
+  },
+  "budget": {
+    "afford": [
+      "Los Altos design-build projects run $80K–$400K",
+      "A firm claiming a 1945 lineage has a broken URL as its only web presence",
+      "Houzz profile with one project entry: nothing working for them",
+      "Old-money referral clientele needs a polished front door to justify premium fees"
+    ],
+    "risk": [
+      "Aged principal — must be a \"we update it for you\" engagement",
+      "Low digital literacy: keep scope tight and self-updating minimal"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Boxwood",
+      "limestone",
+      "brass"
+    ],
+    "logo": "Draw an estate-style monogram (RMP) with a leaf-line",
+    "photoNote": "Requires a commissioned shoot: 10–14 projects, plan drawings, plant details"
+  },
+  "copy": {
+    "eyebrow": "Los Altos · since 1945",
+    "h1": "A landscape practice older than Silicon Valley, with a website that no longer loads.",
+    "sub": "Design-build gardens: hardscape, water, mature planting, lighting — by the same hand from first drawing to last stone.",
+    "cta1": "Begin a garden",
+    "cta2": "Selected work",
+    "lede": "Robert M. Potts has been designing and building Los Altos gardens for longer than any firm in the valley. The web address people find on Houzz leads nowhere. That is the entire gap.",
+    "svcCopy": [
+      "Drawn and built by one practice.",
+      "Hardscape detailed to drain properly, first time.",
+      "Water features and rock work set by eye.",
+      "Planting that reads well in year ten."
+    ]
+  },
+  "concept": {
+    "dir": "Botanical drawing-plate system: plan-line illustrations, archival \"since 1945\" ribbon, project plates with elevation details, slow parallax.",
+    "palette": {
+      "ink": "#141a13",
+      "paper": "#f3f1e8",
+      "accent": "#4d6b3c",
+      "accent2": "#a08a4b"
+    },
+    "heroType": "split",
+    "motion": "line-mask",
+    "interactive": [
+      "Scroll-drawn plan line (SVG path animation)",
+      "Project plate index with hover detail",
+      "Consultation request with property-type fields",
+      "Archive timeline (1945 → today)"
+    ],
+    "pages": [
+      "index",
+      "work",
+      "practice",
+      "process",
+      "contact"
+    ],
+    "nav": [
+      "Work",
+      "Practice",
+      "Process",
+      "Journal",
+      "Contact"
+    ],
+    "threeD": "Discreet three.js terrain model that rotates on scroll for the process section (drainage/massing read) — lazy-loaded, optional, low-poly.",
+    "tone": "Rarefied but warm",
+    "refs": "A landscape architect's monograph, not a lawn-care page.",
+    "signature": "timeline",
+    "hero": "split"
+  },
+  "web": {
+    "s": "broken",
+    "url": "http://www.pottslandscape.com/",
+    "lvl": "A",
+    "note": "Houzz lists www.pottslandscape.com/ as the business site, but the domain does not serve a site: fetching it lands on a Google Maps place page, and the Google Business Profile shows \"Add website\" (empty). YellowPages record shows \"Add Website\" too. So: an advertised URL that no longer works = no functional web presence.",
+    "src": [
+      "https://www.houzz.com/professionals/landscape-architects-and-landscape-designers/robert-m-potts-landscape-pfvwus-pf~1704456833",
+      "https://www.yellowpages.com/los-altos-ca/mip/potts-robert-m-landscape-design-construction-468023980",
+      "https://www.yelp.com/biz/robert-m-potts-landscape-design-and-construction-los-altos"
+    ],
+    "status": "Broken / inactive website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/robert-m-potts-landscape-design-and-construction-los-altos",
+    "houzz": "https://www.houzz.com/pro/robertmpottslandscape",
+    "other": [
+      "https://www.google.com/maps/place/Landscape+Design+&+Construction/@37.3668001,-122.103127"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Robert M. Potts Landscape Design & Construction — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "studio-portfolio",
+    "label": "Design Studio Portfolio",
+    "summary": "Plan-drawing geometry, project index with hover previews, oversized caption numerals, section-scroll reveals, fee-and-process transparency for design-build.",
+    "fonts": {
+      "display": "\"Instrument Serif\"",
+      "body": "\"Manrope\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Instrument+Serif:ital@0;1&family=Manrope:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400",
+    "nav": "minimal",
+    "motion": "line-mask",
+    "tokens": {
+      "ink": "#141a13",
+      "paper": "#f3f1e8",
+      "accent": "#4d6b3c",
+      "accent2": "#a08a4b",
+      "inkName": "Boxwood",
+      "radius": "2px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 16%, transparent)",
+      "shadow": "none",
+      "pad": "clamp(4.2rem,9vw,8rem)",
+      "scale": "1.23",
+      "headingCase": "none",
+      "track": "-.008em",
+      "texture": "plan",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "index",
+      "services",
+      "process",
+      "materials",
+      "projects",
+      "studio",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/potts-landscape-los-altos",
+      "title": "Robert M. Potts Landscape — Landscape design-build in Los Altos, CA",
+      "description": "Design-build gardens: hardscape, water, mature planting, lighting — by the same hand from first drawing to last stone.",
+      "h1": "A landscape practice older than Silicon Valley, with a website that no longer loads.",
+      "kicker": "Los Altos · since 1945",
+      "sections": [
+        "hero",
+        "index",
+        "services",
+        "process",
+        "materials",
+        "projects",
+        "studio",
+        "contact"
+      ]
+    },
+    {
+      "slug": "work",
+      "file": "work.astro",
+      "path": "/potts-landscape-los-altos/work",
+      "title": "Selected work — Robert M. Potts Landscape Design & Construction",
+      "description": "Projects and evidence from Robert M. Potts Landscape Design & Construction in Los Altos.",
+      "h1": "Selected work",
+      "kicker": "Index",
+      "sections": [
+        "hero",
+        "projects",
+        "studio",
+        "contact"
+      ]
+    },
+    {
+      "slug": "practice",
+      "file": "practice.astro",
+      "path": "/potts-landscape-los-altos/practice",
+      "title": "Practice — Robert M. Potts Landscape Design & Construction",
+      "description": "Practice at Robert M. Potts in Los Altos: Full design & build, Flagstone & paver hardscape, Water features & rock work. Design-build gardens: hardscape, water, mature planting, lighting — by the same hand from first drawing to last stone.",
+      "h1": "Practice",
+      "kicker": "Landscape design-build",
+      "sections": [
+        "hero",
+        "services",
+        "materials",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "process",
+      "file": "process.astro",
+      "path": "/potts-landscape-los-altos/process",
+      "title": "Process — Robert M. Potts Landscape Design & Construction",
+      "description": "Process at Robert M. Potts in Los Altos: Full design & build, Flagstone & paver hardscape, Water features & rock work. Design-build gardens: hardscape, water, mature planting, lighting — by the same hand from first drawing to last stone.",
+      "h1": "Process",
+      "kicker": "Landscape design-build",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/potts-landscape-los-altos/contact",
+      "title": "Contact — Robert M. Potts Landscape Design & Construction",
+      "description": "Call or write to Robert M. Potts Landscape Design & Construction in Los Altos. (650) 948-2090",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 9,
+    "gap": 10,
+    "vis": 4,
+    "vol": 3,
+    "brand": 9,
+    "comp": 7,
+    "val": 10,
+    "assets": 3,
+    "roi": 9
+  },
+  "seo": {
+    "title": "Robert M. Potts Landscape — Landscape design-build in Los Altos, CA",
+    "description": "Design-build gardens: hardscape, water, mature planting, lighting — by the same hand from first drawing to last stone.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Robert M. Potts Landscape Design & Construction",
+    "description": "Design-build gardens: hardscape, water, mature planting, lighting — by the same hand from first drawing to last stone.",
+    "phone": "(650) 948-2090",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Los Altos",
+      "addressRegion": "CA",
+      "postalCode": "94024",
+      "streetAddress": "906 Echo Dr"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 37.3547,
+      "longitude": -122.0862
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/robert-m-potts-landscape-design-and-construction-los-altos",
+      "https://www.houzz.com/pro/robertmpottslandscape",
+      "https://www.google.com/maps/place/Landscape+Design+&+Construction/@37.3668001,-122.103127"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "A landscape practice older than Silicon Valley, with a website that no longer loads.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.houzz.com/professionals/landscape-architects-and-landscape-designers/robert-m-potts-landscape-pfvwus-pf~1704456833",
+    "https://www.yellowpages.com/los-altos-ca/mip/potts-robert-m-landscape-design-construction-468023980",
+    "https://www.yelp.com/biz/robert-m-potts-landscape-design-and-construction-los-altos",
+    "https://www.houzz.com/pro/robertmpottslandscape",
+    "https://www.google.com/maps/place/Landscape+Design+&+Construction/@37.3668001,-122.103127"
+  ],
+  "sourceNotes": []
+}

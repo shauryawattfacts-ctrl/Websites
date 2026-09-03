@@ -1,0 +1,336 @@
+{
+  "id": "sv009",
+  "slug": "danny-fencing-san-jose",
+  "name": "Danny Fencing",
+  "short": "Danny Fencing",
+  "cat": "Fencing & gates",
+  "sub": "Redwood fence specialist",
+  "city": "San Jose",
+  "zip": "95127",
+  "addr": "40 N Capitol Ave, San Jose, CA 95127",
+  "phone": "(408) 476-9215",
+  "email": null,
+  "contactNote": null,
+  "founded": "2015 · 10+ years hands-on",
+  "hours": "Mon–Sat 9:00–17:00",
+  "audience": "San Jose, Santa Clara, Sunnyvale, Milpitas, Mountain View, Cupertino homeowners",
+  "scale": {
+    "emp": "crew",
+    "loc": 1
+  },
+  "description": "Fence contractor specialising exclusively in redwood: new installs, replacement and repair, board-on-board construction, screws instead of nails, solar caps, 7-ft privacy with lattice, and a 10-year workmanship warranty.",
+  "services": [
+    "Redwood install",
+    "Fence replacement",
+    "Repair & rot cuts",
+    "Gates & hardware",
+    "Lattice & solar caps",
+    "Weather sealing"
+  ],
+  "serviceCopy": [
+    "New redwood lines, 4–7 ft, lattice options.",
+    "Rot-cut repairs that save a panel run.",
+    "Gates, latches and operator prep.",
+    "Sealing schedules so the colour stays."
+  ],
+  "insight": "Reviews mention finishing ahead of schedule and cheaper alternatives offered voluntarily — anti-upsell reputation.",
+  "usps": [
+    "Redwood only — specialist, not generalist",
+    "Screws not nails, board-on-board, sealed end grain",
+    "10-year workmanship warranty in writing"
+  ],
+  "differentiators": [
+    "Competitors sell \"we do everything\"; Danny sells one material deeply"
+  ],
+  "voice": "Craftsman plain",
+  "persona": "The redwood guy",
+  "reputation": {
+    "rating": 5,
+    "reviews": 33,
+    "src": "Yelp (area listing)",
+    "note": "Neighbours praise tidy work, upfront process, and willingness to say when a repair suffices."
+  },
+  "budget": {
+    "afford": [
+      "Full redwood fence lines locally run $8K–$35K",
+      "10-year workmanship warranty: rare, and monetisable",
+      "59 photos of finished work, unpublished professionally"
+    ],
+    "risk": [
+      "Single-owner brand — needs succession of content to a manager",
+      "Two listings with conflicting addresses"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Old-growth redwood",
+      "sawdust",
+      "graphite"
+    ],
+    "logo": "Grain-line wordmark",
+    "photoNote": "59 existing photos + detail macro shots (post caps, grain, seals)"
+  },
+  "copy": {
+    "eyebrow": "San Jose · redwood only",
+    "h1": "We build one thing: redwood fences that do not lean.",
+    "sub": "Board-on-board construction, screws instead of nails, sealed end grain, and a ten-year workmanship warranty.",
+    "cta1": "Get a line estimate",
+    "cta2": "How we build",
+    "lede": "A fence fails at the details nobody shows you: unsealed end grain, nailed pickets, posts set in dirt. Danny Fencing publishes its build detail because it is the whole point.",
+    "svcCopy": [
+      "New redwood lines, 4–7 ft, lattice options.",
+      "Rot-cut repairs that save a panel run.",
+      "Gates, latches and operator prep.",
+      "Sealing schedules so the colour stays."
+    ]
+  },
+  "concept": {
+    "dir": "Build-detail site: exploded post/drawing SVG diagrams, material spec table, \"how we differ\" comparison, per-linear-foot estimator.",
+    "palette": {
+      "ink": "#1d1a16",
+      "paper": "#f6f2ea",
+      "accent": "#9c5b34",
+      "accent2": "#5b6b52"
+    },
+    "heroType": "split",
+    "motion": "line-mask",
+    "interactive": [
+      "Linear-foot estimator (indicative, with disclaimer)",
+      "SVG build-detail diagrams with hover labels",
+      "Comparison table (us vs standard install)",
+      "Neighbourhood filter for installed work"
+    ],
+    "pages": [
+      "index",
+      "build",
+      "estimate",
+      "work",
+      "contact"
+    ],
+    "nav": [
+      "How we build",
+      "Estimate",
+      "Work",
+      "Warranty",
+      "Contact"
+    ],
+    "tone": "Specific beats superlatives",
+    "refs": "A manufacturer's spec sheet with a local face.",
+    "signature": "picker",
+    "hero": "split"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "B",
+    "note": "Claimed-quality Yelp listing (59 photos) with no website field; Nextdoor is their only rich profile and lists a different street number (60 vs 40 N Capitol Ave) — data-consistency problem that a site + GBP fix resolves.",
+    "src": [
+      "https://www.yelp.com/biz/danny-fencing-san-jose-2",
+      "https://nextdoor.com/pages/dannys-fencing-san-jose-ca/"
+    ],
+    "status": "No website",
+    "confidence": "verified across two or more directories"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/danny-fencing-san-jose-2",
+    "other": [
+      "https://nextdoor.com/pages/dannys-fencing-san-jose-ca/"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Danny Fencing — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "home-services",
+    "label": "Trusted Trades",
+    "summary": "Utility-first, urgency-led conversion system for dispatch businesses. Big call target, live status strip, service-area proof, transparent price ranges.",
+    "fonts": {
+      "display": "\"Barlow Condensed\"",
+      "body": "\"Public Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Barlow+Condensed:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500",
+    "nav": "utility",
+    "motion": "line-mask",
+    "tokens": {
+      "ink": "#1d1a16",
+      "paper": "#f6f2ea",
+      "accent": "#9c5b34",
+      "accent2": "#5b6b52",
+      "inkName": "Old-growth redwood",
+      "radius": "10px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 14%, transparent)",
+      "shadow": "0 18px 40px -28px rgb(9 12 20 / .55)",
+      "pad": "clamp(3.6rem,8vw,7rem)",
+      "scale": "1.24",
+      "headingCase": "uppercase",
+      "track": "-.015em",
+      "texture": "grid",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "urgency",
+      "services",
+      "process",
+      "proof",
+      "coverage",
+      "reviews",
+      "faq"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/danny-fencing-san-jose",
+      "title": "Danny Fencing — Fencing & gates in San Jose",
+      "description": "Board-on-board construction, screws instead of nails, sealed end grain, and a ten-year workmanship warranty.",
+      "h1": "We build one thing: redwood fences that do not lean.",
+      "kicker": "San Jose · redwood only",
+      "sections": [
+        "hero",
+        "urgency",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "reviews",
+        "faq"
+      ]
+    },
+    {
+      "slug": "build",
+      "file": "build.astro",
+      "path": "/danny-fencing-san-jose/build",
+      "title": "Build — Danny Fencing",
+      "description": "Build at Danny Fencing in San Jose: Redwood install, Fence replacement, Repair & rot cuts. Board-on-board construction, screws instead of nails, sealed end grain, and a ten-year workmanship warranty.",
+      "h1": "Build",
+      "kicker": "Fencing & gates",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "estimate",
+      "file": "estimate.astro",
+      "path": "/danny-fencing-san-jose/estimate",
+      "title": "Estimate — Danny Fencing",
+      "description": "Estimate at Danny Fencing in San Jose: Redwood install, Fence replacement, Repair & rot cuts. Board-on-board construction, screws instead of nails, sealed end grain, and a ten-year workmanship warranty.",
+      "h1": "Estimate",
+      "kicker": "Fencing & gates",
+      "sections": [
+        "hero",
+        "urgency",
+        "coverage",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "work",
+      "file": "work.astro",
+      "path": "/danny-fencing-san-jose/work",
+      "title": "Selected work — Danny Fencing",
+      "description": "Projects and evidence from Danny Fencing in San Jose.",
+      "h1": "Selected work",
+      "kicker": "Index",
+      "sections": [
+        "hero",
+        "proof",
+        "reviews",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/danny-fencing-san-jose/contact",
+      "title": "Contact — Danny Fencing",
+      "description": "Call or write to Danny Fencing in San Jose. (408) 476-9215",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "urgency",
+        "coverage",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 10,
+    "vis": 6,
+    "vol": 6,
+    "brand": 7,
+    "comp": 6,
+    "val": 9,
+    "assets": 7,
+    "roi": 9
+  },
+  "seo": {
+    "title": "Danny Fencing — Fencing & gates in San Jose",
+    "description": "Board-on-board construction, screws instead of nails, sealed end grain, and a ten-year workmanship warranty.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Danny Fencing",
+    "description": "Board-on-board construction, screws instead of nails, sealed end grain, and a ten-year workmanship warranty.",
+    "phone": "(408) 476-9215",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95127",
+      "streetAddress": "40 N Capitol Ave"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 37.4031,
+      "longitude": -121.8369
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/danny-fencing-san-jose-2",
+      "https://nextdoor.com/pages/dannys-fencing-san-jose-ca/"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 33,
+      "bestRating": 5
+    },
+    "slogan": "We build one thing: redwood fences that do not lean.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/danny-fencing-san-jose-2",
+    "https://nextdoor.com/pages/dannys-fencing-san-jose-ca/"
+  ],
+  "sourceNotes": []
+}

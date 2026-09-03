@@ -1,0 +1,325 @@
+{
+  "id": "sv005",
+  "slug": "ej-painting-menlo-park",
+  "name": "EJ Painting Inc.",
+  "short": "EJ Painting Inc.",
+  "cat": "Painting & finishing",
+  "sub": "High-end residential exterior/interior",
+  "city": "Menlo Park",
+  "zip": "94063",
+  "addr": "Menlo Park, CA 94063 (serving Peninsula)",
+  "phone": "(650) 679-4953",
+  "email": null,
+  "contactNote": null,
+  "founded": "company 2016 · 18 years of trade experience (Yelp)",
+  "hours": "Weekdays flexible, Sat 9–17, Sun 9–16",
+  "audience": "Menlo Park, Hillsborough, Woodside, Los Altos, Burlingame homeowners and listing agents",
+  "scale": {
+    "emp": "owner + crews",
+    "loc": 1
+  },
+  "description": "Interior and exterior painting with plaster, drywall and wood-siding repair. Work shown in 135 Yelp photos includes old-world texture matching, wooden ceiling coating, stair and siding restoration, and pre-listing repaints.",
+  "services": [
+    "Exterior repaints",
+    "Interior & ceilings",
+    "Drywall/plaster repair",
+    "Texture matching",
+    "Cabinet & door lacquer",
+    "Pre-sale staging paint"
+  ],
+  "serviceCopy": [
+    "Exteriors: siding, stucco, wooden ceilings.",
+    "Interior repaints with staging-aware scheduling.",
+    "Drywall, crack and texture restoration.",
+    "Pre-listing paint that survives buyer inspection."
+  ],
+  "insight": "100% response rate with ~36-minute median reply on Yahoo — an operational strength a site could productise.",
+  "usps": [
+    "Old-world texture and plaster matching, not just rollers",
+    "Handles the repairs the paint sits on",
+    "Same-day response, documented"
+  ],
+  "differentiators": [
+    "Most painter sites show stock swatches; EJ has hundreds of real local jobs"
+  ],
+  "voice": "Craft-forward, understated",
+  "persona": "The finisher other painters refer to",
+  "reputation": {
+    "rating": 5,
+    "reviews": 37,
+    "src": "Yelp (Menlo Park area listing)",
+    "note": "Reviews name Edvin by first name and call out quality level vs other bidders."
+  },
+  "budget": {
+    "afford": [
+      "Hillsborough/Woodside exterior repaints are $25K–$90K contracts",
+      "Two crews implied by 24-hour availability language and photo volume",
+      "135 + 29 photos of real Peninsula houses = free content library",
+      "100% response rate: high close-rate business that needs a top-of-funnel"
+    ],
+    "risk": [
+      "Owner-led, so content must be self-serve simple",
+      "Business name collides with many \"EJ Painting\" results — SEO naming help needed"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Limestone",
+      "linseed",
+      "deep iron oxide"
+    ],
+    "logo": "Draw a trowel-line monogram; currently painted text in photos",
+    "photoNote": "135 existing job photos are the whole art direction"
+  },
+  "copy": {
+    "eyebrow": "Menlo Park · Peninsula & Hillsborough",
+    "h1": "Texture matching, plaster repair, and a finish that survives 20 years of marine fog.",
+    "sub": "EJ Painting has repainted some of the best-built houses on the Peninsula — with the prep work no competitor quotes properly.",
+    "cta1": "Request a walkthrough",
+    "cta2": "See recent work",
+    "lede": "On the Peninsula a paint job fails from what is underneath it. EJ Painting was built around that fact: repair first, match the old plaster, then coat.",
+    "svcCopy": [
+      "Exteriors: siding, stucco, wooden ceilings.",
+      "Interior repaints with staging-aware scheduling.",
+      "Drywall, crack and texture restoration.",
+      "Pre-listing paint that survives buyer inspection."
+    ]
+  },
+  "concept": {
+    "dir": "Architectural monograph feel: generous white, big photo plates with caption notes about substrate and prep.",
+    "palette": {
+      "ink": "#20211d",
+      "paper": "#f6f3ec",
+      "accent": "#8f4a2e",
+      "accent2": "#4d5f52"
+    },
+    "heroType": "split",
+    "motion": "line-mask",
+    "interactive": [
+      "Before/after drag slider (real photos)",
+      "Job-size selector that pre-fills the quote form",
+      "Prep-standards checklist (differentiator)",
+      "Captioned project plates"
+    ],
+    "pages": [
+      "index",
+      "work",
+      "services",
+      "process",
+      "contact"
+    ],
+    "nav": [
+      "Work",
+      "Services",
+      "How we prep",
+      "Contact"
+    ],
+    "tone": "Craft authority",
+    "refs": "A materials studio, not a \"we paint houses\" template.",
+    "signature": "compare",
+    "hero": "split"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "B",
+    "note": "Claimed Yelp listing has no website field; Yahoo Local record has no Website key. Contact info is painted into photo captions (\"EJ PAINTING INC. 6506794953\"), which is what a business without a site does.",
+    "src": [
+      "https://www.yelp.com/biz/ej-painting-menlo-park-11",
+      "https://local.yahoo.com/info-222102128-EJ-Painting/?p=EJ+Painting&selectedId=222102128&ei=UTF-8"
+    ],
+    "status": "No website",
+    "confidence": "verified across two or more directories"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/ej-painting-menlo-park-11"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for EJ Painting Inc. — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "home-services",
+    "label": "Trusted Trades",
+    "summary": "Utility-first, urgency-led conversion system for dispatch businesses. Big call target, live status strip, service-area proof, transparent price ranges.",
+    "fonts": {
+      "display": "\"Barlow Condensed\"",
+      "body": "\"Public Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Barlow+Condensed:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500",
+    "nav": "utility",
+    "motion": "line-mask",
+    "tokens": {
+      "ink": "#20211d",
+      "paper": "#f6f3ec",
+      "accent": "#8f4a2e",
+      "accent2": "#4d5f52",
+      "inkName": "Limestone",
+      "radius": "10px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 14%, transparent)",
+      "shadow": "0 18px 40px -28px rgb(9 12 20 / .55)",
+      "pad": "clamp(3.6rem,8vw,7rem)",
+      "scale": "1.24",
+      "headingCase": "uppercase",
+      "track": "-.015em",
+      "texture": "grid",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "urgency",
+      "services",
+      "process",
+      "proof",
+      "coverage",
+      "reviews",
+      "faq"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/ej-painting-menlo-park",
+      "title": "EJ Painting Inc. — Painting & finishing in Menlo Park",
+      "description": "EJ Painting has repainted some of the best-built houses on the Peninsula — with the prep work no competitor quotes properly.",
+      "h1": "Texture matching, plaster repair, and a finish that survives 20 years of marine fog.",
+      "kicker": "Menlo Park · Peninsula & Hillsborough",
+      "sections": [
+        "hero",
+        "urgency",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "reviews",
+        "faq"
+      ]
+    },
+    {
+      "slug": "work",
+      "file": "work.astro",
+      "path": "/ej-painting-menlo-park/work",
+      "title": "Selected work — EJ Painting Inc.",
+      "description": "Projects and evidence from EJ Painting Inc. in Menlo Park.",
+      "h1": "Selected work",
+      "kicker": "Index",
+      "sections": [
+        "hero",
+        "proof",
+        "reviews",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/ej-painting-menlo-park/services",
+      "title": "Services — EJ Painting Inc.",
+      "description": "Exterior repaints; Interior & ceilings; Drywall/plaster repair; Texture matching; Cabinet & door lacquer; Pre-sale staging paint. Menlo Park based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "process",
+      "file": "process.astro",
+      "path": "/ej-painting-menlo-park/process",
+      "title": "Process — EJ Painting Inc.",
+      "description": "Process at EJ Painting Inc. in Menlo Park: Exterior repaints, Interior & ceilings, Drywall/plaster repair. EJ Painting has repainted some of the best-built houses on the Peninsula — with the prep work no competitor quotes properly.",
+      "h1": "Process",
+      "kicker": "Painting & finishing",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/ej-painting-menlo-park/contact",
+      "title": "Contact — EJ Painting Inc.",
+      "description": "Call or write to EJ Painting Inc. in Menlo Park. (650) 679-4953",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "urgency",
+        "coverage",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 8,
+    "gap": 10,
+    "vis": 7,
+    "vol": 7,
+    "brand": 8,
+    "comp": 6,
+    "val": 9,
+    "assets": 9,
+    "roi": 9
+  },
+  "seo": {
+    "title": "EJ Painting Inc. — Painting & finishing in Menlo Park",
+    "description": "EJ Painting has repainted some of the best-built houses on the Peninsula — with the prep work no competitor quotes properly.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "EJ Painting Inc.",
+    "description": "EJ Painting has repainted some of the best-built houses on the Peninsula — with the prep work no competitor quotes properly.",
+    "phone": "(650) 679-4953",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Menlo Park",
+      "addressRegion": "CA",
+      "postalCode": "94063"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/ej-painting-menlo-park-11"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 37,
+      "bestRating": 5
+    },
+    "slogan": "Texture matching, plaster repair, and a finish that survives 20 years of marine fog.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/ej-painting-menlo-park-11",
+    "https://local.yahoo.com/info-222102128-EJ-Painting/?p=EJ+Painting&selectedId=222102128&ei=UTF-8"
+  ],
+  "sourceNotes": []
+}

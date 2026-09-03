@@ -1,0 +1,313 @@
+{
+  "id": "sv008",
+  "slug": "amcal-roofing-sunnyvale",
+  "name": "Amcal Roofing Inc.",
+  "short": "Amcal Roofing Inc.",
+  "cat": "Roofing",
+  "sub": "Residential & commercial roofing",
+  "city": "Sunnyvale",
+  "zip": "94086",
+  "addr": "Sunnyvale, CA 94086",
+  "phone": "(415) 684-4498",
+  "email": null,
+  "contactNote": null,
+  "founded": "1999 · \"over 26 years in the industry\" per own Yelp copy",
+  "hours": "Mon–Sat 8:00–17:00",
+  "audience": "Sunnyvale, Santa Clara, Los Altos homeowners; property managers",
+  "scale": {
+    "emp": "crews",
+    "loc": 1
+  },
+  "description": "Roofing contractor for re-roof, repair and new installation, with 93 photos of completed jobs attached to its listing and no way to see them professionally.",
+  "services": [
+    "Re-roof (composition, tile, metal)",
+    "Leak diagnosis & repair",
+    "Flashing & gutters",
+    "Skylights",
+    "Commercial flat roofs",
+    "Insurance-claim documentation"
+  ],
+  "serviceCopy": [
+    "Composition, tile and metal re-roofs.",
+    "Leak tracing that does not guess.",
+    "Flashing, gutters and skylight details.",
+    "Documentation packs for insurance claims."
+  ],
+  "insight": "Insurance claims and storm-season traffic make a website disproportionately valuable in this category.",
+  "usps": [
+    "A quarter-century of Sunnyvale roof knowledge (housing stock, materials, code)",
+    "Photo archive of 93 real jobs",
+    "Repairs before replacement — trust positioning"
+  ],
+  "differentiators": [
+    "Big local roofing brands lead with financing pop-ups; Amcal can lead with diagnosis"
+  ],
+  "voice": "Plain, protective",
+  "persona": "The roofer who talks you out of a roof you do not need",
+  "reputation": {
+    "rating": null,
+    "reviews": 11,
+    "src": "Yelp",
+    "note": "Low review count despite 25+ years — classic offline referral business."
+  },
+  "budget": {
+    "afford": [
+      "Roof replacements in Santa Clara County: $12K–$40K per house",
+      "26+ years in business with a photo archive",
+      "Commercial flat-roof work adds contract size"
+    ],
+    "risk": [
+      "11 public reviews needs a review engine, not just a site",
+      "Phone is a San Francisco area code for a Sunnyvale firm — needs consistency work"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Slate grey",
+      "tar black",
+      "weathered copper"
+    ],
+    "logo": "None found",
+    "photoNote": "93 Yelp photos to licence/re-shoot"
+  },
+  "copy": {
+    "eyebrow": "Sunnyvale · roofing since 1999",
+    "h1": "Twenty-six years of roofs, ninety-three photos, no website.",
+    "sub": "Re-roofs, repairs and honest leak diagnosis for single-family and flat-roof properties across Santa Clara County.",
+    "cta1": "Get a roof report",
+    "cta2": "See finished work",
+    "lede": "Most roof quotes in the valley start with a drone and end with a hard sell. Amcal starts by asking what the roof has been through — and sometimes tells you to leave it alone.",
+    "svcCopy": [
+      "Composition, tile and metal re-roofs.",
+      "Leak tracing that does not guess.",
+      "Flashing, gutters and skylight details.",
+      "Documentation packs for insurance claims."
+    ]
+  },
+  "concept": {
+    "dir": "Weathered-material system: layered roof-section diagrams, a \"what your roof is telling you\" diagnostic module, before/after plate grid.",
+    "palette": {
+      "ink": "#191c1e",
+      "paper": "#eeece7",
+      "accent": "#a4643c",
+      "accent2": "#4a6572"
+    },
+    "heroType": "dispatch",
+    "motion": "wipe-reveal",
+    "interactive": [
+      "Roof-type selector (composition/tile/metal/flat) with expected-life data",
+      "Photo plate grid with filter",
+      "Storm/leak triage form",
+      "Neighbourhood job-map list (no street addresses of clients)"
+    ],
+    "pages": [
+      "index",
+      "services",
+      "work",
+      "financing",
+      "contact"
+    ],
+    "nav": [
+      "Services",
+      "Work",
+      "Financing",
+      "Contact"
+    ],
+    "tone": "Protective, unflashy",
+    "refs": "Trade-catalogue typography with a photography archive.",
+    "signature": "compare",
+    "hero": "dispatch"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Yelp listing (93 photos) shows no website field; no domain surfaced for the name in cross-checks. Single-source signal — pending live audit before outreach.",
+    "src": [
+      "https://www.yelp.com/biz/amcal-roofing-sunnyvale-8"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/amcal-roofing-sunnyvale-8"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Amcal Roofing Inc. — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "home-services",
+    "label": "Trusted Trades",
+    "summary": "Utility-first, urgency-led conversion system for dispatch businesses. Big call target, live status strip, service-area proof, transparent price ranges.",
+    "fonts": {
+      "display": "\"Barlow Condensed\"",
+      "body": "\"Public Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Barlow+Condensed:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500",
+    "nav": "utility",
+    "motion": "wipe-reveal",
+    "tokens": {
+      "ink": "#191c1e",
+      "paper": "#eeece7",
+      "accent": "#a4643c",
+      "accent2": "#4a6572",
+      "inkName": "Slate grey",
+      "radius": "10px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 14%, transparent)",
+      "shadow": "0 18px 40px -28px rgb(9 12 20 / .55)",
+      "pad": "clamp(3.6rem,8vw,7rem)",
+      "scale": "1.24",
+      "headingCase": "uppercase",
+      "track": "-.015em",
+      "texture": "grid",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "urgency",
+      "services",
+      "process",
+      "proof",
+      "coverage",
+      "faq",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/amcal-roofing-sunnyvale",
+      "title": "Amcal Roofing Inc. — Roofing in Sunnyvale",
+      "description": "Re-roofs, repairs and honest leak diagnosis for single-family and flat-roof properties across Santa Clara County.",
+      "h1": "Twenty-six years of roofs, ninety-three photos, no website.",
+      "kicker": "Sunnyvale · roofing since 1999",
+      "sections": [
+        "hero",
+        "urgency",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/amcal-roofing-sunnyvale/services",
+      "title": "Services — Amcal Roofing Inc.",
+      "description": "Re-roof (composition, tile, metal); Leak diagnosis & repair; Flashing & gutters; Skylights; Commercial flat roofs; Insurance-claim documentation. Sunnyvale based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "work",
+      "file": "work.astro",
+      "path": "/amcal-roofing-sunnyvale/work",
+      "title": "Selected work — Amcal Roofing Inc.",
+      "description": "Projects and evidence from Amcal Roofing Inc. in Sunnyvale.",
+      "h1": "Selected work",
+      "kicker": "Index",
+      "sections": [
+        "hero",
+        "proof",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "financing",
+      "file": "financing.astro",
+      "path": "/amcal-roofing-sunnyvale/financing",
+      "title": "Financing — Amcal Roofing Inc.",
+      "description": "Financing at Amcal Roofing Inc. in Sunnyvale: Re-roof (composition, tile, metal), Leak diagnosis & repair, Flashing & gutters. Re-roofs, repairs and honest leak diagnosis for single-family and flat-roof properties across Santa Clara County.",
+      "h1": "Financing",
+      "kicker": "Roofing",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/amcal-roofing-sunnyvale/contact",
+      "title": "Contact — Amcal Roofing Inc.",
+      "description": "Call or write to Amcal Roofing Inc. in Sunnyvale. (415) 684-4498",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "urgency",
+        "coverage",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 8,
+    "gap": 10,
+    "vis": 5,
+    "vol": 4,
+    "brand": 6,
+    "comp": 7,
+    "val": 10,
+    "assets": 6,
+    "roi": 9
+  },
+  "seo": {
+    "title": "Amcal Roofing Inc. — Roofing in Sunnyvale",
+    "description": "Re-roofs, repairs and honest leak diagnosis for single-family and flat-roof properties across Santa Clara County.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Amcal Roofing Inc.",
+    "description": "Re-roofs, repairs and honest leak diagnosis for single-family and flat-roof properties across Santa Clara County.",
+    "phone": "(415) 684-4498",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Sunnyvale",
+      "addressRegion": "CA",
+      "postalCode": "94086"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/amcal-roofing-sunnyvale-8"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "Twenty-six years of roofs, ninety-three photos, no website.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/amcal-roofing-sunnyvale-8"
+  ],
+  "sourceNotes": []
+}

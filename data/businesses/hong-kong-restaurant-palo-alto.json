@@ -1,0 +1,313 @@
+{
+  "id": "sv032",
+  "slug": "hong-kong-restaurant-palo-alto",
+  "name": "Hong Kong Restaurant",
+  "short": "Hong Kong Restaurant",
+  "cat": "Chinese restaurant",
+  "sub": "Cantonese seafood & dim sum",
+  "city": "Palo Alto",
+  "zip": "94306",
+  "addr": "3691 El Camino Real, Palo Alto, CA 94306",
+  "phone": "(650) 251-9062",
+  "email": null,
+  "contactNote": null,
+  "founded": "2000 (El Camino Real location; long-standing Palo Alto institution)",
+  "hours": "Daily lunch and dinner service",
+  "audience": "Palo Alto families, Stanford and university visitors, business lunches, large toasts",
+  "scale": {
+    "emp": "full kitchen and floor team",
+    "loc": 1
+  },
+  "description": "Cantonese seafood and dim sum house on El Camino Real serving four hundred and fifty-five worth of accumulated reviews: whole fish, BBQ, banquet tables and weekend yum cha.",
+  "services": [
+    "Cantonese dinner service",
+    "Weekend dim sum",
+    "Banquet and large party seating",
+    "Whole fish and BBQ preparation",
+    "Takeaway and family plates",
+    "Lunch sets for nearby offices"
+  ],
+  "serviceCopy": [
+    "Weekend dim sum, from carts to a la carte.",
+    "Whole fish and roast meats, prepared to order.",
+    "Banquets for weddings and reunions.",
+    "Lunch sets for the offices up the road."
+  ],
+  "insight": "455 reviews and 984 photos is a content library most restaurants would pay for; a site could be built entirely from what already exists.",
+  "usps": [
+    "Twenty-five years of Cantonese consistency on El Camino Real",
+    "Banquet rooms that seat the extended family",
+    "A photo archive of actual dishes, not stock food"
+  ],
+  "differentiators": [
+    "Publishes a real menu with allergens, banquet packages and reservation routing instead of a template one-pager"
+  ],
+  "voice": "Warm, unadorned, hospitable",
+  "persona": "The family Cantonese table of Palo Alto",
+  "reputation": {
+    "rating": null,
+    "reviews": 455,
+    "src": "Yelp count captured, score not",
+    "note": "Do not publish a rating figure until the current score is verified."
+  },
+  "budget": {
+    "afford": [
+      "A full-service restaurant with banquet capability and a leased Palo Alto building",
+      "Established 2000 with substantial daily covers",
+      "Already listed on ordering platforms: they pay for distribution"
+    ],
+    "risk": [
+      "Restaurant margins cap the budget; scope must be a booking and menu engine, not a brand film",
+      "Kitchen-led updates: the menu page must be editable in minutes"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Steam white",
+      "charcoal",
+      "vermilion"
+    ],
+    "logo": "Existing signage is a calligraphic lockup - vectorise it and set it properly",
+    "photoNote": "Steam, lazy susan, BBQ window, banquet table"
+  },
+  "copy": {
+    "eyebrow": "Palo Alto · since 2000",
+    "h1": "The banquet table your family already knows.",
+    "sub": "Cantonese seafood, dim sum and large-format family dining on El Camino Real - with a menu you can actually read.",
+    "cta1": "Reserve a table",
+    "cta2": "See the menu",
+    "lede": "Nine hundred photographs of this kitchen exist online and none of them are on its website, which today is a one-page ordering template with a misspelt header and no address.",
+    "svcCopy": [
+      "Weekend dim sum, from carts to a la carte.",
+      "Whole fish and roast meats, prepared to order.",
+      "Banquets for weddings and reunions.",
+      "Lunch sets for the offices up the road."
+    ]
+  },
+  "concept": {
+    "dir": "Menu-forward restaurant site: a proper bilingual-feeling type hierarchy, dish index with real photography, banquet package table, and reservation routing. Warm paper tones, vermilion accents, no app-store chrome.",
+    "palette": {
+      "ink": "#1c1a19",
+      "paper": "#f6f2e9",
+      "accent": "#c2261f",
+      "accent2": "#b08d4f"
+    },
+    "heroType": "fullbleed",
+    "motion": "slow-fade",
+    "interactive": [
+      "Menu page as a designed index (courses, allergens, prices from client data)",
+      "Dish photo mosaic with hover captions",
+      "Banquet enquiry form with headcount bands",
+      "Reservation and call-first routing bar (mobile sticky)"
+    ],
+    "pages": [
+      "index",
+      "menu",
+      "banquets",
+      "hours",
+      "contact"
+    ],
+    "nav": [
+      "Menu",
+      "Banquets",
+      "Hours",
+      "Contact"
+    ],
+    "tone": "Unfussy hospitality",
+    "refs": "A neighbourhood institution treated with the care of a flagship.",
+    "signature": "ledger",
+    "hero": "fullbleed"
+  },
+  "web": {
+    "s": "basic",
+    "url": "http://hongkongrestauranpl.com",
+    "lvl": "A",
+    "note": "Audited live: the domain itself carries a typo (restauranpl) and the site is an ordering-template one-pager - menu anchors labelled with placeholders, a misspelt Prok header, no address, no hours, no about. 984 customer photos exist on the listing; the site uses none of them.",
+    "src": [
+      "http://hongkongrestauranpl.com",
+      "https://www.yelp.com/biz/hong-kong-restaurant-palo-alto"
+    ],
+    "status": "Extremely outdated or basic website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/hong-kong-restaurant-palo-alto"
+  },
+  "photo": true,
+  "photoFormats": [
+    "avif",
+    "webp",
+    "jpg"
+  ],
+  "photoAlt": "Concept artwork for Hong Kong Restaurant — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "appetite-food",
+    "label": "Appetite Editorial",
+    "summary": "Menu-first layout with dish cards, spice/level chips, split-screen hero of signature plate, hours + reservation bar that survives mobile.",
+    "fonts": {
+      "display": "\"Instrument Serif\"",
+      "body": "\"DM Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Instrument+Serif:ital@0;1&family=DM+Sans:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "pill",
+    "motion": "slow-fade",
+    "tokens": {
+      "ink": "#1c1a19",
+      "paper": "#f6f2e9",
+      "accent": "#c2261f",
+      "accent2": "#b08d4f",
+      "inkName": "Steam white",
+      "radius": "14px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 15%, transparent)",
+      "shadow": "0 20px 40px -30px rgb(40 20 8 / .5)",
+      "pad": "clamp(3.4rem,7.5vw,6.4rem)",
+      "scale": "1.25",
+      "headingCase": "none",
+      "track": "-.01em",
+      "texture": "wash",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "marquee",
+      "menu",
+      "story",
+      "hours",
+      "gallery",
+      "reviews",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/hong-kong-restaurant-palo-alto",
+      "title": "Hong Kong Restaurant — Chinese restaurant in Palo Alto",
+      "description": "Cantonese seafood, dim sum and large-format family dining on El Camino Real - with a menu you can actually read.",
+      "h1": "The banquet table your family already knows.",
+      "kicker": "Palo Alto · since 2000",
+      "sections": [
+        "hero",
+        "marquee",
+        "menu",
+        "story",
+        "hours",
+        "gallery",
+        "reviews",
+        "contact"
+      ]
+    },
+    {
+      "slug": "menu",
+      "file": "menu.astro",
+      "path": "/hong-kong-restaurant-palo-alto/menu",
+      "title": "Menu — Hong Kong Restaurant",
+      "description": "Menu, banquets and hours for the restaurant at its long-standing address.",
+      "h1": "The menu",
+      "kicker": "Kitchen",
+      "sections": [
+        "hero",
+        "menu",
+        "contact"
+      ]
+    },
+    {
+      "slug": "banquets",
+      "file": "banquets.astro",
+      "path": "/hong-kong-restaurant-palo-alto/banquets",
+      "title": "Banquets — Hong Kong Restaurant",
+      "description": "Banquets at Hong Kong Restaurant in Palo Alto: Cantonese dinner service, Weekend dim sum, Banquet and large party seating. Cantonese seafood, dim sum and large-format family dining on El Camino Real - with a menu you can actually read.",
+      "h1": "Banquets",
+      "kicker": "Chinese restaurant",
+      "sections": [
+        "hero",
+        "contact"
+      ]
+    },
+    {
+      "slug": "hours",
+      "file": "hours.astro",
+      "path": "/hong-kong-restaurant-palo-alto/hours",
+      "title": "Hours — Hong Kong Restaurant",
+      "description": "Hours at Hong Kong Restaurant in Palo Alto: Cantonese dinner service, Weekend dim sum, Banquet and large party seating. Cantonese seafood, dim sum and large-format family dining on El Camino Real - with a menu you can actually read.",
+      "h1": "Hours",
+      "kicker": "Chinese restaurant",
+      "sections": [
+        "hero",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/hong-kong-restaurant-palo-alto/contact",
+      "title": "Contact — Hong Kong Restaurant",
+      "description": "Call or write to Hong Kong Restaurant in Palo Alto. (650) 251-9062",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "hours",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 9,
+    "vis": 7,
+    "vol": 9,
+    "brand": 7,
+    "comp": 6,
+    "val": 9,
+    "assets": 9,
+    "roi": 9
+  },
+  "seo": {
+    "title": "Hong Kong Restaurant — Chinese restaurant in Palo Alto",
+    "description": "Cantonese seafood, dim sum and large-format family dining on El Camino Real - with a menu you can actually read.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "Restaurant",
+    "name": "Hong Kong Restaurant",
+    "description": "Cantonese seafood, dim sum and large-format family dining on El Camino Real - with a menu you can actually read.",
+    "phone": "(650) 251-9062",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Palo Alto",
+      "addressRegion": "CA",
+      "postalCode": "94306",
+      "streetAddress": "3691 El Camino Real"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/hong-kong-restaurant-palo-alto"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "The banquet table your family already knows.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$"
+  },
+  "sources": [
+    "http://hongkongrestauranpl.com",
+    "https://www.yelp.com/biz/hong-kong-restaurant-palo-alto"
+  ],
+  "sourceNotes": []
+}

@@ -1,0 +1,335 @@
+{
+  "id": "sv001",
+  "slug": "bay-rooter-plumbing-milpitas",
+  "name": "Bay Rooter & Plumbing",
+  "short": "Bay Rooter &",
+  "cat": "Plumbing",
+  "sub": "Sewer, drain & water heaters",
+  "city": "Milpitas",
+  "zip": "95035",
+  "addr": "146 S Temple Dr, Milpitas, CA 95035",
+  "phone": "(408) 941-1644",
+  "email": null,
+  "contactNote": null,
+  "founded": "in business 17+ years (per YellowPages)",
+  "hours": "Mon–Sun 8:00–21:00",
+  "audience": "Homeowners in Milpitas, Almaden and north San Jose; also home-warranty work for Fidelity/HQ",
+  "scale": {
+    "emp": "small crew + dispatcher",
+    "loc": 1
+  },
+  "description": "Full-service plumbing company: licensed, insured and bonded, free estimates, drain/sewer and water heater replacement, open seven days a week including evenings.",
+  "services": [
+    "Sewer camera & line clearing",
+    "Water heater replacement",
+    "Whole-home repipe",
+    "Fixture & toilet installs",
+    "Leak detection",
+    "Emergency call-outs"
+  ],
+  "serviceCopy": [
+    "Camera the line before you dig — we quote from evidence, not guesses.",
+    "Tank and tankless swaps, usually same-week.",
+    "Galvanized-to-PEX repipes for 1960s Milpitas tracts.",
+    "Estimates that match the invoice at the end of the day."
+  ],
+  "insight": "Accepts credit cards and (per Yelp amenities) cryptocurrency — unusual for a plumber and a great trust-story hook.",
+  "usps": [
+    "Seven-day, 8am–9pm availability",
+    "Licensed, bonded and insured — stated plainly",
+    "Free estimates with no upsell script"
+  ],
+  "differentiators": [
+    "Availability beats every Milpitas chain plumber",
+    "Independent owner-operator vs national franchises"
+  ],
+  "voice": "Straight-talking, unhurried, no fear pricing",
+  "persona": "The plumber who answers his own phone",
+  "reputation": {
+    "rating": 4.8,
+    "reviews": 82,
+    "src": "Yelp",
+    "note": "Owner replies to Yelp questions; praised for same-week scheduling and honest diagnosis."
+  },
+  "budget": {
+    "afford": [
+      "Open 13 hours daily, 7 days a week — dispatch operation, not a one-truck shop",
+      "Water heater and repipe tickets run $1,800–$12,000 in the Bay Area",
+      "Recurring home-warranty vendor work implies steady volume",
+      "82 Yelp reviews at 4.8 is a top-quartile local reputation"
+    ],
+    "risk": [
+      "No brand assets found (logo, photos) — build from scratch",
+      "Yelp is their only owned surface; platform risk if reviews dip"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Deep navy",
+      "safety orange",
+      "raw paper white"
+    ],
+    "logo": "None found — propose monogram wordmark \"BR&P\" with rooter pipe glyph",
+    "photoNote": "Need 8–12 crew/truck/job-site photos; currently none online"
+  },
+  "copy": {
+    "eyebrow": "Milpitas · Since the dot-com years",
+    "h1": "The plumber who picks up at 8pm on a Sunday.",
+    "sub": "Sewer, drain, water heaters and repipes across Milpitas and north San Jose — licensed, bonded, and answered by a human.",
+    "cta1": "Request a visit",
+    "cta2": "See what we fix",
+    "lede": "A backed-up drain at 7pm is not an emergency for us and an inconvenience for you: it is just Tuesday. Bay Rooter has run a seven-day dispatch desk out of south Milpitas for more than fifteen years.",
+    "svcCopy": [
+      "Camera the line before you dig — we quote from evidence, not guesses.",
+      "Tank and tankless swaps, usually same-week.",
+      "Galvanized-to-PEX repipes for 1960s Milpitas tracts.",
+      "Estimates that match the invoice at the end of the day."
+    ]
+  },
+  "concept": {
+    "dir": "Dispatch-console utility design: a live \"on call\" status bar, service-area chips, and price-range honesty. Type-forward, no stock-photo plumbing.",
+    "palette": {
+      "ink": "#0e1621",
+      "paper": "#f7f5f1",
+      "accent": "#e2542a",
+      "accent2": "#1d6f6a"
+    },
+    "heroType": "dispatch",
+    "motion": "slide-up",
+    "interactive": [
+      "Live hours/status pill",
+      "Service-area selector with per-city copy",
+      "Sticky call bar on mobile",
+      "Cost-range slider (indicative, labelled as such)"
+    ],
+    "pages": [
+      "index",
+      "services",
+      "areas",
+      "about",
+      "contact"
+    ],
+    "nav": [
+      "Services",
+      "Service area",
+      "How it works",
+      "Reviews",
+      "Contact"
+    ],
+    "tone": "Reassuring utility",
+    "refs": "Not a blue-gradient plumber template. Think: transit signage + a well-run shop counter.",
+    "signature": "picker",
+    "hero": "dispatch"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "A",
+    "note": "No website on Yelp listing; chamberofcommerce.com schema has empty \"url\" field; YellowPages record shows \"Add Website\" (no site on file). Google Business Profile carries no site link.",
+    "src": [
+      "https://www.yelp.com/biz/bay-rooter-and-plumbing-milpitas-2",
+      "https://www.yellowpages.com/milpitas-ca/mip/bay-rooter-plumbing-11164319",
+      "https://www.chamberofcommerce.com/united-states/california/milpitas/plumbing-contractors/2001089602-bay-rooter-plumbing"
+    ],
+    "status": "No website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/bay-rooter-and-plumbing-milpitas-2"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Bay Rooter & Plumbing — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "home-services",
+    "label": "Trusted Trades",
+    "summary": "Utility-first, urgency-led conversion system for dispatch businesses. Big call target, live status strip, service-area proof, transparent price ranges.",
+    "fonts": {
+      "display": "\"Barlow Condensed\"",
+      "body": "\"Public Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Barlow+Condensed:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500",
+    "nav": "utility",
+    "motion": "slide-up",
+    "tokens": {
+      "ink": "#0e1621",
+      "paper": "#f7f5f1",
+      "accent": "#e2542a",
+      "accent2": "#1d6f6a",
+      "inkName": "Deep navy",
+      "radius": "10px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 14%, transparent)",
+      "shadow": "0 18px 40px -28px rgb(9 12 20 / .55)",
+      "pad": "clamp(3.6rem,8vw,7rem)",
+      "scale": "1.24",
+      "headingCase": "uppercase",
+      "track": "-.015em",
+      "texture": "grid",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "urgency",
+      "services",
+      "process",
+      "proof",
+      "coverage",
+      "reviews",
+      "faq"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/bay-rooter-plumbing-milpitas",
+      "title": "Bay Rooter & Plumbing — Plumbing in Milpitas",
+      "description": "Sewer, drain, water heaters and repipes across Milpitas and north San Jose — licensed, bonded, and answered by a human.",
+      "h1": "The plumber who picks up at 8pm on a Sunday.",
+      "kicker": "Milpitas · Since the dot-com years",
+      "sections": [
+        "hero",
+        "urgency",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "reviews",
+        "faq"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/bay-rooter-plumbing-milpitas/services",
+      "title": "Services — Bay Rooter & Plumbing",
+      "description": "Sewer camera & line clearing; Water heater replacement; Whole-home repipe; Fixture & toilet installs; Leak detection; Emergency call-outs. Milpitas based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "areas",
+      "file": "areas.astro",
+      "path": "/bay-rooter-plumbing-milpitas/areas",
+      "title": "Areas — Bay Rooter & Plumbing",
+      "description": "Areas at Bay Rooter & in Milpitas: Sewer camera & line clearing, Water heater replacement, Whole-home repipe. Sewer, drain, water heaters and repipes across Milpitas and north San Jose — licensed, bonded, and answered by a human.",
+      "h1": "Areas",
+      "kicker": "Plumbing",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "about",
+      "file": "about.astro",
+      "path": "/bay-rooter-plumbing-milpitas/about",
+      "title": "About — Bay Rooter & Plumbing",
+      "description": "Full-service plumbing company: licensed, insured and bonded, free estimates, drain/sewer and water heater replacement, open seven days a week including evenings.",
+      "h1": "About Bay Rooter & Plumbing",
+      "kicker": "The firm",
+      "sections": [
+        "hero",
+        "proof",
+        "reviews",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/bay-rooter-plumbing-milpitas/contact",
+      "title": "Contact — Bay Rooter & Plumbing",
+      "description": "Call or write to Bay Rooter & Plumbing in Milpitas. (408) 941-1644",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "urgency",
+        "coverage",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 10,
+    "vis": 6,
+    "vol": 7,
+    "brand": 7,
+    "comp": 6,
+    "val": 9,
+    "assets": 6,
+    "roi": 8
+  },
+  "seo": {
+    "title": "Bay Rooter & Plumbing — Plumbing in Milpitas",
+    "description": "Sewer, drain, water heaters and repipes across Milpitas and north San Jose — licensed, bonded, and answered by a human.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Bay Rooter & Plumbing",
+    "description": "Sewer, drain, water heaters and repipes across Milpitas and north San Jose — licensed, bonded, and answered by a human.",
+    "phone": "(408) 941-1644",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Milpitas",
+      "addressRegion": "CA",
+      "postalCode": "95035",
+      "streetAddress": "146 S Temple Dr"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 37.435406,
+      "longitude": -121.87511
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/bay-rooter-and-plumbing-milpitas-2"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 82,
+      "bestRating": 5
+    },
+    "slogan": "The plumber who picks up at 8pm on a Sunday.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/bay-rooter-and-plumbing-milpitas-2",
+    "https://www.yellowpages.com/milpitas-ca/mip/bay-rooter-plumbing-11164319",
+    "https://www.chamberofcommerce.com/united-states/california/milpitas/plumbing-contractors/2001089602-bay-rooter-plumbing"
+  ],
+  "sourceNotes": []
+}

@@ -1,0 +1,330 @@
+{
+  "id": "sv006",
+  "slug": "american-heritage-construction-redwood-city",
+  "name": "American Heritage Construction",
+  "short": "American Heritage Construction",
+  "cat": "General contractor",
+  "sub": "Luxury remodels, wine cellars, home theaters",
+  "city": "Redwood City",
+  "zip": "94061",
+  "addr": "617 Cleveland St, Redwood City, CA 94061",
+  "phone": "(650) 400-6371",
+  "email": "jl.ahconstruction@gmail.com (public listing)",
+  "contactNote": null,
+  "founded": "1997 (Yelp) · 15 years on YellowPages · \"40+ years experience\" per owner copy",
+  "hours": "Mon–Fri 8:00–17:00, Sat 10:00–18:00",
+  "audience": "Atherton, Portola Valley, Woodside, Menlo Park, Redwood City owners; commercial tenant improvements",
+  "scale": {
+    "emp": "GC with subcontracted trades",
+    "loc": 1
+  },
+  "description": "Licensed general contractor for residential and commercial construction: room additions, wine cellars, in-home theaters, garages, cabinetry, painting, plumbing and flooring.",
+  "services": [
+    "Whole-house remodels",
+    "Additions",
+    "Wine cellars",
+    "Home theaters",
+    "Cabinetry & millwork",
+    "Commercial TI"
+  ],
+  "serviceCopy": [
+    "Whole-house remodels with one contract.",
+    "Under-ground and under-stair wine rooms.",
+    "Theaters, gyms, garages — the rooms nobody else scopes.",
+    "Millwork and finishes built in-house, not sourced late."
+  ],
+  "insight": "Service area list in their own copy reads like a who's-who of the richest ZIP codes in America, and they sell it through a free page.",
+  "usps": [
+    "One accountable licensed GC for design through finishes",
+    "Rare specialty scope: cellars, theaters, millwork",
+    "40 years of trade experience cited by the owner"
+  ],
+  "differentiators": [
+    "Neighbours in Atherton hire by portfolio; AH has none online"
+  ],
+  "voice": "Established, matter-of-fact, unhyped",
+  "persona": "The contractor the valley's old money keeps",
+  "reputation": {
+    "rating": 5,
+    "reviews": 2,
+    "src": "Birdeye/Google",
+    "note": "Very thin review footprint for 25+ years of work — reputation exists offline and is not captured."
+  },
+  "budget": {
+    "afford": [
+      "Wine cellar and theater builds are six-figure scopes",
+      "Atherton/Portola Valley referral work requires credibility assets",
+      "D&B profile confirms a real, registered corporation with a named principal (Jack A Lewis)",
+      "Already accepted for Yelp Guaranteed/Birdeye tooling — spends on visibility"
+    ],
+    "risk": [
+      "Only 2 public reviews — needs a review-generation programme alongside the site",
+      "Gmail contact will hurt conversion; needs a domain mailbox (site project can bundle this)"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Cast stone",
+      "walnut",
+      "oxidised iron"
+    ],
+    "logo": "Needs a real mark — current presence is a text-only page",
+    "photoNote": "Project photography is the entire missing asset class"
+  },
+  "copy": {
+    "eyebrow": "Redwood City · Licensed since 1997",
+    "h1": "Twenty-eight years of Peninsula remodels, published on a free page.",
+    "sub": "Whole-house remodels, additions, wine cellars and theaters for Atherton, Portola Valley and Menlo Park — finally with a portfolio to match the work.",
+    "cta1": "Start a project",
+    "cta2": "See what we build",
+    "lede": "American Heritage Construction has been building on the Peninsula since 1997 — additions, kitchens and whole-house remodels, run by the same two people from first sketch to final punch list.",
+    "svcCopy": [
+      "Whole-house remodels with one contract.",
+      "Under-ground and under-stair wine rooms.",
+      "Theaters, gyms, garages — the rooms nobody else scopes.",
+      "Millwork and finishes built in-house, not sourced late."
+    ]
+  },
+  "concept": {
+    "dir": "Concrete-and-oak presentation: heavy numerals, plan-line rules, a real project index with scope, duration and build year.",
+    "palette": {
+      "ink": "#15140f",
+      "paper": "#eae5da",
+      "accent": "#7c4a21",
+      "accent2": "#4a5a51"
+    },
+    "heroType": "manifesto",
+    "motion": "ticker-stamp",
+    "interactive": [
+      "Project index with filter (scope/area)",
+      "Fee-structure explainer accordion",
+      "Permit & licence verification row (#732033)",
+      "PDF capability statement download"
+    ],
+    "pages": [
+      "index",
+      "projects",
+      "services",
+      "process",
+      "contact"
+    ],
+    "nav": [
+      "Projects",
+      "Services",
+      "Process",
+      "Firm",
+      "Contact"
+    ],
+    "tone": "Institutional confidence",
+    "refs": "A small architecture practice's site, applied to a builder.",
+    "signature": "picker",
+    "hero": "manifesto"
+  },
+  "web": {
+    "s": "directory",
+    "url": "http://american-heritage-construction.business.site",
+    "lvl": "A",
+    "note": "Only web presence is a free Google \"business.site\" page (confirmed via D&B profile and Birdeye record). No custom domain, no content management, no portfolio. CSLB Lic. #732033.",
+    "src": [
+      "https://www.dnb.com/business-directory/company-profiles.american_heritage_construction.07939844f70bd2ed112890e6eb91dc88.html",
+      "https://reviews.birdeye.com/american-heritage-construction-165761766388273",
+      "https://www.yellowpages.com/redwood-city-ca/mip/american-heritage-construction-549227410"
+    ],
+    "status": "Third-party directory page instead of a website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/american-heritage-construction-redwood-city",
+    "other": [
+      "https://reviews.birdeye.com/american-heritage-construction-165761766388273"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for American Heritage Construction — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "industrial-brutalist",
+    "label": "Shop Floor Brutalist",
+    "summary": "Heavy concrete/steel aesthetic: oversized numerals, blueprint rules, stamp-like buttons, horizontal material ticker. Built for fabricators and builders.",
+    "fonts": {
+      "display": "\"Archivo\"",
+      "body": "\"Spline Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Archivo:wght@600;700;800;900&family=Spline+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "bar",
+    "motion": "ticker-stamp",
+    "tokens": {
+      "ink": "#15140f",
+      "paper": "#eae5da",
+      "accent": "#7c4a21",
+      "accent2": "#4a5a51",
+      "inkName": "Cast stone",
+      "radius": "2px",
+      "hair": "2px",
+      "border": "2px solid var(--ink)",
+      "shadow": "none",
+      "pad": "clamp(4rem,9vw,8rem)",
+      "scale": "1.32",
+      "headingCase": "uppercase",
+      "track": "-.03em",
+      "texture": "blueprint",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "materials",
+      "services",
+      "capabilities",
+      "specs",
+      "coverage",
+      "proof",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/american-heritage-construction-redwood-city",
+      "title": "American Heritage Construction — General contractor in Redwood City",
+      "description": "Whole-house remodels, additions, wine cellars and theaters for Atherton, Portola Valley and Menlo Park — finally with a portfolio to match the work.",
+      "h1": "Twenty-eight years of Peninsula remodels, published on a free page.",
+      "kicker": "Redwood City · Licensed since 1997",
+      "sections": [
+        "hero",
+        "materials",
+        "services",
+        "capabilities",
+        "specs",
+        "coverage",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "projects",
+      "file": "projects.astro",
+      "path": "/american-heritage-construction-redwood-city/projects",
+      "title": "Projects — American Heritage Construction",
+      "description": "Projects at American Heritage Construction in Redwood City: Whole-house remodels, Additions, Wine cellars. Whole-house remodels, additions, wine cellars and theaters for Atherton, Portola Valley and Menlo Park — finally with a portfolio to match the work.",
+      "h1": "Projects",
+      "kicker": "General contractor",
+      "sections": [
+        "hero",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/american-heritage-construction-redwood-city/services",
+      "title": "Services — American Heritage Construction",
+      "description": "Whole-house remodels; Additions; Wine cellars; Home theaters; Cabinetry & millwork; Commercial TI. Redwood City based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "capabilities",
+        "materials",
+        "specs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "process",
+      "file": "process.astro",
+      "path": "/american-heritage-construction-redwood-city/process",
+      "title": "Process — American Heritage Construction",
+      "description": "Process at American Heritage Construction in Redwood City: Whole-house remodels, Additions, Wine cellars. Whole-house remodels, additions, wine cellars and theaters for Atherton, Portola Valley and Menlo Park — finally with a portfolio to match the work.",
+      "h1": "Process",
+      "kicker": "General contractor",
+      "sections": [
+        "hero",
+        "services",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/american-heritage-construction-redwood-city/contact",
+      "title": "Contact — American Heritage Construction",
+      "description": "Call or write to American Heritage Construction in Redwood City. (650) 400-6371",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "coverage",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 9,
+    "gap": 10,
+    "vis": 5,
+    "vol": 4,
+    "brand": 7,
+    "comp": 8,
+    "val": 10,
+    "assets": 4,
+    "roi": 9
+  },
+  "seo": {
+    "title": "American Heritage Construction — General contractor in Redwood City",
+    "description": "Whole-house remodels, additions, wine cellars and theaters for Atherton, Portola Valley and Menlo Park — finally with a portfolio to match the work.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "American Heritage Construction",
+    "description": "Whole-house remodels, additions, wine cellars and theaters for Atherton, Portola Valley and Menlo Park — finally with a portfolio to match the work.",
+    "phone": "(650) 400-6371",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Redwood City",
+      "addressRegion": "CA",
+      "postalCode": "94061",
+      "streetAddress": "617 Cleveland St"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 37.479652,
+      "longitude": -122.233536
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/american-heritage-construction-redwood-city",
+      "https://reviews.birdeye.com/american-heritage-construction-165761766388273"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "Twenty-eight years of Peninsula remodels, published on a free page.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.dnb.com/business-directory/company-profiles.american_heritage_construction.07939844f70bd2ed112890e6eb91dc88.html",
+    "https://reviews.birdeye.com/american-heritage-construction-165761766388273",
+    "https://www.yellowpages.com/redwood-city-ca/mip/american-heritage-construction-549227410",
+    "https://www.yelp.com/biz/american-heritage-construction-redwood-city"
+  ],
+  "sourceNotes": []
+}

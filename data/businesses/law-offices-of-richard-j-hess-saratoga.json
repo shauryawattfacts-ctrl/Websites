@@ -1,0 +1,329 @@
+{
+  "id": "sv027",
+  "slug": "law-offices-of-richard-j-hess-saratoga",
+  "name": "The Law Offices of Richard J Hess",
+  "short": "The Law Offices",
+  "cat": "Estate planning law",
+  "sub": "Trusts, probate & elder planning",
+  "city": "Saratoga",
+  "zip": "95070",
+  "addr": "20465 Saratoga Los Gatos Rd Ste C, Saratoga, CA 95070",
+  "phone": "(408) 872-0252",
+  "email": null,
+  "contactNote": null,
+  "founded": "2002",
+  "hours": "Mon-Fri, by appointment",
+  "audience": "Saratoga, Los Gatos and Monte Sereno property-owning families",
+  "scale": {
+    "emp": "attorney plus support",
+    "loc": 1
+  },
+  "description": "Estate planning and trust administration practice above Saratoga Creek, known among clients for a methodical, document-first living trust process.",
+  "services": [
+    "Living trusts and pour-over wills",
+    "Probate avoidance structuring",
+    "Trust administration and settlement",
+    "Elder and incapacity planning",
+    "Real-property transfers into trust",
+    "Plan reviews for hillside properties"
+  ],
+  "serviceCopy": [
+    "Trusts structured around real property.",
+    "Pour-over wills and beneficiary review.",
+    "Administration, funded and filed.",
+    "Reviews after divorce, sale or inheritance."
+  ],
+  "insight": "Reviews describe the process as methodical - the ideal basis for a process-led site rather than a stock-photo one.",
+  "usps": [
+    "Methodical documented process",
+    "Practices in the town he serves",
+    "Handles transfer of real property into the trust, not just the documents"
+  ],
+  "differentiators": [
+    "Publishes the seven-step trust process with the actual paperwork, on the firm name, not a keyword domain"
+  ],
+  "voice": "Exact, courteous, unshowy",
+  "persona": "The hillside estate counsel",
+  "reputation": {
+    "rating": 4.3,
+    "reviews": 29,
+    "src": "Yelp; Birdeye mirror 4.1 of 9",
+    "note": "Rating data split across platforms; consolidate before publishing any aggregate markup."
+  },
+  "budget": {
+    "afford": [
+      "Hillside estates in Saratoga mean real assets to protect and fees to match",
+      "Twenty-plus years in practice with an established referral base",
+      "Already pays for a domain it does not use properly"
+    ],
+    "risk": [
+      "Estate plans for high-value property require careful, compliant copy",
+      "Old domain likely holds authority: 301 strategy matters"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Creek stone",
+      "forest ink",
+      "aged gold"
+    ],
+    "logo": "Draw a serif Hess wordmark with a creek-line rule",
+    "photoNote": "Office exterior, canyon light, documents, no stock columns"
+  },
+  "copy": {
+    "eyebrow": "Saratoga · since 2002",
+    "h1": "Your trust should be as considered as the house it protects.",
+    "sub": "Living trusts, probate avoidance and trust administration for Saratoga and Los Gatos families - on the firm name, not a keyword domain.",
+    "cta1": "Arrange a consultation",
+    "cta2": "How the process works",
+    "lede": "Richard Hess has run a documented trust practice in Saratoga for over two decades while his website lives under a generic state name. The work deserves the address.",
+    "svcCopy": [
+      "Trusts structured around real property.",
+      "Pour-over wills and beneficiary review.",
+      "Administration, funded and filed.",
+      "Reviews after divorce, sale or inheritance."
+    ]
+  },
+  "concept": {
+    "dir": "Letterpress-on-screen identity: a small masthead, a long process page, and real document design (numbered clauses, marginal notes). Very restrained motion.",
+    "palette": {
+      "ink": "#191c18",
+      "paper": "#f4f2ea",
+      "accent": "#3b5340",
+      "accent2": "#8a7141"
+    },
+    "heroType": "editorial",
+    "motion": "slow-fade",
+    "interactive": [
+      "Process stepper with document previews",
+      "Consultation scheduler concept (request form)",
+      "Client-only document portal page (structure, no live data)",
+      "Practice notes index"
+    ],
+    "pages": [
+      "index",
+      "practice",
+      "process",
+      "notes",
+      "contact"
+    ],
+    "nav": [
+      "Practice",
+      "Process",
+      "Notes",
+      "Contact"
+    ],
+    "tone": "Considered and literate",
+    "refs": "A small private practice that has never needed to shout.",
+    "signature": "picker",
+    "hero": "editorial"
+  },
+  "web": {
+    "s": "basic",
+    "url": "http://californiatrusts.com",
+    "lvl": "A",
+    "note": "Audited: the firm directs to a legacy domain (californiatrusts.com) that does not match the trading name, with a 2010s layout and no mobile hierarchy; its Facebook page currently acts as the social front. A mislabelled asset is worse than none for referral traffic.",
+    "src": [
+      "http://californiatrusts.com",
+      "https://www.yelp.com/biz/richard-s-hess-law-offices-saratoga"
+    ],
+    "status": "Extremely outdated or basic website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/search?cflt=estateplanning&find_loc=Saratoga%2C+CA",
+    "fb": "https://www.facebook.com/richardjhesslaw",
+    "other": [
+      "https://birdeye.com"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for The Law Offices of Richard J Hess — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "editorial-legal",
+    "label": "Quiet Authority",
+    "summary": "Long-form editorial law/professional practice: serif display, drop caps, measured columns, case-type index, unhurried scroll reveals.",
+    "fonts": {
+      "display": "\"Fraunces\"",
+      "body": "\"Source Sans 3\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Fraunces:opsz,wght@9..144,400;9..144,600&family=Source+Sans+3:wght@400;500;600&family=IBM+Plex+Mono:wght@400",
+    "nav": "centered",
+    "motion": "slow-fade",
+    "tokens": {
+      "ink": "#191c18",
+      "paper": "#f4f2ea",
+      "accent": "#3b5340",
+      "accent2": "#8a7141",
+      "inkName": "Creek stone",
+      "radius": "0px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 18%, transparent)",
+      "shadow": "none",
+      "pad": "clamp(4.5rem,10vw,9rem)",
+      "scale": "1.2",
+      "headingCase": "none",
+      "track": "-.012em",
+      "texture": "rule",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "credentials",
+      "practice",
+      "process",
+      "results",
+      "insight",
+      "faq",
+      "services"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/law-offices-of-richard-j-hess-saratoga",
+      "title": "The Law Offices of Richard J Hess — Estate planning law in Saratoga",
+      "description": "Living trusts, probate avoidance and trust administration for Saratoga and Los Gatos families - on the firm name, not a keyword domain.",
+      "h1": "Your trust should be as considered as the house it protects.",
+      "kicker": "Saratoga · since 2002",
+      "sections": [
+        "hero",
+        "credentials",
+        "practice",
+        "process",
+        "results",
+        "insight",
+        "faq",
+        "services"
+      ]
+    },
+    {
+      "slug": "practice",
+      "file": "practice.astro",
+      "path": "/law-offices-of-richard-j-hess-saratoga/practice",
+      "title": "Practice — The Law Offices of Richard J Hess",
+      "description": "Practice at The Law Offices in Saratoga: Living trusts and pour-over wills, Probate avoidance structuring, Trust administration and settlement. Living trusts, probate avoidance and trust administration for Saratoga and Los Gatos families - on the firm name, not a keyword domain.",
+      "h1": "Practice",
+      "kicker": "Estate planning law",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "process",
+      "file": "process.astro",
+      "path": "/law-offices-of-richard-j-hess-saratoga/process",
+      "title": "Process — The Law Offices of Richard J Hess",
+      "description": "Process at The Law Offices in Saratoga: Living trusts and pour-over wills, Probate avoidance structuring, Trust administration and settlement. Living trusts, probate avoidance and trust administration for Saratoga and Los Gatos families - on the firm name, not a keyword domain.",
+      "h1": "Process",
+      "kicker": "Estate planning law",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "notes",
+      "file": "notes.astro",
+      "path": "/law-offices-of-richard-j-hess-saratoga/notes",
+      "title": "Notes — The Law Offices of Richard J Hess",
+      "description": "Notes at The Law Offices in Saratoga: Living trusts and pour-over wills, Probate avoidance structuring, Trust administration and settlement. Living trusts, probate avoidance and trust administration for Saratoga and Los Gatos families - on the firm name, not a keyword domain.",
+      "h1": "Notes",
+      "kicker": "Estate planning law",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/law-offices-of-richard-j-hess-saratoga/contact",
+      "title": "Contact — The Law Offices of Richard J Hess",
+      "description": "Call or write to The Law Offices of Richard J Hess in Saratoga. (408) 872-0252",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 8,
+    "gap": 8,
+    "vis": 5,
+    "vol": 5,
+    "brand": 6,
+    "comp": 7,
+    "val": 8,
+    "assets": 4,
+    "roi": 8
+  },
+  "seo": {
+    "title": "The Law Offices of Richard J Hess — Estate planning law in Saratoga",
+    "description": "Living trusts, probate avoidance and trust administration for Saratoga and Los Gatos families - on the firm name, not a keyword domain.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LegalService",
+    "name": "The Law Offices of Richard J Hess",
+    "description": "Living trusts, probate avoidance and trust administration for Saratoga and Los Gatos families - on the firm name, not a keyword domain.",
+    "phone": "(408) 872-0252",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Saratoga",
+      "addressRegion": "CA",
+      "postalCode": "95070",
+      "streetAddress": "20465 Saratoga Los Gatos Rd Ste C"
+    },
+    "sameAs": [
+      "https://www.yelp.com/search?cflt=estateplanning&find_loc=Saratoga%2C+CA",
+      "https://www.facebook.com/richardjhesslaw",
+      "https://birdeye.com"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.3,
+      "reviewCount": 29,
+      "bestRating": 5
+    },
+    "slogan": "Your trust should be as considered as the house it protects.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "http://californiatrusts.com",
+    "https://www.yelp.com/biz/richard-s-hess-law-offices-saratoga",
+    "https://www.yelp.com/search?cflt=estateplanning&find_loc=Saratoga%2C+CA",
+    "https://www.facebook.com/richardjhesslaw",
+    "https://birdeye.com"
+  ],
+  "sourceNotes": []
+}

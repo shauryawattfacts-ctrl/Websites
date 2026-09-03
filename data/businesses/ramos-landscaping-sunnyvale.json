@@ -1,0 +1,326 @@
+{
+  "id": "sv016",
+  "slug": "ramos-landscaping-sunnyvale",
+  "name": "Ramos Landscaping",
+  "short": "Ramos Landscaping",
+  "cat": "Landscaping",
+  "sub": "Drought-tolerant conversion & hardscape",
+  "city": "Sunnyvale",
+  "zip": "94087",
+  "addr": "Serving Sunnyvale, CA 94087",
+  "phone": null,
+  "email": null,
+  "contactNote": null,
+  "founded": "not verified (87 accumulated reviews imply long tenure)",
+  "hours": "Mon-Fri",
+  "audience": "Sunnyvale and north San Jose homeowners replacing lawns",
+  "scale": {
+    "emp": "install crew",
+    "loc": 1
+  },
+  "description": "Landscaping and hardscape contractor known for drought-tolerant conversion, planters, irrigation and paver work.",
+  "services": [
+    "Lawn-to-drought-tolerant conversion",
+    "Paver patios and walkways",
+    "Raised planters and beds",
+    "Irrigation retrofits",
+    "Lighting",
+    "Trellis and screening"
+  ],
+  "serviceCopy": [
+    "Turf removal and soil rebuild.",
+    "Patio and walkway hardscape.",
+    "Low-water plant palettes by sun exposure.",
+    "Irrigation re-zoning and drip conversion."
+  ],
+  "insight": "Turf rebates and irrigation requirements change every year; the rebate explainer we publish is written for this city, not the state in general.",
+  "usps": [
+    "Water-wise design as the default, not an add-on",
+    "Rebate paperwork handled in-house",
+    "Same crew from demolition to final planting"
+  ],
+  "differentiators": [
+    "Publishes plant palettes and water budgets - no Sunnyvale competitor does"
+  ],
+  "voice": "Sun-bleached, practical",
+  "persona": "The water-wise converter",
+  "reputation": {
+    "rating": 4.5,
+    "reviews": 87,
+    "src": "Yelp",
+    "note": "Reviews mention competitive bids and good suggestions rather than upselling."
+  },
+  "budget": {
+    "afford": [
+      "Conversion projects typically $15K-$60K plus rebate navigation",
+      "87 reviews is a durable social-proof asset",
+      "Photo volume in listings shows steady crew activity"
+    ],
+    "risk": [
+      "No phone published in captured sources - confirm before outreach",
+      "Portfolio taste varies; curation needed for a premium read"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Gravel",
+      "agave green",
+      "terracotta"
+    ],
+    "logo": "None found",
+    "photoNote": "Finished conversions with plant tags; before/after aerials"
+  },
+  "copy": {
+    "eyebrow": "Sunnyvale · water-wise builds",
+    "h1": "Your lawn was never going to survive the next decade.",
+    "sub": "Drought-tolerant conversions, hardscape and irrigation that cut outdoor water use and still look designed.",
+    "cta1": "Get a conversion plan",
+    "cta2": "Plant palettes",
+    "lede": "Ramos has been converting Sunnyvale lawns since before the rebates existed. The work is not gravel and hope: it is a plant palette, a water budget, and hardscape that fits the house.",
+    "svcCopy": [
+      "Turf removal and soil rebuild.",
+      "Patio and walkway hardscape.",
+      "Low-water plant palettes by sun exposure.",
+      "Irrigation re-zoning and drip conversion."
+    ]
+  },
+  "concept": {
+    "dir": "Water-budget visualisation: plant-palette library, savings figures, before/after wipes, rebate explainer.",
+    "palette": {
+      "ink": "#1e1c17",
+      "paper": "#f4f0e6",
+      "accent": "#7c8f52",
+      "accent2": "#c2703f"
+    },
+    "heroType": "split",
+    "motion": "wipe-reveal",
+    "interactive": [
+      "Before/after drag slider",
+      "Plant palette browser with sun, water and size filters",
+      "Rebate eligibility checklist",
+      "Quote form with an area slider"
+    ],
+    "pages": [
+      "index",
+      "conversions",
+      "palettes",
+      "hardscape",
+      "contact"
+    ],
+    "nav": [
+      "Conversions",
+      "Plant palettes",
+      "Hardscape",
+      "Contact"
+    ],
+    "tone": "Optimistic pragmatism",
+    "refs": "Climate-adaptive design studio.",
+    "signature": "compare",
+    "hero": "split"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Appears repeatedly in Sunnyvale landscaping and hardscape result sets with 87 reviews and no website field; no domain surfaced. Live audit pending.",
+    "src": [
+      "https://www.yelp.com/search?find_desc=Hardscape&find_loc=Mountain+View%2C+CA",
+      "https://www.yelp.com/search?cflt=landscaping&find_loc=Sunnyvale%2C+CA"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/search?cflt=landscaping&find_loc=Sunnyvale%2C+CA"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Ramos Landscaping — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "home-services",
+    "label": "Trusted Trades",
+    "summary": "Utility-first, urgency-led conversion system for dispatch businesses. Big call target, live status strip, service-area proof, transparent price ranges.",
+    "fonts": {
+      "display": "\"Barlow Condensed\"",
+      "body": "\"Public Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Barlow+Condensed:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500",
+    "nav": "utility",
+    "motion": "wipe-reveal",
+    "tokens": {
+      "ink": "#1e1c17",
+      "paper": "#f4f0e6",
+      "accent": "#7c8f52",
+      "accent2": "#c2703f",
+      "inkName": "Gravel",
+      "radius": "10px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 14%, transparent)",
+      "shadow": "0 18px 40px -28px rgb(9 12 20 / .55)",
+      "pad": "clamp(3.6rem,8vw,7rem)",
+      "scale": "1.24",
+      "headingCase": "uppercase",
+      "track": "-.015em",
+      "texture": "grid",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "urgency",
+      "services",
+      "process",
+      "proof",
+      "coverage",
+      "reviews",
+      "faq"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/ramos-landscaping-sunnyvale",
+      "title": "Ramos Landscaping — Landscaping in Sunnyvale",
+      "description": "Drought-tolerant conversions, hardscape and irrigation that cut outdoor water use and still look designed.",
+      "h1": "Your lawn was never going to survive the next decade.",
+      "kicker": "Sunnyvale · water-wise builds",
+      "sections": [
+        "hero",
+        "urgency",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "reviews",
+        "faq"
+      ]
+    },
+    {
+      "slug": "conversions",
+      "file": "conversions.astro",
+      "path": "/ramos-landscaping-sunnyvale/conversions",
+      "title": "Conversions — Ramos Landscaping",
+      "description": "Conversions at Ramos Landscaping in Sunnyvale: Lawn-to-drought-tolerant conversion, Paver patios and walkways, Raised planters and beds. Drought-tolerant conversions, hardscape and irrigation that cut outdoor water use and still look designed.",
+      "h1": "Conversions",
+      "kicker": "Landscaping",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "palettes",
+      "file": "palettes.astro",
+      "path": "/ramos-landscaping-sunnyvale/palettes",
+      "title": "Palettes — Ramos Landscaping",
+      "description": "Palettes at Ramos Landscaping in Sunnyvale: Lawn-to-drought-tolerant conversion, Paver patios and walkways, Raised planters and beds. Drought-tolerant conversions, hardscape and irrigation that cut outdoor water use and still look designed.",
+      "h1": "Palettes",
+      "kicker": "Landscaping",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "hardscape",
+      "file": "hardscape.astro",
+      "path": "/ramos-landscaping-sunnyvale/hardscape",
+      "title": "Hardscape — Ramos Landscaping",
+      "description": "Hardscape at Ramos Landscaping in Sunnyvale: Lawn-to-drought-tolerant conversion, Paver patios and walkways, Raised planters and beds. Drought-tolerant conversions, hardscape and irrigation that cut outdoor water use and still look designed.",
+      "h1": "Hardscape",
+      "kicker": "Landscaping",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/ramos-landscaping-sunnyvale/contact",
+      "title": "Contact — Ramos Landscaping",
+      "description": "Call or write to Ramos Landscaping in Sunnyvale. Contact details verified against public listings.",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "urgency",
+        "coverage",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 6,
+    "gap": 9,
+    "vis": 6,
+    "vol": 7,
+    "brand": 6,
+    "comp": 6,
+    "val": 8,
+    "assets": 6,
+    "roi": 8
+  },
+  "seo": {
+    "title": "Ramos Landscaping — Landscaping in Sunnyvale",
+    "description": "Drought-tolerant conversions, hardscape and irrigation that cut outdoor water use and still look designed.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Ramos Landscaping",
+    "description": "Drought-tolerant conversions, hardscape and irrigation that cut outdoor water use and still look designed.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Sunnyvale",
+      "addressRegion": "CA",
+      "postalCode": "94087"
+    },
+    "sameAs": [
+      "https://www.yelp.com/search?cflt=landscaping&find_loc=Sunnyvale%2C+CA"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.5,
+      "reviewCount": 87,
+      "bestRating": 5
+    },
+    "slogan": "Your lawn was never going to survive the next decade.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/search?find_desc=Hardscape&find_loc=Mountain+View%2C+CA",
+    "https://www.yelp.com/search?cflt=landscaping&find_loc=Sunnyvale%2C+CA"
+  ],
+  "sourceNotes": []
+}

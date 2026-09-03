@@ -1,0 +1,315 @@
+{
+  "id": "sv036",
+  "slug": "san-jose-signs",
+  "name": "San Jose Signs",
+  "short": "San Jose Signs",
+  "cat": "Signage & wraps",
+  "sub": "Channel letters, monuments, vehicle wraps",
+  "city": "San Jose",
+  "zip": "95138",
+  "addr": "339 Piercy Rd, San Jose, CA 95138",
+  "phone": "(408) 294-7446",
+  "email": null,
+  "contactNote": null,
+  "founded": "2008 (staff with 30+ years in the trade)",
+  "hours": "Mon-Fri shop, site installs evenings",
+  "audience": "Storefront owners, restaurants, clinics, property managers and fleet operators",
+  "scale": {
+    "emp": "design, fabrication and install crews",
+    "loc": 1
+  },
+  "description": "Sign shop in the Alviso-side industrial area making illuminated channel letters, monument signs, window graphics and vehicle wraps, with a 72-photo archive of installed work.",
+  "services": [
+    "Illuminated channel letters",
+    "Monument and pylon signs",
+    "Window graphics and lettering",
+    "Vehicle wraps and fleet lettering",
+    "Banners, A-frames and temporary signage",
+    "Permit drawings and city approvals"
+  ],
+  "serviceCopy": [
+    "Illuminated channel letters, engineered for the facade.",
+    "Monuments and pylons with city permitting.",
+    "Wraps and fleet lettering cut in-house.",
+    "Banners, temporaries and wayfinding."
+  ],
+  "insight": "A 30-year veteran crew and 72 documented installs: this is a portfolio business with no portfolio.",
+  "usps": [
+    "In-house fabrication, not a reseller",
+    "Handles the permit process end to end",
+    "Thirty-year veterans in a shop of young resellers"
+  ],
+  "differentiators": [
+    "Publishes material, illumination and permit options with real cost bands"
+  ],
+  "voice": "Shop-floor direct",
+  "persona": "The sign makers with the machines",
+  "reputation": {
+    "rating": null,
+    "reviews": 22,
+    "src": "Yelp",
+    "note": "Small review base with strong photographic proof - lead with work, not scores."
+  },
+  "budget": {
+    "afford": [
+      "Storefront sign packages run $5K-$60K, wraps $3K-$25K",
+      "Own fabrication equipment and a shop lease",
+      "Permit and city-approval expertise is a differentiator nobody publishes"
+    ],
+    "risk": [
+      "Trade customers often buy by phone: keep the funnel short",
+      "Photos are customer-owned on a platform: licensing must be cleared"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Acrylic white",
+      "safety yellow",
+      "anodised aluminium"
+    ],
+    "logo": "Set a bold geometric sans wordmark, no 3D bevel effects",
+    "photoNote": "Installed facades at night, wrap in progress, CNC bed"
+  },
+  "copy": {
+    "eyebrow": "San Jose · fabrication since 2008",
+    "h1": "Your sign was made in a shop, not a website builder.",
+    "sub": "Channel letters, monuments, wraps and permits - designed, fabricated and installed in one South San Jose shop.",
+    "cta1": "Get a sign proposal",
+    "cta2": "See installed work",
+    "lede": "Nearly every storefront sign in this city passes through a reseller. San Jose Signs owns the printers, the brake and the install crew - and has nowhere to show it.",
+    "svcCopy": [
+      "Illuminated channel letters, engineered for the facade.",
+      "Monuments and pylons with city permitting.",
+      "Wraps and fleet lettering cut in-house.",
+      "Banners, temporaries and wayfinding."
+    ]
+  },
+  "concept": {
+    "dir": "Shop-floor brutalist: big industrial type, an installed-work mosaic lit by a night toggle, permit and material spec tables, and a measurement upload flow. Motion: hard-cut reveals, no shimmer.",
+    "palette": {
+      "ink": "#f1f1ee",
+      "paper": "#16181a",
+      "accent": "#f5d000",
+      "accent2": "#e2542c"
+    },
+    "heroType": "fullbleed",
+    "motion": "hard-cut",
+    "interactive": [
+      "Day/night toggle that lights the facade photography",
+      "Sign-type selector with typical cost bands and lead times",
+      "Permit process explainer with city notes",
+      "Photo-measurement upload form for quotes"
+    ],
+    "pages": [
+      "index",
+      "work",
+      "types",
+      "permits",
+      "contact"
+    ],
+    "nav": [
+      "Work",
+      "Sign types",
+      "Permits",
+      "Contact"
+    ],
+    "tone": "Manufacturing confidence",
+    "refs": "A fabricator catalogue, not an agency portfolio.",
+    "signature": "picker",
+    "hero": "fullbleed"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "B",
+    "note": "Listing shows 72 photos of installed work and no website field; no domain surfaced in the directories reviewed. A fabrication shop whose entire portfolio lives on someone else's platform.",
+    "src": [
+      "https://www.yelp.com/biz/san-jose-signs-san-jose"
+    ],
+    "status": "No website",
+    "confidence": "verified across two or more directories"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/san-jose-signs-san-jose"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for San Jose Signs — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "industrial-brutalist",
+    "label": "Shop Floor Brutalist",
+    "summary": "Heavy concrete/steel aesthetic: oversized numerals, blueprint rules, stamp-like buttons, horizontal material ticker. Built for fabricators and builders.",
+    "fonts": {
+      "display": "\"Archivo\"",
+      "body": "\"Spline Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Archivo:wght@600;700;800;900&family=Spline+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "bar",
+    "motion": "hard-cut",
+    "tokens": {
+      "ink": "#f1f1ee",
+      "paper": "#16181a",
+      "accent": "#f5d000",
+      "accent2": "#e2542c",
+      "inkName": "Acrylic white",
+      "radius": "2px",
+      "hair": "2px",
+      "border": "2px solid var(--ink)",
+      "shadow": "none",
+      "pad": "clamp(4rem,9vw,8rem)",
+      "scale": "1.32",
+      "headingCase": "uppercase",
+      "track": "-.03em",
+      "texture": "blueprint",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "materials",
+      "services",
+      "capabilities",
+      "specs",
+      "coverage",
+      "proof",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/san-jose-signs",
+      "title": "San Jose Signs — Signage & wraps in San Jose",
+      "description": "Channel letters, monuments, wraps and permits - designed, fabricated and installed in one South San Jose shop.",
+      "h1": "Your sign was made in a shop, not a website builder.",
+      "kicker": "San Jose · fabrication since 2008",
+      "sections": [
+        "hero",
+        "materials",
+        "services",
+        "capabilities",
+        "specs",
+        "coverage",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "work",
+      "file": "work.astro",
+      "path": "/san-jose-signs/work",
+      "title": "Selected work — San Jose Signs",
+      "description": "Projects and evidence from San Jose Signs in San Jose.",
+      "h1": "Selected work",
+      "kicker": "Index",
+      "sections": [
+        "hero",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "types",
+      "file": "types.astro",
+      "path": "/san-jose-signs/types",
+      "title": "Types — San Jose Signs",
+      "description": "Types at San Jose Signs in San Jose: Illuminated channel letters, Monument and pylon signs, Window graphics and lettering. Channel letters, monuments, wraps and permits - designed, fabricated and installed in one South San Jose shop.",
+      "h1": "Types",
+      "kicker": "Signage & wraps",
+      "sections": [
+        "hero",
+        "services",
+        "capabilities",
+        "materials",
+        "specs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "permits",
+      "file": "permits.astro",
+      "path": "/san-jose-signs/permits",
+      "title": "Permits — San Jose Signs",
+      "description": "Permits at San Jose Signs in San Jose: Illuminated channel letters, Monument and pylon signs, Window graphics and lettering. Channel letters, monuments, wraps and permits - designed, fabricated and installed in one South San Jose shop.",
+      "h1": "Permits",
+      "kicker": "Signage & wraps",
+      "sections": [
+        "hero",
+        "services",
+        "capabilities",
+        "materials",
+        "specs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/san-jose-signs/contact",
+      "title": "Contact — San Jose Signs",
+      "description": "Call or write to San Jose Signs in San Jose. (408) 294-7446",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "coverage",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 8,
+    "gap": 10,
+    "vis": 5,
+    "vol": 5,
+    "brand": 7,
+    "comp": 5,
+    "val": 9,
+    "assets": 8,
+    "roi": 9
+  },
+  "seo": {
+    "title": "San Jose Signs — Signage & wraps in San Jose",
+    "description": "Channel letters, monuments, wraps and permits - designed, fabricated and installed in one South San Jose shop.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "Store",
+    "name": "San Jose Signs",
+    "description": "Channel letters, monuments, wraps and permits - designed, fabricated and installed in one South San Jose shop.",
+    "phone": "(408) 294-7446",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95138",
+      "streetAddress": "339 Piercy Rd"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/san-jose-signs-san-jose"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "Your sign was made in a shop, not a website builder.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/san-jose-signs-san-jose"
+  ],
+  "sourceNotes": []
+}
