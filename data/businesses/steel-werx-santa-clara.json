@@ -1,0 +1,334 @@
+{
+  "id": "sv007",
+  "slug": "steel-werx-santa-clara",
+  "name": "Steel Werx",
+  "short": "Steel Werx",
+  "cat": "Metal fabrication",
+  "sub": "Custom railings, gates, art, signage",
+  "city": "Santa Clara",
+  "zip": "95050",
+  "addr": "1835 Grant St, Santa Clara, CA 95050",
+  "phone": "(408) 849-8590",
+  "email": "ironman1835@yahoo.com (listed on their site)",
+  "contactNote": null,
+  "founded": "2005 (site) · 2002 (Yelp \"Established\")",
+  "hours": "Mon–Fri 9:00–18:00 (site) · 9:00–17:00 (Yelp)",
+  "audience": "Property managers, architects, labs, event/brand teams, homeowners",
+  "scale": {
+    "emp": "shop crew",
+    "loc": 1
+  },
+  "description": "Santa Clara metal shop: TIG/MIG welding, tube bending and notching, plasma and contour cutting, powder coating, stainless fabrication, mobile on-location welding, art installation, and one-off commercial problem solving.",
+  "services": [
+    "Custom railings & gates",
+    "Pergolas & trellises",
+    "Corporate illuminated signage",
+    "Art & installation builds",
+    "Mobile/on-site welding",
+    "Prototypes & brackets"
+  ],
+  "serviceCopy": [
+    "Architectural railings & gates.",
+    "Illuminated corporate signage.",
+    "Art, set and event builds.",
+    "Mobile welding — we rig it on site."
+  ],
+  "insight": "Own copy says customers arrive after being told \"we can't do that\" elsewhere — that is the brand thesis.",
+  "usps": [
+    "\"The shop that says yes\" — takes what others refuse",
+    "Full process coverage: cut, bend, weld, coat, install",
+    "Mobile welding means they come to you"
+  ],
+  "differentiators": [
+    "Fabricator + artist + service company in one, currently presented as a keyword dump"
+  ],
+  "voice": "Gruff, capable, funny",
+  "persona": "Metal problem solvers",
+  "reputation": {
+    "rating": 4.7,
+    "reviews": 86,
+    "src": "Yelp",
+    "note": "Researchers and builders cite it as the go-to for awkward one-off metal work."
+  },
+  "budget": {
+    "afford": [
+      "Commercial signage and railing contracts are $5K–$150K",
+      "B2B + B2C mix needs two funnels — a site, not a page",
+      "62–63 photos and 86 reviews already exist as content",
+      "Instagram + Tumblr history shows willingness to market"
+    ],
+    "risk": [
+      "Owner (Pawl W.) is the brand — needs a person-led structure",
+      "Yahoo email signals informality to architects"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Hot-rolled blue",
+      "zinc",
+      "weld-spark orange"
+    ],
+    "logo": "Tumbler/weld-glyph mark; existing name is strong",
+    "photoNote": "Spark and grind photography; process close-ups"
+  },
+  "copy": {
+    "eyebrow": "Santa Clara metal shop",
+    "h1": "If another shop told you it cannot be done, bring us the drawing.",
+    "sub": "Railings, gates, signage, art and impossible one-offs — cut, bent, welded, powder-coated and installed by one Santa Clara crew.",
+    "cta1": "Send a drawing",
+    "cta2": "Capabilities",
+    "lede": "Steel Werx has spent twenty years building the things other shops decline. The website people judge them on, though, is a keyword wall from 2015 with an expired copyright.",
+    "svcCopy": [
+      "Architectural railings & gates.",
+      "Illuminated corporate signage.",
+      "Art, set and event builds.",
+      "Mobile welding — we rig it on site."
+    ]
+  },
+  "concept": {
+    "dir": "Fabrication-floor brutalism: 12-column blueprint grid, process ledger, capability matrix with tolerances, \"send a STEP/PDF\" intake.",
+    "palette": {
+      "ink": "#101214",
+      "paper": "#e7e9e6",
+      "accent": "#a04a08",
+      "accent2": "#3d6fa3"
+    },
+    "heroType": "manifesto",
+    "motion": "ticker-stamp",
+    "interactive": [
+      "File-intake dropzone (drawings/photos)",
+      "Capability matrix rows with process tags",
+      "Scroll-driven process diagram (cut→bend→weld→coat→install)",
+      "Material swatch rail"
+    ],
+    "pages": [
+      "index",
+      "capabilities",
+      "projects",
+      "intake",
+      "contact"
+    ],
+    "nav": [
+      "Capabilities",
+      "Work",
+      "Send a drawing",
+      "Shop",
+      "Contact"
+    ],
+    "tone": "Competent bluntness",
+    "refs": "Machine-shop spec sheets meet an artist-run space.",
+    "signature": "ledger",
+    "hero": "manifesto"
+  },
+  "web": {
+    "s": "basic",
+    "url": "http://www.steelwerx.com/",
+    "lvl": "A",
+    "note": "Site is live but HTTP-only on a 2010s page-builder: keyword-wall body copy (\"Need 10,000 Holes Punched in a Pinch? Please Phone Pawl!\"), copyright \"2005 - 2015\", no mobile-first CSS, images not optimised, contact is a Yahoo address. Zero conversion path for commercial buyers.",
+    "src": [
+      "http://www.steelwerx.com/",
+      "http://www.steelwerx.com/about",
+      "https://www.yelp.com/biz/steel-werx-santa-clara"
+    ],
+    "status": "Extremely outdated or basic website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/steel-werx-santa-clara",
+    "ig": "https://instagram.com/steelwerx",
+    "other": [
+      "http://thewerx.tumblr.com"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Steel Werx — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "industrial-brutalist",
+    "label": "Shop Floor Brutalist",
+    "summary": "Heavy concrete/steel aesthetic: oversized numerals, blueprint rules, stamp-like buttons, horizontal material ticker. Built for fabricators and builders.",
+    "fonts": {
+      "display": "\"Archivo\"",
+      "body": "\"Spline Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Archivo:wght@600;700;800;900&family=Spline+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "bar",
+    "motion": "ticker-stamp",
+    "tokens": {
+      "ink": "#101214",
+      "paper": "#e7e9e6",
+      "accent": "#a04a08",
+      "accent2": "#3d6fa3",
+      "inkName": "Hot-rolled blue",
+      "radius": "2px",
+      "hair": "2px",
+      "border": "2px solid var(--ink)",
+      "shadow": "none",
+      "pad": "clamp(4rem,9vw,8rem)",
+      "scale": "1.32",
+      "headingCase": "uppercase",
+      "track": "-.03em",
+      "texture": "blueprint",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "materials",
+      "services",
+      "capabilities",
+      "specs",
+      "coverage",
+      "proof",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/steel-werx-santa-clara",
+      "title": "Steel Werx — Metal fabrication in Santa Clara",
+      "description": "Railings, gates, signage, art and impossible one-offs — cut, bent, welded, powder-coated and installed by one Santa Clara crew.",
+      "h1": "If another shop told you it cannot be done, bring us the drawing.",
+      "kicker": "Santa Clara metal shop",
+      "sections": [
+        "hero",
+        "materials",
+        "services",
+        "capabilities",
+        "specs",
+        "coverage",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "capabilities",
+      "file": "capabilities.astro",
+      "path": "/steel-werx-santa-clara/capabilities",
+      "title": "Capabilities — Steel Werx",
+      "description": "Capabilities at Steel Werx in Santa Clara: Custom railings & gates, Pergolas & trellises, Corporate illuminated signage. Railings, gates, signage, art and impossible one-offs — cut, bent, welded, powder-coated and installed by one Santa Clara crew.",
+      "h1": "Capabilities",
+      "kicker": "Metal fabrication",
+      "sections": [
+        "hero",
+        "services",
+        "capabilities",
+        "materials",
+        "specs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "projects",
+      "file": "projects.astro",
+      "path": "/steel-werx-santa-clara/projects",
+      "title": "Projects — Steel Werx",
+      "description": "Projects at Steel Werx in Santa Clara: Custom railings & gates, Pergolas & trellises, Corporate illuminated signage. Railings, gates, signage, art and impossible one-offs — cut, bent, welded, powder-coated and installed by one Santa Clara crew.",
+      "h1": "Projects",
+      "kicker": "Metal fabrication",
+      "sections": [
+        "hero",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "intake",
+      "file": "intake.astro",
+      "path": "/steel-werx-santa-clara/intake",
+      "title": "Intake — Steel Werx",
+      "description": "Intake at Steel Werx in Santa Clara: Custom railings & gates, Pergolas & trellises, Corporate illuminated signage. Railings, gates, signage, art and impossible one-offs — cut, bent, welded, powder-coated and installed by one Santa Clara crew.",
+      "h1": "Intake",
+      "kicker": "Metal fabrication",
+      "sections": [
+        "hero",
+        "services",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/steel-werx-santa-clara/contact",
+      "title": "Contact — Steel Werx",
+      "description": "Call or write to Steel Werx in Santa Clara. (408) 849-8590",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "coverage",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 8,
+    "gap": 9,
+    "vis": 7,
+    "vol": 7,
+    "brand": 8,
+    "comp": 7,
+    "val": 10,
+    "assets": 8,
+    "roi": 9
+  },
+  "seo": {
+    "title": "Steel Werx — Metal fabrication in Santa Clara",
+    "description": "Railings, gates, signage, art and impossible one-offs — cut, bent, welded, powder-coated and installed by one Santa Clara crew.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Steel Werx",
+    "description": "Railings, gates, signage, art and impossible one-offs — cut, bent, welded, powder-coated and installed by one Santa Clara crew.",
+    "phone": "(408) 849-8590",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Santa Clara",
+      "addressRegion": "CA",
+      "postalCode": "95050",
+      "streetAddress": "1835 Grant St"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/steel-werx-santa-clara",
+      "https://instagram.com/steelwerx",
+      "http://thewerx.tumblr.com"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.7,
+      "reviewCount": 86,
+      "bestRating": 5
+    },
+    "slogan": "If another shop told you it cannot be done, bring us the drawing.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "http://www.steelwerx.com/",
+    "http://www.steelwerx.com/about",
+    "https://www.yelp.com/biz/steel-werx-santa-clara",
+    "https://instagram.com/steelwerx",
+    "http://thewerx.tumblr.com"
+  ],
+  "sourceNotes": []
+}

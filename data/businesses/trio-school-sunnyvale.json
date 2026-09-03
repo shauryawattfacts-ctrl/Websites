@@ -1,0 +1,324 @@
+{
+  "id": "sv022",
+  "slug": "trio-school-sunnyvale",
+  "name": "Trio School of Music, Dance & Languages",
+  "short": "Trio School of",
+  "cat": "Private school",
+  "sub": "Music, dance, languages",
+  "city": "Sunnyvale",
+  "zip": "94086",
+  "addr": "121 W Washington Ave, Sunnyvale, CA 94086",
+  "phone": null,
+  "email": null,
+  "contactNote": null,
+  "founded": "2002 (founded in Minnesota), Sunnyvale since 2011",
+  "hours": "Mon-Sat afternoon and evening classes",
+  "audience": "Sunnyvale families; multilingual households; adult students",
+  "scale": {
+    "emp": "multi-instructor faculty",
+    "loc": 1
+  },
+  "description": "Private school teaching music, dance and languages, founded in 2002 and run in Sunnyvale since 2011.",
+  "services": [
+    "Piano, strings and voice",
+    "Dance and movement",
+    "Russian language and culture",
+    "Italian and other languages",
+    "Ensemble and performance practice",
+    "Adult classes"
+  ],
+  "serviceCopy": [
+    "Piano, strings and voice.",
+    "Dance and movement for young students.",
+    "Russian, Italian and heritage language classes.",
+    "Ensembles, recitals and performance practice."
+  ],
+  "insight": "Three departments under one roof — music, dance and languages — with a term calendar that families actually need to see.",
+  "usps": [
+    "One building for music, movement and languages",
+    "Faculty teaching together since 2002",
+    "Adult as well as youth programs"
+  ],
+  "differentiators": [
+    "Publishes a real course catalogue with ages, level and placement"
+  ],
+  "voice": "Cultured, welcoming, multilingual",
+  "persona": "The downtown small conservatory",
+  "reputation": {
+    "rating": null,
+    "reviews": 47,
+    "src": "Yelp",
+    "note": "47 reviews with no equivalent first-party presence: the proof exists, it is just not published by them."
+  },
+  "budget": {
+    "afford": [
+      "Multi-instructor private school with real payroll and a six-day schedule",
+      "Tuition for music and language instruction is durable household spend",
+      "Two decades of operating history"
+    ],
+    "risk": [
+      "Owner or volunteer admin: content must be trivially maintainable",
+      "Department breadth means information architecture work, not just design"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Concert deep red",
+      "ivory",
+      "brass"
+    ],
+    "logo": "Propose a three-line emblem for three disciplines",
+    "photoNote": "Classrooms, recitals, hands on keys, movement class"
+  },
+  "copy": {
+    "eyebrow": "Sunnyvale · established 2002",
+    "h1": "One school: music at four, languages for life.",
+    "sub": "Music, dance and languages taught in three departments downtown, six days a week.",
+    "cta1": "Find your class",
+    "cta2": "Meet the faculty",
+    "lede": "Trio has been the school families recommend to each other for more than twenty years: music, dance and languages under one roof in Sunnyvale, taught by the same faculty year after year.",
+    "svcCopy": [
+      "Piano, strings and voice.",
+      "Dance and movement for young students.",
+      "Russian, Italian and heritage language classes.",
+      "Ensembles, recitals and performance practice."
+    ]
+  },
+  "concept": {
+    "dir": "Conservatory information architecture: program finder by discipline and age, faculty pages, term calendar, recital gallery, enrolment funnel. Serif warmth with modern structure.",
+    "palette": {
+      "ink": "#1b1418",
+      "paper": "#faf6f0",
+      "accent": "#8e2b3c",
+      "accent2": "#2f5c6b"
+    },
+    "heroType": "split",
+    "motion": "soft-mask",
+    "interactive": [
+      "Program finder by age and discipline",
+      "Faculty cards with credentials",
+      "Term and recital calendar",
+      "Trial-lesson request form"
+    ],
+    "pages": [
+      "index",
+      "programs",
+      "faculty",
+      "enroll",
+      "calendar",
+      "contact"
+    ],
+    "nav": [
+      "Programs",
+      "Faculty",
+      "Calendar",
+      "Enroll",
+      "Contact"
+    ],
+    "tone": "Warm institutional",
+    "refs": "A conservatory admissions page, scaled to a downtown school.",
+    "signature": "archive",
+    "hero": "split"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "B",
+    "note": "Their own listing copy literally tells people to look for them on Google, and no website field appears in any captured record. A business with a reputation and no front door.",
+    "src": [
+      "https://www.yelp.com/biz/trio-school-sunnyvale-2"
+    ],
+    "status": "No website",
+    "confidence": "verified across two or more directories"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/trio-school-sunnyvale-2"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Trio School of Music, Dance & Languages — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "education-enroll",
+    "label": "Enrolment Funnel",
+    "summary": "Parent-proof structure: program cards by age band, weekly timetable, trial-lesson funnel, staff credentials, term calendar, safety/policies block.",
+    "fonts": {
+      "display": "\"Nunito\"",
+      "body": "\"Noto Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Nunito:wght@600;700;800&family=Noto+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400",
+    "nav": "pill",
+    "motion": "soft-mask",
+    "tokens": {
+      "ink": "#1b1418",
+      "paper": "#faf6f0",
+      "accent": "#8e2b3c",
+      "accent2": "#2f5c6b",
+      "inkName": "Concert deep red",
+      "radius": "18px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 12%, transparent)",
+      "shadow": "0 18px 36px -28px rgb(20 40 90 / .4)",
+      "pad": "clamp(3.4rem,7.5vw,6.4rem)",
+      "scale": "1.22",
+      "headingCase": "none",
+      "track": "-.014em",
+      "texture": "dots",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "programs",
+      "schedule",
+      "why-us",
+      "teachers",
+      "tuition",
+      "faq",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/trio-school-sunnyvale",
+      "title": "Trio School of Music — Private school in Sunnyvale, CA",
+      "description": "Music, dance and languages taught in three departments downtown, six days a week.",
+      "h1": "One school: music at four, languages for life.",
+      "kicker": "Sunnyvale · established 2002",
+      "sections": [
+        "hero",
+        "programs",
+        "schedule",
+        "why-us",
+        "teachers",
+        "tuition",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "programs",
+      "file": "programs.astro",
+      "path": "/trio-school-sunnyvale/programs",
+      "title": "Programs — Trio School of Music, Dance & Languages",
+      "description": "Programs, schedules and enrolment information.",
+      "h1": "Programs",
+      "kicker": "Enrolment",
+      "sections": [
+        "hero",
+        "programs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "faculty",
+      "file": "faculty.astro",
+      "path": "/trio-school-sunnyvale/faculty",
+      "title": "Faculty — Trio School of Music, Dance & Languages",
+      "description": "Faculty at Trio School of in Sunnyvale: Piano, strings and voice, Dance and movement, Russian language and culture. Music, dance and languages taught in three departments downtown, six days a week.",
+      "h1": "Faculty",
+      "kicker": "Private school",
+      "sections": [
+        "hero",
+        "teachers",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "enroll",
+      "file": "enroll.astro",
+      "path": "/trio-school-sunnyvale/enroll",
+      "title": "Enroll — Trio School of Music, Dance & Languages",
+      "description": "Enroll at Trio School of in Sunnyvale: Piano, strings and voice, Dance and movement, Russian language and culture. Music, dance and languages taught in three departments downtown, six days a week.",
+      "h1": "Enroll",
+      "kicker": "Private school",
+      "sections": [
+        "hero",
+        "tuition",
+        "contact"
+      ]
+    },
+    {
+      "slug": "calendar",
+      "file": "calendar.astro",
+      "path": "/trio-school-sunnyvale/calendar",
+      "title": "Calendar — Trio School of Music, Dance & Languages",
+      "description": "Calendar at Trio School of in Sunnyvale: Piano, strings and voice, Dance and movement, Russian language and culture. Music, dance and languages taught in three departments downtown, six days a week.",
+      "h1": "Calendar",
+      "kicker": "Private school",
+      "sections": [
+        "hero",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/trio-school-sunnyvale/contact",
+      "title": "Contact — Trio School of Music, Dance & Languages",
+      "description": "Call or write to Trio School of Music, Dance & Languages in Sunnyvale. Contact details verified against public listings.",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "tuition",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 8,
+    "gap": 10,
+    "vis": 6,
+    "vol": 7,
+    "brand": 8,
+    "comp": 7,
+    "val": 10,
+    "assets": 5,
+    "roi": 9
+  },
+  "seo": {
+    "title": "Trio School of Music — Private school in Sunnyvale, CA",
+    "description": "Music, dance and languages taught in three departments downtown, six days a week.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Trio School of Music, Dance & Languages",
+    "description": "Music, dance and languages taught in three departments downtown, six days a week.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Sunnyvale",
+      "addressRegion": "CA",
+      "postalCode": "94086",
+      "streetAddress": "121 W Washington Ave"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/trio-school-sunnyvale-2"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "One school: music at four, languages for life.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/trio-school-sunnyvale-2"
+  ],
+  "sourceNotes": []
+}

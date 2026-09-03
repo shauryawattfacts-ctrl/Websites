@@ -1,0 +1,313 @@
+{
+  "id": "sv010",
+  "slug": "rf-construction-san-jose",
+  "name": "R F Construction",
+  "short": "R F Construction",
+  "cat": "General contractor",
+  "sub": "Whole-house remodels, kitchen & bath",
+  "city": "San Jose",
+  "zip": "95117",
+  "addr": "San Jose, CA 95117 (West San Jose)",
+  "phone": "(408) 717-1359",
+  "email": null,
+  "contactNote": null,
+  "founded": "2013 (Bay Area); \"more than a decade\" trade background per own copy",
+  "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:00",
+  "audience": "West San Jose / Almaden homeowners; small commercial",
+  "scale": {
+    "emp": "crew + subs",
+    "loc": 1
+  },
+  "description": "One team from new construction to finishes: house remodels, kitchen and bath, flooring and tile, slabs, painting, masonry, framing, plumbing and electrical. Also supplies material samples from supplier partners.",
+  "services": [
+    "Kitchen remodels",
+    "Bathroom remodels",
+    "Additions & new build",
+    "Tile & flooring",
+    "Drywall, framing, paint",
+    "Plumbing & electrical coordination"
+  ],
+  "serviceCopy": [
+    "Kitchens: demo to final trim.",
+    "Baths with waterproofing you can audit.",
+    "Additions and whole-house reconfigure.",
+    "Finish carpentry, tile, paint in sequence."
+  ],
+  "insight": "131 photos with no gallery — the biggest immediate win is publishing what they already shot.",
+  "usps": [
+    "In-house trades: fewer subcontract gaps",
+    "Sample-and-spec guidance included",
+    "Remodel to new-build range"
+  ],
+  "differentiators": [
+    "Publishes a process with permit steps; competitors post renders only"
+  ],
+  "voice": "No-nonsense builder",
+  "persona": "One contract, one foreman",
+  "reputation": {
+    "rating": null,
+    "reviews": null,
+    "src": "Yelp",
+    "note": "Review footprint thin; portfolio is the asset to lead with."
+  },
+  "budget": {
+    "afford": [
+      "Whole-house remodel scopes locally start around $120K",
+      "Multiple trades under one roof = high ticket and high margin",
+      "131 photos available to licence immediately"
+    ],
+    "risk": [
+      "Thin public reviews: needs a testimonial/permission programme",
+      "Business name (\"R F Construction\") is hard to rank — recommend brand-name page structure"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Plywood",
+      "grey-site",
+      "safety orange"
+    ],
+    "logo": "Needs one",
+    "photoNote": "131 existing job photos"
+  },
+  "copy": {
+    "eyebrow": "San Jose · remodels & new work",
+    "h1": "Framing, tile, plumbing and paint under one contract.",
+    "sub": "R F Construction runs the whole sequence in-house so your remodel does not stall between trades.",
+    "cta1": "Book a site visit",
+    "cta2": "See the work",
+    "lede": "Remodels rarely fail on design. They fail in the week the tile guy and the plumber both think the other is coming. One crew, one schedule, is the fix.",
+    "svcCopy": [
+      "Kitchens: demo to final trim.",
+      "Baths with waterproofing you can audit.",
+      "Additions and whole-house reconfigure.",
+      "Finish carpentry, tile, paint in sequence."
+    ]
+  },
+  "concept": {
+    "dir": "Jobsite documentation system: sequence timeline, permit-step tracker mock, photo index by phase.",
+    "palette": {
+      "ink": "#161511",
+      "paper": "#eeeae1",
+      "accent": "#d0541f",
+      "accent2": "#6d7767"
+    },
+    "heroType": "manifesto",
+    "motion": "ticker-stamp",
+    "interactive": [
+      "Phase-by-phase scroll timeline",
+      "Photo index filter (trade/room)",
+      "Site-visit booking form with scope picker",
+      "Trade-coverage matrix"
+    ],
+    "pages": [
+      "index",
+      "phases",
+      "services",
+      "work",
+      "contact"
+    ],
+    "nav": [
+      "Phases",
+      "Services",
+      "Work",
+      "Contact"
+    ],
+    "tone": "Site-superintendent clarity",
+    "refs": "Construction-logbook typography.",
+    "signature": "picker",
+    "hero": "manifesto"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Claimed-quality listing with 131 photos, no website field; no domain surfaced in cross-checks. Pending live audit.",
+    "src": [
+      "https://www.yelp.com/biz/r-f-construction-san-jose"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/r-f-construction-san-jose"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for R F Construction — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "industrial-brutalist",
+    "label": "Shop Floor Brutalist",
+    "summary": "Heavy concrete/steel aesthetic: oversized numerals, blueprint rules, stamp-like buttons, horizontal material ticker. Built for fabricators and builders.",
+    "fonts": {
+      "display": "\"Archivo\"",
+      "body": "\"Spline Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Archivo:wght@600;700;800;900&family=Spline+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "bar",
+    "motion": "ticker-stamp",
+    "tokens": {
+      "ink": "#161511",
+      "paper": "#eeeae1",
+      "accent": "#d0541f",
+      "accent2": "#6d7767",
+      "inkName": "Plywood",
+      "radius": "2px",
+      "hair": "2px",
+      "border": "2px solid var(--ink)",
+      "shadow": "none",
+      "pad": "clamp(4rem,9vw,8rem)",
+      "scale": "1.32",
+      "headingCase": "uppercase",
+      "track": "-.03em",
+      "texture": "blueprint",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "materials",
+      "services",
+      "capabilities",
+      "specs",
+      "coverage",
+      "proof",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/rf-construction-san-jose",
+      "title": "R F Construction — General contractor in San Jose",
+      "description": "R F Construction runs the whole sequence in-house so your remodel does not stall between trades.",
+      "h1": "Framing, tile, plumbing and paint under one contract.",
+      "kicker": "San Jose · remodels & new work",
+      "sections": [
+        "hero",
+        "materials",
+        "services",
+        "capabilities",
+        "specs",
+        "coverage",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "phases",
+      "file": "phases.astro",
+      "path": "/rf-construction-san-jose/phases",
+      "title": "Phases — R F Construction",
+      "description": "Phases at R F Construction in San Jose: Kitchen remodels, Bathroom remodels, Additions & new build. R F Construction runs the whole sequence in-house so your remodel does not stall between trades.",
+      "h1": "Phases",
+      "kicker": "General contractor",
+      "sections": [
+        "hero",
+        "services",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/rf-construction-san-jose/services",
+      "title": "Services — R F Construction",
+      "description": "Kitchen remodels; Bathroom remodels; Additions & new build; Tile & flooring; Drywall, framing, paint; Plumbing & electrical coordination. San Jose based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "capabilities",
+        "materials",
+        "specs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "work",
+      "file": "work.astro",
+      "path": "/rf-construction-san-jose/work",
+      "title": "Selected work — R F Construction",
+      "description": "Projects and evidence from R F Construction in San Jose.",
+      "h1": "Selected work",
+      "kicker": "Index",
+      "sections": [
+        "hero",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/rf-construction-san-jose/contact",
+      "title": "Contact — R F Construction",
+      "description": "Call or write to R F Construction in San Jose. (408) 717-1359",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "coverage",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 10,
+    "vis": 4,
+    "vol": 3,
+    "brand": 6,
+    "comp": 7,
+    "val": 9,
+    "assets": 8,
+    "roi": 8
+  },
+  "seo": {
+    "title": "R F Construction — General contractor in San Jose",
+    "description": "R F Construction runs the whole sequence in-house so your remodel does not stall between trades.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "R F Construction",
+    "description": "R F Construction runs the whole sequence in-house so your remodel does not stall between trades.",
+    "phone": "(408) 717-1359",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95117"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/r-f-construction-san-jose"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "Framing, tile, plumbing and paint under one contract.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/r-f-construction-san-jose"
+  ],
+  "sourceNotes": []
+}

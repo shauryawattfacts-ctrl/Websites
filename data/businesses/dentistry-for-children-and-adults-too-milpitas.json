@@ -1,0 +1,315 @@
+{
+  "id": "sv023",
+  "slug": "dentistry-for-children-and-adults-too-milpitas",
+  "name": "Dentistry for Children & Adults Too",
+  "short": "Dentistry for Children",
+  "cat": "Dental",
+  "sub": "Family & paediatric dentistry",
+  "city": "Milpitas",
+  "zip": "95035",
+  "addr": "468 E Calaveras Blvd Ste D, Milpitas, CA 95035",
+  "phone": "(408) 263-6331",
+  "email": null,
+  "contactNote": null,
+  "founded": "1977",
+  "hours": "Mon-Fri (confirm Saturday clinics)",
+  "audience": "Milpitas families, anxious adult patients, children with special needs",
+  "scale": {
+    "emp": "doctor plus hygienists and assistants",
+    "loc": 1
+  },
+  "description": "Practice led by Dr Ben Cho serving Milpitas since 1977, with a stated focus on children, apprehensive adults and special-needs patients.",
+  "services": [
+    "Paediatric dentistry",
+    "Preventive care and hygiene",
+    "Restorative work and crowns",
+    "Anxious-patient and special-needs care",
+    "Orthodontic evaluation",
+    "Emergency comfort visits"
+  ],
+  "serviceCopy": [
+    "First visits written out in advance.",
+    "Paediatric and special-needs care.",
+    "Hygiene and preventive programs.",
+    "Restorative work with clear costings."
+  ],
+  "insight": "Special-needs and phobia-informed care is a positioning most dental marketing reduces to a stock photo; here it is the actual practice.",
+  "usps": [
+    "Since 1977 in the same city",
+    "Care for children with special needs and adults with dental fear",
+    "One doctor, not a rotating locum roster"
+  ],
+  "differentiators": [
+    "Publishes a calm, written guide to the first visit for anxious patients and for parents of children with sensory needs"
+  ],
+  "voice": "Gentle, patient, precise",
+  "persona": "The practice that takes the difficult first visit",
+  "reputation": {
+    "rating": null,
+    "reviews": null,
+    "src": "not captured",
+    "note": "Review volume not captured in the listings reviewed; collect during the audit stage."
+  },
+  "budget": {
+    "afford": [
+      "Four decades of practice ownership: equipment capital and a referral base",
+      "Family dentistry lifetime value spans siblings and grandchildren",
+      "A thirty-character legacy domain tells you the marketing was never owned"
+    ],
+    "risk": [
+      "Medical claims need review before publishing; no testimonials without consent",
+      "Practice may run an incumbent patient-management portal that must be integrated, not replaced"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Soft mint",
+      "warm porcelain",
+      "ink navy"
+    ],
+    "logo": "Wordmark exists on signage; redraw as a clean lockup",
+    "photoNote": "Operatories, hands, waiting-room light - no stock smiles"
+  },
+  "copy": {
+    "eyebrow": "Milpitas · since 1977",
+    "h1": "The dental appointment that starts with a plan for being nervous.",
+    "sub": "Family, paediatric and special-needs dentistry on Calaveras Boulevard, four decades in the same city.",
+    "cta1": "Book a first visit",
+    "cta2": "What happens at the first appointment",
+    "lede": "Some practices schedule children and call it a day. This one has spent nearly fifty years on the appointments other offices rush: the fearful adult, the child who cannot tolerate the chair.",
+    "svcCopy": [
+      "First visits written out in advance.",
+      "Paediatric and special-needs care.",
+      "Hygiene and preventive programs.",
+      "Restorative work with clear costings."
+    ]
+  },
+  "concept": {
+    "dir": "Clinical-calm editorial: a long-form first-visit explainer as the hero, generous whitespace, no stock dentistry, and an appointment flow that asks about anxiety and sensory needs.",
+    "palette": {
+      "ink": "#16232b",
+      "paper": "#f6f5f1",
+      "accent": "#5f8f86",
+      "accent2": "#c68b62"
+    },
+    "heroType": "split",
+    "motion": "soft-mask",
+    "interactive": [
+      "Scroll-linked first-visit timeline",
+      "New-patient form with anxiety and sensory questions",
+      "Insurance and payment transparency panel",
+      "Meet-the-doctor portrait section"
+    ],
+    "pages": [
+      "index",
+      "patients",
+      "services",
+      "first-visit",
+      "contact"
+    ],
+    "nav": [
+      "Services",
+      "First visit",
+      "Patients",
+      "Contact"
+    ],
+    "tone": "Calm authority",
+    "refs": "A good hospital patient-information page, made local.",
+    "signature": "timeline",
+    "hero": "split"
+  },
+  "web": {
+    "s": "basic",
+    "url": "http://dentistryforchildrenmilpitas.com",
+    "lvl": "C",
+    "note": "A long, awkward legacy domain appears in directory data with no booking or new-patient flow surfaced. Pattern reads as a static 2010s brochure; confirm on live audit.",
+    "src": [
+      "https://www.yelp.com/biz/dentistry-for-children-and-adults-too-milpitas"
+    ],
+    "status": "Extremely outdated or basic website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/dentistry-for-children-and-adults-too-milpitas"
+  },
+  "photo": true,
+  "photoFormats": [
+    "avif",
+    "webp",
+    "jpg"
+  ],
+  "photoAlt": "Concept artwork for Dentistry for Children & Adults Too — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "clinical-calm",
+    "label": "Calm Clinical",
+    "summary": "Soft sage and warm light, rounded cards, appointment-first flow, gentle segmented reveals. For dental, vet, acupuncture, therapy practices.",
+    "fonts": {
+      "display": "\"Bricolage Grotesque\"",
+      "body": "\"Karla\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Karla:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400",
+    "nav": "pill",
+    "motion": "soft-mask",
+    "tokens": {
+      "ink": "#16232b",
+      "paper": "#f6f5f1",
+      "accent": "#5f8f86",
+      "accent2": "#c68b62",
+      "inkName": "Soft mint",
+      "radius": "22px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 10%, transparent)",
+      "shadow": "0 22px 46px -34px rgb(30 60 50 / .45)",
+      "pad": "clamp(3.8rem,8vw,7rem)",
+      "scale": "1.22",
+      "headingCase": "none",
+      "track": "-.02em",
+      "texture": "wash",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "reassurance",
+      "services",
+      "visit-flow",
+      "team",
+      "insurance",
+      "faq",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/dentistry-for-children-and-adults-too-milpitas",
+      "title": "Dentistry for Children & Adults Too — Dental in Milpitas",
+      "description": "Family, paediatric and special-needs dentistry on Calaveras Boulevard, four decades in the same city.",
+      "h1": "The dental appointment that starts with a plan for being nervous.",
+      "kicker": "Milpitas · since 1977",
+      "sections": [
+        "hero",
+        "reassurance",
+        "services",
+        "visit-flow",
+        "team",
+        "insurance",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "patients",
+      "file": "patients.astro",
+      "path": "/dentistry-for-children-and-adults-too-milpitas/patients",
+      "title": "Patients — Dentistry for Children & Adults Too",
+      "description": "Patients at Dentistry for Children in Milpitas: Paediatric dentistry, Preventive care and hygiene, Restorative work and crowns. Family, paediatric and special-needs dentistry on Calaveras Boulevard, four decades in the same city.",
+      "h1": "Patients",
+      "kicker": "Dental",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/dentistry-for-children-and-adults-too-milpitas/services",
+      "title": "Services — Dentistry for Children & Adults Too",
+      "description": "Paediatric dentistry; Preventive care and hygiene; Restorative work and crowns; Anxious-patient and special-needs care; Orthodontic evaluation; Emergency comfort visits. Milpitas based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "visit-flow",
+        "insurance",
+        "contact"
+      ]
+    },
+    {
+      "slug": "first-visit",
+      "file": "first-visit.astro",
+      "path": "/dentistry-for-children-and-adults-too-milpitas/first-visit",
+      "title": "First Visit — Dentistry for Children & Adults Too",
+      "description": "First Visit at Dentistry for Children in Milpitas: Paediatric dentistry, Preventive care and hygiene, Restorative work and crowns. Family, paediatric and special-needs dentistry on Calaveras Boulevard, four decades in the same city.",
+      "h1": "First Visit",
+      "kicker": "Dental",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/dentistry-for-children-and-adults-too-milpitas/contact",
+      "title": "Contact — Dentistry for Children & Adults Too",
+      "description": "Call or write to Dentistry for Children & Adults Too in Milpitas. (408) 263-6331",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "visit-flow",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 8,
+    "gap": 7,
+    "vis": 5,
+    "vol": 4,
+    "brand": 7,
+    "comp": 7,
+    "val": 8,
+    "assets": 5,
+    "roi": 8
+  },
+  "seo": {
+    "title": "Dentistry for Children & Adults Too — Dental in Milpitas",
+    "description": "Family, paediatric and special-needs dentistry on Calaveras Boulevard, four decades in the same city.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Dentistry for Children & Adults Too",
+    "description": "Family, paediatric and special-needs dentistry on Calaveras Boulevard, four decades in the same city.",
+    "phone": "(408) 263-6331",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Milpitas",
+      "addressRegion": "CA",
+      "postalCode": "95035",
+      "streetAddress": "468 E Calaveras Blvd Ste D"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/dentistry-for-children-and-adults-too-milpitas"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "The dental appointment that starts with a plan for being nervous.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/dentistry-for-children-and-adults-too-milpitas"
+  ],
+  "sourceNotes": []
+}

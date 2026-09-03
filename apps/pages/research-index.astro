@@ -1,0 +1,105 @@
+---
+/**
+ * research-index.astro — method + evidence appendix (studio-facing).
+ * How each business was classified, what is verified versus inferred, and the
+ * source trail behind every "no website" claim.
+ */
+import '../../layouts/portal.css';
+import scored from '../../data/scored.json';
+import { readdirSync, readFileSync } from 'node:fs';
+import path from 'node:path';
+
+const DIR = path.resolve(process.cwd(), 'data/businesses');
+const rankOf = (slug: string) => scored.prospects.find((p: any) => p.slug === slug)?.rank ?? 99;
+const specs = readdirSync(DIR).filter((f: string) => f.endsWith('.json'))
+  .map((f: string) => JSON.parse(readFileSync(path.join(DIR, f), 'utf8')))
+  .sort((a: any, b: any) => rankOf(a.slug) - rankOf(b.slug));
+
+const statuses = Object.entries(scored.stats.byStatus).sort((a: any, b: any) => b[1] - a[1]) as any[];
+const conf = Object.entries(scored.stats.byConfidence).sort((a: any, b: any) => b[1] - a[1]) as any[];
+const label: Record<string, string> = {
+  A: 'verified against a live source (page fetched)',
+  B: 'cross-checked across two or more directories',
+  C: 'single source — live audit pending before outreach',
+  D: 'inference from directory signals only',
+};
+const flagged = specs.filter((s: any) => /confirm|not published|not verified|pending/i.test(JSON.stringify(s))).length;
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Method &amp; evidence — {specs.length} prospects verified before design</title>
+  <meta name="description" content="How website status was verified for each prospect, which facts are confirmed versus inferred, and the source trail behind every classification." />
+  <link rel="canonical" href="/research-index" />
+  <meta property="og:title" content="Method &amp; evidence — Silicon Valley Website Opportunity Finder" />
+  <meta property="og:description" content={`${specs.length} Bay Area prospects: verified website status, evidence trail and confidence levels.`} />
+  <meta property="og:image" content="/og/portal.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="icon" href="/favicon/portal.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" />
+  <style is:inline>body { background:#101114; color:#ece9e2 }</style>
+</head>
+<body>
+  <a class="p-skip" href="#body">Skip to content</a>
+  <main id="body" class="p-doc">
+    <p class="p-kicker"><a href="/">← Portal</a> · <a href="/prospects">Ranked database</a> · <a href="/scoreboard">Score model</a></p>
+    <h1 class="p-h1">Method &amp; evidence</h1>
+    <p class="p-lede">Nothing here was scraped into a list. Each prospect was searched by trade and city, cross-checked across independent directories, and only classified once the absence, breakage or mediocrity of a website had a source behind it.</p>
+
+    <section class="p-cols">
+      <div>
+        <h2>The five classifications</h2>
+        <ul class="p-plain">
+          <li><strong>No website</strong> — no domain in any of at least two independent directory records. Several listings expose the directory’s own “add a website” affordance, which only appears when no URL is on file.</li>
+          <li><strong>Only social-media presence</strong> — an active Instagram, Facebook or YouTube channel is the business’s public face, with no owned domain.</li>
+          <li><strong>Broken / inactive website</strong> — the domain resolves to a parking or expired-listing page, a stale dev host, or a template still pointing at temporary hosting.</li>
+          <li><strong>Extremely outdated or basic website</strong> — live but single-page, builder-templated, with 2015–2018 assets, typos in the title tag or no mobile hierarchy.</li>
+          <li><strong>Third-party directory page instead of a website</strong> — the only “site” is a vendor subdomain (jewelershowcase, business.site, FASO, an ordering template).</li>
+        </ul>
+      </div>
+      <div>
+        <h2>Verified versus inferred</h2>
+        <p><strong>Verified</strong> and reused on the generated sites: name, category, city, street address where published, phone where published, review counts with the platform named, founding year where the business states it, licence numbers where a regulator or listing states them, and existing profile URLs.</p>
+        <p><strong>Inferred</strong>, and therefore never rendered as fact: project cost bands, staffing size, revenue capacity, service radius, opening hours where listings disagree, and every figure tagged <em>confirm</em>. {flagged} of {specs.length} records carry at least one such flag, and each one is visible on the page where it appears.</p>
+        <p class="p-note">No email address or phone number was invented to fill a template, and no review text was republished — public reviews inform <em>themes</em> only, attributed to the platform.</p>
+      </div>
+    </section>
+
+    <table class="p-table">
+      <caption>Website status across the database</caption>
+      <thead><tr><th>Status</th><th>Prospects</th><th>Share</th></tr></thead>
+      <tbody>{statuses.map(([k, v]) => <tr><td><strong>{k}</strong></td><td class="mono">{v}</td><td class="mono">{Math.round(((v as number) / specs.length) * 100)}%</td></tr>)}</tbody>
+    </table>
+
+    <table class="p-table">
+      <caption>Evidence confidence</caption>
+      <thead><tr><th>Level</th><th>Meaning</th><th>Prospects</th></tr></thead>
+      <tbody>{conf.map(([k, v]) => <tr><td class="mono"><strong>{k}</strong></td><td>{label[k] || k}</td><td class="mono">{v}</td></tr>)}</tbody>
+    </table>
+
+    <table class="p-table">
+      <caption>Per-prospect evidence trail</caption>
+      <thead><tr><th>#</th><th>Business</th><th>Classification</th><th>Conf.</th><th>Evidence note</th><th>Sources checked</th></tr></thead>
+      <tbody>
+        {specs.map((s: any) => (
+          <tr>
+            <td class="mono">{s.id.replace('sv', '')}</td>
+            <td><strong>{s.name}</strong><br /><span class="mono">{s.city} · {s.cat}</span></td>
+            <td>{s.web.status}</td>
+            <td class="mono">{(s.web.confidence || '').split(' ')[0]}</td>
+            <td class="p-why">{s.web.note}</td>
+            <td class="p-src">
+              {s.sources.slice(0, 5).map((u: string) => <a href={u} rel="nofollow noopener" target="_blank">{u.replace(/^https?:\/\//, '').split('/').slice(0, 3).join('/')}</a>)}
+              {s.sources.length > 5 && <span class="mono"> +{s.sources.length - 5} more</span>}
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+
+    <p class="p-note">Machine-readable versions: <code>research/prospect-database.csv</code> (ranking, scores, evidence, sources), <code>research/prospect-database.md</code> (full research profile per prospect), <code>research/top10.md</code> (outreach order) and <code>research/raw-notes.jsonl</code> (discovery notes).</p>
+  </main>
+</body>
+</html>

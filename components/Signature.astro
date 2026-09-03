@@ -1,0 +1,136 @@
+---
+/**
+ * Signature.astro — the one bespoke interaction each site is designed around.
+ * Eight modules, chosen by the concept; each is built from the business's own
+ * services and copy, and each degrades to a readable static block with JS off
+ * or reduced motion on.
+ */
+import Icon from './Icon.astro';
+interface Props { biz: any }
+const { biz } = Astro.props;
+const kind = biz.concept.signature || 'statement';
+const items = biz.services.slice(0, 6);
+const bands = biz.budget?.afford || [];
+const steps = (biz.concept.interactive || []).slice(0, 5);
+const labels = {
+  compare: 'Before / after', picker: 'Configure', timeline: 'Sequence', ledger: 'Data sheet',
+  archive: 'Index', map: 'Coverage', intake: 'Enquiry', statement: 'Position',
+} as Record<string, string>;
+---
+<section class="section sig" data-sig={kind} id="signature" aria-label={`${labels[kind] || 'Feature'} — ${biz.name}`}>
+  <div class="shell">
+    <p class="sig-title">{biz.concept.interactive?.[0] || 'Signature interaction'} · {biz.name}</p>
+
+    {kind === 'picker' && (
+      <div class="picker" data-picker data-copy={JSON.stringify(biz.serviceCopy || [])}>
+        <div class="stack" style="--stack:.9rem">
+          {items.map((it: string, n: number) => (
+            <div class="picker-row">
+              <div class="choice" role="radiogroup" aria-label={it}>
+                <label><input type="radio" name="pick" value={n} data-label={it} checked={n === 0} /><span>{it}</span></label>
+              </div>
+            </div>
+          ))}
+        </div>
+        <output class="picker-out" aria-live="polite">
+          <p class="num">Selected</p>
+          <p class="band" data-pick-label>{items[0]}</p>
+          <p class="muted" style="font-size:.9rem" data-pick-detail>{biz.serviceCopy[0] || biz.copy.sub}</p>
+          <hr class="rule" />
+          <p style="font-size:.9rem">{bands[0] || `Quoted per site in ${biz.city}.`}</p>
+          <a class="btn btn--sm" href={`/${biz.slug}/contact`}>{biz.copy.cta1}<Icon name="arrow" size={15} /></a>
+        </output>
+      </div>
+    )}
+
+    {kind === 'compare' && (
+      <div class="compare" data-compare>
+        <figure class="compare-before">
+          <div><p class="num">You bring in</p><p style="font-family:var(--font-display);font-size:clamp(1.2rem,2.4vw,1.9rem);line-height:1.2">{biz.services?.[0] || biz.sub} as it stands today</p></div>
+        </figure>
+        <figure class="compare-after">
+          <div><p class="num">You get back</p><p style="font-family:var(--font-display);font-size:clamp(1.2rem,2.4vw,1.9rem);line-height:1.2">{biz.serviceCopy?.[0] || biz.usps?.[0] || `Finished, cleaned and documented — ${biz.city}`}</p></div>
+        </figure>
+        <span class="handle" aria-hidden="true"></span>
+        <label class="visually-hidden" for="cmp">Drag to compare before and after</label>
+        <input id="cmp" type="range" min="0" max="100" value="50" data-compare-range />
+        <p class="note studio-note">Replace both panels with a photograph pair from one completed job; the slider is built for exactly that swap.</p>
+      </div>
+    )}
+
+    {kind === 'timeline' && (
+      <ol class="timeline" data-timeline>
+        {(steps.length ? steps : biz.usps).slice(0, 5).map((s: string, n: number) => (
+          <li style="display:grid;grid-template-columns:6.5rem 1fr;gap:1.4rem;border-block-start:1px solid var(--line);padding-block:1rem">
+            <span class="num">T+{n}</span>
+            <p style="font-family:var(--font-display);font-size:var(--step-1);line-height:1.3">{s}</p>
+          </li>
+        ))}
+      </ol>
+    )}
+
+    {kind === 'ledger' && (
+      <div class="ledger">
+        <table class="data">
+          <caption>Scope, evidence and what is still to confirm</caption>
+          <thead><tr><th scope="col">Line</th><th scope="col">Position</th><th scope="col">Proof</th></tr></thead>
+          <tbody>
+            {items.map((it: string, n: number) => (
+              <tr><th scope="row">{it}</th><td>{biz.serviceCopy[n] || biz.copy.sub}</td><td>{n % 2 ? `${biz.reputation?.reviews ?? '—'} public reviews` : `${biz.founded}`}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    )}
+
+    {kind === 'archive' && (
+      <div data-archive>
+        <div class="filterbar" role="group" aria-label="Filter">
+          <button type="button" aria-pressed="true" data-filter="*">All</button>
+          {['service', 'design', 'supply', 'care'].map((t) => <button type="button" aria-pressed="false" data-filter={t}>{t}</button>)}
+        </div>
+        <div data-filterable>
+          {items.map((it: string, n: number) => {
+            const tag = ['service', 'design', 'supply', 'care'][n % 4];
+            return <article data-tags={tag}><span class="num">{tag}</span><h3 class="h4">{it}</h3><p class="muted" style="font-size:.9rem">{biz.serviceCopy[n] || ''}</p></article>;
+          })}
+        </div>
+      </div>
+    )}
+
+    {kind === 'map' && (
+      <div class="mapbox">
+        <div class="stack"><p class="lead">{biz.audience}</p><p class="note">Coverage drawn from the business’s own listing copy — confirm the map before launch.</p></div>
+        <ul class="coverage" style="list-style:none;padding:0;margin:0">
+          {['San Jose', 'Santa Clara', 'Sunnyvale', 'Milpitas', 'Fremont', 'Mountain View', 'Cupertino', biz.city].filter((c, i, a) => a.indexOf(c) === i).map((c) => <li><span>{c}</span><span class="num">{c === biz.city ? 'base' : 'served'}</span></li>)}
+        </ul>
+      </div>
+    )}
+
+    {kind === 'intake' && (
+      <div class="intake card">
+        <div class="wide stack" style="--stack:.5rem"><p class="kicker">Fast path</p><p class="lead" style="font-size:1rem">{biz.copy.lede}</p></div>
+        {items.slice(0, 4).map((it: string) => <label class="choice"><input type="checkbox" /><span>{it}</span></label>)}
+        <p class="wide cluster" style="justify-content:space-between"><a class="btn btn--accent" href={`/${biz.slug}/contact`}>{biz.copy.cta1}</a>{biz.phone && <span class="num">or {biz.phone}</span>}</p>
+      </div>
+    )}
+
+    {kind === 'statement' && (
+      <div class="statement">
+        <blockquote>{biz.differentiators[0] || biz.usps[0]}</blockquote>
+        <p class="muted" style="max-width:60ch">{biz.insight || biz.description}</p>
+        <p class="cluster"><span class="tag">{biz.persona}</span><span class="tag">{biz.voice}</span></p>
+      </div>
+    )}
+  </div>
+</section>
+<style>
+  .compare-before > div, .compare-after > div { background: color-mix(in srgb, var(--ink) 92%, var(--accent)); color: var(--paper); }
+  .compare-after { background: var(--accent); }
+  .compare figure { background: color-mix(in srgb, var(--ink) 88%, var(--accent2)); }
+  .compare .compare-after figure, .compare .compare-after { background: linear-gradient(120deg, var(--accent), color-mix(in srgb, var(--accent2) 70%, var(--accent))); }
+  .timeline > li.is-now { background: color-mix(in srgb, var(--accent) 10%, transparent); }
+</style>
+<script>
+  import '../animations/signature.js';
+</script>

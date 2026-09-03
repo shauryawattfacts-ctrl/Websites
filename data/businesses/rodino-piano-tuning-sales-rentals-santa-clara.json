@@ -1,0 +1,308 @@
+{
+  "id": "sv048",
+  "slug": "rodino-piano-tuning-sales-rentals-santa-clara",
+  "name": "Rodino Piano Tuning, Sales & Rentals",
+  "short": "Rodino Piano Tuning",
+  "cat": "Piano service & retail",
+  "sub": "Tuning, rebuilds, sales, rentals",
+  "city": "Santa Clara",
+  "zip": "95050",
+  "addr": "Santa Clara, CA 95050 (shop; exact address to confirm)",
+  "phone": "(408) 260-2740",
+  "email": null,
+  "contactNote": null,
+  "founded": "approximately 1977 (49 years in business per directory)",
+  "hours": "Mon-Fri, Sat by appointment",
+  "audience": "Families with students, schools and churches, players restoring inherited instruments",
+  "scale": {
+    "emp": "technicians plus showroom floor",
+    "loc": 1
+  },
+  "description": "Piano business combining tuning and regulation, rebuild and restoration, used piano sales and rentals, and player-piano service, listed among the specialists in that niche on the peninsula.",
+  "services": [
+    "Tuning, regulation and voicing",
+    "Action and keytop repair",
+    "Upright and grand restoration",
+    "Used piano sales and consignment",
+    "Rentals for students and venues",
+    "Player and digital system installation (confirm)"
+  ],
+  "serviceCopy": [
+    "Tuning, regulation and voicing.",
+    "Action, keytop and case repair.",
+    "Restored uprights and grands for sale.",
+    "Rentals for students and venues."
+  ],
+  "insight": "Three businesses in one - service, retail and rentals - with a single phone line and no catalogue online. Inventory-led retail with no web storefront is a measurable loss.",
+  "usps": [
+    "Five decades of the same trade",
+    "Rebuild capability, not just tuning",
+    "Rentals and consignment under one roof"
+  ],
+  "differentiators": [
+    "Publishes an inventory and rental catalogue with condition notes, which local competitors bury in Facebook posts"
+  ],
+  "voice": "Resonant, literate, patient",
+  "persona": "The piano house of Santa Clara",
+  "reputation": {
+    "rating": null,
+    "reviews": null,
+    "src": "not captured",
+    "note": "No review surface captured: authority comes from five decades of trade tenure and technician credentials."
+  },
+  "budget": {
+    "afford": [
+      "Rebuilds run $5K-$30K and inventory units $3K-$40K",
+      "Rentals create recurring revenue that a site can automate",
+      "Fifty years of operation with a physical showroom"
+    ],
+    "risk": [
+      "Owner may see phone business as sufficient; ROI framing must lead",
+      "Trade photos of instruments and showroom needed before design"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Case lacquer",
+      "felt red",
+      "ivory key"
+    ],
+    "logo": "Set a serif Rodino wordmark with a tuning-pin device",
+    "photoNote": "Action work, hammers, strings, showroom rows"
+  },
+  "copy": {
+    "eyebrow": "Santa Clara · since about 1977",
+    "h1": "Fifty years of tuning, rebuilding and finding the right piano.",
+    "sub": "Service, restoration, sales and rentals from a Santa Clara piano house - with a catalogue you can finally read.",
+    "cta1": "Book a tuning",
+    "cta2": "See inventory",
+    "lede": "Rodino has kept the valley's pianos in regulation for half a century, selling and renting from a showroom nobody can browse online.",
+    "svcCopy": [
+      "Tuning, regulation and voicing.",
+      "Action, keytop and case repair.",
+      "Restored uprights and grands for sale.",
+      "Rentals for students and venues."
+    ]
+  },
+  "concept": {
+    "dir": "Concert-programme typography: a serif masthead, an inventory index with condition notes, a service-and-price table for tuning intervals, and a rental enquiry flow. Motion: curtain-reveal on section entry only.",
+    "palette": {
+      "ink": "#f3f0e9",
+      "paper": "#141313",
+      "accent": "#e07a86",
+      "accent2": "#c9a227"
+    },
+    "heroType": "editorial",
+    "motion": "slow-fade",
+    "interactive": [
+      "Inventory index with filters (upright or grand, price band, condition)",
+      "Tuning plan and interval explainer",
+      "Rental enquiry form with venue and dates",
+      "Restoration before/after gallery"
+    ],
+    "pages": [
+      "index",
+      "service",
+      "inventory",
+      "rentals",
+      "contact"
+    ],
+    "nav": [
+      "Service",
+      "Inventory",
+      "Rentals",
+      "Contact"
+    ],
+    "tone": "Craft with cadence",
+    "refs": "A restorer's workshop page with a retail catalogue.",
+    "signature": "compare",
+    "hero": "editorial"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Directory listings show 48-49 years in business, a From-Business block and phone only, with no website affordance while several peers in the same result set show one. No social presence surfaced. Live audit pending.",
+    "src": [
+      "https://www.yellowpages.com/milpitas-ca/piano-tuner"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "other": [
+      "https://www.yellowpages.com/milpitas-ca/piano-tuner"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Rodino Piano Tuning, Sales & Rentals — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "civic-heritage",
+    "label": "Heritage Engraved",
+    "summary": "Institutional gravitas for century-old businesses: engraved serif caps, archival timeline, ledger-style details, restrained motion, dignified service pages.",
+    "fonts": {
+      "display": "\"Cormorant SC\"",
+      "body": "\"Lora\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Cormorant+SC:wght@500;600&family=Lora:wght@400;500;600&family=IBM+Plex+Mono:wght@400",
+    "nav": "centered",
+    "motion": "slow-fade",
+    "tokens": {
+      "ink": "#f3f0e9",
+      "paper": "#141313",
+      "accent": "#e07a86",
+      "accent2": "#c9a227",
+      "inkName": "Case lacquer",
+      "radius": "0px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 22%, transparent)",
+      "shadow": "none",
+      "pad": "clamp(4.6rem,10vw,8.6rem)",
+      "scale": "1.2",
+      "headingCase": "uppercase",
+      "track": ".08em",
+      "texture": "rule",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "heritage",
+      "services",
+      "arrangements",
+      "support",
+      "visit",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/rodino-piano-tuning-sales-rentals-santa-clara",
+      "title": "Rodino Piano Tuning — Piano service & retail in Santa Clara, CA",
+      "description": "Service, restoration, sales and rentals from a Santa Clara piano house - with a catalogue you can finally read.",
+      "h1": "Fifty years of tuning, rebuilding and finding the right piano.",
+      "kicker": "Santa Clara · since about 1977",
+      "sections": [
+        "hero",
+        "heritage",
+        "services",
+        "arrangements",
+        "support",
+        "visit",
+        "contact"
+      ]
+    },
+    {
+      "slug": "service",
+      "file": "service.astro",
+      "path": "/rodino-piano-tuning-sales-rentals-santa-clara/service",
+      "title": "Service — Rodino Piano Tuning, Sales & Rentals",
+      "description": "Service at Rodino Piano Tuning in Santa Clara: Tuning, regulation and voicing, Action and keytop repair, Upright and grand restoration. Service, restoration, sales and rentals from a Santa Clara piano house - with a catalogue you can finally read.",
+      "h1": "Service",
+      "kicker": "Piano service & retail",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "inventory",
+      "file": "inventory.astro",
+      "path": "/rodino-piano-tuning-sales-rentals-santa-clara/inventory",
+      "title": "Inventory — Rodino Piano Tuning, Sales & Rentals",
+      "description": "Inventory at Rodino Piano Tuning in Santa Clara: Tuning, regulation and voicing, Action and keytop repair, Upright and grand restoration. Service, restoration, sales and rentals from a Santa Clara piano house - with a catalogue you can finally read.",
+      "h1": "Inventory",
+      "kicker": "Piano service & retail",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "rentals",
+      "file": "rentals.astro",
+      "path": "/rodino-piano-tuning-sales-rentals-santa-clara/rentals",
+      "title": "Rentals — Rodino Piano Tuning, Sales & Rentals",
+      "description": "Rentals at Rodino Piano Tuning in Santa Clara: Tuning, regulation and voicing, Action and keytop repair, Upright and grand restoration. Service, restoration, sales and rentals from a Santa Clara piano house - with a catalogue you can finally read.",
+      "h1": "Rentals",
+      "kicker": "Piano service & retail",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/rodino-piano-tuning-sales-rentals-santa-clara/contact",
+      "title": "Contact — Rodino Piano Tuning, Sales & Rentals",
+      "description": "Call or write to Rodino Piano Tuning, Sales & Rentals in Santa Clara. (408) 260-2740",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "visit",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 10,
+    "vis": 4,
+    "vol": 2,
+    "brand": 7,
+    "comp": 3,
+    "val": 9,
+    "assets": 4,
+    "roi": 8
+  },
+  "seo": {
+    "title": "Rodino Piano Tuning — Piano service & retail in Santa Clara, CA",
+    "description": "Service, restoration, sales and rentals from a Santa Clara piano house - with a catalogue you can finally read.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "Store",
+    "name": "Rodino Piano Tuning, Sales & Rentals",
+    "description": "Service, restoration, sales and rentals from a Santa Clara piano house - with a catalogue you can finally read.",
+    "phone": "(408) 260-2740",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Santa Clara",
+      "addressRegion": "CA",
+      "postalCode": "95050"
+    },
+    "sameAs": [
+      "https://www.yellowpages.com/milpitas-ca/piano-tuner"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "Fifty years of tuning, rebuilding and finding the right piano.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yellowpages.com/milpitas-ca/piano-tuner"
+  ],
+  "sourceNotes": []
+}

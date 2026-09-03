@@ -1,0 +1,315 @@
+{
+  "id": "sv043",
+  "slug": "christina-pahl-interiors-palo-alto",
+  "name": "Christina Pahl Interiors",
+  "short": "Christina Pahl Interiors",
+  "cat": "Interior design",
+  "sub": "Residential & executive office interiors",
+  "city": "Palo Alto",
+  "zip": "94301",
+  "addr": "909 Ramona St, Palo Alto, CA 94301",
+  "phone": "(650) 462-9309",
+  "email": "christina_pahl_interiors@yahoo.com",
+  "contactNote": null,
+  "founded": "not verified",
+  "hours": "By appointment",
+  "audience": "Atherton, Los Altos, Menlo Park, Portola Valley, Sunnyvale and Stanford-area clients",
+  "scale": {
+    "emp": "boutique firm",
+    "loc": 1
+  },
+  "description": "Boutique Palo Alto interior design firm for residential interiors and executive offices, describing a collaborative process that starts with listening and works to the client budget.",
+  "services": [
+    "Full-service residential design",
+    "Executive office interiors",
+    "Space planning and furniture plans",
+    "Finish and material specification",
+    "Custom furniture specification",
+    "Project and budget management"
+  ],
+  "serviceCopy": [
+    "Full-service residential design.",
+    "Executive and workplace interiors.",
+    "Space plans, schedules and budgets.",
+    "Sourcing, procurement and install."
+  ],
+  "insight": "Their own site lists nine affluent areas served, then shows nothing to justify the enquiry - the clearest conversion gap in the professional-services group.",
+  "usps": [
+    "Boutique, founder-led attention",
+    "Residential and workplace under one practice",
+    "Budget-mindful process stated up front"
+  ],
+  "differentiators": [
+    "Presents projects as documented case studies with constraints and outcomes, not a photo grid"
+  ],
+  "voice": "Considered, precise, unhurried",
+  "persona": "The firm that listens first",
+  "reputation": {
+    "rating": null,
+    "reviews": null,
+    "src": "not captured",
+    "note": "No review surface captured; the firm sells by portfolio and referral."
+  },
+  "budget": {
+    "afford": [
+      "Design fees on residential projects locally run 10-20 percent of furnishing spend",
+      "Office of nine areas served implies sustained project flow",
+      "A design firm understands the value of a good website: easier sale, higher standard"
+    ],
+    "risk": [
+      "Extremely high design bar: a mediocre site is worse than the template they have",
+      "Portfolio usage rights for photographed projects must be cleared"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Plaster",
+      "graphite",
+      "olive"
+    ],
+    "logo": "Set a lower-case serif wordmark, no monogram flourish",
+    "photoNote": "Rooms, material layouts, drawings - client-approved imagery only"
+  },
+  "copy": {
+    "eyebrow": "Palo Alto · residential & workplace",
+    "h1": "Your interiors deserve better than our website.",
+    "sub": "Residential and executive office design in Palo Alto, Atherton and Los Altos - documented properly this time.",
+    "cta1": "Start a project",
+    "cta2": "See the work",
+    "lede": "A practice whose whole discipline is taste: space planning, colour, furnishings and art selection for Palo Alto homes, from a designer who has run her own studio for over twenty years.",
+    "svcCopy": [
+      "Full-service residential design.",
+      "Executive and workplace interiors.",
+      "Space plans, schedules and budgets.",
+      "Sourcing, procurement and install."
+    ]
+  },
+  "concept": {
+    "dir": "Gallery-quiet portfolio site: large image fields with thin captions, a services-and-fee structure page, a project index by type, and an enquiry form that asks about scope and timeline. Very little motion; excellent typography.",
+    "palette": {
+      "ink": "#1e1d1a",
+      "paper": "#f4f2ed",
+      "accent": "#7a6a53",
+      "accent2": "#3f4f45"
+    },
+    "heroType": "editorial",
+    "motion": "slow-fade",
+    "interactive": [
+      "Project index with hover captions and filters",
+      "Fee and process transparency section",
+      "Material palette module",
+      "Enquiry form with project-type and budget band"
+    ],
+    "pages": [
+      "index",
+      "work",
+      "services",
+      "studio",
+      "contact"
+    ],
+    "nav": [
+      "Work",
+      "Services",
+      "Studio",
+      "Contact"
+    ],
+    "tone": "Editorial restraint",
+    "refs": "A design-practice monograph, not a lead-gen page.",
+    "signature": "picker",
+    "hero": "editorial"
+  },
+  "web": {
+    "s": "basic",
+    "url": "http://christinapahlinteriors.com",
+    "lvl": "A",
+    "note": "Audited via the site itself: a single-page builder layout, a yahoo.com contact address, a list of areas served and a gallery - no project case studies, no process, no enquiry flow. A firm whose job is taste, represented by a template.",
+    "src": [
+      "https://christinapahlinteriors.com/"
+    ],
+    "status": "Extremely outdated or basic website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "other": [
+      "https://christinapahlinteriors.com/"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Christina Pahl Interiors — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "studio-portfolio",
+    "label": "Design Studio Portfolio",
+    "summary": "Plan-drawing geometry, project index with hover previews, oversized caption numerals, section-scroll reveals, fee-and-process transparency for design-build.",
+    "fonts": {
+      "display": "\"Instrument Serif\"",
+      "body": "\"Manrope\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Instrument+Serif:ital@0;1&family=Manrope:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400",
+    "nav": "minimal",
+    "motion": "slow-fade",
+    "tokens": {
+      "ink": "#1e1d1a",
+      "paper": "#f4f2ed",
+      "accent": "#7a6a53",
+      "accent2": "#3f4f45",
+      "inkName": "Plaster",
+      "radius": "2px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 16%, transparent)",
+      "shadow": "none",
+      "pad": "clamp(4.2rem,9vw,8rem)",
+      "scale": "1.23",
+      "headingCase": "none",
+      "track": "-.008em",
+      "texture": "plan",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "index",
+      "services",
+      "process",
+      "materials",
+      "projects",
+      "studio",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/christina-pahl-interiors-palo-alto",
+      "title": "Christina Pahl Interiors — Interior design in Palo Alto",
+      "description": "Residential and executive office design in Palo Alto, Atherton and Los Altos - documented properly this time.",
+      "h1": "Your interiors deserve better than our website.",
+      "kicker": "Palo Alto · residential & workplace",
+      "sections": [
+        "hero",
+        "index",
+        "services",
+        "process",
+        "materials",
+        "projects",
+        "studio",
+        "contact"
+      ]
+    },
+    {
+      "slug": "work",
+      "file": "work.astro",
+      "path": "/christina-pahl-interiors-palo-alto/work",
+      "title": "Selected work — Christina Pahl Interiors",
+      "description": "Projects and evidence from Christina Pahl Interiors in Palo Alto.",
+      "h1": "Selected work",
+      "kicker": "Index",
+      "sections": [
+        "hero",
+        "projects",
+        "studio",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/christina-pahl-interiors-palo-alto/services",
+      "title": "Services — Christina Pahl Interiors",
+      "description": "Full-service residential design; Executive office interiors; Space planning and furniture plans; Finish and material specification; Custom furniture specification; Project and budget management. Palo Alto based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "materials",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "studio",
+      "file": "studio.astro",
+      "path": "/christina-pahl-interiors-palo-alto/studio",
+      "title": "Studio — Christina Pahl Interiors",
+      "description": "Studio at Christina Pahl Interiors in Palo Alto: Full-service residential design, Executive office interiors, Space planning and furniture plans. Residential and executive office design in Palo Alto, Atherton and Los Altos - documented properly this time.",
+      "h1": "Studio",
+      "kicker": "Interior design",
+      "sections": [
+        "hero",
+        "projects",
+        "studio",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/christina-pahl-interiors-palo-alto/contact",
+      "title": "Contact — Christina Pahl Interiors",
+      "description": "Call or write to Christina Pahl Interiors in Palo Alto. (650) 462-9309",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 9,
+    "gap": 9,
+    "vis": 5,
+    "vol": 2,
+    "brand": 8,
+    "comp": 8,
+    "val": 9,
+    "assets": 6,
+    "roi": 8
+  },
+  "seo": {
+    "title": "Christina Pahl Interiors — Interior design in Palo Alto",
+    "description": "Residential and executive office design in Palo Alto, Atherton and Los Altos - documented properly this time.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Christina Pahl Interiors",
+    "description": "Residential and executive office design in Palo Alto, Atherton and Los Altos - documented properly this time.",
+    "phone": "(650) 462-9309",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Palo Alto",
+      "addressRegion": "CA",
+      "postalCode": "94301",
+      "streetAddress": "909 Ramona St"
+    },
+    "sameAs": [
+      "https://christinapahlinteriors.com/"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "Your interiors deserve better than our website.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://christinapahlinteriors.com/"
+  ],
+  "sourceNotes": []
+}

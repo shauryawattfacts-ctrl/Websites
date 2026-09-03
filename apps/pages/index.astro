@@ -1,0 +1,73 @@
+---
+/** Studio portal — the pitch-deck front door. Reads generated data only. */
+import '../../layouts/portal.css';
+import index from '../../data/index.json';
+import scored from '../../data/scored.json';
+const bySlug = Object.fromEntries(scored.prospects.map((p: any) => [p.slug, p]));
+const sites = index.sites.map((s: any) => ({ ...s, score: bySlug[s.slug]?.total ?? 0, rank: bySlug[s.slug]?.rank ?? null }));
+const statuses = Object.entries(scored.stats.byStatus) as [string, number][];
+const cities = Object.entries(scored.stats.byCity).sort((a, b) => b[1] - a[1]) as [string, number][];
+const systems = Object.entries(scored.stats.bySystem).sort((a, b) => b[1] - a[1]) as [string, number][];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Silicon Valley Website Opportunity Finder — {index.count} researched prospects, {index.count} built sites</title>
+  <meta name="description" content={`${index.count} qualified Bay Area businesses around San Jose, Palo Alto, Mountain View, Sunnyvale, Santa Clara, Cupertino, Menlo Park, Redwood City, Fremont and Milpitas with no usable website — each with an evidence trail, a Website Opportunity Score, a design concept and a complete Astro site.`} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta property="og:title" content={`${index.count} website opportunities in Silicon Valley, each already designed and built`} />
+  <meta property="og:description" content="Research-first prospect database with verified website status, scoring and production Astro sites — no two designs alike." />
+  <meta property="og:type" content="website" />
+  <link rel="canonical" href="/" />
+  <meta property="og:image" content="/og/portal.png" />
+  <link rel="icon" href="/favicon/portal.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" />
+  <style is:inline>body { background: #101114; color: #ece9e2 }</style>
+</head>
+<body>
+  <a class="p-skip" href="#body">Skip to content</a>
+  <main id="body">
+    <header class="p-head">
+      <p class="p-kicker">Silicon Valley Website Opportunity Finder &amp; Generator</p>
+      <h1>{index.count} businesses with no usable website.<br />{index.count} websites, none of them the same.</h1>
+      <p class="p-lede">Every card below is a researched prospect: verified absence of a usable website, an evidence-backed case for $10K+ of work, a Website Opportunity Score, a design direction and a production Astro site generated from the same data file. Unverified contact details stay flagged <em>confirm</em> and never render as fact.</p>
+      <ul class="p-stats">
+        <li><b>{index.count}</b><span>qualified prospects</span></li>
+        {statuses.map(([k, v]) => <li><b>{v}</b><span>{k.toLowerCase()}</span></li>)}
+        <li><b>{scored.stats.average}</b><span>average opportunity score</span></li>
+        <li><b>{systems.length}</b><span>design systems</span></li>
+      </ul>
+      <p class="p-links">
+        <a href="/prospects">Ranked prospect database</a> ·
+        <a href="/scoreboard">Score model &amp; breakdown</a> ·
+        <a href="/concepts">Design concepts ({index.count})</a> ·
+        <a href="/research-index">Method &amp; evidence</a>
+      </p>
+      <div class="p-row">
+        {cities.map(([c, n]) => <span class="p-chip">{c} <b>{n}</b></span>)}
+      </div>
+    </header>
+
+    <section class="p-grid" aria-label="Generated sites">
+      {sites.map((s: any) => (
+        <article class="p-card" data-arch={s.arch}>
+          <p class="p-rank">{s.rank ? `#${String(s.rank).padStart(2, '0')}` : '—'}<span>{s.score}</span></p>
+          <h2><a href={`/${s.slug}`}>{s.name}</a></h2>
+          <p class="p-meta">{s.cat} · {s.city}</p>
+          <p class="p-status">{s.status}</p>
+          <p class="p-sys">{s.label} · {s.hero} hero · {s.signature}</p>
+          <p class="p-links"><a href={`/concepts`} aria-label={`Design concept for ${s.name}`}>Concept</a></p>
+        </article>
+      ))}
+    </section>
+
+    <footer class="p-foot">
+      <p>Generated {index.generated} · Astro {`5`} · {index.count} sites · research, scoring, design concepts and code from one dataset.</p>
+    </footer>
+  </main>
+</body>
+</html>

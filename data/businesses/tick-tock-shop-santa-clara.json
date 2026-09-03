@@ -1,0 +1,315 @@
+{
+  "id": "sv041",
+  "slug": "tick-tock-shop-santa-clara",
+  "name": "Tick Tock Shop",
+  "short": "Tick Tock Shop",
+  "cat": "Watch & clock restoration",
+  "sub": "Factory-authorized watch service",
+  "city": "Santa Clara",
+  "zip": "95050",
+  "addr": "1073 Monroe St, Santa Clara, CA 95050",
+  "phone": "(408) 248-6939",
+  "email": null,
+  "contactNote": null,
+  "founded": "approximately 1974 (48-52 years in business per directory)",
+  "hours": "Tue-Sat counter hours (confirm)",
+  "audience": "Collectors, families inheriting mantel clocks, owners of Swiss movements",
+  "scale": {
+    "emp": "bench watchmakers",
+    "loc": 1
+  },
+  "description": "Restoration shop on Monroe Street specialising in antique watches and clocks, and listed as factory authorized to repair Tag Heuer, Omega and Longines.",
+  "services": [
+    "Antique watch and clock restoration",
+    "Movement service and regulation",
+    "Crystal, crown and hands supply",
+    "Servicing for Swiss brands under authorisation",
+    "Insurance valuation support",
+    "Case refinishing and part sourcing"
+  ],
+  "serviceCopy": [
+    "Mechanical watch service and regulation.",
+    "Clock restoration, cases and movements.",
+    "Brand-authorised servicing.",
+    "Valuation support for insurance."
+  ],
+  "insight": "Factory authorisation for three Swiss brands, held by a shop with a phone listing and no web page: the sharpest before-and-after story in the database.",
+  "usps": [
+    "Factory authorized for Tag Heuer, Omega and Longines",
+    "Restores antiques that other shops decline",
+    "Half a century on Monroe Street"
+  ],
+  "differentiators": [
+    "Publishes the service protocol and timing results, which no watch site in this market shows"
+  ],
+  "voice": "Patient, technical, courteous",
+  "persona": "The last bench on the street",
+  "reputation": {
+    "rating": null,
+    "reviews": null,
+    "src": "not captured",
+    "note": "No review surface captured; authority must be built from authorisation credentials and craft photography."
+  },
+  "budget": {
+    "afford": [
+      "Restoration and servicing for collector pieces runs high-margin; mantel clock work reaches four figures",
+      "Five decades of continuity, real tooling and brand authorisations",
+      "Collectors search by expertise keywords, which a content site can own"
+    ],
+    "risk": [
+      "Aged owner-operator: hand-holding required on content and photography",
+      "No published reviews: proof must come from credentials, not stars"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Escapement brass",
+      "aged ivory",
+      "oil black"
+    ],
+    "logo": "Set a serif wordmark with a hairline seconds-ring device",
+    "photoNote": "Loupe view, movement on bench, mainspring tools, clock cases"
+  },
+  "copy": {
+    "eyebrow": "Santa Clara · since about 1974",
+    "h1": "Fifty years of keeping this valley on time.",
+    "sub": "Antique watch and clock restoration, with factory authorisation for Tag Heuer, Omega and Longines - on Monroe Street.",
+    "cta1": "Book a service assessment",
+    "cta2": "How service works",
+    "lede": "The shop that services the movements other businesses mail away. Clocks, watches and the small repair nobody else on the peninsula will touch, on a bench you can walk up to in Santa Clara.",
+    "svcCopy": [
+      "Mechanical watch service and regulation.",
+      "Clock restoration, cases and movements.",
+      "Brand-authorised servicing.",
+      "Valuation support for insurance."
+    ]
+  },
+  "concept": {
+    "dir": "Horological luxe-dark: an escapement-inspired hairline motif, seconds-ring progress indicators instead of scroll bars, macro movement photography, and a service-tier table. Motion: single sweeping seconds hand, reduced-motion aware.",
+    "palette": {
+      "ink": "#efe9dd",
+      "paper": "#100f0d",
+      "accent": "#b9873f",
+      "accent2": "#3c5a63"
+    },
+    "heroType": "editorial",
+    "motion": "slow-fade",
+    "interactive": [
+      "Rotating seconds-hand motif as a section marker",
+      "Service tiers table with turnaround bands",
+      "Intake form asking for movement type and brand",
+      "Restoration gallery with hover detail cards"
+    ],
+    "pages": [
+      "index",
+      "service",
+      "restorations",
+      "about",
+      "contact"
+    ],
+    "nav": [
+      "Service",
+      "Restorations",
+      "The shop",
+      "Contact"
+    ],
+    "tone": "Measured and exact",
+    "refs": "A manufacture service page for an independent bench.",
+    "signature": "ledger",
+    "hero": "editorial"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Directory record carries a From-Business block, 48-52 years in business and directions, with no website affordance shown - unlike several neighbours in the same result set. No social presence surfaced either.",
+    "src": [
+      "https://www.yellowpages.com/mountain-view-ca/watch-repair-store/",
+      "https://www.yellowpages.com/mountain-view-ca/watches"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "other": [
+      "https://www.yellowpages.com/mountain-view-ca/watch-repair-store/"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Tick Tock Shop — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "luxe-dark",
+    "label": "Gallery Noir",
+    "summary": "Near-black canvas, champagne metal, oversized imagery, slow motion, cursor-following highlights. For jewelers, galleries, spas, luxury services.",
+    "fonts": {
+      "display": "\"Cormorant Garamond\"",
+      "body": "\"Jost\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Cormorant+Garamond:wght@300;400;500;600&family=Jost:wght@300;400;500&family=IBM+Plex+Mono:wght@400",
+    "nav": "overlay",
+    "motion": "slow-fade",
+    "tokens": {
+      "ink": "#efe9dd",
+      "paper": "#100f0d",
+      "accent": "#b9873f",
+      "accent2": "#3c5a63",
+      "inkName": "Escapement brass",
+      "radius": "0px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--paper) 22%, transparent)",
+      "shadow": "0 30px 80px -40px rgb(0 0 0 / .8)",
+      "pad": "clamp(5rem,11vw,9.5rem)",
+      "scale": "1.28",
+      "headingCase": "none",
+      "track": ".02em",
+      "texture": "grain",
+      "invert": true
+    },
+    "roster": [
+      "hero",
+      "collection",
+      "craft",
+      "experience",
+      "press",
+      "visit",
+      "services",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/tick-tock-shop-santa-clara",
+      "title": "Tick Tock Shop — Watch & clock restoration in Santa Clara",
+      "description": "Antique watch and clock restoration, with factory authorisation for Tag Heuer, Omega and Longines - on Monroe Street.",
+      "h1": "Fifty years of keeping this valley on time.",
+      "kicker": "Santa Clara · since about 1974",
+      "sections": [
+        "hero",
+        "collection",
+        "craft",
+        "experience",
+        "press",
+        "visit",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "service",
+      "file": "service.astro",
+      "path": "/tick-tock-shop-santa-clara/service",
+      "title": "Service — Tick Tock Shop",
+      "description": "Service at Tick Tock Shop in Santa Clara: Antique watch and clock restoration, Movement service and regulation, Crystal, crown and hands supply. Antique watch and clock restoration, with factory authorisation for Tag Heuer, Omega and Longines - on Monroe Street.",
+      "h1": "Service",
+      "kicker": "Watch & clock restoration",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "restorations",
+      "file": "restorations.astro",
+      "path": "/tick-tock-shop-santa-clara/restorations",
+      "title": "Restorations — Tick Tock Shop",
+      "description": "Restorations at Tick Tock Shop in Santa Clara: Antique watch and clock restoration, Movement service and regulation, Crystal, crown and hands supply. Antique watch and clock restoration, with factory authorisation for Tag Heuer, Omega and Longines - on Monroe Street.",
+      "h1": "Restorations",
+      "kicker": "Watch & clock restoration",
+      "sections": [
+        "hero",
+        "craft",
+        "press",
+        "contact"
+      ]
+    },
+    {
+      "slug": "about",
+      "file": "about.astro",
+      "path": "/tick-tock-shop-santa-clara/about",
+      "title": "About — Tick Tock Shop",
+      "description": "Restoration shop on Monroe Street specialising in antique watches and clocks, and listed as factory authorized to repair Tag Heuer, Omega and Longines.",
+      "h1": "About Tick Tock Shop",
+      "kicker": "The firm",
+      "sections": [
+        "hero",
+        "craft",
+        "press",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/tick-tock-shop-santa-clara/contact",
+      "title": "Contact — Tick Tock Shop",
+      "description": "Call or write to Tick Tock Shop in Santa Clara. (408) 248-6939",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "visit",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 10,
+    "vis": 5,
+    "vol": 3,
+    "brand": 9,
+    "comp": 4,
+    "val": 9,
+    "assets": 5,
+    "roi": 9
+  },
+  "seo": {
+    "title": "Tick Tock Shop — Watch & clock restoration in Santa Clara",
+    "description": "Antique watch and clock restoration, with factory authorisation for Tag Heuer, Omega and Longines - on Monroe Street.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Tick Tock Shop",
+    "description": "Antique watch and clock restoration, with factory authorisation for Tag Heuer, Omega and Longines - on Monroe Street.",
+    "phone": "(408) 248-6939",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Santa Clara",
+      "addressRegion": "CA",
+      "postalCode": "95050",
+      "streetAddress": "1073 Monroe St"
+    },
+    "sameAs": [
+      "https://www.yellowpages.com/mountain-view-ca/watch-repair-store/"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "Fifty years of keeping this valley on time.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yellowpages.com/mountain-view-ca/watch-repair-store/",
+    "https://www.yellowpages.com/mountain-view-ca/watches"
+  ],
+  "sourceNotes": []
+}

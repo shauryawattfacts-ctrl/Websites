@@ -1,0 +1,319 @@
+{
+  "id": "sv024",
+  "slug": "chapel-of-flowers-funeral-home-san-jose",
+  "name": "Chapel of Flowers Funeral Home",
+  "short": "Chapel of Flowers",
+  "cat": "Funeral home",
+  "sub": "Funeral home & cremation, founded 1923",
+  "city": "San Jose",
+  "zip": "95112",
+  "addr": "900 S 2nd St, San Jose, CA 95112",
+  "phone": "(408) 292-2418",
+  "email": null,
+  "contactNote": null,
+  "founded": "1923",
+  "hours": "Arrangement line staffed around the clock (confirm)",
+  "audience": "Families across greater San Jose; long-standing east-side community ties",
+  "scale": {
+    "emp": "licensed staff plus chapel operations",
+    "loc": 1
+  },
+  "description": "One of the oldest funeral homes in San Jose, founded in 1923, with a south chapel that seats more than two hundred and a name spanning a century of civic history.",
+  "services": [
+    "Funeral services",
+    "Cremation and memorials",
+    "Pre-planning and advance arrangements",
+    "Obituary notices and guest book",
+    "Flower and donation direction",
+    "Transportation and coordination"
+  ],
+  "serviceCopy": [
+    "Arrangements, day and night.",
+    "Cremation and memorial options without upsell theatre.",
+    "Pre-planning that spares your family the decisions.",
+    "A public tribute archive for the community."
+  ],
+  "insight": "A century-old name, 62 Yelp reviews at 3.9, and an expired domain: enormous trust with zero digital control.",
+  "usps": [
+    "Founded 1923: the oldest story in this market",
+    "A chapel that seats 200, not a funeral mall",
+    "Around-the-clock arrangement capability"
+  ],
+  "differentiators": [
+    "Owns and publishes a permanent tribute archive for the community, which no third-party obituary site will give them"
+  ],
+  "voice": "Dignified, plain, warm",
+  "persona": "The oldest funeral home in the city",
+  "reputation": {
+    "rating": 3.9,
+    "reviews": 62,
+    "src": "Yelp",
+    "note": "Mixed on logistics, warm on staff. Sentiment themes inform the copy; no review text is republished."
+  },
+  "budget": {
+    "afford": [
+      "Local funeral arrangements commonly run $7K-$15K; pre-planning is a lifetime-value product",
+      "A century of operation and a chapel building",
+      "Obituary traffic is a durable, high-volume search channel they currently capture nowhere"
+    ],
+    "risk": [
+      "Sensitive category: no growth-hacking tone, no aggressive prompts",
+      "Legacy domain and registrations must be renewed and transferred carefully"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Stone grey",
+      "dove",
+      "deep floral ink"
+    ],
+    "logo": "Century-old nameplate - restore it as a serif wordmark",
+    "photoNote": "Chapel interior, doors, light through windows - no stock candles"
+  },
+  "copy": {
+    "eyebrow": "San Jose · since 1923",
+    "h1": "A hundred years of this city, and a domain that expired.",
+    "sub": "Funeral services, cremation and pre-planning from the chapel on South Second Street - with a home online that matches the gravity of the work.",
+    "cta1": "Call the arrangement line",
+    "cta2": "Plan ahead",
+    "lede": "Chapel of Flowers has served San Jose for a century. Today, searching the name leads to a parking page selling the domain. Families making the hardest call of their lives deserve better than that.",
+    "svcCopy": [
+      "Arrangements, day and night.",
+      "Cremation and memorial options without upsell theatre.",
+      "Pre-planning that spares your family the decisions.",
+      "A public tribute archive for the community."
+    ]
+  },
+  "concept": {
+    "dir": "Heritage civic obituary archive. Restraint-first: a serif nameplate, a searchable tribute index, and a two-step arrangement path (call, then details). Slow fades only - nothing that performs grief.",
+    "palette": {
+      "ink": "#20211f",
+      "paper": "#f3f1ec",
+      "accent": "#6d5a44",
+      "accent2": "#425a4e"
+    },
+    "heroType": "editorial",
+    "motion": "slow-fade",
+    "interactive": [
+      "Tribute archive with search and filter",
+      "Obituary template section (client-supplied content at launch)",
+      "Arrangement path with one phone CTA",
+      "Pre-planning request form with a privacy note"
+    ],
+    "pages": [
+      "index",
+      "services",
+      "tributes",
+      "plan-ahead",
+      "contact"
+    ],
+    "nav": [
+      "Services",
+      "Tributes",
+      "Plan ahead",
+      "Contact"
+    ],
+    "tone": "Quiet dignity",
+    "refs": "A civic memorial page, not a funeral chain template.",
+    "signature": "picker",
+    "hero": "editorial"
+  },
+  "web": {
+    "s": "broken",
+    "url": "http://chapelofflowersfuneral.com",
+    "lvl": "A",
+    "note": "The domain resolves to an expired-domain parking page listing the name for sale at $195, and the Google Business profile is unclaimed. A hundred-year institution with an expired domain.",
+    "src": [
+      "http://chapelofflowersfuneral.com",
+      "https://www.yelp.com/biz/chapel-of-flowers-funeral-home-san-jose-2"
+    ],
+    "status": "Broken / inactive website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/chapel-of-flowers-funeral-home-san-jose-2"
+  },
+  "photo": true,
+  "photoFormats": [
+    "avif",
+    "webp",
+    "jpg"
+  ],
+  "photoAlt": "Concept artwork for Chapel of Flowers Funeral Home — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "civic-heritage",
+    "label": "Heritage Engraved",
+    "summary": "Institutional gravitas for century-old businesses: engraved serif caps, archival timeline, ledger-style details, restrained motion, dignified service pages.",
+    "fonts": {
+      "display": "\"Cormorant SC\"",
+      "body": "\"Lora\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Cormorant+SC:wght@500;600&family=Lora:wght@400;500;600&family=IBM+Plex+Mono:wght@400",
+    "nav": "centered",
+    "motion": "slow-fade",
+    "tokens": {
+      "ink": "#20211f",
+      "paper": "#f3f1ec",
+      "accent": "#6d5a44",
+      "accent2": "#425a4e",
+      "inkName": "Stone grey",
+      "radius": "0px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 22%, transparent)",
+      "shadow": "none",
+      "pad": "clamp(4.6rem,10vw,8.6rem)",
+      "scale": "1.2",
+      "headingCase": "uppercase",
+      "track": ".08em",
+      "texture": "rule",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "heritage",
+      "services",
+      "arrangements",
+      "support",
+      "visit",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/chapel-of-flowers-funeral-home-san-jose",
+      "title": "Chapel of Flowers Funeral Home — Funeral home in San Jose",
+      "description": "Funeral services, cremation and pre-planning from the chapel on South Second Street - with a home online that matches the gravity of the work.",
+      "h1": "A hundred years of this city, and a domain that expired.",
+      "kicker": "San Jose · since 1923",
+      "sections": [
+        "hero",
+        "heritage",
+        "services",
+        "arrangements",
+        "support",
+        "visit",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/chapel-of-flowers-funeral-home-san-jose/services",
+      "title": "Services — Chapel of Flowers Funeral Home",
+      "description": "Funeral services; Cremation and memorials; Pre-planning and advance arrangements; Obituary notices and guest book; Flower and donation direction; Transportation and coordination. San Jose based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "tributes",
+      "file": "tributes.astro",
+      "path": "/chapel-of-flowers-funeral-home-san-jose/tributes",
+      "title": "Tributes — Chapel of Flowers Funeral Home",
+      "description": "Tributes at Chapel of Flowers in San Jose: Funeral services, Cremation and memorials, Pre-planning and advance arrangements. Funeral services, cremation and pre-planning from the chapel on South Second Street - with a home online that matches the gravity of the work.",
+      "h1": "Tributes",
+      "kicker": "Funeral home",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "plan-ahead",
+      "file": "plan-ahead.astro",
+      "path": "/chapel-of-flowers-funeral-home-san-jose/plan-ahead",
+      "title": "Plan Ahead — Chapel of Flowers Funeral Home",
+      "description": "Plan Ahead at Chapel of Flowers in San Jose: Funeral services, Cremation and memorials, Pre-planning and advance arrangements. Funeral services, cremation and pre-planning from the chapel on South Second Street - with a home online that matches the gravity of the work.",
+      "h1": "Plan Ahead",
+      "kicker": "Funeral home",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/chapel-of-flowers-funeral-home-san-jose/contact",
+      "title": "Contact — Chapel of Flowers Funeral Home",
+      "description": "Call or write to Chapel of Flowers Funeral Home in San Jose. (408) 292-2418",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "visit",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 9,
+    "gap": 10,
+    "vis": 7,
+    "vol": 7,
+    "brand": 9,
+    "comp": 5,
+    "val": 9,
+    "assets": 6,
+    "roi": 9
+  },
+  "seo": {
+    "title": "Chapel of Flowers Funeral Home — Funeral home in San Jose",
+    "description": "Funeral services, cremation and pre-planning from the chapel on South Second Street - with a home online that matches the gravity of the work.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Chapel of Flowers Funeral Home",
+    "description": "Funeral services, cremation and pre-planning from the chapel on South Second Street - with a home online that matches the gravity of the work.",
+    "phone": "(408) 292-2418",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95112",
+      "streetAddress": "900 S 2nd St"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/chapel-of-flowers-funeral-home-san-jose-2"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 3.9,
+      "reviewCount": 62,
+      "bestRating": 5
+    },
+    "slogan": "A hundred years of this city, and a domain that expired.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "http://chapelofflowersfuneral.com",
+    "https://www.yelp.com/biz/chapel-of-flowers-funeral-home-san-jose-2"
+  ],
+  "sourceNotes": []
+}

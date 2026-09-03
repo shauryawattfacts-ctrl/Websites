@@ -1,0 +1,322 @@
+{
+  "id": "sv015",
+  "slug": "total-landscape-santa-clara",
+  "name": "Total Landscape",
+  "short": "Total Landscape",
+  "cat": "Landscaping",
+  "sub": "Design, hardscape & irrigation",
+  "city": "Santa Clara",
+  "zip": "95050",
+  "addr": "Santa Clara, CA 95050 (service area: Santa Clara & Sunnyvale)",
+  "phone": null,
+  "email": null,
+  "contactNote": null,
+  "founded": "13 years in business (directory attribute)",
+  "hours": "Mon-Fri, by appointment",
+  "audience": "Santa Clara and Sunnyvale homeowners doing full yard rebuilds",
+  "scale": {
+    "emp": "design and install crew",
+    "loc": 1
+  },
+  "description": "Locally owned landscaping firm doing full yard reconstruction: grading, drainage, retaining walls, hardscape, planting and irrigation.",
+  "services": [
+    "Full yard design-build",
+    "Drainage and grading",
+    "Retaining walls",
+    "Pavers and hardscape",
+    "Irrigation design",
+    "Turf replacement and planting plans"
+  ],
+  "serviceCopy": [
+    "Grading and drainage first, always.",
+    "Retaining walls engineered for the slope, not the catalogue.",
+    "Hardscape laid for a fifty-year house.",
+    "Planting tuned to Santa Clara clay."
+  ],
+  "insight": "Review language credits judgement and honesty over salesmanship - the rare positioning in this category.",
+  "usps": [
+    "Diagnoses water and soil before proposing hardscape",
+    "Would rather consult an arborist than pour concrete",
+    "One firm accountable for design, drainage and build"
+  ],
+  "differentiators": [
+    "Publishes the reasoning behind each design, which nobody in this category does"
+  ],
+  "voice": "Thoughtful, technical, anti-sales",
+  "persona": "The landscaper who says no",
+  "reputation": {
+    "rating": 4.7,
+    "reviews": 79,
+    "src": "Yelp",
+    "note": "Customers describe choosing this firm after collecting multiple competing quotes."
+  },
+  "budget": {
+    "afford": [
+      "Full yard rebuilds locally run $40K-$180K",
+      "79 reviews at 4.7 is a strong proof base to license onto a site",
+      "Winning nine-bid contests means they close on substance, which a site amplifies"
+    ],
+    "risk": [
+      "Phone number not published in the listings captured — confirm before outreach and before any tel: link ships.",
+      "No phone published in the captured listings: intake must be form-led",
+      "A generic name needs deep content to rank at all"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Dry granite",
+      "sage",
+      "corten"
+    ],
+    "logo": "None found - propose a survey-marker glyph",
+    "photoNote": "Drainage detail, wall courses, site before grading"
+  },
+  "copy": {
+    "eyebrow": "Santa Clara · 13 years",
+    "h1": "Nine bids came in with concrete. We came in with a drainage plan.",
+    "sub": "Full-yard design-build where the water is solved before the pavers arrive.",
+    "cta1": "Request a site walk",
+    "cta2": "How we diagnose",
+    "lede": "Total Landscape has spent thirteen years on the unglamorous part — grading, drainage, root zones — which is exactly why the yards they build still look right in year six.",
+    "svcCopy": [
+      "Grading and drainage first, always.",
+      "Retaining walls engineered for the slope, not the catalogue.",
+      "Hardscape laid for a fifty-year house.",
+      "Planting tuned to Santa Clara clay."
+    ]
+  },
+  "concept": {
+    "dir": "Field-notes layout: numbered diagnostic cards, section drawings, and a credibility module listing what the firm advised against.",
+    "palette": {
+      "ink": "#1c1e19",
+      "paper": "#f1efe8",
+      "accent": "#6b7a52",
+      "accent2": "#a8703d"
+    },
+    "heroType": "dispatch",
+    "motion": "line-mask",
+    "interactive": [
+      "Scroll-linked site-diagram animation",
+      "Project case cards (problem / decision / result)",
+      "Site-walk request form with lot-type questions",
+      "Soil and drainage notes by neighbourhood"
+    ],
+    "pages": [
+      "index",
+      "approach",
+      "projects",
+      "services",
+      "contact"
+    ],
+    "nav": [
+      "Approach",
+      "Projects",
+      "Services",
+      "Contact"
+    ],
+    "tone": "Evidence over adjectives",
+    "refs": "An engineering case-study page for gardens.",
+    "signature": "map",
+    "hero": "dispatch"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Surfaces in Sunnyvale and Mountain View landscaping result sets as a review listing with 13 years in business and 79 reviews; no website field appears in the listings captured and no domain surfaced. Live audit pending before outreach.",
+    "src": [
+      "https://m.yelp.com/c/mountain-view-ca-us/landscaping"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "yelp": "https://m.yelp.com/c/mountain-view-ca-us/landscaping"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Total Landscape — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "home-services",
+    "label": "Trusted Trades",
+    "summary": "Utility-first, urgency-led conversion system for dispatch businesses. Big call target, live status strip, service-area proof, transparent price ranges.",
+    "fonts": {
+      "display": "\"Barlow Condensed\"",
+      "body": "\"Public Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Barlow+Condensed:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500",
+    "nav": "utility",
+    "motion": "line-mask",
+    "tokens": {
+      "ink": "#1c1e19",
+      "paper": "#f1efe8",
+      "accent": "#6b7a52",
+      "accent2": "#a8703d",
+      "inkName": "Dry granite",
+      "radius": "10px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 14%, transparent)",
+      "shadow": "0 18px 40px -28px rgb(9 12 20 / .55)",
+      "pad": "clamp(3.6rem,8vw,7rem)",
+      "scale": "1.24",
+      "headingCase": "uppercase",
+      "track": "-.015em",
+      "texture": "grid",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "urgency",
+      "services",
+      "process",
+      "proof",
+      "coverage",
+      "reviews",
+      "faq"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/total-landscape-santa-clara",
+      "title": "Total Landscape — Landscaping in Santa Clara",
+      "description": "Full-yard design-build where the water is solved before the pavers arrive.",
+      "h1": "Nine bids came in with concrete. We came in with a drainage plan.",
+      "kicker": "Santa Clara · 13 years",
+      "sections": [
+        "hero",
+        "urgency",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "reviews",
+        "faq"
+      ]
+    },
+    {
+      "slug": "approach",
+      "file": "approach.astro",
+      "path": "/total-landscape-santa-clara/approach",
+      "title": "Approach — Total Landscape",
+      "description": "Approach at Total Landscape in Santa Clara: Full yard design-build, Drainage and grading, Retaining walls. Full-yard design-build where the water is solved before the pavers arrive.",
+      "h1": "Approach",
+      "kicker": "Landscaping",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "projects",
+      "file": "projects.astro",
+      "path": "/total-landscape-santa-clara/projects",
+      "title": "Projects — Total Landscape",
+      "description": "Projects at Total Landscape in Santa Clara: Full yard design-build, Drainage and grading, Retaining walls. Full-yard design-build where the water is solved before the pavers arrive.",
+      "h1": "Projects",
+      "kicker": "Landscaping",
+      "sections": [
+        "hero",
+        "proof",
+        "reviews",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/total-landscape-santa-clara/services",
+      "title": "Services — Total Landscape",
+      "description": "Full yard design-build; Drainage and grading; Retaining walls; Pavers and hardscape; Irrigation design; Turf replacement and planting plans. Santa Clara based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/total-landscape-santa-clara/contact",
+      "title": "Contact — Total Landscape",
+      "description": "Call or write to Total Landscape in Santa Clara. Contact details verified against public listings.",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "urgency",
+        "coverage",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 8,
+    "gap": 9,
+    "vis": 6,
+    "vol": 7,
+    "brand": 7,
+    "comp": 6,
+    "val": 9,
+    "assets": 5,
+    "roi": 8
+  },
+  "seo": {
+    "title": "Total Landscape — Landscaping in Santa Clara",
+    "description": "Full-yard design-build where the water is solved before the pavers arrive.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Total Landscape",
+    "description": "Full-yard design-build where the water is solved before the pavers arrive.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Santa Clara",
+      "addressRegion": "CA",
+      "postalCode": "95050"
+    },
+    "sameAs": [
+      "https://m.yelp.com/c/mountain-view-ca-us/landscaping"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.7,
+      "reviewCount": 79,
+      "bestRating": 5
+    },
+    "slogan": "Nine bids came in with concrete. We came in with a drainage plan.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://m.yelp.com/c/mountain-view-ca-us/landscaping"
+  ],
+  "sourceNotes": []
+}

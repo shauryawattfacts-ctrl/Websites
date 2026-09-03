@@ -1,0 +1,321 @@
+{
+  "id": "sv049",
+  "slug": "a-2-z-granite-fabrication-san-jose",
+  "name": "A-2-Z Granite Fabrication",
+  "short": "A-2-Z Granite Fabrication",
+  "cat": "Stone fabrication",
+  "sub": "Countertops, fireplaces, showers",
+  "city": "San Jose",
+  "zip": "95112",
+  "addr": "1775 Monterey Hwy, San Jose, CA 95112",
+  "phone": "(408) 309-7296",
+  "email": null,
+  "contactNote": null,
+  "founded": "not verified",
+  "hours": "Mon-Fri shop hours",
+  "audience": "Homeowners, remodel GCs and kitchen dealers in south San Jose",
+  "scale": {
+    "emp": "fabrication shop and install crews",
+    "loc": 1
+  },
+  "description": "Stone fabrication and install shop on Monterey Highway: countertops, fireplaces, shower surrounds and exterior stone, templating through install.",
+  "services": [
+    "Countertop fabrication and install",
+    "Fireplace surrounds and hearths",
+    "Shower and tub surrounds",
+    "Vanities and tabletops",
+    "Slab selection and edging profiles",
+    "Removal and disposal of old stone"
+  ],
+  "serviceCopy": [
+    "Countertops fabricated and installed.",
+    "Fireplace and hearth stone.",
+    "Shower and tub surrounds.",
+    "Edge profiles and seam planning."
+  ],
+  "insight": "Fabricators win on template accuracy and lead time - both publishable metrics that no local competitor states.",
+  "usps": [
+    "In-house fabrication, no middle-man markup",
+    "Edge profiles and seams shown honestly",
+    "Templating to install in days, not weeks (confirm)"
+  ],
+  "differentiators": [
+    "Publishes lead time, seam policy and profile samples; competitors quote in person only"
+  ],
+  "voice": "Direct, shop-floor",
+  "persona": "The fabricator on Monterey",
+  "reputation": {
+    "rating": null,
+    "reviews": null,
+    "src": "not captured",
+    "note": "No review surface captured: win on shop photography, lead times and profiles."
+  },
+  "budget": {
+    "afford": [
+      "Kitchen stone packages run $4K-$20K with whole-home multipliers",
+      "A fabrication shop with polishing and CNC capability is real capital",
+      "Install-led businesses close on turnaround, which a site can promise and measure"
+    ],
+    "risk": [
+      "Stone sourcing claims must be verifiable",
+      "Review base must be built; expect a slow start on reputation"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Granite speckle",
+      "polished black",
+      "diamond blade grey"
+    ],
+    "logo": "Set a heavy geometric A-2-Z with a slab-edge icon",
+    "photoNote": "Polishing passes, slab racks, seam detail, install day"
+  },
+  "copy": {
+    "eyebrow": "San Jose · stone fabrication",
+    "h1": "We cut it here, so the seam is our problem, not yours.",
+    "sub": "Countertops, surrounds and stone fabrication from a shop on Monterey Highway, templated to installed.",
+    "cta1": "Get a fabrication quote",
+    "cta2": "Slabs and profiles",
+    "lede": "A-2-Z owns the Polishers, the racks and the install crew - and has no place on the internet to show a single finished kitchen.",
+    "svcCopy": [
+      "Countertops fabricated and installed.",
+      "Fireplace and hearth stone.",
+      "Shower and tub surrounds.",
+      "Edge profiles and seam planning."
+    ]
+  },
+  "concept": {
+    "dir": "Slab-rack layout: dark ground with photographic swatch fields, an edge-profile selector, a lead-time panel, and a templating request form. Motion: polished-stone shine sweep, reduced-motion aware.",
+    "palette": {
+      "ink": "#e9e7e4",
+      "paper": "#131415",
+      "accent": "#9fb3bd",
+      "accent2": "#c07a3c"
+    },
+    "heroType": "manifesto",
+    "motion": "hard-cut",
+    "interactive": [
+      "Edge-profile picker with visual previews",
+      "Slab library grid by colour and material",
+      "Lead-time and process panel",
+      "Templating request form with dimensions and photos"
+    ],
+    "pages": [
+      "index",
+      "slabs",
+      "profiles",
+      "process",
+      "contact"
+    ],
+    "nav": [
+      "Slabs",
+      "Profiles",
+      "Process",
+      "Contact"
+    ],
+    "tone": "Cut-to-fit directness",
+    "refs": "A fabricator site that behaves like a spec tool.",
+    "signature": "picker",
+    "hero": "manifesto"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Directory record lists street address, phone and opening hours with no website field, in a result set where several competing fabricators show website links. No social presence captured. Live audit pending.",
+    "src": [
+      "https://www.yellowpages.com/santa-clara-ca/granite",
+      "https://www.yellowpages.com/santa-clara-ca/counter-tops"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "other": [
+      "https://www.yellowpages.com/santa-clara-ca/counter-tops"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for A-2-Z Granite Fabrication — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "industrial-brutalist",
+    "label": "Shop Floor Brutalist",
+    "summary": "Heavy concrete/steel aesthetic: oversized numerals, blueprint rules, stamp-like buttons, horizontal material ticker. Built for fabricators and builders.",
+    "fonts": {
+      "display": "\"Archivo\"",
+      "body": "\"Spline Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Archivo:wght@600;700;800;900&family=Spline+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "bar",
+    "motion": "hard-cut",
+    "tokens": {
+      "ink": "#e9e7e4",
+      "paper": "#131415",
+      "accent": "#9fb3bd",
+      "accent2": "#c07a3c",
+      "inkName": "Granite speckle",
+      "radius": "2px",
+      "hair": "2px",
+      "border": "2px solid var(--ink)",
+      "shadow": "none",
+      "pad": "clamp(4rem,9vw,8rem)",
+      "scale": "1.32",
+      "headingCase": "uppercase",
+      "track": "-.03em",
+      "texture": "blueprint",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "materials",
+      "services",
+      "capabilities",
+      "specs",
+      "coverage",
+      "proof",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/a-2-z-granite-fabrication-san-jose",
+      "title": "A-2-Z Granite Fabrication — Stone fabrication in San Jose",
+      "description": "Countertops, surrounds and stone fabrication from a shop on Monterey Highway, templated to installed.",
+      "h1": "We cut it here, so the seam is our problem, not yours.",
+      "kicker": "San Jose · stone fabrication",
+      "sections": [
+        "hero",
+        "materials",
+        "services",
+        "capabilities",
+        "specs",
+        "coverage",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "slabs",
+      "file": "slabs.astro",
+      "path": "/a-2-z-granite-fabrication-san-jose/slabs",
+      "title": "Slabs — A-2-Z Granite Fabrication",
+      "description": "Slabs at A-2-Z Granite Fabrication in San Jose: Countertop fabrication and install, Fireplace surrounds and hearths, Shower and tub surrounds. Countertops, surrounds and stone fabrication from a shop on Monterey Highway, templated to installed.",
+      "h1": "Slabs",
+      "kicker": "Stone fabrication",
+      "sections": [
+        "hero",
+        "services",
+        "capabilities",
+        "materials",
+        "specs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "profiles",
+      "file": "profiles.astro",
+      "path": "/a-2-z-granite-fabrication-san-jose/profiles",
+      "title": "Profiles — A-2-Z Granite Fabrication",
+      "description": "Profiles at A-2-Z Granite Fabrication in San Jose: Countertop fabrication and install, Fireplace surrounds and hearths, Shower and tub surrounds. Countertops, surrounds and stone fabrication from a shop on Monterey Highway, templated to installed.",
+      "h1": "Profiles",
+      "kicker": "Stone fabrication",
+      "sections": [
+        "hero",
+        "services",
+        "capabilities",
+        "materials",
+        "specs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "process",
+      "file": "process.astro",
+      "path": "/a-2-z-granite-fabrication-san-jose/process",
+      "title": "Process — A-2-Z Granite Fabrication",
+      "description": "Process at A-2-Z Granite Fabrication in San Jose: Countertop fabrication and install, Fireplace surrounds and hearths, Shower and tub surrounds. Countertops, surrounds and stone fabrication from a shop on Monterey Highway, templated to installed.",
+      "h1": "Process",
+      "kicker": "Stone fabrication",
+      "sections": [
+        "hero",
+        "services",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/a-2-z-granite-fabrication-san-jose/contact",
+      "title": "Contact — A-2-Z Granite Fabrication",
+      "description": "Call or write to A-2-Z Granite Fabrication in San Jose. (408) 309-7296",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "coverage",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 10,
+    "vis": 4,
+    "vol": 2,
+    "brand": 5,
+    "comp": 6,
+    "val": 9,
+    "assets": 5,
+    "roi": 8
+  },
+  "seo": {
+    "title": "A-2-Z Granite Fabrication — Stone fabrication in San Jose",
+    "description": "Countertops, surrounds and stone fabrication from a shop on Monterey Highway, templated to installed.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "A-2-Z Granite Fabrication",
+    "description": "Countertops, surrounds and stone fabrication from a shop on Monterey Highway, templated to installed.",
+    "phone": "(408) 309-7296",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95112",
+      "streetAddress": "1775 Monterey Hwy"
+    },
+    "sameAs": [
+      "https://www.yellowpages.com/santa-clara-ca/counter-tops"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "We cut it here, so the seam is our problem, not yours.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yellowpages.com/santa-clara-ca/granite",
+    "https://www.yellowpages.com/santa-clara-ca/counter-tops"
+  ],
+  "sourceNotes": []
+}

@@ -1,0 +1,330 @@
+{
+  "id": "sv004",
+  "slug": "rmb-plumbing-services-san-jose",
+  "name": "RMB Plumbing Services",
+  "short": "RMB Plumbing Services",
+  "cat": "Plumbing",
+  "sub": "24/7 residential & light commercial",
+  "city": "San Jose",
+  "zip": "95119",
+  "addr": "6758 Moselle Dr, San Jose, CA 95119",
+  "phone": "(408) 901-0967",
+  "email": null,
+  "contactNote": null,
+  "founded": "family business, 20 years in business (Yelp attribute)",
+  "hours": "Open 24 hours, every day",
+  "audience": "Almaden, Blossom Hill, east San Jose homeowners",
+  "scale": {
+    "emp": "2–6 (inferred from listing)",
+    "loc": 1
+  },
+  "description": "24/7 plumbing and heating service in south San Jose. Family owned, twenty years running, listed open around the clock seven days a week.",
+  "services": [
+    "Emergency leaks",
+    "Water heaters",
+    "Drains & sewers",
+    "Toilet & fixture repair",
+    "Gas lines",
+    "Commercial restrooms"
+  ],
+  "serviceCopy": [
+    "Burst pipes, slab leaks, no-hot-water.",
+    "Water heater diagnosis before replacement.",
+    "Sewer backups handled with containment.",
+    "Tenants and landlords: written scope for every invoice."
+  ],
+  "insight": "Yelp shows \"Open 24 hours\" for all seven days — the single strongest offer in their category, and it is currently unmarketable.",
+  "usps": [
+    "24/7, seven days — no surcharge games",
+    "Twenty years in the same neighbourhood",
+    "4.9 rating with only 33 reviews: under-marketed proof"
+  ],
+  "differentiators": [
+    "Directly reachable owner on nights, not a call centre"
+  ],
+  "voice": "Night-shift calm",
+  "persona": "The number you already saved",
+  "reputation": {
+    "rating": 4.9,
+    "reviews": 33,
+    "src": "Yelp",
+    "note": "\"This company cares!\"-type repeat-customer language in sampled reviews; 20 years, family-run."
+  },
+  "budget": {
+    "afford": [
+      "Round-the-clock crews imply overhead and dispatch depth",
+      "4.9 average across all reviews",
+      "Higher ticket than average because after-hours calls command premium rates"
+    ],
+    "risk": [
+      "Residential repair mix can skew small-ticket",
+      "No brand assets online beyond 42 photos"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Midnight",
+      "torch yellow",
+      "concrete"
+    ],
+    "logo": "Create a lockup that reads on a truck door at 2am",
+    "photoNote": "Night call-out, van, parts laid out on tarp"
+  },
+  "copy": {
+    "eyebrow": "South San Jose · 24/7",
+    "h1": "Flooding at 2am? We are already awake.",
+    "sub": "Twenty years of around-the-clock plumbing in Almaden and Blossom Hill. Owner on the phone, crew on the way.",
+    "cta1": "Call now — 24/7",
+    "cta2": "What we handle",
+    "lede": "Emergency plumbing is mostly about who answers. RMB has kept a 24-hour line in south San Jose for two decades, at a 4.9 rating, without owning a single one of those customers online.",
+    "svcCopy": [
+      "Burst pipes, slab leaks, no-hot-water.",
+      "Water heater diagnosis before replacement.",
+      "Sewer backups handled with containment.",
+      "Tenants and landlords: written scope for every invoice."
+    ]
+  },
+  "concept": {
+    "dir": "Dark-mode emergency site optimised for 2am thumb use: huge call target, one-line scope, no carousels.",
+    "palette": {
+      "ink": "#f4f6f8",
+      "paper": "#0c1218",
+      "accent": "#ffd400",
+      "accent2": "#2f81f7"
+    },
+    "heroType": "dispatch",
+    "motion": "slide-up",
+    "interactive": [
+      "Tap-to-call hero with live open/closed logic",
+      "Emergency-type chooser (3 taps to quote)",
+      "Response-time promise block",
+      "Reduce-motion & high-contrast mode"
+    ],
+    "pages": [
+      "index",
+      "services",
+      "emergency",
+      "about",
+      "contact"
+    ],
+    "nav": [
+      "Services",
+      "Emergencies",
+      "Why us",
+      "Contact"
+    ],
+    "tone": "Steady, fast, terse",
+    "refs": "Airline operations page, not a plumber page.",
+    "signature": "ledger",
+    "hero": "dispatch"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "B",
+    "note": "Yelp (claimed, 42 photos) has no website field; directory mirrors (2findlocal) list phone only. No domain found in search results for the name + street.",
+    "src": [
+      "https://www.yelp.com/biz/rmb-plumbing-services-san-jose-2",
+      "https://www.2findlocal.com/b/12364728/rmb-plumbing-services-san-jose-ca"
+    ],
+    "status": "No website",
+    "confidence": "verified across two or more directories"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/rmb-plumbing-services-san-jose-2"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for RMB Plumbing Services — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "home-services",
+    "label": "Trusted Trades",
+    "summary": "Utility-first, urgency-led conversion system for dispatch businesses. Big call target, live status strip, service-area proof, transparent price ranges.",
+    "fonts": {
+      "display": "\"Barlow Condensed\"",
+      "body": "\"Public Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Barlow+Condensed:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500",
+    "nav": "utility",
+    "motion": "slide-up",
+    "tokens": {
+      "ink": "#f4f6f8",
+      "paper": "#0c1218",
+      "accent": "#ffd400",
+      "accent2": "#2f81f7",
+      "inkName": "Midnight",
+      "radius": "10px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 14%, transparent)",
+      "shadow": "0 18px 40px -28px rgb(9 12 20 / .55)",
+      "pad": "clamp(3.6rem,8vw,7rem)",
+      "scale": "1.24",
+      "headingCase": "uppercase",
+      "track": "-.015em",
+      "texture": "grid",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "urgency",
+      "services",
+      "process",
+      "proof",
+      "coverage",
+      "reviews",
+      "faq"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/rmb-plumbing-services-san-jose",
+      "title": "RMB Plumbing Services — Plumbing in San Jose",
+      "description": "Twenty years of around-the-clock plumbing in Almaden and Blossom Hill. Owner on the phone, crew on the way.",
+      "h1": "Flooding at 2am? We are already awake.",
+      "kicker": "South San Jose · 24/7",
+      "sections": [
+        "hero",
+        "urgency",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "reviews",
+        "faq"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/rmb-plumbing-services-san-jose/services",
+      "title": "Services — RMB Plumbing Services",
+      "description": "Emergency leaks; Water heaters; Drains & sewers; Toilet & fixture repair; Gas lines; Commercial restrooms. San Jose based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "emergency",
+      "file": "emergency.astro",
+      "path": "/rmb-plumbing-services-san-jose/emergency",
+      "title": "Emergency — RMB Plumbing Services",
+      "description": "Emergency at RMB Plumbing Services in San Jose: Emergency leaks, Water heaters, Drains & sewers. Twenty years of around-the-clock plumbing in Almaden and Blossom Hill. Owner on the phone, crew on the way.",
+      "h1": "Emergency",
+      "kicker": "Plumbing",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "about",
+      "file": "about.astro",
+      "path": "/rmb-plumbing-services-san-jose/about",
+      "title": "About — RMB Plumbing Services",
+      "description": "24/7 plumbing and heating service in south San Jose. Family owned, twenty years running, listed open around the clock seven days a week.",
+      "h1": "About RMB Plumbing Services",
+      "kicker": "The firm",
+      "sections": [
+        "hero",
+        "proof",
+        "reviews",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/rmb-plumbing-services-san-jose/contact",
+      "title": "Contact — RMB Plumbing Services",
+      "description": "Call or write to RMB Plumbing Services in San Jose. (408) 901-0967",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "urgency",
+        "coverage",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 6,
+    "gap": 10,
+    "vis": 5,
+    "vol": 6,
+    "brand": 6,
+    "comp": 7,
+    "val": 9,
+    "assets": 5,
+    "roi": 9
+  },
+  "seo": {
+    "title": "RMB Plumbing Services — Plumbing in San Jose",
+    "description": "Twenty years of around-the-clock plumbing in Almaden and Blossom Hill. Owner on the phone, crew on the way.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "RMB Plumbing Services",
+    "description": "Twenty years of around-the-clock plumbing in Almaden and Blossom Hill. Owner on the phone, crew on the way.",
+    "phone": "(408) 901-0967",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95119",
+      "streetAddress": "6758 Moselle Dr"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 37.22871,
+      "longitude": -121.784966
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/rmb-plumbing-services-san-jose-2"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.9,
+      "reviewCount": 33,
+      "bestRating": 5
+    },
+    "slogan": "Flooding at 2am? We are already awake.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/rmb-plumbing-services-san-jose-2",
+    "https://www.2findlocal.com/b/12364728/rmb-plumbing-services-san-jose-ca"
+  ],
+  "sourceNotes": []
+}

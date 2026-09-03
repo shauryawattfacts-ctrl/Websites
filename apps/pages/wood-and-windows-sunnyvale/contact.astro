@@ -1,0 +1,12 @@
+---
+/**
+ * wood-and-windows-sunnyvale / contact — generated from data/businesses/wood-and-windows-sunnyvale.json
+ * Do not edit by hand: change the research record, then run `npm run gen`.
+ * Each site owns its own page list, nav, section roster and copy, all of which
+ * come from research; the shared layout supplies the rendering.
+ */
+import Site from '../../../layouts/site.astro';
+import spec from '../../../data/businesses/wood-and-windows-sunnyvale.json';
+const page = spec.pages.find((p) => p.slug === 'contact');
+---
+<Site biz={spec} page={page} />

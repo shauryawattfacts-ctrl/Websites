@@ -1,0 +1,323 @@
+{
+  "id": "sv034",
+  "slug": "bt-properties-mountain-view",
+  "name": "BT Properties",
+  "short": "BT Properties",
+  "cat": "Property management",
+  "sub": "Residential portfolios, since 1999",
+  "city": "Mountain View",
+  "zip": "94040",
+  "addr": "800 W El Camino Real Ste 180, Mountain View, CA 94040",
+  "phone": "(650) 965-2400",
+  "email": null,
+  "contactNote": null,
+  "founded": "1999",
+  "hours": "Mon-Fri office, emergency line after hours",
+  "audience": "Apartment residents, building owners and investors on the peninsula",
+  "scale": {
+    "emp": "multi-site management staff (inferred from portfolio)",
+    "loc": 1
+  },
+  "description": "Independent residential property manager in Mountain View since 1999, with DRE licence 02034419 and BBB A accreditation, managing apartment holdings across the peninsula.",
+  "services": [
+    "Apartment community management",
+    "Leasing and marketing",
+    "Owner reporting and budgeting",
+    "Maintenance dispatch and vendor management",
+    "Renovation and value-add planning",
+    "Tenant communications"
+  ],
+  "serviceCopy": [
+    "Leasing and marketing that keeps vacancy honest.",
+    "Maintenance dispatch with published response times.",
+    "Owner reporting built on numbers, not adjectives.",
+    "Renovation planning for value-add cycles."
+  ],
+  "insight": "DRE licence number and BBB A rating are publishable trust assets they currently hide on a page nobody renders properly.",
+  "usps": [
+    "Managing since 1999 under one licence",
+    "BBB A rating with a 4,500-resident portfolio",
+    "Local ownership, not a national platform"
+  ],
+  "differentiators": [
+    "Publishes maintenance SLAs, owner reporting samples and a resident portal-first experience"
+  ],
+  "voice": "Institutional, accountable, unspun",
+  "persona": "The peninsula manager that answers",
+  "reputation": {
+    "rating": 3,
+    "reviews": 181,
+    "src": "Yelp",
+    "note": "High volume, mediocre average: maintenance responsiveness and communication are the recurring themes. The site should carry the response SLA, not a hero video."
+  },
+  "budget": {
+    "afford": [
+      "Management companies bill a percentage of rent across thousands of units",
+      "Real compliance and licensing records to publish",
+      "Reputation repair at this scale is a funded, recurring engagement"
+    ],
+    "risk": [
+      "181 public reviews at 3.0 means copy must be operational, never aspirational",
+      "Owner approval chains slow launches: ship in phases"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Blueprint navy",
+      "concrete",
+      "ledger green"
+    ],
+    "logo": "Set a BT monogram in a stencil grotesque",
+    "photoNote": "Buildings, leasing offices, keys, maintenance log - documentary"
+  },
+  "copy": {
+    "eyebrow": "Mountain View · since 1999",
+    "h1": "Four thousand five hundred residents, and a website from 2015.",
+    "sub": "Residential property management across the peninsula: leasing, operations and owner reporting, finally explained in public.",
+    "cta1": "Owner enquiry",
+    "cta2": "Resident portal",
+    "lede": "BT Properties has managed apartment portfolios here for a quarter century. Their own site still links to Craigslist listings and has not been redrawn since the last administration.",
+    "svcCopy": [
+      "Leasing and marketing that keeps vacancy honest.",
+      "Maintenance dispatch with published response times.",
+      "Owner reporting built on numbers, not adjectives.",
+      "Renovation planning for value-add cycles."
+    ]
+  },
+  "concept": {
+    "dir": "Corporate-but-crafted: a dual-door site for owners and residents, ledger tables, SLA transparency, a portfolio map, and a documentation library. Institutional typography, restrained motion.",
+    "palette": {
+      "ink": "#eef1f5",
+      "paper": "#101a26",
+      "accent": "#c9a227",
+      "accent2": "#3d7a8c"
+    },
+    "heroType": "split",
+    "motion": "line-mask",
+    "interactive": [
+      "Two-path entry (Owners / Residents) with distinct CTAs",
+      "Portfolio table with filters by city and unit count",
+      "Service-level and response-time transparency panel",
+      "Document library (sample owner report, lease summary)"
+    ],
+    "pages": [
+      "index",
+      "owners",
+      "residents",
+      "portfolio",
+      "contact"
+    ],
+    "nav": [
+      "Owners",
+      "Residents",
+      "Portfolio",
+      "Careers",
+      "Contact"
+    ],
+    "tone": "Accountable institutional",
+    "refs": "A regional asset manager that behaves like a good landlord.",
+    "signature": "picker",
+    "hero": "split"
+  },
+  "web": {
+    "s": "basic",
+    "url": "http://btproperties.com",
+    "lvl": "A",
+    "note": "Audited live: the site still serves media uploaded in 2015, rentals are pushed out to Craigslist links, applications run through a third-party portal, and there is no tenant-facing content on the domain at all. A management company with roughly 4,500 residents and a 2015 web presence.",
+    "src": [
+      "http://btproperties.com",
+      "https://www.yelp.com/biz/bt-properties-mountain-view",
+      "https://www.bbb.org"
+    ],
+    "status": "Extremely outdated or basic website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/bt-properties-mountain-view",
+    "other": [
+      "https://www.bbb.org (A-rated)"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for BT Properties — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "b2b-spec",
+    "label": "Bid & Spec",
+    "summary": "RFP-grade B2B site: sticky section rail, capability statements, compliance/badge matrix, project ledger table, bid-request funnel.",
+    "fonts": {
+      "display": "\"Sora\"",
+      "body": "\"IBM Plex Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Sora:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "utility",
+    "motion": "line-mask",
+    "tokens": {
+      "ink": "#eef1f5",
+      "paper": "#101a26",
+      "accent": "#c9a227",
+      "accent2": "#3d7a8c",
+      "inkName": "Blueprint navy",
+      "radius": "4px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 16%, transparent)",
+      "shadow": "0 12px 30px -24px rgb(10 20 40 / .5)",
+      "pad": "clamp(3.4rem,7vw,6rem)",
+      "scale": "1.18",
+      "headingCase": "none",
+      "track": "-.01em",
+      "texture": "blueprint",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "credibility",
+      "capabilities",
+      "sectors",
+      "ledger",
+      "safety",
+      "case-studies",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/bt-properties-mountain-view",
+      "title": "BT Properties — Property management in Mountain View",
+      "description": "Residential property management across the peninsula: leasing, operations and owner reporting, finally explained in public.",
+      "h1": "Four thousand five hundred residents, and a website from 2015.",
+      "kicker": "Mountain View · since 1999",
+      "sections": [
+        "hero",
+        "credibility",
+        "capabilities",
+        "sectors",
+        "ledger",
+        "safety",
+        "case-studies",
+        "contact"
+      ]
+    },
+    {
+      "slug": "owners",
+      "file": "owners.astro",
+      "path": "/bt-properties-mountain-view/owners",
+      "title": "Owners — BT Properties",
+      "description": "Owners at BT Properties in Mountain View: Apartment community management, Leasing and marketing, Owner reporting and budgeting. Residential property management across the peninsula: leasing, operations and owner reporting, finally explained in public.",
+      "h1": "Owners",
+      "kicker": "Property management",
+      "sections": [
+        "hero",
+        "contact"
+      ]
+    },
+    {
+      "slug": "residents",
+      "file": "residents.astro",
+      "path": "/bt-properties-mountain-view/residents",
+      "title": "Residents — BT Properties",
+      "description": "Residents at BT Properties in Mountain View: Apartment community management, Leasing and marketing, Owner reporting and budgeting. Residential property management across the peninsula: leasing, operations and owner reporting, finally explained in public.",
+      "h1": "Residents",
+      "kicker": "Property management",
+      "sections": [
+        "hero",
+        "contact"
+      ]
+    },
+    {
+      "slug": "portfolio",
+      "file": "portfolio.astro",
+      "path": "/bt-properties-mountain-view/portfolio",
+      "title": "Portfolio — BT Properties",
+      "description": "Portfolio at BT Properties in Mountain View: Apartment community management, Leasing and marketing, Owner reporting and budgeting. Residential property management across the peninsula: leasing, operations and owner reporting, finally explained in public.",
+      "h1": "Portfolio",
+      "kicker": "Property management",
+      "sections": [
+        "hero",
+        "case-studies",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/bt-properties-mountain-view/contact",
+      "title": "Contact — BT Properties",
+      "description": "Call or write to BT Properties in Mountain View. (650) 965-2400",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 10,
+    "gap": 8,
+    "vis": 7,
+    "vol": 9,
+    "brand": 7,
+    "comp": 8,
+    "val": 10,
+    "assets": 6,
+    "roi": 9
+  },
+  "seo": {
+    "title": "BT Properties — Property management in Mountain View",
+    "description": "Residential property management across the peninsula: leasing, operations and owner reporting, finally explained in public.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "BT Properties",
+    "description": "Residential property management across the peninsula: leasing, operations and owner reporting, finally explained in public.",
+    "phone": "(650) 965-2400",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Mountain View",
+      "addressRegion": "CA",
+      "postalCode": "94040",
+      "streetAddress": "800 W El Camino Real Ste 180"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/bt-properties-mountain-view",
+      "https://www.bbb.org (A-rated)"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 3,
+      "reviewCount": 181,
+      "bestRating": 5
+    },
+    "slogan": "Four thousand five hundred residents, and a website from 2015.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "http://btproperties.com",
+    "https://www.yelp.com/biz/bt-properties-mountain-view",
+    "https://www.bbb.org"
+  ],
+  "sourceNotes": [
+    "https://www.bbb.org (A-rated)"
+  ]
+}

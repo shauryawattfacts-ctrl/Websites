@@ -1,0 +1,311 @@
+{
+  "id": "sv030",
+  "slug": "altos-building-maintenance-santa-clara",
+  "name": "Altos Building Maintenance",
+  "short": "Altos Building Maintenance",
+  "cat": "Facilities services",
+  "sub": "Janitorial, clean rooms & data centres",
+  "city": "Santa Clara",
+  "zip": "95054",
+  "addr": "3375 Scott Blvd, Santa Clara, CA 95054",
+  "phone": "(408) 480-1630",
+  "email": null,
+  "contactNote": null,
+  "founded": "1989 (founded by Roger Cruickshank)",
+  "hours": "Service crews overnight and daytime",
+  "audience": "Offices, data centres, medical and lab facilities, property managers",
+  "scale": {
+    "emp": "multi-site crew operation (inferred from service breadth)",
+    "loc": 1
+  },
+  "description": "Contract janitorial and facility maintenance since 1989, including electrostatic disinfection, data-centre cleaning and clean-room protocols - specialised scopes that their own one-page site never mentions.",
+  "services": [
+    "Contract janitorial programs",
+    "Data-centre and server-room cleaning",
+    "Clean-room protocols",
+    "Electrostatic disinfection",
+    "Day porter and maintenance",
+    "Floor care and carpet programs"
+  ],
+  "serviceCopy": [
+    "Contract janitorial with staffing models you can audit.",
+    "Data-centre and technical-space cleaning.",
+    "Electrostatic disinfection with logged coverage.",
+    "Day porters and preventive maintenance."
+  ],
+  "insight": "Their own award PDF (Best Janitorial 2025) is a marketing asset living on a server nobody visits.",
+  "usps": [
+    "Data-centre and clean-room capability, not just mop buckets",
+    "Thirty-six years of the same family operation",
+    "Electrostatic disinfection protocols documented since 2020"
+  ],
+  "differentiators": [
+    "Publishes scope sheets, staffing models and QA audits like a real facilities partner"
+  ],
+  "voice": "Operational, precise, audit-ready",
+  "persona": "The technical cleaning contractor",
+  "reputation": {
+    "rating": 3,
+    "reviews": 2,
+    "src": "Yelp",
+    "note": "Almost no public review surface for a thirty-six-year B2B operator: reputation is won on site walks and references, which a site can formalise."
+  },
+  "budget": {
+    "afford": [
+      "Recurring commercial contracts: multi-year, five-figure annual values",
+      "Facility ownership since 1989 plus a specialised service stack",
+      "Already produces award collateral - proof they invest in marketing"
+    ],
+    "risk": [
+      "B2B buyers need compliance language: content must be accurate and verifiable",
+      "Two reviews: do not build a review-led design"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Sanitiser teal",
+      "concrete",
+      "night-shift navy"
+    ],
+    "logo": "Set an ALTOS wordmark with a scan-line motif",
+    "photoNote": "Clean rooms, log books, night crews, equipment - not stock masks"
+  },
+  "copy": {
+    "eyebrow": "Santa Clara · since 1989",
+    "h1": "Facility maintenance for buildings where the dust has consequences.",
+    "sub": "Janitorial, data-centre and clean-room programs run by the same Santa Clara company since 1989.",
+    "cta1": "Request a site walk",
+    "cta2": "Scope sheets",
+    "lede": "Altos cleans server rooms and labs under documented protocols and has been family-run for thirty-six years. Its website is a GoDaddy page with two headings repeated.",
+    "svcCopy": [
+      "Contract janitorial with staffing models you can audit.",
+      "Data-centre and technical-space cleaning.",
+      "Electrostatic disinfection with logged coverage.",
+      "Day porters and preventive maintenance."
+    ]
+  },
+  "concept": {
+    "dir": "Facilities-ops documentation aesthetic: dark navy and teal, tabulated scope sheets, an SLA matrix, and a site-walk request flow that behaves like an RFP response.",
+    "palette": {
+      "ink": "#eaf0f3",
+      "paper": "#0e1a24",
+      "accent": "#2fbfa8",
+      "accent2": "#f0b429"
+    },
+    "heroType": "fullbleed",
+    "motion": "hard-cut",
+    "interactive": [
+      "Service-line tabs with scope tables",
+      "Coverage and staffing model explainer",
+      "Site-walk request form with facility type",
+      "Compliance and training documentation block"
+    ],
+    "pages": [
+      "index",
+      "services",
+      "protocol",
+      "facilities",
+      "contact"
+    ],
+    "nav": [
+      "Services",
+      "Protocols",
+      "Facilities",
+      "Contact"
+    ],
+    "tone": "Audit-ready",
+    "refs": "A facilities-management provider page at a data-centre operator.",
+    "signature": "ledger",
+    "hero": "fullbleed"
+  },
+  "web": {
+    "s": "basic",
+    "url": "http://altosmaint.com",
+    "lvl": "A",
+    "note": "Audited live: a GoDaddy-builder page (assets served from img1.wsimg.com) with a 2022 copyright and repeated Progress heading blocks, no service detail for the data-centre and clean-room work they actually sell, and no RFP or site-walk path.",
+    "src": [
+      "http://altosmaint.com",
+      "https://www.yelp.com/biz/altos-building-maintenance-santa-clara"
+    ],
+    "status": "Extremely outdated or basic website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/altos-building-maintenance-santa-clara"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Altos Building Maintenance — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "b2b-spec",
+    "label": "Bid & Spec",
+    "summary": "RFP-grade B2B site: sticky section rail, capability statements, compliance/badge matrix, project ledger table, bid-request funnel.",
+    "fonts": {
+      "display": "\"Sora\"",
+      "body": "\"IBM Plex Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Sora:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "utility",
+    "motion": "hard-cut",
+    "tokens": {
+      "ink": "#eaf0f3",
+      "paper": "#0e1a24",
+      "accent": "#2fbfa8",
+      "accent2": "#f0b429",
+      "inkName": "Sanitiser teal",
+      "radius": "4px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 16%, transparent)",
+      "shadow": "0 12px 30px -24px rgb(10 20 40 / .5)",
+      "pad": "clamp(3.4rem,7vw,6rem)",
+      "scale": "1.18",
+      "headingCase": "none",
+      "track": "-.01em",
+      "texture": "blueprint",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "credibility",
+      "capabilities",
+      "sectors",
+      "ledger",
+      "safety",
+      "case-studies",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/altos-building-maintenance-santa-clara",
+      "title": "Altos Building Maintenance — Facilities services in Santa Clara",
+      "description": "Janitorial, data-centre and clean-room programs run by the same Santa Clara company since 1989.",
+      "h1": "Facility maintenance for buildings where the dust has consequences.",
+      "kicker": "Santa Clara · since 1989",
+      "sections": [
+        "hero",
+        "credibility",
+        "capabilities",
+        "sectors",
+        "ledger",
+        "safety",
+        "case-studies",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/altos-building-maintenance-santa-clara/services",
+      "title": "Services — Altos Building Maintenance",
+      "description": "Contract janitorial programs; Data-centre and server-room cleaning; Clean-room protocols; Electrostatic disinfection; Day porter and maintenance; Floor care and carpet programs. Santa Clara based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "capabilities",
+        "safety",
+        "contact"
+      ]
+    },
+    {
+      "slug": "protocol",
+      "file": "protocol.astro",
+      "path": "/altos-building-maintenance-santa-clara/protocol",
+      "title": "Protocol — Altos Building Maintenance",
+      "description": "Protocol at Altos Building Maintenance in Santa Clara: Contract janitorial programs, Data-centre and server-room cleaning, Clean-room protocols. Janitorial, data-centre and clean-room programs run by the same Santa Clara company since 1989.",
+      "h1": "Protocol",
+      "kicker": "Facilities services",
+      "sections": [
+        "hero",
+        "capabilities",
+        "safety",
+        "contact"
+      ]
+    },
+    {
+      "slug": "facilities",
+      "file": "facilities.astro",
+      "path": "/altos-building-maintenance-santa-clara/facilities",
+      "title": "Facilities — Altos Building Maintenance",
+      "description": "Facilities at Altos Building Maintenance in Santa Clara: Contract janitorial programs, Data-centre and server-room cleaning, Clean-room protocols. Janitorial, data-centre and clean-room programs run by the same Santa Clara company since 1989.",
+      "h1": "Facilities",
+      "kicker": "Facilities services",
+      "sections": [
+        "hero",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/altos-building-maintenance-santa-clara/contact",
+      "title": "Contact — Altos Building Maintenance",
+      "description": "Call or write to Altos Building Maintenance in Santa Clara. (408) 480-1630",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 9,
+    "gap": 9,
+    "vis": 5,
+    "vol": 1,
+    "brand": 6,
+    "comp": 8,
+    "val": 10,
+    "assets": 6,
+    "roi": 9
+  },
+  "seo": {
+    "title": "Altos Building Maintenance — Facilities services in Santa Clara",
+    "description": "Janitorial, data-centre and clean-room programs run by the same Santa Clara company since 1989.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Altos Building Maintenance",
+    "description": "Janitorial, data-centre and clean-room programs run by the same Santa Clara company since 1989.",
+    "phone": "(408) 480-1630",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Santa Clara",
+      "addressRegion": "CA",
+      "postalCode": "95054",
+      "streetAddress": "3375 Scott Blvd"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/altos-building-maintenance-santa-clara"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "Facility maintenance for buildings where the dust has consequences.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "http://altosmaint.com",
+    "https://www.yelp.com/biz/altos-building-maintenance-santa-clara"
+  ],
+  "sourceNotes": []
+}

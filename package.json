@@ -1,0 +1,32 @@
+{
+  "name": "sv-website-opportunity-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Silicon Valley website opportunity finder + multi-site Astro generation studio",
+  "scripts": {
+    "dev": "npm run data && astro dev --host 0.0.0.0 --allowed-hosts",
+    "data": "node scripts/build-data.mjs && node scripts/score.mjs && node scripts/gen-assets.mjs && node scripts/gen-sites.mjs",
+    "build": "npm run data && astro build",
+    "preview": "astro preview --host 0.0.0.0 --allowed-hosts",
+    "gen": "node scripts/gen-sites.mjs",
+    "build-data": "node scripts/build-data.mjs",
+    "score": "node scripts/score.mjs",
+    "assets": "node scripts/gen-assets.mjs",
+    "images": "node scripts/optimize-images.mjs",
+    "audit": "node scripts/audit.mjs",
+    "build:single": "node scripts/build-single.mjs",
+    "check": "npm run data && astro check --minimumErrors 0 && node scripts/audit.mjs",
+    "deploy": "npm run build && echo 'dist/ is a static bundle: any CDN or static host works'"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.10",
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^5.18.2",
+    "gsap": "^3.15.0",
+    "lucide-static": "^0.469.0",
+    "sharp": "^0.33.5",
+    "three": "^0.171.0",
+    "typescript": "^5.9.3"
+  }
+}

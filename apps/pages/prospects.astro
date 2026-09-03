@@ -1,0 +1,51 @@
+---
+/** Ranked prospect database — the sales view of data/scored.json. */
+import '../../layouts/portal.css';
+import scored from '../../data/scored.json';
+const p = scored.prospects as any[];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Prospect database — {p.length} ranked website opportunities</title>
+  <meta name="description" content={`Ranked list of ${p.length} qualified Bay Area prospects: website status, confidence, review volume, affordability evidence and Website Opportunity Score.`} />
+  <link rel="canonical" href="/prospects" />
+  <meta property="og:image" content="/og/portal.png" />
+  <link rel="icon" href="/favicon/portal.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" />
+  <meta property="og:title" content="Silicon Valley Website Opportunity Studio" />
+  <meta property="og:description" content="Research, scores and generated sites for 50 qualified Bay Area prospects." />
+  <meta name="twitter:card" content="summary_large_image" />
+  <style is:inline>body { background:#101114; color:#ece9e2 }</style>
+</head>
+<body>
+  <a class="p-skip" href="#body">Skip to content</a>
+  <main id="body" class="p-doc">
+    <p class="p-kicker"><a href="/">← Portal</a></p>
+    <h1 class="p-h1">Prospect database</h1>
+    <p class="p-lede">{p.length} qualified prospects · average score {scored.stats.average} · the full evidence trail (sources, afford-proof, risks, concept) lives in <code>research/prospect-database.md</code> and <code>.csv</code>.</p>
+    <table class="p-table">
+      <caption>Ranked by Website Opportunity Score · confidence A = verified against a live source</caption>
+      <thead><tr><th>#</th><th>Business</th><th>City</th><th>Category</th><th>Website status</th><th>Confidence</th><th>Reviews</th><th>Affordability evidence</th><th>Score</th><th>Site</th></tr></thead>
+      <tbody>
+        {p.map((r) => (
+          <tr>
+            <td class="mono">{r.rank}</td>
+            <td><strong>{r.name}</strong></td>
+            <td>{r.city}</td>
+            <td>{r.cat}</td>
+            <td>{r.status}</td>
+            <td class="mono">{String(r.confidence || '').split(' ')[0]}</td>
+            <td class="mono">{r.reviews ?? '—'}</td>
+            <td class="p-why">{r.affordability[0]}</td>
+            <td class="mono p-score">{r.total}</td>
+            <td><a href={`/${r.slug}`}>view →</a></td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </main>
+</body>
+</html>

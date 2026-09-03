@@ -1,0 +1,63 @@
+---
+/**
+ * Footer.astro — NAP block, source-linked evidence, draft notice, sitemap.
+ */
+interface Props { biz: any }
+const { biz } = Astro.props;
+const year = new Date().getFullYear();
+const draft = /not verified|confirm|pending/i;
+const contactBits = [
+  biz.phone ? { k: 'Phone', v: biz.phone, href: `tel:${biz.phone.replace(/[^\d+]/g, '')}` } : null,
+  biz.email ? { k: 'Email', v: biz.email, href: `mailto:${biz.email}` } : null,
+  { k: 'Address', v: biz.addr },
+  biz.hours ? { k: 'Hours', v: biz.hours } : null,
+].filter(Boolean) as { k: string; v: string; href?: string }[];
+---
+<footer class="footer" id="footer">
+  <div class="shell grid g2">
+    <div class="stack">
+      <p class="kicker">{biz.cat} · {biz.city}</p>
+      <h2 class="h3">{biz.copy.h1}</h2>
+      <p class="lead" style="--step-1: 1.02rem">{biz.copy.sub}</p>
+      <p class="cluster" style="margin-block-start:.6rem">
+        <a class="btn btn--accent" href={`/${biz.slug}/contact`}>{biz.copy.cta1}</a>
+        {biz.phone && <a class="btn btn--ghost" href={`tel:${biz.phone.replace(/[^\d+]/g, '')}`}>{biz.phone}</a>}
+      </p>
+    </div>
+    <div class="grid g2">
+      <dl class="spec" style="grid-template-columns:auto 1fr">
+        {contactBits.map((c) => (
+          <>
+            <dt>{c.k}</dt>
+            <dd>{c.href ? <a class="link" href={c.href}>{c.v}</a> : c.v}</dd>
+          </>
+        ))}
+        <dt>Pages</dt>
+        <dd class="stack" style="--stack:.15rem">
+          {biz.pages.map((p: any) => <a class="link" style="font-size:.9rem" href={p.path}>{p.slug === 'index' ? 'Home' : p.h1}</a>)}
+        </dd>
+      </dl>
+      <div class="stack">
+        <p class="kicker">Research trail</p>
+        <ul class="stack" style="--stack:.2rem;list-style:none;padding:0">
+          {biz.sources.slice(0, 4).map((s: string) => (
+            <li><a class="link" style="font-size:.84rem" href={s} rel="nofollow noopener" target="_blank">{s.replace(/^https?:\/\//, '').split('/')[0]}</a></li>
+          ))}
+        </ul>
+        <p class="note" style="margin-block-start:.8rem">
+          Website status on file: <strong>{biz.web.status}</strong> ({biz.web.confidence}).
+          Draft copy and any figure tagged <em>confirm</em> needs client sign-off before launch.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="shell" style="margin-block-start:clamp(2rem,5vw,3.5rem)">
+    <hr class="rule" />
+    <div class="textlink-row" style="padding-block-start:1rem">
+      <p style="font-size:.8rem;color:var(--muted)">© {year} {biz.name}. {biz.id.toUpperCase()} · {biz.design.label} system.</p>
+      <p style="font-size:.8rem;color:var(--muted)">
+        Built with Astro · design system {draft.test(biz.founded) ? 'with facts flagged for confirmation' : 'verified against public listings'}
+      </p>
+    </div>
+  </div>
+</footer>

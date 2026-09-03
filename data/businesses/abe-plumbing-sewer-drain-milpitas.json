@@ -1,0 +1,330 @@
+{
+  "id": "sv002",
+  "slug": "abe-plumbing-sewer-drain-milpitas",
+  "name": "A.B.E. Plumbing Sewer & Drain",
+  "short": "A.B.E. Plumbing Sewer",
+  "cat": "Plumbing",
+  "sub": "Sewer & drain specialist",
+  "city": "Milpitas",
+  "zip": "95035",
+  "addr": "555 S Park Victoria Dr, Milpitas, CA 95035",
+  "phone": "(408) 946-0870",
+  "email": null,
+  "contactNote": null,
+  "founded": "unverified (long-standing; 43 Yelp reviews accumulated)",
+  "hours": "Mon–Sun, service calls",
+  "audience": "Homeowners and property managers, Milpitas/Fremont border",
+  "scale": {
+    "emp": "crew",
+    "loc": 1
+  },
+  "description": "Sewer and drain focused plumbing: line clearing, camera work, repipes and appliance hook-ups. Listing is unclaimed, so no accurate self-published information exists anywhere online.",
+  "services": [
+    "Sewer line clearing",
+    "Drain camera inspection",
+    "Hydro jetting",
+    "Whole-home repipe",
+    "Washer/dryer relocations",
+    "Toilet & fixture installs"
+  ],
+  "serviceCopy": [
+    "Camera inspection with a clip you keep.",
+    "Hydro jet for root-blocked laterals.",
+    "Repipes on 1970s cast iron stacks.",
+    "Appliance hook-ups done to code, not to habit."
+  ],
+  "insight": "Review text references whole-home repipes and washer relocations — larger-ticket jobs, not drip repairs.",
+  "usps": [
+    "Drain/sewer specialism instead of jack-of-all-trades",
+    "Same-week emergency response",
+    "Twenty-plus years of word-of-mouth in Milpitas"
+  ],
+  "differentiators": [
+    "Nobody else in the sub-category publishes a transparent camera-inspection process"
+  ],
+  "voice": "Blue-collar plain",
+  "persona": "The line-clearing specialist",
+  "reputation": {
+    "rating": 4.2,
+    "reviews": 43,
+    "src": "Yelp",
+    "note": "25 reviews mention rapid dispatch; several mention repipes completed for repeat family customers."
+  },
+  "budget": {
+    "afford": [
+      "Sewer/repipe jobs are $2,500–$15,000 in Santa Clara County",
+      "43 reviews over a decade of listings implies sustained flow",
+      "Zero web presence means 100% of the funnel is currently unowned"
+    ],
+    "risk": [
+      "Unclaimed listing — must reach the owner offline",
+      "Lower rating (4.2) means review strategy matters as much as design"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Slate",
+      "hi-vis amber",
+      "off-white"
+    ],
+    "logo": "Hand-painted truck lettering is the brand — photograph it and formalise",
+    "photoNote": "Truck, crew, camera-inspection stills"
+  },
+  "copy": {
+    "eyebrow": "Sewer & drain · Milpitas",
+    "h1": "We look down the pipe before we dig up your yard.",
+    "sub": "Camera-first diagnosis, hydro jetting, and repipes for older Milpitas homes. No guesswork quotes.",
+    "cta1": "Book an inspection",
+    "cta2": "How a camera visit works",
+    "lede": "Most drain calls become expensive when a contractor starts with a shovel. A.B.E. starts with a camera and a written finding, then tells you the cheapest way to make it permanent.",
+    "svcCopy": [
+      "Camera inspection with a clip you keep.",
+      "Hydro jet for root-blocked laterals.",
+      "Repipes on 1970s cast iron stacks.",
+      "Appliance hook-ups done to code, not to habit."
+    ]
+  },
+  "concept": {
+    "dir": "Diagnostic-screen aesthetic: an inspection-report motif, monospaced findings, before/after camera stills.",
+    "palette": {
+      "ink": "#121a22",
+      "paper": "#f2f1ec",
+      "accent": "#8f2f13",
+      "accent2": "#2f5d6c"
+    },
+    "heroType": "dispatch",
+    "motion": "slide-up",
+    "interactive": [
+      "Animated \"camera feed\" frame in hero",
+      "Findings report sample (redacted)",
+      "Job-type estimator form (lead capture)",
+      "Call-now sticky"
+    ],
+    "pages": [
+      "index",
+      "services",
+      "process",
+      "about",
+      "contact"
+    ],
+    "nav": [
+      "Services",
+      "Camera inspection",
+      "Pricing logic",
+      "Contact"
+    ],
+    "tone": "Direct, technical, calm",
+    "refs": "Feet first, no stock plumber smiling at a wrench.",
+    "signature": "compare",
+    "hero": "dispatch"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "B",
+    "note": "Yelp listing carries no website field and is marked Unclaimed; Yahoo Local record has no Website key; only aggregator mirrors exist.",
+    "src": [
+      "https://www.yelp.com/biz/a-b-e-plumbing-sewer-and-drain-milpitas",
+      "https://local.yahoo.com/info-21571990-abe-plumbing-sewer-drain-milpitas/"
+    ],
+    "status": "No website",
+    "confidence": "verified across two or more directories"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/a-b-e-plumbing-sewer-and-drain-milpitas"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for A.B.E. Plumbing Sewer & Drain — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "home-services",
+    "label": "Trusted Trades",
+    "summary": "Utility-first, urgency-led conversion system for dispatch businesses. Big call target, live status strip, service-area proof, transparent price ranges.",
+    "fonts": {
+      "display": "\"Barlow Condensed\"",
+      "body": "\"Public Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Barlow+Condensed:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500",
+    "nav": "utility",
+    "motion": "slide-up",
+    "tokens": {
+      "ink": "#121a22",
+      "paper": "#f2f1ec",
+      "accent": "#8f2f13",
+      "accent2": "#2f5d6c",
+      "inkName": "Slate",
+      "radius": "10px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 14%, transparent)",
+      "shadow": "0 18px 40px -28px rgb(9 12 20 / .55)",
+      "pad": "clamp(3.6rem,8vw,7rem)",
+      "scale": "1.24",
+      "headingCase": "uppercase",
+      "track": "-.015em",
+      "texture": "grid",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "urgency",
+      "services",
+      "process",
+      "proof",
+      "coverage",
+      "reviews",
+      "faq"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/abe-plumbing-sewer-drain-milpitas",
+      "title": "A.B.E. Plumbing Sewer & Drain — Plumbing in Milpitas",
+      "description": "Camera-first diagnosis, hydro jetting, and repipes for older Milpitas homes. No guesswork quotes.",
+      "h1": "We look down the pipe before we dig up your yard.",
+      "kicker": "Sewer & drain · Milpitas",
+      "sections": [
+        "hero",
+        "urgency",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "reviews",
+        "faq"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/abe-plumbing-sewer-drain-milpitas/services",
+      "title": "Services — A.B.E. Plumbing Sewer & Drain",
+      "description": "Sewer line clearing; Drain camera inspection; Hydro jetting; Whole-home repipe; Washer/dryer relocations; Toilet & fixture installs. Milpitas based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "process",
+      "file": "process.astro",
+      "path": "/abe-plumbing-sewer-drain-milpitas/process",
+      "title": "Process — A.B.E. Plumbing Sewer & Drain",
+      "description": "Process at A.B.E. Plumbing Sewer in Milpitas: Sewer line clearing, Drain camera inspection, Hydro jetting. Camera-first diagnosis, hydro jetting, and repipes for older Milpitas homes. No guesswork quotes.",
+      "h1": "Process",
+      "kicker": "Plumbing",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "about",
+      "file": "about.astro",
+      "path": "/abe-plumbing-sewer-drain-milpitas/about",
+      "title": "About — A.B.E. Plumbing Sewer & Drain",
+      "description": "Sewer and drain focused plumbing: line clearing, camera work, repipes and appliance hook-ups. Listing is unclaimed, so no accurate self-published information exists anywhere online.",
+      "h1": "About A.B.E. Plumbing Sewer & Drain",
+      "kicker": "The firm",
+      "sections": [
+        "hero",
+        "proof",
+        "reviews",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/abe-plumbing-sewer-drain-milpitas/contact",
+      "title": "Contact — A.B.E. Plumbing Sewer & Drain",
+      "description": "Call or write to A.B.E. Plumbing Sewer & Drain in Milpitas. (408) 946-0870",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "urgency",
+        "coverage",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 6,
+    "gap": 10,
+    "vis": 5,
+    "vol": 6,
+    "brand": 6,
+    "comp": 6,
+    "val": 9,
+    "assets": 4,
+    "roi": 8
+  },
+  "seo": {
+    "title": "A.B.E. Plumbing Sewer & Drain — Plumbing in Milpitas",
+    "description": "Camera-first diagnosis, hydro jetting, and repipes for older Milpitas homes. No guesswork quotes.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "A.B.E. Plumbing Sewer & Drain",
+    "description": "Camera-first diagnosis, hydro jetting, and repipes for older Milpitas homes. No guesswork quotes.",
+    "phone": "(408) 946-0870",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Milpitas",
+      "addressRegion": "CA",
+      "postalCode": "95035",
+      "streetAddress": "555 S Park Victoria Dr"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 37.427158,
+      "longitude": -121.882782
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/a-b-e-plumbing-sewer-and-drain-milpitas"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.2,
+      "reviewCount": 43,
+      "bestRating": 5
+    },
+    "slogan": "We look down the pipe before we dig up your yard.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/a-b-e-plumbing-sewer-and-drain-milpitas",
+    "https://local.yahoo.com/info-21571990-abe-plumbing-sewer-drain-milpitas/"
+  ],
+  "sourceNotes": []
+}

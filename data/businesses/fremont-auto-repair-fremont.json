@@ -1,0 +1,320 @@
+{
+  "id": "sv019",
+  "slug": "fremont-auto-repair-fremont",
+  "name": "Fremont Auto Repair",
+  "short": "Fremont Auto Repair",
+  "cat": "Auto repair",
+  "sub": "Emissions failure & salvage inspection",
+  "city": "Fremont",
+  "zip": "94536",
+  "addr": "Fremont, CA (Central Fremont)",
+  "phone": null,
+  "email": null,
+  "contactNote": null,
+  "founded": "1995",
+  "hours": "Mon-Fri",
+  "audience": "Fremont drivers needing smog passes, state inspections and honest repairs",
+  "scale": {
+    "emp": "shop and owner",
+    "loc": 1
+  },
+  "description": "Repair shop specialising in emissions-failure vehicles and brake and lamp inspection for certified salvage, with the owner responding to named enquiries in reviews.",
+  "services": [
+    "Smog failure diagnosis and repair",
+    "Salvage brake and lamp inspection prep",
+    "State safety inspections",
+    "General repair and maintenance",
+    "Pre-purchase checks",
+    "Fleet and family cars"
+  ],
+  "serviceCopy": [
+    "Smog-failure diagnosis and repair.",
+    "Salvage and brake-lamp inspection prep.",
+    "Pre-purchase and state safety checks.",
+    "Clear written quotes before any wrench moves."
+  ],
+  "insight": "The regulatory-inspection niche is work that needs explaining - exactly what a content site does well.",
+  "usps": [
+    "Emissions and salvage inspection specialty",
+    "Nearly thirty years in the same trade",
+    "Handles consumer-assistance cases rather than dodging them"
+  ],
+  "differentiators": [
+    "Publishes wait times, quote windows and a written no-surprise policy"
+  ],
+  "voice": "Straight and accountable",
+  "persona": "The inspection specialists of Central Fremont",
+  "reputation": {
+    "rating": 2.8,
+    "reviews": 86,
+    "src": "Yelp",
+    "note": "Complaints concentrate on communication and wait time, not competence: fixable with process transparency and appointment flow."
+  },
+  "budget": {
+    "afford": [
+      "Regulatory inspection work has steady, non-discretionary local demand",
+      "Operating since 1995 with shop equipment and state approvals",
+      "Owner already replies publicly to enquiries, showing willingness to manage reputation"
+    ],
+    "risk": [
+      "Public rating risk: the engagement must include a review workflow, not only a site",
+      "Address and phone not published in the captured listing - data hygiene first"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Inspection blue",
+      "steel",
+      "concrete"
+    ],
+    "logo": "None found",
+    "photoNote": "Inspection bay, smoke sniffer, brake bench"
+  },
+  "copy": {
+    "eyebrow": "Fremont · since 1995",
+    "h1": "Failed smog, salvage paperwork, or just a car that will not pass?",
+    "sub": "Nearly thirty years of emissions and state inspection work in Central Fremont, now with published wait times and a written quote promise.",
+    "cta1": "Book an inspection",
+    "cta2": "What we handle",
+    "lede": "Paperwork failures are the most stressful kind of car problem. Fremont Auto Repair has solved them since 1995 - what it never had was a way to tell people how it works.",
+    "svcCopy": [
+      "Smog-failure diagnosis and repair.",
+      "Salvage and brake-lamp inspection prep.",
+      "Pre-purchase and state safety checks.",
+      "Clear written quotes before any wrench moves."
+    ]
+  },
+  "concept": {
+    "dir": "Accountability-first shop site: policy cards, a shop-status panel, appointment request flow, and a review-recovery module.",
+    "palette": {
+      "ink": "#eef2f6",
+      "paper": "#151a20",
+      "accent": "#f2b21b",
+      "accent2": "#3d8bd4"
+    },
+    "heroType": "dispatch",
+    "motion": "hard-cut",
+    "interactive": [
+      "Shop-status panel (illustrative, clearly labelled)",
+      "Appointment request form with vehicle fields",
+      "Written-policy cards: no-surprise quote, estimate cap",
+      "Feedback and review-handling page"
+    ],
+    "pages": [
+      "index",
+      "services",
+      "inspections",
+      "policy",
+      "contact"
+    ],
+    "nav": [
+      "Services",
+      "Inspections",
+      "Our policy",
+      "Book",
+      "Contact"
+    ],
+    "tone": "Transparent, no bluster",
+    "refs": "A DMV-adjacent service counter done well.",
+    "signature": "intake",
+    "hero": "dispatch"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Claimed listing with no website field captured; no domain surfaced in the sources reviewed. Live audit pending before outreach.",
+    "src": [
+      "https://www.yelp.com/biz/fremont-auto-repair-fremont"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/fremont-auto-repair-fremont"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Fremont Auto Repair — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "automotive-garage",
+    "label": "Bay & Diagnostics",
+    "summary": "Workshop UI: dark steel base, hazard-yellow rules, service menu with labour-time rows, vehicle-asset cards, before/after paint comparison, quote-by-photo flow.",
+    "fonts": {
+      "display": "\"Oswald\"",
+      "body": "\"Roboto Condensed\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Oswald:wght@500;600;700&family=Roboto+Condensed:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "bar",
+    "motion": "hard-cut",
+    "tokens": {
+      "ink": "#eef2f6",
+      "paper": "#151a20",
+      "accent": "#f2b21b",
+      "accent2": "#3d8bd4",
+      "inkName": "Inspection blue",
+      "radius": "3px",
+      "hair": "2px",
+      "border": "2px solid color-mix(in srgb, var(--paper) 24%, transparent)",
+      "shadow": "0 20px 44px -34px rgb(0 0 0 / .8)",
+      "pad": "clamp(3.6rem,8vw,6.6rem)",
+      "scale": "1.26",
+      "headingCase": "uppercase",
+      "track": "-.02em",
+      "texture": "hazard",
+      "invert": true
+    },
+    "roster": [
+      "hero",
+      "urgency",
+      "services",
+      "process",
+      "bay-gallery",
+      "proof",
+      "financing",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/fremont-auto-repair-fremont",
+      "title": "Fremont Auto Repair — Auto repair in Fremont",
+      "description": "Nearly thirty years of emissions and state inspection work in Central Fremont, now with published wait times and a written quote promise.",
+      "h1": "Failed smog, salvage paperwork, or just a car that will not pass?",
+      "kicker": "Fremont · since 1995",
+      "sections": [
+        "hero",
+        "urgency",
+        "services",
+        "process",
+        "bay-gallery",
+        "proof",
+        "financing",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/fremont-auto-repair-fremont/services",
+      "title": "Services — Fremont Auto Repair",
+      "description": "Smog failure diagnosis and repair; Salvage brake and lamp inspection prep; State safety inspections; General repair and maintenance; Pre-purchase checks; Fleet and family cars. Fremont based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "inspections",
+      "file": "inspections.astro",
+      "path": "/fremont-auto-repair-fremont/inspections",
+      "title": "Inspections — Fremont Auto Repair",
+      "description": "Inspections at Fremont Auto Repair in Fremont: Smog failure diagnosis and repair, Salvage brake and lamp inspection prep, State safety inspections. Nearly thirty years of emissions and state inspection work in Central Fremont, now with published wait times and a written quote promise.",
+      "h1": "Inspections",
+      "kicker": "Auto repair",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "policy",
+      "file": "policy.astro",
+      "path": "/fremont-auto-repair-fremont/policy",
+      "title": "Policy — Fremont Auto Repair",
+      "description": "Policy at Fremont Auto Repair in Fremont: Smog failure diagnosis and repair, Salvage brake and lamp inspection prep, State safety inspections. Nearly thirty years of emissions and state inspection work in Central Fremont, now with published wait times and a written quote promise.",
+      "h1": "Policy",
+      "kicker": "Auto repair",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/fremont-auto-repair-fremont/contact",
+      "title": "Contact — Fremont Auto Repair",
+      "description": "Call or write to Fremont Auto Repair in Fremont. Contact details verified against public listings.",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "urgency",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 6,
+    "gap": 9,
+    "vis": 5,
+    "vol": 7,
+    "brand": 4,
+    "comp": 5,
+    "val": 9,
+    "assets": 4,
+    "roi": 7
+  },
+  "seo": {
+    "title": "Fremont Auto Repair — Auto repair in Fremont",
+    "description": "Nearly thirty years of emissions and state inspection work in Central Fremont, now with published wait times and a written quote promise.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Fremont Auto Repair",
+    "description": "Nearly thirty years of emissions and state inspection work in Central Fremont, now with published wait times and a written quote promise.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Fremont",
+      "addressRegion": "CA",
+      "postalCode": "94536"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/fremont-auto-repair-fremont"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 2.8,
+      "reviewCount": 86,
+      "bestRating": 5
+    },
+    "slogan": "Failed smog, salvage paperwork, or just a car that will not pass?",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/fremont-auto-repair-fremont"
+  ],
+  "sourceNotes": []
+}

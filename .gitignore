@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+*.log
+
+# regenerable studio assets (npm run assets)
+public/og/
+public/favicon/

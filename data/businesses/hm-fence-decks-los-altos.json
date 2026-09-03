@@ -1,0 +1,321 @@
+{
+  "id": "sv046",
+  "slug": "hm-fence-decks-los-altos",
+  "name": "HM Fence",
+  "short": "HM Fence",
+  "cat": "Fencing & decks",
+  "sub": "Redwood fences, decks, retaining walls",
+  "city": "Los Altos",
+  "zip": "94022",
+  "addr": "Los Altos, CA 94022 (service area: Los Altos, Mountain View, Sunnyvale)",
+  "phone": "(650) 898-5156",
+  "email": null,
+  "contactNote": null,
+  "founded": "not verified (10+ years experience stated on listing)",
+  "hours": "Mon-Fri crews",
+  "audience": "Los Altos, Mountain View and Sunnyvale homeowners",
+  "scale": {
+    "emp": "two-person-plus crews (inferred from listing claims)",
+    "loc": 1
+  },
+  "description": "Fence and deck outfit advertising installation and repair of redwood fences, gates, decks and wood retaining walls, with fixed service area and locally owned operation.",
+  "services": [
+    "Redwood fence installation",
+    "Gate and hardware replacement",
+    "Deck building and repair",
+    "Wood retaining walls",
+    "Stain and sealing",
+    "Storm and impact repair"
+  ],
+  "serviceCopy": [
+    "Redwood fences, graded and framed straight.",
+    "Decks built to drain and to last.",
+    "Retaining walls for sloped yards.",
+    "Gates, latches and hardware that hold."
+  ],
+  "insight": "A 5.0 rating across 61 reviews with a phone number as the only conversion path: the highest-contrast gap in the outdoor-structures group.",
+  "usps": [
+    "5.0 across 61 reviews",
+    "Locally owned, fixed service area",
+    "Fence, deck and wall work by one crew"
+  ],
+  "differentiators": [
+    "Publishes the review archive plus a material guide (redwood grades, fastener spec) nobody in this trade shows"
+  ],
+  "voice": "Neighbourly and exact",
+  "persona": "The fence and deck crew of Los Altos",
+  "reputation": {
+    "rating": 5,
+    "reviews": 61,
+    "src": "Yelp",
+    "note": "Perfect score at meaningful volume: the review block should be the hero."
+  },
+  "budget": {
+    "afford": [
+      "Fence and deck projects $6K-$60K with repeatable scope",
+      "Verified licence badge already earned",
+      "Ten-plus years of reviews at 5.0 is a licence to print a proper site"
+    ],
+    "risk": [
+      "Small crew: capacity, not demand, is the constraint - qualify leads in the form",
+      "Address not published in captured listings - confirm before outreach"
+    ]
+  },
+  "art": {
+    "colors": [
+      "New redwood",
+      "silvered grey",
+      "galvanised"
+    ],
+    "logo": "Set HM with a picket-rhythm device",
+    "photoNote": "Post setting, plumb lines, finished runs, gate hardware"
+  },
+  "copy": {
+    "eyebrow": "Los Altos · fences and decks",
+    "h1": "Sixty-one neighbours, five stars, no website.",
+    "sub": "Redwood fencing, decks and retaining walls built by a locally owned crew between Los Altos and Mountain View.",
+    "cta1": "Get an estimate",
+    "cta2": "Fence guide",
+    "lede": "HM Fence has never lost a customer publicly: 5.0 across 61 reviews. None of that proof has anywhere to live except someone else's platform.",
+    "svcCopy": [
+      "Redwood fences, graded and framed straight.",
+      "Decks built to drain and to last.",
+      "Retaining walls for sloped yards.",
+      "Gates, latches and hardware that hold."
+    ]
+  },
+  "concept": {
+    "dir": "Review-forward service site: the 61-quote archive as the primary visual, a fence-type configurator (style, grade, height, gates) that outputs an estimate band, and a material guide. Warm, honest, no gloss.",
+    "palette": {
+      "ink": "#1d1b17",
+      "paper": "#f5f1e8",
+      "accent": "#a8552b",
+      "accent2": "#4d6350"
+    },
+    "heroType": "split",
+    "motion": "pop-in",
+    "interactive": [
+      "Quote band picker (style / length / gates / terrain)",
+      "Review archive marquee with platform badge",
+      "Fence anatomy diagram (posts, rails, grade stars)",
+      "Neighbourhood service-area map block"
+    ],
+    "pages": [
+      "index",
+      "guide",
+      "reviews",
+      "estimate",
+      "contact"
+    ],
+    "nav": [
+      "Fence guide",
+      "Reviews",
+      "Estimate",
+      "Contact"
+    ],
+    "tone": "Proof over promise",
+    "refs": "A contractor site that lets the neighbours do the talking.",
+    "signature": "picker",
+    "hero": "split"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Appears in Los Altos outdoor-structure result sets at 5.0 across 61 reviews with verified-licence and locally-owned badges, quoting an estimate line, and no website affordance captured. Live audit pending.",
+    "src": [
+      "https://www.yelp.com/search?find_desc=Deck+Contractor&find_loc=Los+Altos%2C+CA"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/search?find_desc=Deck+Contractor&find_loc=Los+Altos%2C+CA"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for HM Fence — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "home-services",
+    "label": "Trusted Trades",
+    "summary": "Utility-first, urgency-led conversion system for dispatch businesses. Big call target, live status strip, service-area proof, transparent price ranges.",
+    "fonts": {
+      "display": "\"Barlow Condensed\"",
+      "body": "\"Public Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Barlow+Condensed:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500",
+    "nav": "utility",
+    "motion": "pop-in",
+    "tokens": {
+      "ink": "#1d1b17",
+      "paper": "#f5f1e8",
+      "accent": "#a8552b",
+      "accent2": "#4d6350",
+      "inkName": "New redwood",
+      "radius": "10px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 14%, transparent)",
+      "shadow": "0 18px 40px -28px rgb(9 12 20 / .55)",
+      "pad": "clamp(3.6rem,8vw,7rem)",
+      "scale": "1.24",
+      "headingCase": "uppercase",
+      "track": "-.015em",
+      "texture": "grid",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "urgency",
+      "services",
+      "process",
+      "proof",
+      "coverage",
+      "reviews",
+      "faq"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/hm-fence-decks-los-altos",
+      "title": "HM Fence — Fencing & decks in Los Altos",
+      "description": "Redwood fencing, decks and retaining walls built by a locally owned crew between Los Altos and Mountain View.",
+      "h1": "Sixty-one neighbours, five stars, no website.",
+      "kicker": "Los Altos · fences and decks",
+      "sections": [
+        "hero",
+        "urgency",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "reviews",
+        "faq"
+      ]
+    },
+    {
+      "slug": "guide",
+      "file": "guide.astro",
+      "path": "/hm-fence-decks-los-altos/guide",
+      "title": "Guide — HM Fence",
+      "description": "Guide at HM Fence in Los Altos: Redwood fence installation, Gate and hardware replacement, Deck building and repair. Redwood fencing, decks and retaining walls built by a locally owned crew between Los Altos and Mountain View.",
+      "h1": "Guide",
+      "kicker": "Fencing & decks",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "reviews",
+      "file": "reviews.astro",
+      "path": "/hm-fence-decks-los-altos/reviews",
+      "title": "Reviews — HM Fence",
+      "description": "Reviews at HM Fence in Los Altos: Redwood fence installation, Gate and hardware replacement, Deck building and repair. Redwood fencing, decks and retaining walls built by a locally owned crew between Los Altos and Mountain View.",
+      "h1": "Reviews",
+      "kicker": "Fencing & decks",
+      "sections": [
+        "hero",
+        "proof",
+        "reviews",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "estimate",
+      "file": "estimate.astro",
+      "path": "/hm-fence-decks-los-altos/estimate",
+      "title": "Estimate — HM Fence",
+      "description": "Estimate at HM Fence in Los Altos: Redwood fence installation, Gate and hardware replacement, Deck building and repair. Redwood fencing, decks and retaining walls built by a locally owned crew between Los Altos and Mountain View.",
+      "h1": "Estimate",
+      "kicker": "Fencing & decks",
+      "sections": [
+        "hero",
+        "urgency",
+        "coverage",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/hm-fence-decks-los-altos/contact",
+      "title": "Contact — HM Fence",
+      "description": "Call or write to HM Fence in Los Altos. (650) 898-5156",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "urgency",
+        "coverage",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 10,
+    "vis": 5,
+    "vol": 8,
+    "brand": 6,
+    "comp": 6,
+    "val": 9,
+    "assets": 5,
+    "roi": 9
+  },
+  "seo": {
+    "title": "HM Fence — Fencing & decks in Los Altos",
+    "description": "Redwood fencing, decks and retaining walls built by a locally owned crew between Los Altos and Mountain View.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "HM Fence",
+    "description": "Redwood fencing, decks and retaining walls built by a locally owned crew between Los Altos and Mountain View.",
+    "phone": "(650) 898-5156",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Los Altos",
+      "addressRegion": "CA",
+      "postalCode": "94022"
+    },
+    "sameAs": [
+      "https://www.yelp.com/search?find_desc=Deck+Contractor&find_loc=Los+Altos%2C+CA"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 61,
+      "bestRating": 5
+    },
+    "slogan": "Sixty-one neighbours, five stars, no website.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/search?find_desc=Deck+Contractor&find_loc=Los+Altos%2C+CA"
+  ],
+  "sourceNotes": []
+}

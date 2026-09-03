@@ -1,0 +1,315 @@
+{
+  "id": "sv038",
+  "slug": "navarros-jewelry-san-jose",
+  "name": "Navarro's Jewelry",
+  "short": "Navarro's Jewelry",
+  "cat": "Jewelry",
+  "sub": "Custom design & same-day repair",
+  "city": "San Jose",
+  "zip": "95110",
+  "addr": "280 Willow St, San Jose, CA 95110",
+  "phone": "(408) 293-6125",
+  "email": null,
+  "contactNote": null,
+  "founded": "1987",
+  "hours": "Mon-Fri plus Saturday",
+  "audience": "Downtown San Jose professionals, promise-ring and wedding clients, watch and heirloom repairs",
+  "scale": {
+    "emp": "Oscar Navarro plus bench staff",
+    "loc": 1
+  },
+  "description": "Oscar Navarro's downtown shop since 1987: same-day repairs, custom design and a bench that serves the courthouse crowd as often as the collectors.",
+  "services": [
+    "Same-day repair and sizing",
+    "Custom design and CAD review",
+    "Watch and jewelry servicing",
+    "Estate and heirloom restoration",
+    "Engagement and wedding sets",
+    "Appraisal referrals"
+  ],
+  "serviceCopy": [
+    "Sizing, repairs and re-tipping, same day.",
+    "Custom pieces drawn with the maker.",
+    "Estate restoration with a paper trail.",
+    "Wedding sets for the courthouse week."
+  ],
+  "insight": "Proximity to the Santa Clara County courthouse is an unexploited demand engine: elopement-ring traffic is literal walk-in business.",
+  "usps": [
+    "Thirty-eight years on Willow Street",
+    "Repairs done the same day",
+    "Walk-in custom design with a maker at the bench"
+  ],
+  "differentiators": [
+    "Publishes same-day service windows and a ring quiz that ends in an appointment, not an email list"
+  ],
+  "voice": "Warm, direct, unpretentious luxury",
+  "persona": "The downtown bench of San Jose",
+  "reputation": {
+    "rating": 5,
+    "reviews": 32,
+    "src": "Yelp",
+    "note": "Perfect score with real volume over nearly four decades."
+  },
+  "budget": {
+    "afford": [
+      "Custom design tickets $2K-$30K; decades of accumulated inventory relationships",
+      "Long-established downtown retail tenancy",
+      "Same-day service implies bench capacity that a booking flow would multiply"
+    ],
+    "risk": [
+      "Owner-operated: content and photo capture need a service, not advice",
+      "Two jewelry shops in this database must not look alike: differentiate hard"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Brass",
+      "velvet blue",
+      "solder bright"
+    ],
+    "logo": "Set Navarro with an underline flourish from the shop sign",
+    "photoNote": "Hand-made wax, bench pin, finished rings in daylight"
+  },
+  "copy": {
+    "eyebrow": "Downtown San Jose · since 1987",
+    "h1": "Bring it in at ten, wear it at four.",
+    "sub": "Same-day repair, custom design and four decades of bench work on Willow Street.",
+    "cta1": "Book the bench",
+    "cta2": "Design a piece",
+    "lede": "Navarro has fixed and made jewelry next to the courthouse since 1987, serving people who need it today. That promise is worth more online than it has ever been.",
+    "svcCopy": [
+      "Sizing, repairs and re-tipping, same day.",
+      "Custom pieces drawn with the maker.",
+      "Estate restoration with a paper trail.",
+      "Wedding sets for the courthouse week."
+    ]
+  },
+  "concept": {
+    "dir": "Downtown warm-luxe: brass on deep blue, big photography, a service-window module built around same-day promise, and a design enquiry that feels like walking in.",
+    "palette": {
+      "ink": "#f3efe8",
+      "paper": "#12212b",
+      "accent": "#c69a4c",
+      "accent2": "#b0472f"
+    },
+    "heroType": "split",
+    "motion": "soft-mask",
+    "interactive": [
+      "Same-day service window panel (open hours plus cut-off)",
+      "Ring design quiz ending in an appointment",
+      "Maker bio with bench photography",
+      "Care instructions as printable card"
+    ],
+    "pages": [
+      "index",
+      "repair",
+      "custom",
+      "care",
+      "contact"
+    ],
+    "nav": [
+      "Repairs",
+      "Custom",
+      "Care",
+      "Contact"
+    ],
+    "tone": "Approachable mastery",
+    "refs": "A jeweller who answers the door himself.",
+    "signature": "picker",
+    "hero": "split"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "B",
+    "note": "Downtown Willow Street listing with 5.0 across 32 reviews and no website field in the listings captured; no domain surfaced. Contact is a phone line to a shop on a street of shopfronts.",
+    "src": [
+      "https://www.yelp.com/biz/navarros-jewelry-san-jose"
+    ],
+    "status": "No website",
+    "confidence": "verified across two or more directories"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/navarros-jewelry-san-jose"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Navarro's Jewelry — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "luxe-dark",
+    "label": "Gallery Noir",
+    "summary": "Near-black canvas, champagne metal, oversized imagery, slow motion, cursor-following highlights. For jewelers, galleries, spas, luxury services.",
+    "fonts": {
+      "display": "\"Cormorant Garamond\"",
+      "body": "\"Jost\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Cormorant+Garamond:wght@300;400;500;600&family=Jost:wght@300;400;500&family=IBM+Plex+Mono:wght@400",
+    "nav": "overlay",
+    "motion": "soft-mask",
+    "tokens": {
+      "ink": "#f3efe8",
+      "paper": "#12212b",
+      "accent": "#c69a4c",
+      "accent2": "#b0472f",
+      "inkName": "Brass",
+      "radius": "0px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--paper) 22%, transparent)",
+      "shadow": "0 30px 80px -40px rgb(0 0 0 / .8)",
+      "pad": "clamp(5rem,11vw,9.5rem)",
+      "scale": "1.28",
+      "headingCase": "none",
+      "track": ".02em",
+      "texture": "grain",
+      "invert": true
+    },
+    "roster": [
+      "hero",
+      "collection",
+      "craft",
+      "experience",
+      "press",
+      "visit",
+      "services",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/navarros-jewelry-san-jose",
+      "title": "Navarro's Jewelry — Jewelry in San Jose",
+      "description": "Same-day repair, custom design and four decades of bench work on Willow Street.",
+      "h1": "Bring it in at ten, wear it at four.",
+      "kicker": "Downtown San Jose · since 1987",
+      "sections": [
+        "hero",
+        "collection",
+        "craft",
+        "experience",
+        "press",
+        "visit",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "repair",
+      "file": "repair.astro",
+      "path": "/navarros-jewelry-san-jose/repair",
+      "title": "Repair — Navarro's Jewelry",
+      "description": "Repair at Navarro's Jewelry in San Jose: Same-day repair and sizing, Custom design and CAD review, Watch and jewelry servicing. Same-day repair, custom design and four decades of bench work on Willow Street.",
+      "h1": "Repair",
+      "kicker": "Jewelry",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "custom",
+      "file": "custom.astro",
+      "path": "/navarros-jewelry-san-jose/custom",
+      "title": "Custom — Navarro's Jewelry",
+      "description": "Custom at Navarro's Jewelry in San Jose: Same-day repair and sizing, Custom design and CAD review, Watch and jewelry servicing. Same-day repair, custom design and four decades of bench work on Willow Street.",
+      "h1": "Custom",
+      "kicker": "Jewelry",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "care",
+      "file": "care.astro",
+      "path": "/navarros-jewelry-san-jose/care",
+      "title": "Care — Navarro's Jewelry",
+      "description": "Care at Navarro's Jewelry in San Jose: Same-day repair and sizing, Custom design and CAD review, Watch and jewelry servicing. Same-day repair, custom design and four decades of bench work on Willow Street.",
+      "h1": "Care",
+      "kicker": "Jewelry",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/navarros-jewelry-san-jose/contact",
+      "title": "Contact — Navarro's Jewelry",
+      "description": "Call or write to Navarro's Jewelry in San Jose. (408) 293-6125",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "visit",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 10,
+    "vis": 6,
+    "vol": 7,
+    "brand": 8,
+    "comp": 7,
+    "val": 9,
+    "assets": 5,
+    "roi": 9
+  },
+  "seo": {
+    "title": "Navarro's Jewelry — Jewelry in San Jose",
+    "description": "Same-day repair, custom design and four decades of bench work on Willow Street.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "Store",
+    "name": "Navarro's Jewelry",
+    "description": "Same-day repair, custom design and four decades of bench work on Willow Street.",
+    "phone": "(408) 293-6125",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95110",
+      "streetAddress": "280 Willow St"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/navarros-jewelry-san-jose"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 32,
+      "bestRating": 5
+    },
+    "slogan": "Bring it in at ten, wear it at four.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/navarros-jewelry-san-jose"
+  ],
+  "sourceNotes": []
+}

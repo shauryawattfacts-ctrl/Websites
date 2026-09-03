@@ -1,0 +1,323 @@
+{
+  "id": "sv039",
+  "slug": "custom-framing-sports-memorabilia-san-jose",
+  "name": "Custom Framing & World of Sports Memorabilia",
+  "short": "Custom Framing &",
+  "cat": "Custom framing & collectibles",
+  "sub": "Shadow boxes, jerseys, JSA signings",
+  "city": "San Jose",
+  "zip": "95110",
+  "addr": "82 S Montgomery St, San Jose, CA 95110",
+  "phone": "(408) 286-2151",
+  "email": null,
+  "contactNote": null,
+  "founded": "1989",
+  "hours": "Mon-Fri, Sat morning",
+  "audience": "Collectors, athletes and families preserving jerseys, rings, bibs and art",
+  "scale": {
+    "emp": "framing staff plus authentication relationships",
+    "loc": 1
+  },
+  "description": "A downtown San Jose shop doing museum-grade custom framing and authenticated sports memorabilia under one roof: shadow boxes, jersey mounts, jersey framing, and in-person JSA signing events.",
+  "services": [
+    "Custom framing and matting",
+    "Shadow boxes and 3D mounts",
+    "Jersey and equipment mounting",
+    "Authenticated memorabilia sales",
+    "Signing event coordination",
+    "Conservation and UV glazing"
+  ],
+  "serviceCopy": [
+    "Matting, moulding and UV glazing, specified.",
+    "Shadow boxes built to the object.",
+    "Authenticated jerseys, cards and signing events.",
+    "Conservation advice before the sale."
+  ],
+  "insight": "Two businesses in one lease is a genuine architecture problem - the site must resolve the identity, which is exactly what a $10K+ engagement buys.",
+  "usps": [
+    "Museum-grade materials, explained",
+    "Authenticity handled with third-party graders",
+    "One shop for the frame and the piece"
+  ],
+  "differentiators": [
+    "Publishes a mounting gallery by object type (jersey, ring, bib, guitar) and a framing material explainer"
+  ],
+  "voice": "Nerd-precise, proudly local",
+  "persona": "The archive shop on Montgomery",
+  "reputation": {
+    "rating": 4.4,
+    "reviews": 53,
+    "src": "Yelp",
+    "note": "Steady proof across both lines."
+  },
+  "budget": {
+    "afford": [
+      "Museum framing projects $200-$3,000; collector cases reach five figures",
+      "Inventory-backed retail plus service business: two revenue engines",
+      "Thirty-six years downtown with a known name in collector circles"
+    ],
+    "risk": [
+      "Collectibles carry authentication liability: publish their process, not guarantees",
+      "Dual brand needs IA decisions before pixels"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Museum grey",
+      "mahogany",
+      "glass highlight"
+    ],
+    "logo": "Two-part lockup: FRAMING over MEMORABILIA",
+    "photoNote": "Depth mounts, UV glass edges, glove-handled cards"
+  },
+  "copy": {
+    "eyebrow": "Downtown San Jose · since 1989",
+    "h1": "Framed like a museum, sourced like a collector.",
+    "sub": "Custom framing, shadow boxes and authenticated sports memorabilia under one roof on South Montgomery Street.",
+    "cta1": "Start a framing quote",
+    "cta2": "Browse the case",
+    "lede": "This shop has spent thirty-six years mounting the things people cannot replace, on a domain that only mentions half of what it does.",
+    "svcCopy": [
+      "Matting, moulding and UV glazing, specified.",
+      "Shadow boxes built to the object.",
+      "Authenticated jerseys, cards and signing events.",
+      "Conservation advice before the sale."
+    ]
+  },
+  "concept": {
+    "dir": "Archive and vitrine layout: dark museum walls, object-in-case photography, a mounting-method selector by object type, and a materials spec table. Restrained motion, precise captions.",
+    "palette": {
+      "ink": "#f2f0ec",
+      "paper": "#151513",
+      "accent": "#8e6a3f",
+      "accent2": "#3f6b6d"
+    },
+    "heroType": "fullbleed",
+    "motion": "slow-fade",
+    "interactive": [
+      "Object-type mount selector (jersey, ring, medal, guitar, art)",
+      "Materials and glazing spec table",
+      "Quote request with measurements and object photo upload",
+      "Authenticated inventory highlights (client-supplied)"
+    ],
+    "pages": [
+      "index",
+      "framing",
+      "collection",
+      "process",
+      "contact"
+    ],
+    "nav": [
+      "Framing",
+      "Collection",
+      "Process",
+      "Contact"
+    ],
+    "tone": "Curatorial",
+    "refs": "A museum services page crossed with a collector shop.",
+    "signature": "picker",
+    "hero": "fullbleed"
+  },
+  "web": {
+    "s": "basic",
+    "url": "http://worldofsportsmemorabilia.com",
+    "lvl": "C",
+    "note": "Directory record lists the memorabilia domain only: one of two product lines has a web presence and the framing business effectively does not. Treat as a split-identity problem pending full audit.",
+    "src": [
+      "http://worldofsportsmemorabilia.com",
+      "https://www.yelp.com/biz/custom-framing-and-world-of-sports-memorabilia-san-jose"
+    ],
+    "status": "Extremely outdated or basic website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/custom-framing-and-world-of-sports-memorabilia-san-jose"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Custom Framing & World of Sports Memorabilia — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "retail-showroom",
+    "label": "Showroom Index",
+    "summary": "Catalogue-thinking: swatch rail, filterable product index, brand marquee, visit-the-showroom CTA, spec rows per material.",
+    "fonts": {
+      "display": "\"Space Grotesk\"",
+      "body": "\"Inter\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400",
+    "nav": "utility",
+    "motion": "slow-fade",
+    "tokens": {
+      "ink": "#f2f0ec",
+      "paper": "#151513",
+      "accent": "#8e6a3f",
+      "accent2": "#3f6b6d",
+      "inkName": "Museum grey",
+      "radius": "8px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 16%, transparent)",
+      "shadow": "0 16px 34px -26px rgb(20 20 30 / .5)",
+      "pad": "clamp(3.6rem,8vw,6.8rem)",
+      "scale": "1.22",
+      "headingCase": "none",
+      "track": "-.018em",
+      "texture": "grid",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "swatches",
+      "collections",
+      "brands",
+      "process",
+      "visit",
+      "reviews",
+      "services"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/custom-framing-sports-memorabilia-san-jose",
+      "title": "Custom Framing & World · San Jose, CA",
+      "description": "Custom framing, shadow boxes and authenticated sports memorabilia under one roof on South Montgomery Street.",
+      "h1": "Framed like a museum, sourced like a collector.",
+      "kicker": "Downtown San Jose · since 1989",
+      "sections": [
+        "hero",
+        "swatches",
+        "collections",
+        "brands",
+        "process",
+        "visit",
+        "reviews",
+        "services"
+      ]
+    },
+    {
+      "slug": "framing",
+      "file": "framing.astro",
+      "path": "/custom-framing-sports-memorabilia-san-jose/framing",
+      "title": "Framing — Custom Framing & World of Sports Memorabilia",
+      "description": "Framing at Custom Framing & in San Jose: Custom framing and matting, Shadow boxes and 3D mounts, Jersey and equipment mounting. Custom framing, shadow boxes and authenticated sports memorabilia under one roof on South Montgomery Street.",
+      "h1": "Framing",
+      "kicker": "Custom framing & collectibles",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "collection",
+      "file": "collection.astro",
+      "path": "/custom-framing-sports-memorabilia-san-jose/collection",
+      "title": "Collection — Custom Framing & World of Sports Memorabilia",
+      "description": "Collection at Custom Framing & in San Jose: Custom framing and matting, Shadow boxes and 3D mounts, Jersey and equipment mounting. Custom framing, shadow boxes and authenticated sports memorabilia under one roof on South Montgomery Street.",
+      "h1": "Collection",
+      "kicker": "Custom framing & collectibles",
+      "sections": [
+        "hero",
+        "services",
+        "collections",
+        "swatches",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "process",
+      "file": "process.astro",
+      "path": "/custom-framing-sports-memorabilia-san-jose/process",
+      "title": "Process — Custom Framing & World of Sports Memorabilia",
+      "description": "Process at Custom Framing & in San Jose: Custom framing and matting, Shadow boxes and 3D mounts, Jersey and equipment mounting. Custom framing, shadow boxes and authenticated sports memorabilia under one roof on South Montgomery Street.",
+      "h1": "Process",
+      "kicker": "Custom framing & collectibles",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/custom-framing-sports-memorabilia-san-jose/contact",
+      "title": "Contact — Custom Framing & World of Sports Memorabilia",
+      "description": "Call or write to Custom Framing & World of Sports Memorabilia in San Jose. (408) 286-2151",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "process",
+        "visit",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 9,
+    "vis": 5,
+    "vol": 7,
+    "brand": 8,
+    "comp": 5,
+    "val": 9,
+    "assets": 7,
+    "roi": 8
+  },
+  "seo": {
+    "title": "Custom Framing & World · San Jose, CA",
+    "description": "Custom framing, shadow boxes and authenticated sports memorabilia under one roof on South Montgomery Street.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "Store",
+    "name": "Custom Framing & World of Sports Memorabilia",
+    "description": "Custom framing, shadow boxes and authenticated sports memorabilia under one roof on South Montgomery Street.",
+    "phone": "(408) 286-2151",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95110",
+      "streetAddress": "82 S Montgomery St"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/custom-framing-and-world-of-sports-memorabilia-san-jose"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.4,
+      "reviewCount": 53,
+      "bestRating": 5
+    },
+    "slogan": "Framed like a museum, sourced like a collector.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "http://worldofsportsmemorabilia.com",
+    "https://www.yelp.com/biz/custom-framing-and-world-of-sports-memorabilia-san-jose"
+  ],
+  "sourceNotes": []
+}

@@ -1,0 +1,321 @@
+{
+  "id": "sv037",
+  "slug": "elegant-jewelers-san-jose",
+  "name": "Elegant Jewelers",
+  "short": "Elegant Jewelers",
+  "cat": "Jewelry",
+  "sub": "Bench, laser welding & custom design",
+  "city": "San Jose",
+  "zip": "95125",
+  "addr": "1605 Meridian Ave, San Jose, CA 95125",
+  "phone": "(408) 255-7832",
+  "email": null,
+  "contactNote": null,
+  "founded": "1997",
+  "hours": "Tue-Sat, bench drop-off hours",
+  "audience": "Willow Glen and greater San Jose clients; engagement and heirloom work",
+  "scale": {
+    "emp": "owner-led bench with goldsmith and appraiser",
+    "loc": 1
+  },
+  "description": "Independent jewelry store and repair bench on Meridian Avenue since 1997, running in-house laser welding, sizing, restoration and custom design under owner Bona.",
+  "services": [
+    "Laser welding and restoration",
+    "Ring sizing and shank repair",
+    "Custom and heirloom redesign",
+    "Stone matching and setting",
+    "Appraisal coordination",
+    "Engagement and wedding bands"
+  ],
+  "serviceCopy": [
+    "Sizing, shanks and rebuilt heads.",
+    "Laser welding that spares the stone.",
+    "Heirloom redesign, drawn before cut.",
+    "Stone matching and setting."
+  ],
+  "insight": "Nineteen reviews at 4.8 across 189 collected reviews elsewhere: rare bench capability in a mall-dominated market.",
+  "usps": [
+    "Real bench with laser welding, not a mail-in repair",
+    "Twenty-eight years on the same street",
+    "Heirloom redesign as a documented process"
+  ],
+  "differentiators": [
+    "Publishes the repair and redesign process with before/after detail, which retail chains cannot"
+  ],
+  "voice": "Discreet, precise, familial",
+  "persona": "The bench behind the glass",
+  "reputation": {
+    "rating": 4.8,
+    "reviews": 189,
+    "src": "Yelp subset 19 reviews; aggregate 189",
+    "note": "Aggregate counts differ by platform - confirm the number you publish."
+  },
+  "budget": {
+    "afford": [
+      "Restoration and custom projects run $1K-$25K with high-margin inventory",
+      "Twenty-eight years in a owned or long-leased Willow Glen location",
+      "Already paying a vendor for a template page: a rebuild is a substitution, not a new cost"
+    ],
+    "risk": [
+      "Jewelry search is dominated by national retail: content depth is essential",
+      "Security and privacy: never publish home-delivery or vault detail"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Oxidised silver",
+      "garnet",
+      "jeweler white"
+    ],
+    "logo": "Set an engraved serif lockup with a hairline border",
+    "photoNote": "Bench tools, loupe view, tweezers and stones, macro light"
+  },
+  "copy": {
+    "eyebrow": "Willow Glen · since 1997",
+    "h1": "The bench behind the glass, now with a front door.",
+    "sub": "Laser welding, restoration and heirloom redesign in a family jewelry shop on Meridian Avenue.",
+    "cta1": "Book a bench consultation",
+    "cta2": "Redesign stories",
+    "lede": "Elegant Jewelers has repaired this neighbourhood's rings for twenty-eight years and has never owned a page of the internet - only a rented template with their name in the URL.",
+    "svcCopy": [
+      "Sizing, shanks and rebuilt heads.",
+      "Laser welding that spares the stone.",
+      "Heirloom redesign, drawn before cut.",
+      "Stone matching and setting."
+    ]
+  },
+  "concept": {
+    "dir": "Luxe-dark bench editorial: near-black ground, macro photography, an engraved serif display face, and a repair-process chapter structure. Motion is light and slow; no sparkle gimmicks.",
+    "palette": {
+      "ink": "#f0ece5",
+      "paper": "#0d0c0b",
+      "accent": "#c8a05a",
+      "accent2": "#7c2f3a"
+    },
+    "heroType": "fullbleed",
+    "motion": "slow-fade",
+    "interactive": [
+      "Before/after restoration slider with captions",
+      "Process chapters (assess / design / bench / finish)",
+      "Consultation booking form with piece-type picker",
+      "Stone and metal reference primer"
+    ],
+    "pages": [
+      "index",
+      "bench",
+      "custom",
+      "care",
+      "contact"
+    ],
+    "nav": [
+      "The bench",
+      "Custom design",
+      "Care",
+      "Contact"
+    ],
+    "tone": "Quiet mastery",
+    "refs": "A maison atelier page for a single-shop business.",
+    "signature": "compare",
+    "hero": "fullbleed"
+  },
+  "web": {
+    "s": "directory",
+    "url": "http://elegantjewelersca.jewelershowcase.com",
+    "lvl": "A",
+    "note": "Audited: their only web home is a subdomain on a third-party vendor template (jewelershowcase.com) - a directory page with a borrowed layout, no brand, no editing control. This is exactly the class of opportunity a rebuild converts fastest.",
+    "src": [
+      "http://elegantjewelersca.jewelershowcase.com",
+      "https://www.yelp.com/biz/elegant-jewelers-san-jose"
+    ],
+    "status": "Third-party directory page instead of a website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/elegant-jewelers-san-jose"
+  },
+  "photo": true,
+  "photoFormats": [
+    "avif",
+    "webp",
+    "jpg"
+  ],
+  "photoAlt": "Concept artwork for Elegant Jewelers — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "luxe-dark",
+    "label": "Gallery Noir",
+    "summary": "Near-black canvas, champagne metal, oversized imagery, slow motion, cursor-following highlights. For jewelers, galleries, spas, luxury services.",
+    "fonts": {
+      "display": "\"Cormorant Garamond\"",
+      "body": "\"Jost\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Cormorant+Garamond:wght@300;400;500;600&family=Jost:wght@300;400;500&family=IBM+Plex+Mono:wght@400",
+    "nav": "overlay",
+    "motion": "slow-fade",
+    "tokens": {
+      "ink": "#f0ece5",
+      "paper": "#0d0c0b",
+      "accent": "#c8a05a",
+      "accent2": "#7c2f3a",
+      "inkName": "Oxidised silver",
+      "radius": "0px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--paper) 22%, transparent)",
+      "shadow": "0 30px 80px -40px rgb(0 0 0 / .8)",
+      "pad": "clamp(5rem,11vw,9.5rem)",
+      "scale": "1.28",
+      "headingCase": "none",
+      "track": ".02em",
+      "texture": "grain",
+      "invert": true
+    },
+    "roster": [
+      "hero",
+      "collection",
+      "craft",
+      "experience",
+      "press",
+      "visit",
+      "services",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/elegant-jewelers-san-jose",
+      "title": "Elegant Jewelers — Jewelry in San Jose",
+      "description": "Laser welding, restoration and heirloom redesign in a family jewelry shop on Meridian Avenue.",
+      "h1": "The bench behind the glass, now with a front door.",
+      "kicker": "Willow Glen · since 1997",
+      "sections": [
+        "hero",
+        "collection",
+        "craft",
+        "experience",
+        "press",
+        "visit",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "bench",
+      "file": "bench.astro",
+      "path": "/elegant-jewelers-san-jose/bench",
+      "title": "Bench — Elegant Jewelers",
+      "description": "Bench at Elegant Jewelers in San Jose: Laser welding and restoration, Ring sizing and shank repair, Custom and heirloom redesign. Laser welding, restoration and heirloom redesign in a family jewelry shop on Meridian Avenue.",
+      "h1": "Bench",
+      "kicker": "Jewelry",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "custom",
+      "file": "custom.astro",
+      "path": "/elegant-jewelers-san-jose/custom",
+      "title": "Custom — Elegant Jewelers",
+      "description": "Custom at Elegant Jewelers in San Jose: Laser welding and restoration, Ring sizing and shank repair, Custom and heirloom redesign. Laser welding, restoration and heirloom redesign in a family jewelry shop on Meridian Avenue.",
+      "h1": "Custom",
+      "kicker": "Jewelry",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "care",
+      "file": "care.astro",
+      "path": "/elegant-jewelers-san-jose/care",
+      "title": "Care — Elegant Jewelers",
+      "description": "Care at Elegant Jewelers in San Jose: Laser welding and restoration, Ring sizing and shank repair, Custom and heirloom redesign. Laser welding, restoration and heirloom redesign in a family jewelry shop on Meridian Avenue.",
+      "h1": "Care",
+      "kicker": "Jewelry",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/elegant-jewelers-san-jose/contact",
+      "title": "Contact — Elegant Jewelers",
+      "description": "Call or write to Elegant Jewelers in San Jose. (408) 255-7832",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "visit",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 8,
+    "gap": 10,
+    "vis": 6,
+    "vol": 8,
+    "brand": 9,
+    "comp": 7,
+    "val": 9,
+    "assets": 7,
+    "roi": 9
+  },
+  "seo": {
+    "title": "Elegant Jewelers — Jewelry in San Jose",
+    "description": "Laser welding, restoration and heirloom redesign in a family jewelry shop on Meridian Avenue.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "Store",
+    "name": "Elegant Jewelers",
+    "description": "Laser welding, restoration and heirloom redesign in a family jewelry shop on Meridian Avenue.",
+    "phone": "(408) 255-7832",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95125",
+      "streetAddress": "1605 Meridian Ave"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/elegant-jewelers-san-jose"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 189,
+      "bestRating": 5
+    },
+    "slogan": "The bench behind the glass, now with a front door.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "http://elegantjewelersca.jewelershowcase.com",
+    "https://www.yelp.com/biz/elegant-jewelers-san-jose"
+  ],
+  "sourceNotes": []
+}

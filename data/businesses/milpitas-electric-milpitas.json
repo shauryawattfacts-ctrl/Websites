@@ -1,0 +1,314 @@
+{
+  "id": "sv029",
+  "slug": "milpitas-electric-milpitas",
+  "name": "Milpitas Electric",
+  "short": "Milpitas Electric",
+  "cat": "Electrical contractor",
+  "sub": "Commercial TI & office fit-outs",
+  "city": "Milpitas",
+  "zip": "95035",
+  "addr": "2257 Little Orchard Way area, Milpitas, CA 95035 (exact suite to confirm)",
+  "phone": "(408) 263-1284",
+  "email": null,
+  "contactNote": null,
+  "founded": "2007",
+  "hours": "Mon-Fri business hours",
+  "audience": "General contractors, property managers, offices and light industrial",
+  "scale": {
+    "emp": "estimators plus field crews",
+    "loc": 1
+  },
+  "description": "Family-owned C-10 electrical contractor doing commercial tenant improvement and office buildouts in Milpitas and the north valley: panels, LED retrofits, data and power distribution.",
+  "services": [
+    "Tenant improvement and buildouts",
+    "Panel upgrades and distribution",
+    "LED and lighting controls",
+    "Data, voice and device cabling",
+    "Disconnects for mechanical trades",
+    "Service and troubleshooting"
+  ],
+  "serviceCopy": [
+    "Tenant improvement packages, bid to closeout.",
+    "Panel upgrades with utility coordination.",
+    "LED and control retrofits with rebate paperwork.",
+    "Service calls that do not need a committee."
+  ],
+  "insight": "Named staff with direct mobile numbers on a one-page site is an extraordinary trust signal stranded on a bad page.",
+  "usps": [
+    "Family-owned, C-10 licensed since 2007",
+    "Named estimators you can call directly",
+    "TI and office fit-out specialisation"
+  ],
+  "differentiators": [
+    "Publishes completed builds with scope, schedules and photos, which no local competitor does"
+  ],
+  "voice": "Contractor-plain, no marketing varnish",
+  "persona": "The TI electrician GCs prefer",
+  "reputation": {
+    "rating": null,
+    "reviews": 0,
+    "src": "Yelp",
+    "note": "No reviews on the captured listing: a proof-building plan (project write-ups plus referral requests) is part of the engagement."
+  },
+  "budget": {
+    "afford": [
+      "Commercial TI contracts are six to seven figures",
+      "Bid and award happen on websites and reference lists",
+      "CSLB licence #520067 and a 2007 founding give real credentials to publish"
+    ],
+    "risk": [
+      "Zero public review volume: build the case from projects instead",
+      "Owner-run estimating: content workflow must be near-zero effort"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Conduit grey",
+      "hot orange",
+      "panel white"
+    ],
+    "logo": "Set a stencil-style ME monogram",
+    "photoNote": "Panel schedules, conduit runs, finished ceilings - job-site honesty"
+  },
+  "copy": {
+    "eyebrow": "Milpitas · C-10 licensed since 2007",
+    "h1": "We wire the buildings other trades finish.",
+    "sub": "Commercial tenant improvement, panels and lighting for offices, industrial and multi-tenant property across the north valley.",
+    "cta1": "Request a bid package",
+    "cta2": "Completed work",
+    "lede": "Milpitas Electric has built out offices and mechanical rooms for sixteen years, and still asks clients to read staff mobile numbers off a single web page.",
+    "svcCopy": [
+      "Tenant improvement packages, bid to closeout.",
+      "Panel upgrades with utility coordination.",
+      "LED and control retrofits with rebate paperwork.",
+      "Service calls that do not need a committee."
+    ]
+  },
+  "concept": {
+    "dir": "B2B spec-sheet system: numbered capability blocks, project cards with scope and duration, submittal-style data sheets, and a bid-request form that asks for drawings. Grid discipline over flash.",
+    "palette": {
+      "ink": "#101418",
+      "paper": "#eef0f2",
+      "accent": "#e8761e",
+      "accent2": "#2f6f8f"
+    },
+    "heroType": "fullbleed",
+    "motion": "hard-cut",
+    "interactive": [
+      "Project index filterable by building type",
+      "Capability blocks with spec-table styling",
+      "Bid request form (plan set upload field)",
+      "Licence and insurance verification panel"
+    ],
+    "pages": [
+      "index",
+      "capabilities",
+      "projects",
+      "safety",
+      "contact"
+    ],
+    "nav": [
+      "Capabilities",
+      "Projects",
+      "Safety & licences",
+      "Contact"
+    ],
+    "tone": "Document-driven",
+    "refs": "A specialty subcontractor page on a GC site.",
+    "signature": "picker",
+    "hero": "fullbleed"
+  },
+  "web": {
+    "s": "basic",
+    "url": "http://milpitaselectricinc.com",
+    "lvl": "A",
+    "note": "Audited live: a single-page site with no project detail, staff contacts pasted as text (Don Davis, Kris Dipko with mobile numbers), and a copyright that reads 2026 on a one-pager. The licence record is stronger than the website.",
+    "src": [
+      "http://milpitaselectricinc.com"
+    ],
+    "status": "Extremely outdated or basic website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "other": [
+      "https://www.cslb.ca.gov (C-10 licence #520067)"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Milpitas Electric — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "b2b-spec",
+    "label": "Bid & Spec",
+    "summary": "RFP-grade B2B site: sticky section rail, capability statements, compliance/badge matrix, project ledger table, bid-request funnel.",
+    "fonts": {
+      "display": "\"Sora\"",
+      "body": "\"IBM Plex Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Sora:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "utility",
+    "motion": "hard-cut",
+    "tokens": {
+      "ink": "#101418",
+      "paper": "#eef0f2",
+      "accent": "#e8761e",
+      "accent2": "#2f6f8f",
+      "inkName": "Conduit grey",
+      "radius": "4px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 16%, transparent)",
+      "shadow": "0 12px 30px -24px rgb(10 20 40 / .5)",
+      "pad": "clamp(3.4rem,7vw,6rem)",
+      "scale": "1.18",
+      "headingCase": "none",
+      "track": "-.01em",
+      "texture": "blueprint",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "credibility",
+      "capabilities",
+      "sectors",
+      "ledger",
+      "safety",
+      "case-studies",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/milpitas-electric-milpitas",
+      "title": "Milpitas Electric — Electrical contractor in Milpitas",
+      "description": "Commercial tenant improvement, panels and lighting for offices, industrial and multi-tenant property across the north valley.",
+      "h1": "We wire the buildings other trades finish.",
+      "kicker": "Milpitas · C-10 licensed since 2007",
+      "sections": [
+        "hero",
+        "credibility",
+        "capabilities",
+        "sectors",
+        "ledger",
+        "safety",
+        "case-studies",
+        "contact"
+      ]
+    },
+    {
+      "slug": "capabilities",
+      "file": "capabilities.astro",
+      "path": "/milpitas-electric-milpitas/capabilities",
+      "title": "Capabilities — Milpitas Electric",
+      "description": "Capabilities at Milpitas Electric in Milpitas: Tenant improvement and buildouts, Panel upgrades and distribution, LED and lighting controls. Commercial tenant improvement, panels and lighting for offices, industrial and multi-tenant property across the north valley.",
+      "h1": "Capabilities",
+      "kicker": "Electrical contractor",
+      "sections": [
+        "hero",
+        "capabilities",
+        "safety",
+        "contact"
+      ]
+    },
+    {
+      "slug": "projects",
+      "file": "projects.astro",
+      "path": "/milpitas-electric-milpitas/projects",
+      "title": "Projects — Milpitas Electric",
+      "description": "Projects at Milpitas Electric in Milpitas: Tenant improvement and buildouts, Panel upgrades and distribution, LED and lighting controls. Commercial tenant improvement, panels and lighting for offices, industrial and multi-tenant property across the north valley.",
+      "h1": "Projects",
+      "kicker": "Electrical contractor",
+      "sections": [
+        "hero",
+        "case-studies",
+        "contact"
+      ]
+    },
+    {
+      "slug": "safety",
+      "file": "safety.astro",
+      "path": "/milpitas-electric-milpitas/safety",
+      "title": "Safety — Milpitas Electric",
+      "description": "Safety at Milpitas Electric in Milpitas: Tenant improvement and buildouts, Panel upgrades and distribution, LED and lighting controls. Commercial tenant improvement, panels and lighting for offices, industrial and multi-tenant property across the north valley.",
+      "h1": "Safety",
+      "kicker": "Electrical contractor",
+      "sections": [
+        "hero",
+        "capabilities",
+        "safety",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/milpitas-electric-milpitas/contact",
+      "title": "Contact — Milpitas Electric",
+      "description": "Call or write to Milpitas Electric in Milpitas. (408) 263-1284",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 9,
+    "gap": 8,
+    "vis": 4,
+    "vol": 1,
+    "brand": 5,
+    "comp": 7,
+    "val": 10,
+    "assets": 5,
+    "roi": 9
+  },
+  "seo": {
+    "title": "Milpitas Electric — Electrical contractor in Milpitas",
+    "description": "Commercial tenant improvement, panels and lighting for offices, industrial and multi-tenant property across the north valley.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Milpitas Electric",
+    "description": "Commercial tenant improvement, panels and lighting for offices, industrial and multi-tenant property across the north valley.",
+    "phone": "(408) 263-1284",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Milpitas",
+      "addressRegion": "CA",
+      "postalCode": "95035",
+      "streetAddress": "2257 Little Orchard Way area"
+    },
+    "sameAs": [
+      "https://www.cslb.ca.gov (C-10 licence #520067)"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "We wire the buildings other trades finish.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "http://milpitaselectricinc.com"
+  ],
+  "sourceNotes": [
+    "https://www.cslb.ca.gov (C-10 licence #520067)"
+  ]
+}

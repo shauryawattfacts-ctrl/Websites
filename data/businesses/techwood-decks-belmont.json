@@ -1,0 +1,322 @@
+{
+  "id": "sv047",
+  "slug": "techwood-decks-belmont",
+  "name": "Techwood Decks",
+  "short": "Techwood Decks",
+  "cat": "Decks & outdoor structures",
+  "sub": "Custom decks, pergolas, carpentry",
+  "city": "Belmont",
+  "zip": "94002",
+  "addr": "217 Old County Rd, Belmont, CA 94002",
+  "phone": null,
+  "email": null,
+  "contactNote": null,
+  "founded": "not verified",
+  "hours": "Mon-Fri shop and crews",
+  "audience": "Peninsula homeowners replacing or building decks; designers and GCs",
+  "scale": {
+    "emp": "design-build crew plus shop",
+    "loc": 1
+  },
+  "description": "Deck and exterior carpentry company on Old County Road building custom decks, pergolas and outdoor structures, with certified-professional and committed-to-quality badges on its listing.",
+  "services": [
+    "Custom decks and replacements",
+    "Pergolas and covered structures",
+    "Stairs, railings and guards",
+    "Composite and exotic hardwood decks",
+    "Outdoor kitchens and benches",
+    "Carpentry and exterior repair"
+  ],
+  "serviceCopy": [
+    "Design, permit drawings and build.",
+    "Ledger, beam and footing details done right.",
+    "Composite, hardwood and cedar, compared.",
+    "Railings, stairs and guards to code."
+  ],
+  "insight": "A shop address (not just a service area) means a showroom-like visit path a website can turn into appointments.",
+  "usps": [
+    "Design and build under one roof",
+    "A real shop, not a truck",
+    "4.9 with a verified licence"
+  ],
+  "differentiators": [
+    "Publishes structural options, guard loads and material life-cycle costs"
+  ],
+  "voice": "Craft and code, together",
+  "persona": "The deck builders with a shop",
+  "reputation": {
+    "rating": 4.9,
+    "reviews": 31,
+    "src": "Yelp",
+    "note": "High score at moderate volume; good for a proof strip, not a proof-led hero."
+  },
+  "budget": {
+    "afford": [
+      "Deck builds locally run $20K-$90K; replacements include structural scope",
+      "Own shop on Old County Road implies tooling and inventory",
+      "Permit-ready drawings are a premium differentiator they do not explain anywhere"
+    ],
+    "risk": [
+      "Contact details thin in the captured listing - confirm before outreach",
+      "Material supply volatility affects any pricing content"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Ipe brown",
+      "cedar",
+      "galvanised steel"
+    ],
+    "logo": "Set Techwood with a joist-rhythm rule",
+    "photoNote": "Shop cutting, ledger details, finished decks at dusk"
+  },
+  "copy": {
+    "eyebrow": "Belmont · custom decks",
+    "h1": "A deck is a structure. We build it like one.",
+    "sub": "Custom decks, pergolas and outdoor structures, designed and built from a shop on Old County Road.",
+    "cta1": "Start a deck project",
+    "cta2": "Materials and loads",
+    "lede": "Techwood builds decks from a real shop with a 4.9 rating and a verified licence - and homeowners can only find a listing to describe it.",
+    "svcCopy": [
+      "Design, permit drawings and build.",
+      "Ledger, beam and footing details done right.",
+      "Composite, hardwood and cedar, compared.",
+      "Railings, stairs and guards to code."
+    ]
+  },
+  "concept": {
+    "dir": "Plan-view identity: site-plan line drawings that morph into photographs on scroll, structural callouts, material life-cycle table, and a project-start form that asks for existing-deck photos.",
+    "palette": {
+      "ink": "#171512",
+      "paper": "#f3efe7",
+      "accent": "#8d5b34",
+      "accent2": "#5a6f6b"
+    },
+    "heroType": "split",
+    "motion": "line-mask",
+    "interactive": [
+      "Scroll-linked drawing-to-photo morph",
+      "Material comparison table (cost, life, upkeep)",
+      "Photo-based replacement estimate request",
+      "Shop visit booking block"
+    ],
+    "pages": [
+      "index",
+      "projects",
+      "materials",
+      "process",
+      "contact"
+    ],
+    "nav": [
+      "Projects",
+      "Materials",
+      "Process",
+      "Contact"
+    ],
+    "tone": "Builder-technical",
+    "refs": "An architectural detail sheet, published for homeowners.",
+    "signature": "compare",
+    "hero": "split"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Appears in Los Altos and peninsula deck result sets at 4.9 across 31 reviews with a verified-licence badge and the address of a shop on Old County Road, and no website affordance captured. Live audit pending.",
+    "src": [
+      "https://www.yelp.com/search?find_desc=Deck+Contractor&find_loc=Los+Altos%2C+CA"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/search?find_desc=Deck+Contractor&find_loc=Los+Altos%2C+CA"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Techwood Decks — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "home-services",
+    "label": "Trusted Trades",
+    "summary": "Utility-first, urgency-led conversion system for dispatch businesses. Big call target, live status strip, service-area proof, transparent price ranges.",
+    "fonts": {
+      "display": "\"Barlow Condensed\"",
+      "body": "\"Public Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Barlow+Condensed:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500",
+    "nav": "utility",
+    "motion": "line-mask",
+    "tokens": {
+      "ink": "#171512",
+      "paper": "#f3efe7",
+      "accent": "#8d5b34",
+      "accent2": "#5a6f6b",
+      "inkName": "Ipe brown",
+      "radius": "10px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 14%, transparent)",
+      "shadow": "0 18px 40px -28px rgb(9 12 20 / .55)",
+      "pad": "clamp(3.6rem,8vw,7rem)",
+      "scale": "1.24",
+      "headingCase": "uppercase",
+      "track": "-.015em",
+      "texture": "grid",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "urgency",
+      "services",
+      "process",
+      "proof",
+      "coverage",
+      "reviews",
+      "faq"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/techwood-decks-belmont",
+      "title": "Techwood Decks — Decks & outdoor structures in Belmont",
+      "description": "Custom decks, pergolas and outdoor structures, designed and built from a shop on Old County Road.",
+      "h1": "A deck is a structure. We build it like one.",
+      "kicker": "Belmont · custom decks",
+      "sections": [
+        "hero",
+        "urgency",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "reviews",
+        "faq"
+      ]
+    },
+    {
+      "slug": "projects",
+      "file": "projects.astro",
+      "path": "/techwood-decks-belmont/projects",
+      "title": "Projects — Techwood Decks",
+      "description": "Projects at Techwood Decks in Belmont: Custom decks and replacements, Pergolas and covered structures, Stairs, railings and guards. Custom decks, pergolas and outdoor structures, designed and built from a shop on Old County Road.",
+      "h1": "Projects",
+      "kicker": "Decks & outdoor structures",
+      "sections": [
+        "hero",
+        "proof",
+        "reviews",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "materials",
+      "file": "materials.astro",
+      "path": "/techwood-decks-belmont/materials",
+      "title": "Materials — Techwood Decks",
+      "description": "Materials at Techwood Decks in Belmont: Custom decks and replacements, Pergolas and covered structures, Stairs, railings and guards. Custom decks, pergolas and outdoor structures, designed and built from a shop on Old County Road.",
+      "h1": "Materials",
+      "kicker": "Decks & outdoor structures",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "process",
+      "file": "process.astro",
+      "path": "/techwood-decks-belmont/process",
+      "title": "Process — Techwood Decks",
+      "description": "Process at Techwood Decks in Belmont: Custom decks and replacements, Pergolas and covered structures, Stairs, railings and guards. Custom decks, pergolas and outdoor structures, designed and built from a shop on Old County Road.",
+      "h1": "Process",
+      "kicker": "Decks & outdoor structures",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/techwood-decks-belmont/contact",
+      "title": "Contact — Techwood Decks",
+      "description": "Call or write to Techwood Decks in Belmont. Contact details verified against public listings.",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "urgency",
+        "coverage",
+        "process",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 10,
+    "vis": 5,
+    "vol": 6,
+    "brand": 6,
+    "comp": 6,
+    "val": 9,
+    "assets": 5,
+    "roi": 8
+  },
+  "seo": {
+    "title": "Techwood Decks — Decks & outdoor structures in Belmont",
+    "description": "Custom decks, pergolas and outdoor structures, designed and built from a shop on Old County Road.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Techwood Decks",
+    "description": "Custom decks, pergolas and outdoor structures, designed and built from a shop on Old County Road.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Belmont",
+      "addressRegion": "CA",
+      "postalCode": "94002",
+      "streetAddress": "217 Old County Rd"
+    },
+    "sameAs": [
+      "https://www.yelp.com/search?find_desc=Deck+Contractor&find_loc=Los+Altos%2C+CA"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.9,
+      "reviewCount": 31,
+      "bestRating": 5
+    },
+    "slogan": "A deck is a structure. We build it like one.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/search?find_desc=Deck+Contractor&find_loc=Los+Altos%2C+CA"
+  ],
+  "sourceNotes": []
+}

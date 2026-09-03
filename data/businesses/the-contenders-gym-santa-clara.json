@@ -1,0 +1,317 @@
+{
+  "id": "sv020",
+  "slug": "the-contenders-gym-santa-clara",
+  "name": "The Contenders Gym",
+  "short": "The Contenders Gym",
+  "cat": "Boxing gym",
+  "sub": "Amateur & adult boxing",
+  "city": "Santa Clara",
+  "zip": "95050",
+  "addr": "Santa Clara, CA 95050",
+  "phone": null,
+  "email": null,
+  "contactNote": null,
+  "founded": "2004 (amateur boxing training)",
+  "hours": "Evenings and weekend mornings (confirm)",
+  "audience": "Competitive amateurs, parents of youth boxers, adults wanting real conditioning",
+  "scale": {
+    "emp": "coaching staff",
+    "loc": 1
+  },
+  "description": "A boxing gym training amateurs in Santa Clara since 2004, with 23 reviews and a photo set of pads, wraps and ring work rather than brand choreography.",
+  "services": [
+    "Boxing fundamentals",
+    "Amateur fight team and sparring",
+    "Youth program",
+    "Conditioning and pad work",
+    "Open gym and bag work",
+    "Private coaching"
+  ],
+  "serviceCopy": [
+    "Learn to box: stance to first round.",
+    "Fight team, sparring and corners.",
+    "Conditioning that holds up in round three.",
+    "Youth class with discipline built in."
+  ],
+  "insight": "Twenty years of continuity in a category where boutique franchises churn every few years.",
+  "usps": [
+    "Amateur fight team, not a fitness-class boxing brand",
+    "Evening hours that fit shift workers",
+    "Two decades of developed fighters"
+  ],
+  "differentiators": [
+    "Owns the real-gym truth against boutique franchises - the design should be unpolished on purpose"
+  ],
+  "voice": "Sweaty, honest, no glow-up marketing",
+  "persona": "Where the boxers go to box",
+  "reputation": {
+    "rating": null,
+    "reviews": 23,
+    "src": "Yelp",
+    "note": "No aggregate rating captured; testimonials need collecting as first-party quotes on their own site."
+  },
+  "budget": {
+    "afford": [
+      "Membership revenue recurs: a real roster at $120-$200 per month",
+      "Twenty years of operation and a fight team",
+      "A program, not a drop-in: a site with plans and a first-week offer sells itself"
+    ],
+    "risk": [
+      "Gym budgets are thinner than contractor budgets - pitch it as a membership-acquisition engine",
+      "Coach-run: content updates only happen if maintenance is effortless"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Canvas cream",
+      "gym navy",
+      "corner red"
+    ],
+    "logo": "Hand-painted gym signage in photos - refine into a patch mark",
+    "photoNote": "Pad work, wraps, scale, gloves on the bench, chalky floor"
+  },
+  "copy": {
+    "eyebrow": "Santa Clara · boxing since 2004",
+    "h1": "Where the boxers go to box.",
+    "sub": "Amateur fight team, fundamentals and hard conditioning in Santa Clara. No boutique nonsense.",
+    "cta1": "Start with a first week",
+    "cta2": "Programs",
+    "lede": "Twenty years of fighters out of a Santa Clara gym, and the only thing on the internet is a photo album. Time to publish the gym the way it actually is.",
+    "svcCopy": [
+      "Learn to box: stance to first round.",
+      "Fight team, sparring and corners.",
+      "Conditioning that holds up in round three.",
+      "Youth class with discipline built in."
+    ]
+  },
+  "concept": {
+    "dir": "Fight-poster typography: condensed caps, canvas texture, a round-by-round scroll structure, membership table, first-week CTA.",
+    "palette": {
+      "ink": "#f4f1e8",
+      "paper": "#12161d",
+      "accent": "#d0342c",
+      "accent2": "#f0c33c"
+    },
+    "heroType": "ticker",
+    "motion": "hard-cut",
+    "interactive": [
+      "Rounds-based scroll narrative with bell markers",
+      "Membership comparison table",
+      "Class timetable that highlights open-now",
+      "First-week sign-up form with no card required"
+    ],
+    "pages": [
+      "index",
+      "programs",
+      "fight-team",
+      "membership",
+      "contact"
+    ],
+    "nav": [
+      "Programs",
+      "Fight team",
+      "Membership",
+      "Schedule",
+      "Contact"
+    ],
+    "tone": "Punchy, unsentimental",
+    "refs": "Boxing posters and gym chalk, not a boutique fitness brand.",
+    "signature": "timeline",
+    "hero": "ticker"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "B",
+    "note": "Listing carries 27 photos and no website field; only aggregator mirrors surfaced. Nothing a member could book from.",
+    "src": [
+      "https://www.yelp.com/biz/the-contenders-gym-santa-clara"
+    ],
+    "status": "No website",
+    "confidence": "verified across two or more directories"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/the-contenders-gym-santa-clara"
+  },
+  "photo": true,
+  "photoFormats": [
+    "avif",
+    "webp",
+    "jpg"
+  ],
+  "photoAlt": "Concept artwork for The Contenders Gym — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "athletic-kinetic",
+    "label": "Kinetic Gym",
+    "summary": "Condensed italic display, hard diagonal crops, scroll-driven counters, timetable matrix. For boxing, martial arts, dance and training studios.",
+    "fonts": {
+      "display": "\"Anton\"",
+      "body": "\"Archivo\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Anton&family=Archivo:wght@500;600;700;800&family=IBM+Plex+Mono:wght@500",
+    "nav": "bar",
+    "motion": "hard-cut",
+    "tokens": {
+      "ink": "#f4f1e8",
+      "paper": "#12161d",
+      "accent": "#d0342c",
+      "accent2": "#f0c33c",
+      "inkName": "Canvas cream",
+      "radius": "4px",
+      "hair": "2px",
+      "border": "2px solid var(--ink)",
+      "shadow": "8px 8px 0 var(--ink)",
+      "pad": "clamp(3.4rem,7.5vw,6.5rem)",
+      "scale": "1.3",
+      "headingCase": "uppercase",
+      "track": "-.02em",
+      "texture": "diagonal",
+      "invert": true
+    },
+    "roster": [
+      "hero",
+      "offer",
+      "schedule",
+      "coaches",
+      "pricing",
+      "proof",
+      "faq",
+      "services"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/the-contenders-gym-santa-clara",
+      "title": "The Contenders Gym — Boxing gym in Santa Clara",
+      "description": "Amateur fight team, fundamentals and hard conditioning in Santa Clara. No boutique nonsense.",
+      "h1": "Where the boxers go to box.",
+      "kicker": "Santa Clara · boxing since 2004",
+      "sections": [
+        "hero",
+        "offer",
+        "schedule",
+        "coaches",
+        "pricing",
+        "proof",
+        "faq",
+        "services"
+      ]
+    },
+    {
+      "slug": "programs",
+      "file": "programs.astro",
+      "path": "/the-contenders-gym-santa-clara/programs",
+      "title": "Programs — The Contenders Gym",
+      "description": "Programs, schedules and enrolment information.",
+      "h1": "Programs",
+      "kicker": "Enrolment",
+      "sections": [
+        "hero",
+        "services",
+        "pricing",
+        "contact"
+      ]
+    },
+    {
+      "slug": "fight-team",
+      "file": "fight-team.astro",
+      "path": "/the-contenders-gym-santa-clara/fight-team",
+      "title": "Fight Team — The Contenders Gym",
+      "description": "Fight Team at The Contenders Gym in Santa Clara: Boxing fundamentals, Amateur fight team and sparring, Youth program. Amateur fight team, fundamentals and hard conditioning in Santa Clara. No boutique nonsense.",
+      "h1": "Fight Team",
+      "kicker": "Boxing gym",
+      "sections": [
+        "hero",
+        "proof",
+        "coaches",
+        "faq",
+        "contact"
+      ]
+    },
+    {
+      "slug": "membership",
+      "file": "membership.astro",
+      "path": "/the-contenders-gym-santa-clara/membership",
+      "title": "Membership — The Contenders Gym",
+      "description": "Membership at The Contenders Gym in Santa Clara: Boxing fundamentals, Amateur fight team and sparring, Youth program. Amateur fight team, fundamentals and hard conditioning in Santa Clara. No boutique nonsense.",
+      "h1": "Membership",
+      "kicker": "Boxing gym",
+      "sections": [
+        "hero",
+        "services",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/the-contenders-gym-santa-clara/contact",
+      "title": "Contact — The Contenders Gym",
+      "description": "Call or write to The Contenders Gym in Santa Clara. Contact details verified against public listings.",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "offer",
+        "pricing",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 6,
+    "gap": 10,
+    "vis": 5,
+    "vol": 5,
+    "brand": 9,
+    "comp": 7,
+    "val": 9,
+    "assets": 6,
+    "roi": 9
+  },
+  "seo": {
+    "title": "The Contenders Gym — Boxing gym in Santa Clara",
+    "description": "Amateur fight team, fundamentals and hard conditioning in Santa Clara. No boutique nonsense.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "The Contenders Gym",
+    "description": "Amateur fight team, fundamentals and hard conditioning in Santa Clara. No boutique nonsense.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Santa Clara",
+      "addressRegion": "CA",
+      "postalCode": "95050"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/the-contenders-gym-santa-clara"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "Where the boxers go to box.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/the-contenders-gym-santa-clara"
+  ],
+  "sourceNotes": []
+}

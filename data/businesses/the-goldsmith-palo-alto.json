@@ -1,0 +1,311 @@
+{
+  "id": "sv050",
+  "slug": "the-goldsmith-palo-alto",
+  "name": "The Goldsmith",
+  "short": "The Goldsmith",
+  "cat": "Jewelry repair & engraving",
+  "sub": "Bench work on a main street",
+  "city": "Palo Alto",
+  "zip": "94301",
+  "addr": "541 Emerson St, Palo Alto, CA 94301",
+  "phone": "(650) 325-6030",
+  "email": null,
+  "contactNote": null,
+  "founded": "not verified",
+  "hours": "Tue-Sat 10:00-17:30 (per directory)",
+  "audience": "Palo Alto residents, Stanford-area families, watch and jewelry owners",
+  "scale": {
+    "emp": "bench jeweller and small staff",
+    "loc": 1
+  },
+  "description": "A bench shop on Emerson Street: jewelry repair, resizing, engraving and restoration, on the main retail street between Stanford and University Avenue.",
+  "services": [
+    "Sizing and shank repair",
+    "Engraving and monogramming",
+    "Stone setting and repairs",
+    "Watch battery and case service (confirm)",
+    "Antique and estate restoration",
+    "Custom pieces from customer stones"
+  ],
+  "serviceCopy": [
+    "Resizing, shanks and re-tipping.",
+    "Hand engraving and monograms.",
+    "Stone setting, including your stones.",
+    "Estate repair done conservatively."
+  ],
+  "insight": "Located on one of the richest retail blocks in the country with no digital presence - the walk-in trade alone sustains it, which is exactly why a site would compound.",
+  "usps": [
+    "A working bench, not a retail chain counter",
+    "Downtown Palo Alto address that carries trust",
+    "Handles customer stones and heirlooms"
+  ],
+  "differentiators": [
+    "Publishes what a bench can and cannot do, with honest turnaround and pricing bands"
+  ],
+  "voice": "Discreet, exact",
+  "persona": "The bench on Emerson Street",
+  "reputation": {
+    "rating": null,
+    "reviews": null,
+    "src": "not captured",
+    "note": "No review surface captured; the address is the credential."
+  },
+  "budget": {
+    "afford": [
+      "Emerson Street retail rents imply serious revenue",
+      "Repair and restoration tickets $150-$2,500 with high-margin estate work",
+      "Designers and estate attorneys refer bench shops that present professionally"
+    ],
+    "risk": [
+      "A walk-in business may undervalue online reach: sell on referrals and design credibility",
+      "Do not invent history or credentials for the shop"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Gold",
+      "jeweler rouge",
+      "graphite"
+    ],
+    "logo": "Set THE GOLDSMITH in an engraved didone with a hallmark device",
+    "photoNote": "Bench peg, files, engraving under scope, finished pieces"
+  },
+  "copy": {
+    "eyebrow": "Palo Alto · Emerson Street",
+    "h1": "A bench, a loupe, and no middle man.",
+    "sub": "Jewelry repair, engraving and heirloom restoration at a downtown Palo Alto workshop.",
+    "cta1": "Bring in a piece",
+    "cta2": "What a bench can do",
+    "lede": "The Goldsmith has the address that sells itself and none of the writing that would double it. Here is the work, explained.",
+    "svcCopy": [
+      "Resizing, shanks and re-tipping.",
+      "Hand engraving and monograms.",
+      "Stone setting, including your stones.",
+      "Estate repair done conservatively."
+    ]
+  },
+  "concept": {
+    "dir": "Hallmark identity: engraved didone display type, hairline borders, a hallmark-strip motif, and honest service-and-turnaround tables. No gradients, no sparkles; macro photography only.",
+    "palette": {
+      "ink": "#f4f1ea",
+      "paper": "#14110f",
+      "accent": "#b28e4c",
+      "accent2": "#6d2b34"
+    },
+    "heroType": "editorial",
+    "motion": "line-mask",
+    "interactive": [
+      "Service table with typical turnaround bands",
+      "Engraving sample viewer (fonts and layouts)",
+      "Consultation request with piece photos",
+      "Care guide for heirlooms"
+    ],
+    "pages": [
+      "index",
+      "services",
+      "engraving",
+      "care",
+      "contact"
+    ],
+    "nav": [
+      "Services",
+      "Engraving",
+      "Care",
+      "Contact"
+    ],
+    "tone": "Understated precision",
+    "refs": "A small, excellent bench that needs no advertising.",
+    "signature": "ledger",
+    "hero": "editorial"
+  },
+  "web": {
+    "s": "none",
+    "url": null,
+    "lvl": "C",
+    "note": "Directory record lists the storefront address, phone and Tuesday-Saturday hours with no website field, on a street where most neighbours have full sites. No social presence captured. Live audit pending.",
+    "src": [
+      "https://www.yellowpages.com/mountain-view-ca/jewelry-repairing"
+    ],
+    "status": "No website",
+    "confidence": "single source — audit pending"
+  },
+  "profiles": {
+    "other": [
+      "https://www.yellowpages.com/mountain-view-ca/jewelry-repairing"
+    ]
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for The Goldsmith — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "luxe-dark",
+    "label": "Gallery Noir",
+    "summary": "Near-black canvas, champagne metal, oversized imagery, slow motion, cursor-following highlights. For jewelers, galleries, spas, luxury services.",
+    "fonts": {
+      "display": "\"Cormorant Garamond\"",
+      "body": "\"Jost\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Cormorant+Garamond:wght@300;400;500;600&family=Jost:wght@300;400;500&family=IBM+Plex+Mono:wght@400",
+    "nav": "overlay",
+    "motion": "line-mask",
+    "tokens": {
+      "ink": "#f4f1ea",
+      "paper": "#14110f",
+      "accent": "#b28e4c",
+      "accent2": "#6d2b34",
+      "inkName": "Gold",
+      "radius": "0px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--paper) 22%, transparent)",
+      "shadow": "0 30px 80px -40px rgb(0 0 0 / .8)",
+      "pad": "clamp(5rem,11vw,9.5rem)",
+      "scale": "1.28",
+      "headingCase": "none",
+      "track": ".02em",
+      "texture": "grain",
+      "invert": true
+    },
+    "roster": [
+      "hero",
+      "collection",
+      "craft",
+      "experience",
+      "press",
+      "visit",
+      "services",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/the-goldsmith-palo-alto",
+      "title": "The Goldsmith — Jewelry repair & engraving in Palo Alto",
+      "description": "Jewelry repair, engraving and heirloom restoration at a downtown Palo Alto workshop.",
+      "h1": "A bench, a loupe, and no middle man.",
+      "kicker": "Palo Alto · Emerson Street",
+      "sections": [
+        "hero",
+        "collection",
+        "craft",
+        "experience",
+        "press",
+        "visit",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/the-goldsmith-palo-alto/services",
+      "title": "Services — The Goldsmith",
+      "description": "Sizing and shank repair; Engraving and monogramming; Stone setting and repairs; Watch battery and case service (confirm); Antique and estate restoration; Custom pieces from customer stones. Palo Alto based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "engraving",
+      "file": "engraving.astro",
+      "path": "/the-goldsmith-palo-alto/engraving",
+      "title": "Engraving — The Goldsmith",
+      "description": "Engraving at The Goldsmith in Palo Alto: Sizing and shank repair, Engraving and monogramming, Stone setting and repairs. Jewelry repair, engraving and heirloom restoration at a downtown Palo Alto workshop.",
+      "h1": "Engraving",
+      "kicker": "Jewelry repair & engraving",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "care",
+      "file": "care.astro",
+      "path": "/the-goldsmith-palo-alto/care",
+      "title": "Care — The Goldsmith",
+      "description": "Care at The Goldsmith in Palo Alto: Sizing and shank repair, Engraving and monogramming, Stone setting and repairs. Jewelry repair, engraving and heirloom restoration at a downtown Palo Alto workshop.",
+      "h1": "Care",
+      "kicker": "Jewelry repair & engraving",
+      "sections": [
+        "hero",
+        "services",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/the-goldsmith-palo-alto/contact",
+      "title": "Contact — The Goldsmith",
+      "description": "Call or write to The Goldsmith in Palo Alto. (650) 325-6030",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "visit",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 10,
+    "vis": 5,
+    "vol": 2,
+    "brand": 8,
+    "comp": 6,
+    "val": 8,
+    "assets": 4,
+    "roi": 8
+  },
+  "seo": {
+    "title": "The Goldsmith — Jewelry repair & engraving in Palo Alto",
+    "description": "Jewelry repair, engraving and heirloom restoration at a downtown Palo Alto workshop.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "Store",
+    "name": "The Goldsmith",
+    "description": "Jewelry repair, engraving and heirloom restoration at a downtown Palo Alto workshop.",
+    "phone": "(650) 325-6030",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Palo Alto",
+      "addressRegion": "CA",
+      "postalCode": "94301",
+      "streetAddress": "541 Emerson St"
+    },
+    "sameAs": [
+      "https://www.yellowpages.com/mountain-view-ca/jewelry-repairing"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "A bench, a loupe, and no middle man.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yellowpages.com/mountain-view-ca/jewelry-repairing"
+  ],
+  "sourceNotes": []
+}

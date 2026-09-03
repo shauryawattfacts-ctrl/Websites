@@ -1,0 +1,314 @@
+{
+  "id": "sv011",
+  "slug": "joes-concrete-san-jose",
+  "name": "Joe's Concrete",
+  "short": "Joe's Concrete",
+  "cat": "Concrete",
+  "sub": "Structural, flatwork, driveways",
+  "city": "San Jose",
+  "zip": "95122",
+  "addr": "San Jose, CA 95122",
+  "phone": "(408) 430-8344",
+  "email": null,
+  "contactNote": null,
+  "founded": "1981 (since)",
+  "hours": "Mon–Fri 6:00–17:00, Sat 8:00–16:00, Sun 9:00–15:00",
+  "audience": "Homeowners, GCs, and light commercial across Santa Clara County",
+  "scale": {
+    "emp": "multiple crews (open 7 days)",
+    "loc": 1
+  },
+  "description": "Structural, commercial and residential concrete: flatwork, driveways, stamped and coloured surfaces, retaining walls, equipment pads (including generator pads in Palo Alto) and foundation work. Verified licence badge on Yelp; veterans discount on residential work.",
+  "services": [
+    "Driveways & flatwork",
+    "Stamped & coloured concrete",
+    "Foundations & footings",
+    "Retaining walls & I-beam piles",
+    "Equipment/generator pads",
+    "Repair, grind & seal"
+  ],
+  "serviceCopy": [
+    "Stamped and coloured decorative flatwork.",
+    "Foundations, footings and piles.",
+    "Generator, transformer and equipment pads.",
+    "Repair, grinding and sealing of what exists."
+  ],
+  "insight": "Sunday hours — almost unheard of in concrete, and totally invisible online.",
+  "usps": [
+    "Six-day-plus availability including Sunday",
+    "Structural scope, not just decorative",
+    "40+ years of Bay Area mix-design knowledge in marine/fog climates"
+  ],
+  "differentiators": [
+    "Publishes pour details and cure specs; competitors publish only photos"
+  ],
+  "voice": "Solid, dry humour",
+  "persona": "Forty-five years of flat work",
+  "reputation": {
+    "rating": null,
+    "reviews": 22,
+    "src": "Yelp",
+    "note": "44 reviews aggregate across platforms on related listings; long repeat-contractor relationships implied by GC workflow."
+  },
+  "budget": {
+    "afford": [
+      "Stamped driveways $8K–$25K; structural/commercial pads scale fast",
+      "45 years of operation with 90 photos",
+      "Yelp Guaranteed eligibility indicates account spend"
+    ],
+    "risk": [
+      "Needs an SEO-consistent NAP record first",
+      "Owner-operated: keep CMS extremely simple"
+    ]
+  },
+  "art": {
+    "colors": [
+      "Wet grey",
+      "form-timber",
+      "rebar rust"
+    ],
+    "logo": "Stencil-style lettering",
+    "photoNote": "Finish/detail macros: broom, exposed aggregate, edges, joints"
+  },
+  "copy": {
+    "eyebrow": "San Jose · concrete since 1981",
+    "h1": "Driveways, pads and walls poured for forty-five years of California weather.",
+    "sub": "Structural and decorative concrete with pour specs, cure schedules, and Sunday crews when the weather window is short.",
+    "cta1": "Request a bid",
+    "cta2": "Specs & finishes",
+    "lede": "Concrete is a weather argument. Since 1981 this shop has been winning it in the Bay Area by mixing, placing and curing for our fog, our clay and our permits.",
+    "svcCopy": [
+      "Stamped and coloured decorative flatwork.",
+      "Foundations, footings and piles.",
+      "Generator, transformer and equipment pads.",
+      "Repair, grinding and sealing of what exists."
+    ]
+  },
+  "concept": {
+    "dir": "Formwork-inspired layout: hard rectangles, stencil numerals, spec blocks (psi, thickness, rebar, finish) and a pour-season note.",
+    "palette": {
+      "ink": "#1a1b1a",
+      "paper": "#e8e7e3",
+      "accent": "#b0632e",
+      "accent2": "#5a6c70"
+    },
+    "heroType": "manifesto",
+    "motion": "hard-cut",
+    "interactive": [
+      "Finish gallery with micro-specs per tile",
+      "Bid intake form (plans upload, site photos)",
+      "Coverage/day-of-week availability board",
+      "NAP-consistency footer with licence #"
+    ],
+    "pages": [
+      "index",
+      "services",
+      "finishes",
+      "bid",
+      "contact"
+    ],
+    "nav": [
+      "Services",
+      "Finishes",
+      "Bid",
+      "Firm",
+      "Contact"
+    ],
+    "tone": "Industrial honesty",
+    "refs": "Ready-mix ticket aesthetic.",
+    "signature": "timeline",
+    "hero": "manifesto"
+  },
+  "web": {
+    "s": "basic",
+    "url": "https://joesconcrete.com",
+    "lvl": "B",
+    "note": "Domain listed on Yelp with two different phone numbers across listings (408 430-8344 / 408 430-7951) — a NAP-consistency problem. Site is a thin brochure with no project data, no rebar/finish detail, and no estimate path beyond a form.",
+    "src": [
+      "https://www.yelp.com/biz/joes-concrete-san-jose-3"
+    ],
+    "status": "Extremely outdated or basic website",
+    "confidence": "verified across two or more directories"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/joes-concrete-san-jose-3"
+  },
+  "photo": false,
+  "photoFormats": [],
+  "photoAlt": "Concept artwork for Joe's Concrete — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "industrial-brutalist",
+    "label": "Shop Floor Brutalist",
+    "summary": "Heavy concrete/steel aesthetic: oversized numerals, blueprint rules, stamp-like buttons, horizontal material ticker. Built for fabricators and builders.",
+    "fonts": {
+      "display": "\"Archivo\"",
+      "body": "\"Spline Sans\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Archivo:wght@600;700;800;900&family=Spline+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500",
+    "nav": "bar",
+    "motion": "hard-cut",
+    "tokens": {
+      "ink": "#1a1b1a",
+      "paper": "#e8e7e3",
+      "accent": "#b0632e",
+      "accent2": "#5a6c70",
+      "inkName": "Wet grey",
+      "radius": "2px",
+      "hair": "2px",
+      "border": "2px solid var(--ink)",
+      "shadow": "none",
+      "pad": "clamp(4rem,9vw,8rem)",
+      "scale": "1.32",
+      "headingCase": "uppercase",
+      "track": "-.03em",
+      "texture": "blueprint",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "materials",
+      "services",
+      "capabilities",
+      "specs",
+      "coverage",
+      "proof",
+      "contact"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/joes-concrete-san-jose",
+      "title": "Joe's Concrete — Concrete in San Jose",
+      "description": "Structural and decorative concrete with pour specs, cure schedules, and Sunday crews when the weather window is short.",
+      "h1": "Driveways, pads and walls poured for forty-five years of California weather.",
+      "kicker": "San Jose · concrete since 1981",
+      "sections": [
+        "hero",
+        "materials",
+        "services",
+        "capabilities",
+        "specs",
+        "coverage",
+        "proof",
+        "contact"
+      ]
+    },
+    {
+      "slug": "services",
+      "file": "services.astro",
+      "path": "/joes-concrete-san-jose/services",
+      "title": "Services — Joe's Concrete",
+      "description": "Driveways & flatwork; Stamped & coloured concrete; Foundations & footings; Retaining walls & I-beam piles; Equipment/generator pads; Repair, grind & seal. San Jose based, serving surrounding cities.",
+      "h1": "What we do",
+      "kicker": "Capabilities",
+      "sections": [
+        "hero",
+        "services",
+        "capabilities",
+        "materials",
+        "specs",
+        "contact"
+      ]
+    },
+    {
+      "slug": "finishes",
+      "file": "finishes.astro",
+      "path": "/joes-concrete-san-jose/finishes",
+      "title": "Finishes — Joe's Concrete",
+      "description": "Finishes at Joe's Concrete in San Jose: Driveways & flatwork, Stamped & coloured concrete, Foundations & footings. Structural and decorative concrete with pour specs, cure schedules, and Sunday crews when the weather window is short.",
+      "h1": "Finishes",
+      "kicker": "Concrete",
+      "sections": [
+        "hero",
+        "services",
+        "proof",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "bid",
+      "file": "bid.astro",
+      "path": "/joes-concrete-san-jose/bid",
+      "title": "Bid — Joe's Concrete",
+      "description": "Bid at Joe's Concrete in San Jose: Driveways & flatwork, Stamped & coloured concrete, Foundations & footings. Structural and decorative concrete with pour specs, cure schedules, and Sunday crews when the weather window is short.",
+      "h1": "Bid",
+      "kicker": "Concrete",
+      "sections": [
+        "hero",
+        "coverage",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/joes-concrete-san-jose/contact",
+      "title": "Contact — Joe's Concrete",
+      "description": "Call or write to Joe's Concrete in San Jose. (408) 430-8344",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "coverage",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 7,
+    "gap": 7,
+    "vis": 5,
+    "vol": 5,
+    "brand": 7,
+    "comp": 6,
+    "val": 8,
+    "assets": 6,
+    "roi": 8
+  },
+  "seo": {
+    "title": "Joe's Concrete — Concrete in San Jose",
+    "description": "Structural and decorative concrete with pour specs, cure schedules, and Sunday crews when the weather window is short.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "name": "Joe's Concrete",
+    "description": "Structural and decorative concrete with pour specs, cure schedules, and Sunday crews when the weather window is short.",
+    "phone": "(408) 430-8344",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95122"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/joes-concrete-san-jose-3"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "Driveways, pads and walls poured for forty-five years of California weather.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "https://www.yelp.com/biz/joes-concrete-san-jose-3"
+  ],
+  "sourceNotes": []
+}

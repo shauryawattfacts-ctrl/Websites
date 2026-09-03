@@ -1,0 +1,345 @@
+{
+  "id": "sv035",
+  "slug": "dg-floor-coverings-redwood-city",
+  "name": "DG Floor Coverings Inc.",
+  "short": "DG Floor Coverings",
+  "cat": "Flooring",
+  "sub": "Hardwood, showroom, third generation",
+  "city": "Redwood City",
+  "zip": "94063",
+  "addr": "2501 Spring St, Redwood City, CA 94063",
+  "phone": "(650) 299-1676",
+  "email": null,
+  "contactNote": null,
+  "founded": "1982",
+  "hours": "Mon-Fri showroom, Sat morning",
+  "audience": "Peninsula homeowners, designers and remodel GCs",
+  "scale": {
+    "emp": "owners, sons and install crews",
+    "loc": 1
+  },
+  "description": "Third-generation flooring company on Spring Street: a working showroom plus sanding, refinishing and installation, run by Dennis Gasper with his sons Shaun and Chad.",
+  "services": [
+    "Solid and engineered hardwood",
+    "Sand and refinish with dust control",
+    "Wide-plank and character grades",
+    "Stair and threshold details",
+    "Carpet, LVP and tile sourcing",
+    "Design selection with a sample library"
+  ],
+  "serviceCopy": [
+    "Species, grade and width, explained.",
+    "Site finishing that survives the Bay Area.",
+    "Sand and refinish with dust control.",
+    "Sample library and design help."
+  ],
+  "insight": "Features on wide-plank flooring publications and design sites exist and are unlinked from their own domain.",
+  "usps": [
+    "Third-generation family firm since 1982",
+    "A physical showroom and sample library",
+    "Finished for publications, not just customers"
+  ],
+  "differentiators": [
+    "Publishes grade, width and finish decisions as a real material guide instead of a catalogue"
+  ],
+  "voice": "Wood-shop plain, proud of grain",
+  "persona": "The Peninsula floor people",
+  "reputation": {
+    "rating": null,
+    "reviews": 29,
+    "src": "Yelp",
+    "note": "Solid review base for a four-decade showroom; scores not captured - confirm before publishing any aggregate markup."
+  },
+  "budget": {
+    "afford": [
+      "Whole-house flooring projects run $15K-$80K with showroom-driven upsell",
+      "A leased Redwood City showroom with three generations of inventory",
+      "Editorial features elsewhere prove the product story sells"
+    ],
+    "risk": [
+      "Domain and hosting hygiene is urgent (temp-domain serving, typos)",
+      "Owner-run: the design must survive no maintenance for a year"
+    ]
+  },
+  "art": {
+    "colors": [
+      "White oak",
+      "oil finish",
+      "sawblade grey"
+    ],
+    "logo": "Rebuild the DG mark as a plank-end monogram",
+    "photoNote": "Samples on bench, dust-containment, installed runs, showroom"
+  },
+  "copy": {
+    "eyebrow": "Redwood City · since 1982",
+    "h1": "Forty-three years of floors, on a website from 2015.",
+    "sub": "Hardwood sales, sanding and installation from the family showroom on Spring Street - Dennis, Shaun and Chad.",
+    "cta1": "Book a showroom visit",
+    "cta2": "Wood species guide",
+    "lede": "DG Floor Coverings has installed floors across the peninsula since 1982 and has been written up in flooring magazines. Its website still shows a spelling mistake in the page title and files served from a temporary host.",
+    "svcCopy": [
+      "Species, grade and width, explained.",
+      "Site finishing that survives the Bay Area.",
+      "Sand and refinish with dust control.",
+      "Sample library and design help."
+    ]
+  },
+  "concept": {
+    "dir": "Showroom-as-library: material cards with grain photography, a species and finish comparison tool, sample-request flow, and a project index. Warm paper, wood-texture rules, honest error-free chrome.",
+    "palette": {
+      "ink": "#221c16",
+      "paper": "#f5efe6",
+      "accent": "#9a6236",
+      "accent2": "#40584a"
+    },
+    "heroType": "editorial",
+    "motion": "wipe-reveal",
+    "interactive": [
+      "Material swatch grid with hover grain detail",
+      "Species comparison table (hardness, width, finish)",
+      "Sample box request form",
+      "Project index with rooms and years"
+    ],
+    "pages": [
+      "index",
+      "materials",
+      "projects",
+      "refinish",
+      "sample",
+      "contact"
+    ],
+    "nav": [
+      "Materials",
+      "Projects",
+      "Refinishing",
+      "Samples",
+      "Contact"
+    ],
+    "tone": "Craft, no gloss",
+    "refs": "A wood merchant catalogue for homeowners.",
+    "signature": "ledger",
+    "hero": "editorial"
+  },
+  "web": {
+    "s": "broken",
+    "url": "http://dgfloorcoverings.com",
+    "lvl": "A",
+    "note": "Audited live: pages still served from a temp-domains path (box5292.temp.domains/~dgfloorc), the title tag reads Hardwood Fooring Contractors, a nav item reads Many Opions, and uploads date to 2015. It is a real business on a half-dead server.",
+    "src": [
+      "http://dgfloorcoverings.com",
+      "https://www.yelp.com/biz/dg-floor-coverings-inc-redwood-city"
+    ],
+    "status": "Broken / inactive website",
+    "confidence": "verified against a live source"
+  },
+  "profiles": {
+    "yelp": "https://www.yelp.com/biz/dg-floor-coverings-inc-redwood-city",
+    "other": [
+      "https://www.wideplankflooring.com",
+      "https://www.designingspaces.com"
+    ]
+  },
+  "photo": true,
+  "photoFormats": [
+    "avif",
+    "webp",
+    "jpg"
+  ],
+  "photoAlt": "Concept artwork for DG Floor Coverings Inc. — generated design direction, not a photograph of the premises",
+  "design": {
+    "system": "retail-showroom",
+    "label": "Showroom Index",
+    "summary": "Catalogue-thinking: swatch rail, filterable product index, brand marquee, visit-the-showroom CTA, spec rows per material.",
+    "fonts": {
+      "display": "\"Space Grotesk\"",
+      "body": "\"Inter\"",
+      "mono": "\"IBM Plex Mono\""
+    },
+    "google": "Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400",
+    "nav": "utility",
+    "motion": "wipe-reveal",
+    "tokens": {
+      "ink": "#221c16",
+      "paper": "#f5efe6",
+      "accent": "#9a6236",
+      "accent2": "#40584a",
+      "inkName": "White oak",
+      "radius": "8px",
+      "hair": "1px",
+      "border": "1px solid color-mix(in srgb, var(--ink) 16%, transparent)",
+      "shadow": "0 16px 34px -26px rgb(20 20 30 / .5)",
+      "pad": "clamp(3.6rem,8vw,6.8rem)",
+      "scale": "1.22",
+      "headingCase": "none",
+      "track": "-.018em",
+      "texture": "grid",
+      "invert": false
+    },
+    "roster": [
+      "hero",
+      "swatches",
+      "collections",
+      "brands",
+      "process",
+      "visit",
+      "reviews",
+      "services"
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "file": "index.astro",
+      "path": "/dg-floor-coverings-redwood-city",
+      "title": "DG Floor Coverings Inc. — Flooring in Redwood City",
+      "description": "Hardwood sales, sanding and installation from the family showroom on Spring Street - Dennis, Shaun and Chad.",
+      "h1": "Forty-three years of floors, on a website from 2015.",
+      "kicker": "Redwood City · since 1982",
+      "sections": [
+        "hero",
+        "swatches",
+        "collections",
+        "brands",
+        "process",
+        "visit",
+        "reviews",
+        "services"
+      ]
+    },
+    {
+      "slug": "materials",
+      "file": "materials.astro",
+      "path": "/dg-floor-coverings-redwood-city/materials",
+      "title": "Materials — DG Floor Coverings Inc.",
+      "description": "Materials at DG Floor Coverings in Redwood City: Solid and engineered hardwood, Sand and refinish with dust control, Wide-plank and character grades. Hardwood sales, sanding and installation from the family showroom on Spring Street - Dennis, Shaun and Chad.",
+      "h1": "Materials",
+      "kicker": "Flooring",
+      "sections": [
+        "hero",
+        "services",
+        "collections",
+        "swatches",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "projects",
+      "file": "projects.astro",
+      "path": "/dg-floor-coverings-redwood-city/projects",
+      "title": "Projects — DG Floor Coverings Inc.",
+      "description": "Projects at DG Floor Coverings in Redwood City: Solid and engineered hardwood, Sand and refinish with dust control, Wide-plank and character grades. Hardwood sales, sanding and installation from the family showroom on Spring Street - Dennis, Shaun and Chad.",
+      "h1": "Projects",
+      "kicker": "Flooring",
+      "sections": [
+        "hero",
+        "reviews",
+        "contact"
+      ]
+    },
+    {
+      "slug": "refinish",
+      "file": "refinish.astro",
+      "path": "/dg-floor-coverings-redwood-city/refinish",
+      "title": "Refinish — DG Floor Coverings Inc.",
+      "description": "Refinish at DG Floor Coverings in Redwood City: Solid and engineered hardwood, Sand and refinish with dust control, Wide-plank and character grades. Hardwood sales, sanding and installation from the family showroom on Spring Street - Dennis, Shaun and Chad.",
+      "h1": "Refinish",
+      "kicker": "Flooring",
+      "sections": [
+        "hero",
+        "services",
+        "process",
+        "contact"
+      ]
+    },
+    {
+      "slug": "sample",
+      "file": "sample.astro",
+      "path": "/dg-floor-coverings-redwood-city/sample",
+      "title": "Sample — DG Floor Coverings Inc.",
+      "description": "Sample at DG Floor Coverings in Redwood City: Solid and engineered hardwood, Sand and refinish with dust control, Wide-plank and character grades. Hardwood sales, sanding and installation from the family showroom on Spring Street - Dennis, Shaun and Chad.",
+      "h1": "Sample",
+      "kicker": "Flooring",
+      "sections": [
+        "hero",
+        "process",
+        "visit",
+        "contact"
+      ]
+    },
+    {
+      "slug": "contact",
+      "file": "contact.astro",
+      "path": "/dg-floor-coverings-redwood-city/contact",
+      "title": "Contact — DG Floor Coverings Inc.",
+      "description": "Call or write to DG Floor Coverings Inc. in Redwood City. (650) 299-1676",
+      "h1": "Get in touch",
+      "kicker": "Contact",
+      "sections": [
+        "hero",
+        "process",
+        "visit",
+        "contact"
+      ]
+    }
+  ],
+  "score_input": {
+    "aff": 8,
+    "gap": 10,
+    "vis": 6,
+    "vol": 6,
+    "brand": 8,
+    "comp": 6,
+    "val": 9,
+    "assets": 7,
+    "roi": 9
+  },
+  "seo": {
+    "title": "DG Floor Coverings Inc. — Flooring in Redwood City",
+    "description": "Hardwood sales, sanding and installation from the family showroom on Spring Street - Dennis, Shaun and Chad.",
+    "ogType": "website",
+    "twitter": "summary_large_image"
+  },
+  "schema": {
+    "type": "Store",
+    "name": "DG Floor Coverings Inc.",
+    "description": "Hardwood sales, sanding and installation from the family showroom on Spring Street - Dennis, Shaun and Chad.",
+    "phone": "(650) 299-1676",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Redwood City",
+      "addressRegion": "CA",
+      "postalCode": "94063",
+      "streetAddress": "2501 Spring St"
+    },
+    "sameAs": [
+      "https://www.yelp.com/biz/dg-floor-coverings-inc-redwood-city",
+      "https://www.wideplankflooring.com",
+      "https://www.designingspaces.com"
+    ],
+    "opening": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "08:00",
+        "closes": "17:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      }
+    ],
+    "slogan": "Forty-three years of floors, on a website from 2015.",
+    "currenciesAccepted": "USD",
+    "priceRange": "$$$"
+  },
+  "sources": [
+    "http://dgfloorcoverings.com",
+    "https://www.yelp.com/biz/dg-floor-coverings-inc-redwood-city",
+    "https://www.wideplankflooring.com",
+    "https://www.designingspaces.com"
+  ],
+  "sourceNotes": []
+}
