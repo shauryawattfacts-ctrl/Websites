@@ -31,15 +31,15 @@ its schema markup and its entry in the sales register all move together.
 | # | Business | City | Category | Website state | Score |
 |---|---|---|---|---|---|
 | 1 | G&C Auto Body | San Jose | Auto body & collision | Only social-media presence | 95.7 S |
-| 2 | Chapel of Flowers Funeral Home | San Jose | Funeral home | Broken / inactive | 85.7 S |
-| 3 | BT Properties | Redwood City | Property management | Extremely outdated (2015 WP media) | 85.2 S |
-| 4 | Elegant Jewelers | San Jose | Jewellery repairs | Directory subdomain (JewelersShowcase) | 85.2 S |
-| 5 | EJ Painting Inc. | Santa Clara | Painting | No website | 84.7 S |
-| 6 | Steel Werx | Santa Clara | Fabrication / machining | Extremely outdated | 84.1 S |
-| 7 | Trio School of Music, Dance & Languages | Sunnyvale | School | No website | 83.8 S |
-| 8 | DG Floor Coverings Inc. | Redwood City | Flooring | Broken (stale dev host) | 82.3 S |
-| 9 | American Heritage Construction | Redwood City | General contractor | Directory page only | 81.8 A |
-| 10 | Robert M. Potts Landscape Design | Los Altos | Landscape design-build | Broken / parked | 81.8 A |
+| 2 | Chapel of Flowers Funeral Home | San Jose | Funeral home | Broken / inactive website | 85.7 S |
+| 3 | BT Properties | Mountain View | Property management | Extremely outdated or basic website | 85.2 S |
+| 4 | Elegant Jewelers | San Jose | Jewelry | Third-party directory page instead of a website | 85.2 S |
+| 5 | EJ Painting Inc. | Menlo Park | Painting & finishing | No website | 84.7 S |
+| 6 | Steel Werx | Santa Clara | Metal fabrication | Extremely outdated or basic website | 84.1 S |
+| 7 | Trio School of Music, Dance & Languages | Sunnyvale | Private school | No website | 83.8 S |
+| 8 | DG Floor Coverings Inc. | Redwood City | Flooring | Broken / inactive website | 82.3 S |
+| 9 | American Heritage Construction | Redwood City | General contractor | Third-party directory page instead of a website | 81.8 A |
+| 10 | Robert M. Potts Landscape Design & Construction | Los Altos | Landscape design-build | Broken / inactive website | 81.8 A |
 
 ## Run it
 
